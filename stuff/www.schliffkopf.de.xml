@@ -1,0 +1,1783 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<site:site xmlns:site = "http://xmlns.webmaking.ms/site/" xmlns:content = "http://xmlns.webmaking.ms/content/"><site:env><site:vars><php_self><![CDATA[/?wmms[output]=xml]]></php_self>
+<dev>no</dev>
+<url_action>/de/</url_action>
+<session_name>PHPSESSID</session_name>
+<session_id>f0v7cukjlca0bla73k2fhjsmo5</session_id>
+</site:vars>
+<site:user-agent name = "chrome" version = "52" os = "windows" language = "de" country = "de"></site:user-agent>
+</site:env>
+<site:tao><unique>2921194284</unique>
+<session_hash>b5471dcaa98eeddc5015233fc709f6d8</session_hash>
+<content:tao-pixel-conversion-dynamic><content:misc-service-google-adwords-conversion name = "Google Adwords Conversion" account = "1007063304" label = "mfChCOiW0wIQiKKa4AM" misc = "" id = "1051"></content:misc-service-google-adwords-conversion>
+<content:misc-service-google-adwords-remarketing name = "Google Adwords Remarketing" account = "1007063304" label = "LezvCMCe3AIQiKKa4AM" misc = "" id = "1070"></content:misc-service-google-adwords-remarketing>
+<content:misc-service-google-adwords-conversion name = "Google Adwords Conversion" account = "996851859" label = "6SK8CJ2yxwQQk4Gr2wM" misc = "" id = "1225"></content:misc-service-google-adwords-conversion>
+<content:misc-service-google-adwords-remarketing name = "Google Adwords Remarketing" account = "996851859" label = "AWu5CLWS1AQQk4Gr2wM" misc = "" id = "1244"></content:misc-service-google-adwords-remarketing>
+<content:misc-service-google-analytics-universal-track name = "Google Analytics Universal Tracking" account = "UA-50027974-1" label = "" misc = "" id = "1603"><conversion-types><conversion-type type = "1" value = "81"></conversion-type>
+<conversion-type type = "4" value = "81"></conversion-type>
+<conversion-type type = "22" value = "81"></conversion-type>
+<conversion-type type = "23" value = "81"></conversion-type>
+<conversion-type type = "2" value = "0"></conversion-type>
+<conversion-type type = "24" value = "0"></conversion-type>
+</conversion-types>
+</content:misc-service-google-analytics-universal-track>
+<content:misc-service-facebook-audience name = "Facebook Custom Audiences" account = "461554530718829" label = "" misc = "" id = "2138"></content:misc-service-facebook-audience>
+<content:misc-service-facebook-conversion name = "Facebook Conversion" account = "461554530718829" label = "" misc = "" id = "2176"></content:misc-service-facebook-conversion>
+</content:tao-pixel-conversion-dynamic>
+</site:tao>
+<site:optimizer></site:optimizer>
+<site:software name = "Condeon" revision = "1.6.5" db-connected = "yes" db-master = "no"></site:software>
+<site:tree><menu id = "129253" struct = "66303" struct-pid = "0" module = "5" url = "/de/" title = "Wellness &amp; Natur-Hotel Schliffkopf" keywords = "Hotel in der Natur, Wellness Schwarzwald, Wellnesshotel Baiersbronn, Wellnesshotel Schwarzwald" page-title = "Wellnesshotel &amp; Restaurant im Schwarzwald" description = "Das 4*S Wellnesshotel auf 1.025 Höhenmeter lädt zu top Wellness im Schwarzwald ein. Wir schaffen für Sie den perfekten Ort für Wohlsein &amp; Regeneration" target = "0" level = "0" state = "n" l = "19" ls = "76" vstate = "active"><menu-item id = "129254" struct = "66304" struct-pid = "66303" module = "5" url-name = "hotel-schliffkopf" url = "/de/hotel-schliffkopf/" keywords = "Naturhotel, Wellnesshotel Baden Württemberg" page-title = "4*S Wellnesshotel in Baden-Württemberg" description = "Kommen Sie auf den Gipfel der Erholung im mehrfach ausgezeichneten Wellness- und Naturhotel auf dem Schliffkopf im Herzen des Schwarzwalds! Entspannung pur ..." target = "0">Hotel Schliffkopf</menu-item>
+<menu-item id = "129257" struct = "66307" struct-pid = "66303" module = "5" url-name = "zimmer-preise" url = "/de/zimmer-preise/" keywords = "" page-title = "Zimmer, Suiten und Preise" description = "Im Schliffkopf  Wellnesshotel so richtig entspannen &amp; anschließend in unseren Zimmern den 4*-Luxus inkl. Verwöhncharakter genießen. Wir sind mehr als ein Spa!" target = "0">Zimmer &amp; Preise</menu-item>
+<menu-item id = "130952" struct = "67041" struct-pid = "66303" module = "5" url-name = "bergspa" url = "/de/bergspa/" keywords = "Spa Hotel Schwarzwald, 4 Sterne Superior Schwarzwald, Bergspa" page-title = "SPA Hotel im Schwarzwald auf 1.025 m" description = "Im BergSpa des 4 Sterne superior Schwarzwald-Hotels zählt nur Ihr Wohlbefinden! ✔Hallenbad &amp; Außenpool ✔Saunen ✔Beauty ✔ Gesundheit, Fitness &amp; Naturheilpraxis" target = "0">BergSPA</menu-item>
+<menu-item id = "130953" struct = "67042" struct-pid = "66303" module = "5" url-name = "kulinarik" url = "/de/kulinarik/" keywords = "Genusshotel, Genusshotel Schwarzwald" page-title = "Genießen im Genusshotel im Schwarzwald" description = "Ob Gourmetgericht oder Schwarzwälder Schmankerln, ob leichte Küche oder Verführerisches: im Genusshotel Schliffkoff schmeckts! Mit Naturpark-Wirte-Küche ..." target = "0">Kulinarik</menu-item>
+<menu-item id = "222801" struct = "123502" struct-pid = "66303" module = "5" url-name = "aktiv-vital" url = "/de/aktiv-vital/" keywords = "Aktiv, Vital, Fitness, WohlFit, Nordic-Walking, E-Bike, Schneeschuhlaufen, Langlauf, Skigebiete, Schlitten fahren, Sommer, Winter" page-title = "Ihr Schwarzwaldhotel aktiv &amp; vital" description = "Unser Schwarzwaldhotel lädt Sie zum 4*S Aktivurlaub im Nord-Schwarzwald ein: geführte Wanderungen und E-Bike-Touren, Schneeschuhausflüge, Skifahren ..." target = "0">Aktiv &amp; Vital</menu-item>
+<menu-item id = "130955" struct = "67044" struct-pid = "66303" module = "5" url-name = "service" url = "/de/service/" keywords = "" page-title = "Service" description = "Hier finden Sie: Lage &amp; Anfahrt, Gutscheine sowie den aktuellen Wetterbericht &amp; unseren Pressebereich. Schenken Sie sich Freude mit einem Schliffkopf-Gutschein!" target = "0">Service</menu-item>
+</menu>
+<menu id = "129254" struct = "66304" struct-pid = "66303" module = "5" url = "/de/hotel-schliffkopf/" title = "Hotel Schliffkopf" keywords = "Naturhotel, Wellnesshotel Baden Württemberg" page-title = "4*S Wellnesshotel in Baden-Württemberg" description = "Kommen Sie auf den Gipfel der Erholung im mehrfach ausgezeichneten Wellness- und Naturhotel auf dem Schliffkopf im Herzen des Schwarzwalds! Entspannung pur ..." target = "0" level = "unknown" state = "start-level" l = "13" ls = "31"><menu-item id = "129255" struct = "66305" struct-pid = "66304" module = "5" url-name = "familie-fahrner-team" url = "/de/hotel-schliffkopf/familie-fahrner-team/" keywords = "" page-title = "" description = "" target = "0">Gastgeber</menu-item>
+<menu-item id = "129256" struct = "66306" struct-pid = "66304" module = "5" url-name = "tradition" url = "/de/hotel-schliffkopf/tradition/" keywords = "" page-title = "" description = "" target = "0">Tradition</menu-item>
+<menu-item id = "130957" struct = "67046" struct-pid = "66304" module = "5" url-name = "bildergalerie" url = "/de/hotel-schliffkopf/bildergalerie/" keywords = "" page-title = "" description = "" target = "0">Bildergalerie</menu-item>
+</menu>
+<menu id = "129257" struct = "66307" struct-pid = "66303" module = "5" url = "/de/zimmer-preise/" title = "Zimmer &amp; Preise" keywords = "" page-title = "Zimmer, Suiten und Preise" description = "Im Schliffkopf  Wellnesshotel so richtig entspannen &amp; anschließend in unseren Zimmern den 4*-Luxus inkl. Verwöhncharakter genießen. Wir sind mehr als ein Spa!" target = "0" level = "unknown" state = "start-level" l = "24" ls = "78"><menu-item id = "130960" struct = "67049" struct-pid = "66307" module = "5" url-name = "inklusivleistungen" url = "/de/zimmer-preise/inklusivleistungen/" keywords = "" page-title = "" description = "" target = "0">Inklusivleistungen</menu-item>
+<menu-item id = "130959" struct = "67048" struct-pid = "66307" module = "5" url-name = "arrangements" url = "/de/zimmer-preise/arrangements/" keywords = "" page-title = "" description = "" target = "0">Arrangements</menu-item>
+<menu-item id = "215273" struct = "117068" struct-pid = "66307" module = "5" url-name = "preise" url = "/de/zimmer-preise/preise/" keywords = "Kinderpreise, Garage, Kurtraxe, Haustiere, Rosa Zeiten, Vergünstigungen" page-title = "" description = "" target = "0">Zusatzleistungen</menu-item>
+<menu-item id = "181164" struct = "93454" struct-pid = "66307" module = "5" url-name = "tagungen" url = "/de/zimmer-preise/tagungen/" keywords = "Tagungen auf dem Schliffkopf im Nationalpark Schwarzwald" page-title = "Tagungen im Nationalpark-Hotel Schliffkopf" description = "Tagen in 1.025m über dem Alltag. Genießen Sie ein unvergessliches Ambiente, umgeben von der Natur des Nationalparks Schwarzwald. " target = "0">Tagungen</menu-item>
+<menu-item id = "131044" struct = "67128" struct-pid = "66307" module = "5" url-name = "katalog" url = "/de/zimmer-preise/katalog/" keywords = "" page-title = "" description = "" target = "0">Katalog &amp; Preisliste</menu-item>
+</menu>
+<menu id = "130952" struct = "67041" struct-pid = "66303" module = "5" url = "/de/bergspa/" title = "BergSPA" keywords = "Spa Hotel Schwarzwald, 4 Sterne Superior Schwarzwald, Bergspa" page-title = "SPA Hotel im Schwarzwald auf 1.025 m" description = "Im BergSpa des 4 Sterne superior Schwarzwald-Hotels zählt nur Ihr Wohlbefinden! ✔Hallenbad &amp; Außenpool ✔Saunen ✔Beauty ✔ Gesundheit, Fitness &amp; Naturheilpraxis" target = "0" level = "unknown" state = "start-level" l = "22" ls = "79"><menu-item id = "199444" struct = "104242" struct-pid = "67041" module = "5" url-name = "kosmetik-massage" url = "/de/bergspa/kosmetik-massage/" keywords = "" page-title = "" description = "" target = "0">Kosmetik &amp; Massage</menu-item>
+<menu-item id = "139306" struct = "71643" struct-pid = "67041" module = "5" url-name = "hamam-rituale" url = "/de/bergspa/hamam-rituale/" keywords = "" page-title = "" description = "" target = "0">Hamam &amp; Rituale</menu-item>
+<menu-item id = "192240" struct = "99851" struct-pid = "67041" module = "5" url-name = "sanftes-wasser" url = "/de/bergspa/sanftes-wasser/" keywords = "Sanftes Wasser, Nationalpark-Hotel Schliffkopf, BergSpa" page-title = "Sanftes Wasser im Nationalpark-Hotel Schliffkopf" description = "" target = "0">Sanftes Wasser</menu-item>
+<menu-item id = "130962" struct = "67051" struct-pid = "67041" module = "5" url-name = "dayspa" url = "/de/bergspa/dayspa/" keywords = "" page-title = "" description = "" target = "0">DaySpa</menu-item>
+<menu-item id = "224275" struct = "124515" struct-pid = "67041" module = "5" url-name = "package" url = "/de/bergspa/package/" keywords = "" page-title = "" description = "" target = "0">Angebote</menu-item>
+<menu-item id = "199440" struct = "104238" struct-pid = "67041" module = "5" url-name = "ueberblick" url = "/de/bergspa/ueberblick/" keywords = "" page-title = "" description = "" target = "0">Überblick</menu-item>
+</menu>
+<menu id = "130953" struct = "67042" struct-pid = "66303" module = "5" url = "/de/kulinarik/" title = "Kulinarik" keywords = "Genusshotel, Genusshotel Schwarzwald" page-title = "Genießen im Genusshotel im Schwarzwald" description = "Ob Gourmetgericht oder Schwarzwälder Schmankerln, ob leichte Küche oder Verführerisches: im Genusshotel Schliffkoff schmeckts! Mit Naturpark-Wirte-Küche ..." target = "0" level = "unknown" state = "start-level" l = "15" ls = "53"><menu-item id = "130966" struct = "67055" struct-pid = "67042" module = "5" url-name = "restaurants" url = "/de/kulinarik/restaurants/" keywords = "" page-title = "Unsere Restaurants im Schwarzwald" description = "" target = "0">Restaurants</menu-item>
+<menu-item id = "159397" struct = "81129" struct-pid = "67042" module = "5" url-name = "speisenkarten" url = "/de/kulinarik/speisenkarten/" keywords = "Speisekarte" page-title = "Speisenkarte | Kulinarik - Hotel Schliffkopf Schwarzwald" description = "Sehen Sie hier, was unser Küchenteam aus regionalen Produkten zaubert - ob exklusive 5-Gang-Abendmenüs oder leichte Wellness-Menüs." target = "0">Speisekarten</menu-item>
+<menu-item id = "184166" struct = "95130" struct-pid = "67042" module = "5" url-name = "getraenkekarten" url = "/de/kulinarik/getraenkekarten/" keywords = "Getränkekarte, Weinkarte, Nationalpark-Hotel Schliffkopf" page-title = "Wein- und Getränkekarte " description = "Unsere Weinempfehlungen zum Essen und unsere Getränkekarte " target = "0">Getränkekarten</menu-item>
+<menu-item id = "130967" struct = "67056" struct-pid = "67042" module = "5" url-name = "feierlichkeiten" url = "/de/kulinarik/feierlichkeiten/" keywords = "" page-title = "Ihre Feier im Schwarzwald" description = "" target = "0">Feierlichkeiten</menu-item>
+</menu>
+<menu id = "222801" struct = "123502" struct-pid = "66303" module = "5" url = "/de/aktiv-vital/" title = "Aktiv &amp; Vital" keywords = "Aktiv, Vital, Fitness, WohlFit, Nordic-Walking, E-Bike, Schneeschuhlaufen, Langlauf, Skigebiete, Schlitten fahren, Sommer, Winter" page-title = "Ihr Schwarzwaldhotel aktiv &amp; vital" description = "Unser Schwarzwaldhotel lädt Sie zum 4*S Aktivurlaub im Nord-Schwarzwald ein: geführte Wanderungen und E-Bike-Touren, Schneeschuhausflüge, Skifahren ..." target = "0" level = "unknown" state = "start-level" l = "9" ls = "29"><menu-item id = "222802" struct = "123503" struct-pid = "123502" module = "5" url-name = "sommer" url = "/de/aktiv-vital/sommer/" keywords = "" page-title = "" description = "" target = "0">Sommer</menu-item>
+<menu-item id = "222848" struct = "123506" struct-pid = "123502" module = "5" url-name = "fitness" url = "/de/aktiv-vital/fitness/" keywords = "Fitness, Kraftraum, Training, " page-title = "" description = "" target = "0">Fitness</menu-item>
+<menu-item id = "222849" struct = "123507" struct-pid = "123502" module = "5" url-name = "wohlfit" url = "/de/aktiv-vital/wohlfit/" keywords = "Fitnesstrainer, Sportprogramm, Wassergymnastik, Yoga, E-Bike-Touren" page-title = "" description = "" target = "0">WohlFit</menu-item>
+<menu-item id = "222850" struct = "123508" struct-pid = "123502" module = "5" url-name = "ausfluege" url = "/de/aktiv-vital/ausfluege/" keywords = "" page-title = "Ausflugstipps in Schwarzwald &amp; Region" description = "Mummelsee, Klosterruine Allerheiligen, Bärenpark, Golfplätze, Baden-Baden und vieles mehr: Unsere Ausflugstipps für den Schwarzwald und die Region." target = "0">Ausflüge</menu-item>
+</menu>
+<menu id = "130955" struct = "67044" struct-pid = "66303" module = "5" url = "/de/service/" title = "Service" keywords = "" page-title = "Service" description = "Hier finden Sie: Lage &amp; Anfahrt, Gutscheine sowie den aktuellen Wetterbericht &amp; unseren Pressebereich. Schenken Sie sich Freude mit einem Schliffkopf-Gutschein!" target = "0" level = "unknown" state = "start-level" l = "21" ls = "89"><menu-item id = "130972" struct = "67061" struct-pid = "67044" module = "5" url-name = "lage-anfahrt" url = "/de/service/lage-anfahrt/" keywords = "hotels schwarzwaldhochstraße" page-title = "Top-Hotel an der Schwarzwaldhochstraße" description = "Eine der schönsten Ferienstraßen Deutschlands bringt Sie zum Schliffkopf, einem der schönsten Hotels an der Schwarzwaldhochstraße. Panoramaausblicke inklusive." target = "0">Lage &amp; Anfahrt</menu-item>
+<menu-item id = "130973" struct = "67062" struct-pid = "67044" module = "5" url-name = "wetter" url = "/de/service/wetter/" keywords = "" page-title = "Wetter und Webcam in Baiersbronn im Schwarzwald" description = "" target = "0">Wetter / Webcam</menu-item>
+<menu-item id = "130977" struct = "67066" struct-pid = "67044" module = "5" url-name = "schliffkopf-stammgast" url = "/de/service/schliffkopf-stammgast/" keywords = "" page-title = "" description = "" target = "0">Schliffkopf-Stammgast</menu-item>
+<menu-item id = "205914" struct = "108433" struct-pid = "67044" module = "5" url-name = "gipfeltanne" url = "/de/service/gipfeltanne/" keywords = "" page-title = "" description = "Freunde werben Freunde, Gipfeltanne, Dankeschön" target = "0">Freunde werben</menu-item>
+<menu-item id = "130974" struct = "67063" struct-pid = "67044" module = "5" url-name = "pressebereich" url = "/de/service/pressebereich/" keywords = "" page-title = "" description = "" target = "0">Pressebereich</menu-item>
+<menu-item id = "130976" struct = "67065" struct-pid = "67044" module = "5" url-name = "stellenangebote" url = "/de/service/stellenangebote/" keywords = "" page-title = "" description = "" target = "0">Karriere</menu-item>
+</menu>
+<menu id = "129255" struct = "66305" struct-pid = "66304" module = "5" url = "/de/hotel-schliffkopf/familie-fahrner-team/" title = "Gastgeber" keywords = "" page-title = "" description = "" target = "0" level = "unknown" state = "start-level" l = "0" ls = "0"></menu>
+<menu id = "129256" struct = "66306" struct-pid = "66304" module = "5" url = "/de/hotel-schliffkopf/tradition/" title = "Tradition" keywords = "" page-title = "" description = "" target = "0" level = "unknown" state = "start-level" l = "0" ls = "0"></menu>
+<menu id = "130957" struct = "67046" struct-pid = "66304" module = "5" url = "/de/hotel-schliffkopf/bildergalerie/" title = "Bildergalerie" keywords = "" page-title = "" description = "" target = "0" level = "unknown" state = "start-level" l = "0" ls = "0"></menu>
+<menu id = "130960" struct = "67049" struct-pid = "66307" module = "5" url = "/de/zimmer-preise/inklusivleistungen/" title = "Inklusivleistungen" keywords = "" page-title = "" description = "" target = "0" level = "unknown" state = "start-level" l = "0" ls = "0"></menu>
+<menu id = "130959" struct = "67048" struct-pid = "66307" module = "5" url = "/de/zimmer-preise/arrangements/" title = "Arrangements" keywords = "" page-title = "" description = "" target = "0" level = "unknown" state = "start-level" l = "38" ls = "114"><menu-item id = "130982" struct = "67071" struct-pid = "67048" module = "5" url-name = "aktiv" url = "/de/zimmer-preise/arrangements/aktiv/" keywords = "Schliffkopf Aktiv, Schwarzwald, Nationalpark Schwarzwald, Pilates, Salsa" page-title = "Schliffkopf Aktiv &amp; Vital Angebote" description = "Aktiv &amp; Vital im Nationalpark Schwarzwald mit den Schliffkopf Aktiv-und Vital Angeboten" target = "0">Aktiv &amp; Vital</menu-item>
+<menu-item id = "202565" struct = "106165" struct-pid = "67048" module = "5" url-name = "rund-ums-jahr" url = "/de/zimmer-preise/arrangements/rund-ums-jahr/" keywords = "Afrikawochenende, Grindenwochenende, Grindenfest, Wohlfühlwochenende" page-title = "" description = "Erleben Sie ein Wochenende mit spannenden Geschichten von Matto Barfuß Erleben Sie besondere kulinarische Highlights im Nationalpark-Hotel Schliffkopf und lassen Sie sich verwöhnen " target = "0">Rund ums Jahr</menu-item>
+<menu-item id = "205622" struct = "108284" struct-pid = "67048" module = "5" url-name = "jubilaeums-angebote" url = "/de/zimmer-preise/arrangements/jubilaeums-angebote/" keywords = "" page-title = "Jubiläums-Angebote" description = "Jubiläum, 25 Jahre Wellness, Nationalpark Hotel Schliffkopf, BergSPA, Familie Fahrner" target = "0">Jubiläums-Angebote</menu-item>
+<menu-item id = "224475" struct = "124683" struct-pid = "67048" module = "5" url-name = "basen-fasten" url = "/de/zimmer-preise/arrangements/basen-fasten/" keywords = "Basen-Fasten nach der Wacker-Methode, Wanderungen, Basenbad zum Entschlacken" page-title = "" description = "" target = "0">Basenfasten</menu-item>
+<menu-item id = "144478" struct = "74193" struct-pid = "67048" module = "5" url-name = "weihnachten-silvester" url = "/de/zimmer-preise/arrangements/weihnachten-silvester/" keywords = "" page-title = "" description = "" target = "0">Besinnliche Zeiten &amp; Jahreswechsel</menu-item>
+<menu-item id = "215256" struct = "117051" struct-pid = "67048" module = "5" url-name = "feiertagsfreuden" url = "/de/zimmer-preise/arrangements/feiertagsfreuden/" keywords = "Feiertage, Ostern, Fasching, Christi Himmelfahrt, Pfingsten, Fronleichnam, Tag der Dt. Einheit, Allerheiligen" page-title = "" description = "" target = "0">Feiertagsfreuden</menu-item>
+</menu>
+<menu id = "130982" struct = "67071" struct-pid = "67048" module = "5" url = "/de/zimmer-preise/arrangements/aktiv/" title = "Aktiv &amp; Vital" keywords = "Schliffkopf Aktiv, Schwarzwald, Nationalpark Schwarzwald, Pilates, Salsa" page-title = "Schliffkopf Aktiv &amp; Vital Angebote" description = "Aktiv &amp; Vital im Nationalpark Schwarzwald mit den Schliffkopf Aktiv-und Vital Angeboten" target = "0" level = "unknown" state = "start-level" l = "0" ls = "0"></menu>
+<menu id = "202565" struct = "106165" struct-pid = "67048" module = "5" url = "/de/zimmer-preise/arrangements/rund-ums-jahr/" title = "Rund ums Jahr" keywords = "Afrikawochenende, Grindenwochenende, Grindenfest, Wohlfühlwochenende" page-title = "" description = "Erleben Sie ein Wochenende mit spannenden Geschichten von Matto Barfuß Erleben Sie besondere kulinarische Highlights im Nationalpark-Hotel Schliffkopf und lassen Sie sich verwöhnen " target = "0" level = "unknown" state = "start-level" l = "0" ls = "0"></menu>
+<menu id = "205622" struct = "108284" struct-pid = "67048" module = "5" url = "/de/zimmer-preise/arrangements/jubilaeums-angebote/" title = "Jubiläums-Angebote" keywords = "" page-title = "Jubiläums-Angebote" description = "Jubiläum, 25 Jahre Wellness, Nationalpark Hotel Schliffkopf, BergSPA, Familie Fahrner" target = "0" level = "unknown" state = "start-level" l = "0" ls = "0"></menu>
+<menu id = "224475" struct = "124683" struct-pid = "67048" module = "5" url = "/de/zimmer-preise/arrangements/basen-fasten/" title = "Basenfasten" keywords = "Basen-Fasten nach der Wacker-Methode, Wanderungen, Basenbad zum Entschlacken" page-title = "" description = "" target = "0" level = "unknown" state = "start-level" l = "0" ls = "0"></menu>
+<menu id = "144478" struct = "74193" struct-pid = "67048" module = "5" url = "/de/zimmer-preise/arrangements/weihnachten-silvester/" title = "Besinnliche Zeiten &amp; Jahreswechsel" keywords = "" page-title = "" description = "" target = "0" level = "unknown" state = "start-level" l = "0" ls = "0"></menu>
+<menu id = "215256" struct = "117051" struct-pid = "67048" module = "5" url = "/de/zimmer-preise/arrangements/feiertagsfreuden/" title = "Feiertagsfreuden" keywords = "Feiertage, Ostern, Fasching, Christi Himmelfahrt, Pfingsten, Fronleichnam, Tag der Dt. Einheit, Allerheiligen" page-title = "" description = "" target = "0" level = "unknown" state = "start-level" l = "0" ls = "0"></menu>
+<menu id = "215273" struct = "117068" struct-pid = "66307" module = "5" url = "/de/zimmer-preise/preise/" title = "Zusatzleistungen" keywords = "Kinderpreise, Garage, Kurtraxe, Haustiere, Rosa Zeiten, Vergünstigungen" page-title = "" description = "" target = "0" level = "unknown" state = "start-level" l = "0" ls = "0"></menu>
+<menu id = "181164" struct = "93454" struct-pid = "66307" module = "5" url = "/de/zimmer-preise/tagungen/" title = "Tagungen" keywords = "Tagungen auf dem Schliffkopf im Nationalpark Schwarzwald" page-title = "Tagungen im Nationalpark-Hotel Schliffkopf" description = "Tagen in 1.025m über dem Alltag. Genießen Sie ein unvergessliches Ambiente, umgeben von der Natur des Nationalparks Schwarzwald. " target = "0" level = "unknown" state = "start-level" l = "0" ls = "0"></menu>
+<menu id = "131044" struct = "67128" struct-pid = "66307" module = "5" url = "/de/zimmer-preise/katalog/" title = "Katalog &amp; Preisliste" keywords = "" page-title = "" description = "" target = "0" level = "unknown" state = "start-level" l = "0" ls = "0"></menu>
+<menu id = "199444" struct = "104242" struct-pid = "67041" module = "5" url = "/de/bergspa/kosmetik-massage/" title = "Kosmetik &amp; Massage" keywords = "" page-title = "" description = "" target = "0" level = "unknown" state = "start-level" l = "0" ls = "0"></menu>
+<menu id = "139306" struct = "71643" struct-pid = "67041" module = "5" url = "/de/bergspa/hamam-rituale/" title = "Hamam &amp; Rituale" keywords = "" page-title = "" description = "" target = "0" level = "unknown" state = "start-level" l = "0" ls = "0"></menu>
+<menu id = "192240" struct = "99851" struct-pid = "67041" module = "5" url = "/de/bergspa/sanftes-wasser/" title = "Sanftes Wasser" keywords = "Sanftes Wasser, Nationalpark-Hotel Schliffkopf, BergSpa" page-title = "Sanftes Wasser im Nationalpark-Hotel Schliffkopf" description = "" target = "0" level = "unknown" state = "start-level" l = "0" ls = "0"></menu>
+<menu id = "130962" struct = "67051" struct-pid = "67041" module = "5" url = "/de/bergspa/dayspa/" title = "DaySpa" keywords = "" page-title = "" description = "" target = "0" level = "unknown" state = "start-level" l = "0" ls = "0"></menu>
+<menu id = "224275" struct = "124515" struct-pid = "67041" module = "5" url = "/de/bergspa/package/" title = "Angebote" keywords = "" page-title = "" description = "" target = "0" level = "unknown" state = "start-level" l = "0" ls = "0"></menu>
+<menu id = "199440" struct = "104238" struct-pid = "67041" module = "5" url = "/de/bergspa/ueberblick/" title = "Überblick" keywords = "" page-title = "" description = "" target = "0" level = "unknown" state = "start-level" l = "0" ls = "0"></menu>
+<menu id = "130966" struct = "67055" struct-pid = "67042" module = "5" url = "/de/kulinarik/restaurants/" title = "Restaurants" keywords = "" page-title = "Unsere Restaurants im Schwarzwald" description = "" target = "0" level = "unknown" state = "start-level" l = "0" ls = "0"></menu>
+<menu id = "159397" struct = "81129" struct-pid = "67042" module = "5" url = "/de/kulinarik/speisenkarten/" title = "Speisekarten" keywords = "Speisekarte" page-title = "Speisenkarte | Kulinarik - Hotel Schliffkopf Schwarzwald" description = "Sehen Sie hier, was unser Küchenteam aus regionalen Produkten zaubert - ob exklusive 5-Gang-Abendmenüs oder leichte Wellness-Menüs." target = "0" level = "unknown" state = "start-level" l = "0" ls = "0"></menu>
+<menu id = "184166" struct = "95130" struct-pid = "67042" module = "5" url = "/de/kulinarik/getraenkekarten/" title = "Getränkekarten" keywords = "Getränkekarte, Weinkarte, Nationalpark-Hotel Schliffkopf" page-title = "Wein- und Getränkekarte " description = "Unsere Weinempfehlungen zum Essen und unsere Getränkekarte " target = "0" level = "unknown" state = "start-level" l = "0" ls = "0"></menu>
+<menu id = "130967" struct = "67056" struct-pid = "67042" module = "5" url = "/de/kulinarik/feierlichkeiten/" title = "Feierlichkeiten" keywords = "" page-title = "Ihre Feier im Schwarzwald" description = "" target = "0" level = "unknown" state = "start-level" l = "0" ls = "0"></menu>
+<menu id = "222802" struct = "123503" struct-pid = "123502" module = "5" url = "/de/aktiv-vital/sommer/" title = "Sommer" keywords = "" page-title = "" description = "" target = "0" level = "unknown" state = "start-level" l = "0" ls = "0"></menu>
+<menu id = "222848" struct = "123506" struct-pid = "123502" module = "5" url = "/de/aktiv-vital/fitness/" title = "Fitness" keywords = "Fitness, Kraftraum, Training, " page-title = "" description = "" target = "0" level = "unknown" state = "start-level" l = "0" ls = "0"></menu>
+<menu id = "222849" struct = "123507" struct-pid = "123502" module = "5" url = "/de/aktiv-vital/wohlfit/" title = "WohlFit" keywords = "Fitnesstrainer, Sportprogramm, Wassergymnastik, Yoga, E-Bike-Touren" page-title = "" description = "" target = "0" level = "unknown" state = "start-level" l = "0" ls = "0"></menu>
+<menu id = "222850" struct = "123508" struct-pid = "123502" module = "5" url = "/de/aktiv-vital/ausfluege/" title = "Ausflüge" keywords = "" page-title = "Ausflugstipps in Schwarzwald &amp; Region" description = "Mummelsee, Klosterruine Allerheiligen, Bärenpark, Golfplätze, Baden-Baden und vieles mehr: Unsere Ausflugstipps für den Schwarzwald und die Region." target = "0" level = "unknown" state = "start-level" l = "0" ls = "0"></menu>
+<menu id = "130972" struct = "67061" struct-pid = "67044" module = "5" url = "/de/service/lage-anfahrt/" title = "Lage &amp; Anfahrt" keywords = "hotels schwarzwaldhochstraße" page-title = "Top-Hotel an der Schwarzwaldhochstraße" description = "Eine der schönsten Ferienstraßen Deutschlands bringt Sie zum Schliffkopf, einem der schönsten Hotels an der Schwarzwaldhochstraße. Panoramaausblicke inklusive." target = "0" level = "unknown" state = "start-level" l = "0" ls = "0"></menu>
+<menu id = "130973" struct = "67062" struct-pid = "67044" module = "5" url = "/de/service/wetter/" title = "Wetter / Webcam" keywords = "" page-title = "Wetter und Webcam in Baiersbronn im Schwarzwald" description = "" target = "0" level = "unknown" state = "start-level" l = "0" ls = "0"></menu>
+<menu id = "130977" struct = "67066" struct-pid = "67044" module = "5" url = "/de/service/schliffkopf-stammgast/" title = "Schliffkopf-Stammgast" keywords = "" page-title = "" description = "" target = "0" level = "unknown" state = "start-level" l = "0" ls = "0"></menu>
+<menu id = "205914" struct = "108433" struct-pid = "67044" module = "5" url = "/de/service/gipfeltanne/" title = "Freunde werben" keywords = "" page-title = "" description = "Freunde werben Freunde, Gipfeltanne, Dankeschön" target = "0" level = "unknown" state = "start-level" l = "0" ls = "0"></menu>
+<menu id = "130974" struct = "67063" struct-pid = "67044" module = "5" url = "/de/service/pressebereich/" title = "Pressebereich" keywords = "" page-title = "" description = "" target = "0" level = "unknown" state = "start-level" l = "10" ls = "10"><menu-item id = "130975" struct = "67064" struct-pid = "67063" module = "5" url-name = "newsletter" url = "/de/service/pressebereich/newsletter/" keywords = "" page-title = "" description = "" target = "0">Newsletter</menu-item>
+</menu>
+<menu id = "130975" struct = "67064" struct-pid = "67063" module = "5" url = "/de/service/pressebereich/newsletter/" title = "Newsletter" keywords = "" page-title = "" description = "" target = "0" level = "unknown" state = "start-level" l = "0" ls = "0"></menu>
+<menu id = "130976" struct = "67065" struct-pid = "67044" module = "5" url = "/de/service/stellenangebote/" title = "Karriere" keywords = "" page-title = "" description = "" target = "0" level = "unknown" state = "start-level" l = "0" ls = "0"></menu>
+</site:tree>
+<site:content><site:content-item name = "action_button" id = "11007"><content:article1 id = "385869" xml = "true" page-content-id = "385869" page-content-type = "20" page-content-entail = "1" page-content-order = "-2" page-content-group = "0" page-content-changed-date = "2014-11-26 09:47:45" cacheable = "true"><xml><ul>
+<li><a href="/de/zimmer-preise/anfrage/">Hotel anfragen</a></li>
+</ul>
+</xml>
+</content:article1>
+<content:clearingstation-box-request id = "426327" hotel-id = "2444" client-url = "http://hotel-schliffkopf2.clients.clearingstation.de/" box_request_style = "3" client-url-cms = "/de/zimmer-preise/hotel-buchung/" page-content-id = "426327" page-content-type = "57" page-content-entail = "1" page-content-order = "-1" page-content-group = "0" page-content-changed-date = "2016-05-09 06:39:14"><date-year><int-0>2016</int-0>
+<int-1>2017</int-1>
+<int-2>2018</int-2>
+<int-3>2019</int-3>
+</date-year>
+<date-month><int-0>1</int-0>
+<int-1>2</int-1>
+<int-2>3</int-2>
+<int-3>4</int-3>
+<int-4>5</int-4>
+<int-5>6</int-5>
+<int-6>7</int-6>
+<int-7>8</int-7>
+<int-8>9</int-8>
+<int-9>10</int-9>
+<int-10>11</int-10>
+<int-11>12</int-11>
+</date-month>
+<date-day><int-0>1</int-0>
+<int-1>2</int-1>
+<int-2>3</int-2>
+<int-3>4</int-3>
+<int-4>5</int-4>
+<int-5>6</int-5>
+<int-6>7</int-6>
+<int-7>8</int-7>
+<int-8>9</int-8>
+<int-9>10</int-9>
+<int-10>11</int-10>
+<int-11>12</int-11>
+<int-12>13</int-12>
+<int-13>14</int-13>
+<int-14>15</int-14>
+<int-15>16</int-15>
+<int-16>17</int-16>
+<int-17>18</int-17>
+<int-18>19</int-18>
+<int-19>20</int-19>
+<int-20>21</int-20>
+<int-21>22</int-21>
+<int-22>23</int-22>
+<int-23>24</int-23>
+<int-24>25</int-24>
+<int-25>26</int-25>
+<int-26>27</int-26>
+<int-27>28</int-27>
+<int-28>29</int-28>
+<int-29>30</int-29>
+<int-30>31</int-30>
+</date-day>
+<date-select-year>2016</date-select-year>
+<date-select-month>09</date-select-month>
+<date-select-day>05</date-select-day>
+<num-stays><int-0>1</int-0>
+<int-1>2</int-1>
+<int-2>3</int-2>
+<int-3>4</int-3>
+<int-4>5</int-4>
+<int-5>6</int-5>
+<int-6>7</int-6>
+<int-7>8</int-7>
+<int-8>9</int-8>
+<int-9>10</int-9>
+<int-10>11</int-10>
+<int-11>12</int-11>
+<int-12>13</int-12>
+<int-13>14</int-13>
+<int-14>15</int-14>
+<int-15>16</int-15>
+<int-16>17</int-16>
+<int-17>18</int-17>
+<int-18>19</int-18>
+<int-19>20</int-19>
+<int-20>21</int-20>
+<int-21>22</int-21>
+<int-22>23</int-22>
+<int-23>24</int-23>
+<int-24>25</int-24>
+<int-25>26</int-25>
+<int-26>27</int-26>
+<int-27>28</int-27>
+<int-28>29</int-28>
+<int-29>30</int-29>
+<int-30>31</int-30>
+</num-stays>
+<num-select-stays>7</num-select-stays>
+<num-persons><int-0>1</int-0>
+<int-1>2</int-1>
+<int-2>3</int-2>
+<int-3>4</int-3>
+<int-4>5</int-4>
+<int-5>6</int-5>
+<int-6>7</int-6>
+<int-7>8</int-7>
+<int-8>9</int-8>
+<int-9>10</int-9>
+</num-persons>
+<num-select-persons>2</num-select-persons>
+<match-space><datepicker type = "date_from"></datepicker>
+<datepicker type = "date_to"></datepicker>
+</match-space>
+</content:clearingstation-box-request>
+</site:content-item>
+<site:content-item name = "offerbox" id = "7689"><content:article1 id = "379495" xml = "true" page-content-id = "379495" page-content-type = "20" page-content-entail = "1" page-content-order = "-1" page-content-group = "0" page-content-changed-date = "2014-03-13 15:16:05" cacheable = "true"><xml><a class="book" href="/de/zimmer-preise/hotel-buchung/">Online Buchen</a></xml>
+</content:article1>
+<content:article1 id = "379498" xml = "true" page-content-id = "379498" page-content-type = "20" page-content-entail = "1" page-content-order = "10" page-content-group = "0" page-content-changed-date = "2016-06-24 10:33:13" cacheable = "true"><xml><ul>
+<li><a class="cms-wrapinner-span-voucher" href="/de/service/gutscheine/"><span>Gutscheine</span></a></li>
+<li><a class="cms-wrapinner-span-panorama" onclick="return hs.htmlExpand(this, { objectType: 'iframe', height: 800, minWidth: 1280 } )" href="/static/rundgang_neu/neu_sv_wp3_viewer.html" target="_blank"><span>Hoteltour</span></a></li>
+<li><a class="cms-wrapinner-span-last-minute" href="/de/hotel-schliffkopf/blog/"><span>Aktuelles</span></a></li>
+<li><a class="video" href="/de/hotel-schliffkopf/filme/"><span>Filme</span></a></li>
+<li><a class="brochure" href="/de/zimmer-preise/katalog/">Prospekte</a></li>
+<li><a class="cms-wrapinner-span-newsletter" href="/de/service/pressebereich/newsletter/"><span>Newsletter</span></a></li>
+</ul>
+</xml>
+</content:article1>
+</site:content-item>
+<site:content-item name = "calendar" id = "11008"><content:article1 id = "436542" xml = "true" page-content-id = "436542" page-content-type = "20" page-content-entail = "1" page-content-order = "-1" page-content-group = "0" page-content-changed-date = "2016-04-28 10:09:52" cacheable = "true"><xml><p style="font-size: 24px; font-weight: normal; font-family: quicksandregular;">Ihr Schliffkopftag</p>
+<p>inkl. WohlFit-Programm<br />
+<br /></p>
+</xml>
+</content:article1>
+<content:calendar-display-control id = "380037" url-back = "list.day.2016-08-21.html" url-next = "list.day.2016-08-23.html" url-view-calendar = "calendar.day.2016-08-22.html" url-view-list = "list.day.2016-08-22.html" page-content-id = "380037" page-content-type = "66" page-content-entail = "1" page-content-order = "0" page-content-group = "0" page-content-changed-date = "2015-03-16 15:59:44"><view display-type = "list" display-part = "day" display-item = "" display-date = "" display-from = "2016-08-22 00:00:00" display-to = "2016-08-22 23:59:59"><texts value = "2016-08-22 00:00:00"><year value = "2016" text = "2016" url = "list.year.2016.html"></year>
+<halfyear value = "2016" text = "2016 / 2017" url = "list.year.2016.html"></halfyear>
+<quarter value = "quarter-value" text = "3" url = "list.quarter.2016.html"></quarter>
+<month value = "08" text = "August" url = "list.month.2016-08.html"></month>
+<week value = "2016-34" text = "34" url = "list.week.2016-34.html"></week>
+<weekday text = "Mon" value = "1"></weekday>
+<day value = "2016-08-22" text = "22" url = "list.day.2016-08-22.html"></day>
+</texts>
+<options><show-day-overlay>true</show-day-overlay>
+</options>
+</view>
+<calendar-strings><string name = "month.01">Januar</string>
+<string name = "month.02">Februar</string>
+<string name = "month.03">M&#x00e4;rz</string>
+<string name = "month.04">April</string>
+<string name = "month.05">Mai</string>
+<string name = "month.06">Juni</string>
+<string name = "month.07">Juli</string>
+<string name = "month.08">August</string>
+<string name = "month.09">September</string>
+<string name = "month.10">Oktober</string>
+<string name = "month.11">November</string>
+<string name = "month.12">Dezember</string>
+<string name = "weekday.1">Montag</string>
+<string name = "weekday.2">Dienstag</string>
+<string name = "weekday.3">Mittwoch</string>
+<string name = "weekday.4">Donnerstag</string>
+<string name = "weekday.5">Freitag</string>
+<string name = "weekday.6">Samstag</string>
+<string name = "weekday.7">Sonntag</string>
+<string name = "weekday.short.1">Mo</string>
+<string name = "weekday.short.2">Di</string>
+<string name = "weekday.short.3">Mi</string>
+<string name = "weekday.short.4">Do</string>
+<string name = "weekday.short.5">Fr</string>
+<string name = "weekday.short.6">Sa</string>
+<string name = "weekday.short.7">So</string>
+<string name = "today">Heute</string>
+<string name = "day">Tag</string>
+<string name = "days">Tage</string>
+<string name = "day.choose">Tag ausw&#x00e4;hlen</string>
+<string name = "week">Woche</string>
+<string name = "week.short">KW</string>
+<string name = "weeks">Wochen</string>
+<string name = "month">Monat</string>
+<string name = "months">Monate</string>
+<string name = "quarter">Quartal</string>
+<string name = "year">Jahr</string>
+<string name = "years">Jahre</string>
+<string name = "times">Termine</string>
+<string name = "date">Termin</string>
+<string name = "view">Ansicht</string>
+<string name = "next">Weiter</string>
+<string name = "back">Zur&#x00fc;ck</string>
+<string name = "more">Mehr</string>
+<string name = "fulltime">ganzt&#x00e4;gig</string>
+<string name = "calendar">Kalender</string>
+<string name = "list">Liste</string>
+</calendar-strings>
+</content:calendar-display-control>
+<site:calendar-view id = "380037" subpage-handled = "0" page-content-id = "380037" page-content-type = "66" page-content-entail = "1" page-content-order = "0" page-content-group = "0" page-content-changed-date = "2015-03-16 15:59:44"><view display-type = "list" display-part = "day" display-item = "" display-date = "" display-from = "2016-08-22 00:00:00" display-to = "2016-08-22 23:59:59"><texts value = "2016-08-22 00:00:00"><year value = "2016" text = "2016" url = "list.year.2016.html"></year>
+<halfyear value = "2016" text = "2016 / 2017" url = "list.year.2016.html"></halfyear>
+<quarter value = "quarter-value" text = "3" url = "list.quarter.2016.html"></quarter>
+<month value = "08" text = "August" url = "list.month.2016-08.html"></month>
+<week value = "2016-34" text = "34" url = "list.week.2016-34.html"></week>
+<weekday text = "Mon" value = "1"></weekday>
+<day value = "2016-08-22" text = "22" url = "list.day.2016-08-22.html"></day>
+</texts>
+<options><show-day-overlay>true</show-day-overlay>
+</options>
+</view>
+<dates><hours><fulltime></fulltime>
+<hour hour = "0" url = "list.hour.html"><dates></dates>
+</hour>
+<hour hour = "1" url = "list.hour.html"><dates></dates>
+</hour>
+<hour hour = "2" url = "list.hour.html"><dates></dates>
+</hour>
+<hour hour = "3" url = "list.hour.html"><dates></dates>
+</hour>
+<hour hour = "4" url = "list.hour.html"><dates></dates>
+</hour>
+<hour hour = "5" url = "list.hour.html"><dates></dates>
+</hour>
+<hour hour = "6" url = "list.hour.html"><dates></dates>
+</hour>
+<hour hour = "7" url = "list.hour.html"><dates><int-0 url = "detail.date.201-31794.2016-08-22.html"><calendar_date_id>201-31794</calendar_date_id>
+<calendar_date_calendar>201</calendar_date_calendar>
+<calendar_date_customer>3146</calendar_date_customer>
+<calendar_date_name>Frühaufsteher-Kaffee</calendar_date_name>
+<calendar_date_description>Guten Morgen...!&lt;br /&gt; Beginnen&amp;nbsp;Sie Ihren Tag mit einer frischen Tasse Kaffee oder Tee in unserem Schwimmbad-Bistro. (von 7:00 bis 8:00 Uhr)</calendar_date_description>
+<calendar_date_location></calendar_date_location>
+<calendar_date_type>0</calendar_date_type>
+<calendar_date_image>0</calendar_date_image>
+<calendar_date_url></calendar_date_url>
+<calendar_date_reminder_type>0</calendar_date_reminder_type>
+<calendar_date_reminder_channel>0</calendar_date_reminder_channel>
+<calendar_date_reminder_before>0</calendar_date_reminder_before>
+<calendar_date_time_id>94287</calendar_date_time_id>
+<calendar_date_time_date>31794</calendar_date_time_date>
+<calendar_date_time_calendar>201</calendar_date_time_calendar>
+<calendar_date_time_customer>3146</calendar_date_time_customer>
+<calendar_date_time_from>2016-08-22 07:00:00</calendar_date_time_from>
+<calendar_date_time_to>2016-08-22 08:00:00</calendar_date_time_to>
+<calendar_date_time_fulltime>0</calendar_date_time_fulltime>
+<calendar_date_time_interval>1</calendar_date_time_interval>
+<calendar_date_time_enddate>2016-08-24 00:00:00</calendar_date_time_enddate>
+<calendar_date_time_interval_amount>1</calendar_date_time_interval_amount>
+<calendar_date_display_every_day>1</calendar_date_display_every_day>
+<calendar_date_image_url></calendar_date_image_url>
+</int-0>
+<int-1 url = "detail.date.201-31795.2016-08-22.html"><calendar_date_id>201-31795</calendar_date_id>
+<calendar_date_calendar>201</calendar_date_calendar>
+<calendar_date_customer>3146</calendar_date_customer>
+<calendar_date_name>Panorama-Frühstücksbüffet</calendar_date_name>
+<calendar_date_description>&lt;p&gt;Genie&amp;szlig;en Sie von &lt;strong&gt;7:30 bis 10:30 Uhr&lt;/strong&gt; unser Panorama-Fr&amp;uuml;hst&amp;uuml;cksb&amp;uuml;ffet. Es erwartet Sie eine Auswahl an Br&amp;ouml;tchen, herzhaften Brotsorten, M&amp;uuml;sli, gesunder Vollwertkost, bunten Fr&amp;uuml;chten, K&amp;auml;se-und Wurstspezialit&amp;auml;ten, feine Konfit&amp;uuml;re und anderen Leckereien.&lt;/p&gt;</calendar_date_description>
+<calendar_date_location></calendar_date_location>
+<calendar_date_type>0</calendar_date_type>
+<calendar_date_image>0</calendar_date_image>
+<calendar_date_url></calendar_date_url>
+<calendar_date_reminder_type>0</calendar_date_reminder_type>
+<calendar_date_reminder_channel>0</calendar_date_reminder_channel>
+<calendar_date_reminder_before>0</calendar_date_reminder_before>
+<calendar_date_time_id>94288</calendar_date_time_id>
+<calendar_date_time_date>31795</calendar_date_time_date>
+<calendar_date_time_calendar>201</calendar_date_time_calendar>
+<calendar_date_time_customer>3146</calendar_date_time_customer>
+<calendar_date_time_from>2016-08-22 07:30:00</calendar_date_time_from>
+<calendar_date_time_to>2016-08-22 10:30:00</calendar_date_time_to>
+<calendar_date_time_fulltime>0</calendar_date_time_fulltime>
+<calendar_date_time_interval>1</calendar_date_time_interval>
+<calendar_date_time_enddate>2016-08-24 00:00:00</calendar_date_time_enddate>
+<calendar_date_time_interval_amount>1</calendar_date_time_interval_amount>
+<calendar_date_display_every_day>1</calendar_date_display_every_day>
+<calendar_date_image_url></calendar_date_image_url>
+</int-1>
+</dates>
+</hour>
+<hour hour = "8" url = "list.hour.html"><dates><int-0 url = "detail.date.201-31793.2016-08-22.html"><calendar_date_id>201-31793</calendar_date_id>
+<calendar_date_calendar>201</calendar_date_calendar>
+<calendar_date_customer>3146</calendar_date_customer>
+<calendar_date_name>Aqua-Fit -Wassergymnastik mit geschulten Trainern</calendar_date_name>
+<calendar_date_description>Wir starten mit einem Ganzk&amp;ouml;rpertraining mit und ohne Ger&amp;auml;t wie Schwimmnudel, Aqua-Handschuhe, &lt;br /&gt; Hanteln in den Tag. Dabei werden Armen, Beine, Ges&amp;auml;&amp;szlig; und Rumpf trainiert. Die Kraft, Beweglichkeit und Ausdauer werden gesteigert und die Entspannung gef&amp;ouml;rdert.</calendar_date_description>
+<calendar_date_location></calendar_date_location>
+<calendar_date_type>0</calendar_date_type>
+<calendar_date_image>0</calendar_date_image>
+<calendar_date_url></calendar_date_url>
+<calendar_date_reminder_type>0</calendar_date_reminder_type>
+<calendar_date_reminder_channel>0</calendar_date_reminder_channel>
+<calendar_date_reminder_before>0</calendar_date_reminder_before>
+<calendar_date_time_id>94289</calendar_date_time_id>
+<calendar_date_time_date>31793</calendar_date_time_date>
+<calendar_date_time_calendar>201</calendar_date_time_calendar>
+<calendar_date_time_customer>3146</calendar_date_time_customer>
+<calendar_date_time_from>2016-08-22 08:00:00</calendar_date_time_from>
+<calendar_date_time_to>2016-08-22 08:30:00</calendar_date_time_to>
+<calendar_date_time_fulltime>0</calendar_date_time_fulltime>
+<calendar_date_time_interval>1</calendar_date_time_interval>
+<calendar_date_time_enddate>2016-08-24 00:00:00</calendar_date_time_enddate>
+<calendar_date_time_interval_amount>1</calendar_date_time_interval_amount>
+<calendar_date_display_every_day>1</calendar_date_display_every_day>
+<calendar_date_image_url></calendar_date_image_url>
+</int-0>
+</dates>
+</hour>
+<hour hour = "9" url = "list.hour.html"><dates></dates>
+</hour>
+<hour hour = "10" url = "list.hour.html"><dates><int-0 url = "detail.date.201-33299.2016-08-22.html"><calendar_date_id>201-33299</calendar_date_id>
+<calendar_date_calendar>201</calendar_date_calendar>
+<calendar_date_customer>3146</calendar_date_customer>
+<calendar_date_name>Hui-Chun-Gong mit Gudrun</calendar_date_name>
+<calendar_date_description>Geh&amp;ouml;rt zu den chin. Bewegungsformen Qi Ging und aktiviert den Engeriefluss und den Stoffwechsel und wirkt beruhigend auf das Nervensystem &amp;ndash; f&amp;ouml;rdert Energie und Konzentration.</calendar_date_description>
+<calendar_date_location></calendar_date_location>
+<calendar_date_type>0</calendar_date_type>
+<calendar_date_image>0</calendar_date_image>
+<calendar_date_url></calendar_date_url>
+<calendar_date_reminder_type>0</calendar_date_reminder_type>
+<calendar_date_reminder_channel>0</calendar_date_reminder_channel>
+<calendar_date_reminder_before>0</calendar_date_reminder_before>
+<calendar_date_time_id>94339</calendar_date_time_id>
+<calendar_date_time_date>33299</calendar_date_time_date>
+<calendar_date_time_calendar>201</calendar_date_time_calendar>
+<calendar_date_time_customer>3146</calendar_date_time_customer>
+<calendar_date_time_from>2016-08-22 10:00:00</calendar_date_time_from>
+<calendar_date_time_to>2016-08-22 10:45:00</calendar_date_time_to>
+<calendar_date_time_fulltime>0</calendar_date_time_fulltime>
+<calendar_date_time_interval>0</calendar_date_time_interval>
+<calendar_date_time_enddate>0000-00-00 00:00:00</calendar_date_time_enddate>
+<calendar_date_time_interval_amount>1</calendar_date_time_interval_amount>
+<calendar_date_display_every_day>1</calendar_date_display_every_day>
+<calendar_date_image_url></calendar_date_image_url>
+</int-0>
+</dates>
+</hour>
+<hour hour = "11" url = "list.hour.html"><dates><int-0 url = "detail.date.201-33300.2016-08-22.html"><calendar_date_id>201-33300</calendar_date_id>
+<calendar_date_calendar>201</calendar_date_calendar>
+<calendar_date_customer>3146</calendar_date_customer>
+<calendar_date_name>Smovey-Training mit Emmanuel</calendar_date_name>
+<calendar_date_description>&lt;p&gt;Smovey ist ein au&amp;szlig;ergew&amp;ouml;hnliches Gesundheits-/ Fitness- und Therapieger&amp;auml;t. Durch Smovey erlangt man ein v&amp;ouml;llig neues Lebensgef&amp;uuml;hl. Bewegungsspa&amp;szlig; im Zusammenspiel mit Genuss und Lust kommen hierbei auch nicht zu kurz. Durch seine freilaufenden Stahlkugeln und den dadurch entstehenden Vibrationen bringt es auf vielf&amp;auml;ltigste Weise Schwung ins Leben von Jung und Alt.&lt;/p&gt;</calendar_date_description>
+<calendar_date_location></calendar_date_location>
+<calendar_date_type>0</calendar_date_type>
+<calendar_date_image>0</calendar_date_image>
+<calendar_date_url></calendar_date_url>
+<calendar_date_reminder_type>0</calendar_date_reminder_type>
+<calendar_date_reminder_channel>0</calendar_date_reminder_channel>
+<calendar_date_reminder_before>0</calendar_date_reminder_before>
+<calendar_date_time_id>94341</calendar_date_time_id>
+<calendar_date_time_date>33300</calendar_date_time_date>
+<calendar_date_time_calendar>201</calendar_date_time_calendar>
+<calendar_date_time_customer>3146</calendar_date_time_customer>
+<calendar_date_time_from>2016-08-22 11:00:00</calendar_date_time_from>
+<calendar_date_time_to>2016-08-22 11:45:00</calendar_date_time_to>
+<calendar_date_time_fulltime>0</calendar_date_time_fulltime>
+<calendar_date_time_interval>0</calendar_date_time_interval>
+<calendar_date_time_enddate>0000-00-00 00:00:00</calendar_date_time_enddate>
+<calendar_date_time_interval_amount>1</calendar_date_time_interval_amount>
+<calendar_date_display_every_day>1</calendar_date_display_every_day>
+<calendar_date_image_url></calendar_date_image_url>
+</int-0>
+</dates>
+</hour>
+<hour hour = "12" url = "list.hour.html"><dates></dates>
+</hour>
+<hour hour = "13" url = "list.hour.html"><dates><int-0 url = "detail.date.201-31796.2016-08-22.html"><calendar_date_id>201-31796</calendar_date_id>
+<calendar_date_calendar>201</calendar_date_calendar>
+<calendar_date_customer>3146</calendar_date_customer>
+<calendar_date_name>Lunchbuffet</calendar_date_name>
+<calendar_date_description>Genie&amp;szlig;en Sie von 13:30 bis 15:30 Uhr&amp;nbsp;unser Mittagslunch. Es erwartet Sie ein t&amp;auml;glich&amp;nbsp;wechselendes warmes oder kaltes Gericht.</calendar_date_description>
+<calendar_date_location></calendar_date_location>
+<calendar_date_type>0</calendar_date_type>
+<calendar_date_image>0</calendar_date_image>
+<calendar_date_url></calendar_date_url>
+<calendar_date_reminder_type>0</calendar_date_reminder_type>
+<calendar_date_reminder_channel>0</calendar_date_reminder_channel>
+<calendar_date_reminder_before>0</calendar_date_reminder_before>
+<calendar_date_time_id>94290</calendar_date_time_id>
+<calendar_date_time_date>31796</calendar_date_time_date>
+<calendar_date_time_calendar>201</calendar_date_time_calendar>
+<calendar_date_time_customer>3146</calendar_date_time_customer>
+<calendar_date_time_from>2016-08-22 13:30:00</calendar_date_time_from>
+<calendar_date_time_to>2016-08-22 15:30:00</calendar_date_time_to>
+<calendar_date_time_fulltime>0</calendar_date_time_fulltime>
+<calendar_date_time_interval>1</calendar_date_time_interval>
+<calendar_date_time_enddate>2016-08-24 00:00:00</calendar_date_time_enddate>
+<calendar_date_time_interval_amount>1</calendar_date_time_interval_amount>
+<calendar_date_display_every_day>1</calendar_date_display_every_day>
+<calendar_date_image_url></calendar_date_image_url>
+</int-0>
+</dates>
+</hour>
+<hour hour = "14" url = "list.hour.html"><dates><int-0 url = "detail.date.201-33301.2016-08-22.html"><calendar_date_id>201-33301</calendar_date_id>
+<calendar_date_calendar>201</calendar_date_calendar>
+<calendar_date_customer>3146</calendar_date_customer>
+<calendar_date_name>Yoga mit Gudrun</calendar_date_name>
+<calendar_date_description>Ein K&amp;ouml;rpertraining, mit dem Balance zwischen k&amp;ouml;rperlichem und seelischem Wohlbefinden erreicht werden soll. Sanfte K&amp;ouml;rperstellungen (Asanas), in Verbindung mit Atem&amp;uuml;bungen (Pranajama). Das wirkt sich beruhigend auf das Nervenstystem aus, h&amp;auml;lt die Gelenke beweglich, tut dem R&amp;uuml;cken und der Haltung gut und vermittelt eine positive Lebenseinstellung.</calendar_date_description>
+<calendar_date_location></calendar_date_location>
+<calendar_date_type>0</calendar_date_type>
+<calendar_date_image>0</calendar_date_image>
+<calendar_date_url></calendar_date_url>
+<calendar_date_reminder_type>0</calendar_date_reminder_type>
+<calendar_date_reminder_channel>0</calendar_date_reminder_channel>
+<calendar_date_reminder_before>0</calendar_date_reminder_before>
+<calendar_date_time_id>94342</calendar_date_time_id>
+<calendar_date_time_date>33301</calendar_date_time_date>
+<calendar_date_time_calendar>201</calendar_date_time_calendar>
+<calendar_date_time_customer>3146</calendar_date_time_customer>
+<calendar_date_time_from>2016-08-22 14:00:00</calendar_date_time_from>
+<calendar_date_time_to>2016-08-22 14:45:00</calendar_date_time_to>
+<calendar_date_time_fulltime>0</calendar_date_time_fulltime>
+<calendar_date_time_interval>0</calendar_date_time_interval>
+<calendar_date_time_enddate>0000-00-00 00:00:00</calendar_date_time_enddate>
+<calendar_date_time_interval_amount>1</calendar_date_time_interval_amount>
+<calendar_date_display_every_day>1</calendar_date_display_every_day>
+<calendar_date_image_url></calendar_date_image_url>
+</int-0>
+</dates>
+</hour>
+<hour hour = "15" url = "list.hour.html"><dates><int-0 url = "detail.date.201-33302.2016-08-22.html"><calendar_date_id>201-33302</calendar_date_id>
+<calendar_date_calendar>201</calendar_date_calendar>
+<calendar_date_customer>3146</calendar_date_customer>
+<calendar_date_name>Aromameditation mit Gudrun</calendar_date_name>
+<calendar_date_description>Die gef&amp;uuml;hrte Meditation/Entspannung wird mit zum Thema passenden D&amp;uuml;ften begleitet. Diese verst&amp;auml;rken das Erleben der Meditation und Entspannung.</calendar_date_description>
+<calendar_date_location></calendar_date_location>
+<calendar_date_type>0</calendar_date_type>
+<calendar_date_image>0</calendar_date_image>
+<calendar_date_url></calendar_date_url>
+<calendar_date_reminder_type>0</calendar_date_reminder_type>
+<calendar_date_reminder_channel>0</calendar_date_reminder_channel>
+<calendar_date_reminder_before>0</calendar_date_reminder_before>
+<calendar_date_time_id>94343</calendar_date_time_id>
+<calendar_date_time_date>33302</calendar_date_time_date>
+<calendar_date_time_calendar>201</calendar_date_time_calendar>
+<calendar_date_time_customer>3146</calendar_date_time_customer>
+<calendar_date_time_from>2016-08-22 15:00:00</calendar_date_time_from>
+<calendar_date_time_to>2016-08-22 15:45:00</calendar_date_time_to>
+<calendar_date_time_fulltime>0</calendar_date_time_fulltime>
+<calendar_date_time_interval>0</calendar_date_time_interval>
+<calendar_date_time_enddate>0000-00-00 00:00:00</calendar_date_time_enddate>
+<calendar_date_time_interval_amount>1</calendar_date_time_interval_amount>
+<calendar_date_display_every_day>1</calendar_date_display_every_day>
+<calendar_date_image_url></calendar_date_image_url>
+</int-0>
+<int-1 url = "detail.date.201-31797.2016-08-22.html"><calendar_date_id>201-31797</calendar_date_id>
+<calendar_date_calendar>201</calendar_date_calendar>
+<calendar_date_customer>3146</calendar_date_customer>
+<calendar_date_name>Kaffee &amp; Kuchen</calendar_date_name>
+<calendar_date_description>Wir laden Sie von 15:00 bis 17:00 Uhr zu einem St&amp;uuml;ck hausgemachten Kuchen sowie einer Tasse Kaffee oder Tee in unserem Schwimmbad-Bistro ein.</calendar_date_description>
+<calendar_date_location></calendar_date_location>
+<calendar_date_type>0</calendar_date_type>
+<calendar_date_image>0</calendar_date_image>
+<calendar_date_url></calendar_date_url>
+<calendar_date_reminder_type>0</calendar_date_reminder_type>
+<calendar_date_reminder_channel>0</calendar_date_reminder_channel>
+<calendar_date_reminder_before>0</calendar_date_reminder_before>
+<calendar_date_time_id>94291</calendar_date_time_id>
+<calendar_date_time_date>31797</calendar_date_time_date>
+<calendar_date_time_calendar>201</calendar_date_time_calendar>
+<calendar_date_time_customer>3146</calendar_date_time_customer>
+<calendar_date_time_from>2016-08-22 15:00:00</calendar_date_time_from>
+<calendar_date_time_to>2016-08-22 17:00:00</calendar_date_time_to>
+<calendar_date_time_fulltime>0</calendar_date_time_fulltime>
+<calendar_date_time_interval>1</calendar_date_time_interval>
+<calendar_date_time_enddate>2016-08-24 00:00:00</calendar_date_time_enddate>
+<calendar_date_time_interval_amount>1</calendar_date_time_interval_amount>
+<calendar_date_display_every_day>1</calendar_date_display_every_day>
+<calendar_date_image_url></calendar_date_image_url>
+</int-1>
+</dates>
+</hour>
+<hour hour = "16" url = "list.hour.html"><dates><int-0 url = "detail.date.201-31659.2016-08-22.html"><calendar_date_id>201-31659</calendar_date_id>
+<calendar_date_calendar>201</calendar_date_calendar>
+<calendar_date_customer>3146</calendar_date_customer>
+<calendar_date_name>Sauna-Aufguß</calendar_date_name>
+<calendar_date_description>&lt;p&gt;Zu einem erholsamen und erlebnisreichen Saunabesuch geh&amp;ouml;rt auch ein Aufguss. Hierf&amp;uuml;r werden kr&amp;auml;ftige &amp;Ouml;le und Essenzen von einem Therapeuten auf den hei&amp;szlig;en Stein aufgegossen und durch das Schwingen eines Handtuches im ganzen Raum verteilt.&lt;/p&gt;</calendar_date_description>
+<calendar_date_location></calendar_date_location>
+<calendar_date_type>0</calendar_date_type>
+<calendar_date_image>0</calendar_date_image>
+<calendar_date_url></calendar_date_url>
+<calendar_date_reminder_type>0</calendar_date_reminder_type>
+<calendar_date_reminder_channel>0</calendar_date_reminder_channel>
+<calendar_date_reminder_before>0</calendar_date_reminder_before>
+<calendar_date_time_id>94292</calendar_date_time_id>
+<calendar_date_time_date>31659</calendar_date_time_date>
+<calendar_date_time_calendar>201</calendar_date_time_calendar>
+<calendar_date_time_customer>3146</calendar_date_time_customer>
+<calendar_date_time_from>2016-08-22 16:30:00</calendar_date_time_from>
+<calendar_date_time_to>2016-08-22 17:00:00</calendar_date_time_to>
+<calendar_date_time_fulltime>0</calendar_date_time_fulltime>
+<calendar_date_time_interval>1</calendar_date_time_interval>
+<calendar_date_time_enddate>2016-08-24 00:00:00</calendar_date_time_enddate>
+<calendar_date_time_interval_amount>1</calendar_date_time_interval_amount>
+<calendar_date_display_every_day>1</calendar_date_display_every_day>
+<calendar_date_image_url></calendar_date_image_url>
+</int-0>
+</dates>
+</hour>
+<hour hour = "17" url = "list.hour.html"><dates><int-0 url = "detail.date.201-31660.2016-08-22.html"><calendar_date_id>201-31660</calendar_date_id>
+<calendar_date_calendar>201</calendar_date_calendar>
+<calendar_date_customer>3146</calendar_date_customer>
+<calendar_date_name>Sauna-Aufguß</calendar_date_name>
+<calendar_date_description>&lt;p&gt;Zu einem erholsamen und erlebnisreichen Saunabesuch geh&amp;ouml;rt auch ein Aufguss. Hierf&amp;uuml;r werden kr&amp;auml;ftige &amp;Ouml;le und Essenzen von einem Therapeuten auf den hei&amp;szlig;en Stein aufgegossen und durch das Schwingen eines Handtuches im ganzen Raum verteilt.&lt;/p&gt;</calendar_date_description>
+<calendar_date_location></calendar_date_location>
+<calendar_date_type>0</calendar_date_type>
+<calendar_date_image>0</calendar_date_image>
+<calendar_date_url></calendar_date_url>
+<calendar_date_reminder_type>0</calendar_date_reminder_type>
+<calendar_date_reminder_channel>0</calendar_date_reminder_channel>
+<calendar_date_reminder_before>0</calendar_date_reminder_before>
+<calendar_date_time_id>94293</calendar_date_time_id>
+<calendar_date_time_date>31660</calendar_date_time_date>
+<calendar_date_time_calendar>201</calendar_date_time_calendar>
+<calendar_date_time_customer>3146</calendar_date_time_customer>
+<calendar_date_time_from>2016-08-22 17:30:00</calendar_date_time_from>
+<calendar_date_time_to>2016-08-22 18:00:00</calendar_date_time_to>
+<calendar_date_time_fulltime>0</calendar_date_time_fulltime>
+<calendar_date_time_interval>1</calendar_date_time_interval>
+<calendar_date_time_enddate>2016-08-24 00:00:00</calendar_date_time_enddate>
+<calendar_date_time_interval_amount>1</calendar_date_time_interval_amount>
+<calendar_date_display_every_day>1</calendar_date_display_every_day>
+<calendar_date_image_url></calendar_date_image_url>
+</int-0>
+</dates>
+</hour>
+<hour hour = "18" url = "list.hour.html"><dates><int-0 url = "detail.date.201-31666.2016-08-22.html"><calendar_date_id>201-31666</calendar_date_id>
+<calendar_date_calendar>201</calendar_date_calendar>
+<calendar_date_customer>3146</calendar_date_customer>
+<calendar_date_name>Verwöhn-Halbpension</calendar_date_name>
+<calendar_date_description>&lt;p&gt;5-Gang Verw&amp;ouml;hn-Men&amp;uuml; am Abend: Zur Wahl stehen 2 Vorspeisen, 2 Suppen oder Smoothie/ S&amp;auml;fte, Pasta-Zwischengericht oder reichhaltiges Salatbuffet, 6 Hauptg&amp;auml;nge, 2 Desserts oder K&amp;auml;se&lt;/p&gt;<br />
+&lt;p&gt;Wir bitten zwischen 18:30 bis 19:30 zum Abendmen&amp;uuml; Platz zu nehmen.&lt;/p&gt;<br />
+&lt;p&gt;Au&amp;szlig;erdem kochen wir f&amp;uuml;r Sie gluten- und laktosefrei. Bitte informieren Sie uns bei Ihrer Reservierung.&lt;/p&gt;</calendar_date_description>
+<calendar_date_location></calendar_date_location>
+<calendar_date_type>0</calendar_date_type>
+<calendar_date_image>0</calendar_date_image>
+<calendar_date_url></calendar_date_url>
+<calendar_date_reminder_type>0</calendar_date_reminder_type>
+<calendar_date_reminder_channel>0</calendar_date_reminder_channel>
+<calendar_date_reminder_before>0</calendar_date_reminder_before>
+<calendar_date_time_id>94294</calendar_date_time_id>
+<calendar_date_time_date>31666</calendar_date_time_date>
+<calendar_date_time_calendar>201</calendar_date_time_calendar>
+<calendar_date_time_customer>3146</calendar_date_time_customer>
+<calendar_date_time_from>2016-08-22 18:30:00</calendar_date_time_from>
+<calendar_date_time_to>2016-08-22 19:30:00</calendar_date_time_to>
+<calendar_date_time_fulltime>0</calendar_date_time_fulltime>
+<calendar_date_time_interval>1</calendar_date_time_interval>
+<calendar_date_time_enddate>2016-08-24 00:00:00</calendar_date_time_enddate>
+<calendar_date_time_interval_amount>1</calendar_date_time_interval_amount>
+<calendar_date_display_every_day>1</calendar_date_display_every_day>
+<calendar_date_image_url></calendar_date_image_url>
+</int-0>
+</dates>
+</hour>
+<hour hour = "19" url = "list.hour.html"><dates></dates>
+</hour>
+<hour hour = "20" url = "list.hour.html"><dates></dates>
+</hour>
+<hour hour = "21" url = "list.hour.html"><dates></dates>
+</hour>
+<hour hour = "22" url = "list.hour.html"><dates></dates>
+</hour>
+<hour hour = "23" url = "list.hour.html"><dates></dates>
+</hour>
+</hours>
+</dates>
+<date-types><date-type id = "1"><calendar_date_type_id>1</calendar_date_type_id>
+<calendar_date_type_type>1</calendar_date_type_type>
+<calendar_date_type_color>#8269FF</calendar_date_type_color>
+<calendar_date_type_name>Veranstaltung</calendar_date_type_name>
+<calendar_date_type_customer>0</calendar_date_type_customer>
+</date-type>
+<date-type id = "2"><calendar_date_type_id>2</calendar_date_type_id>
+<calendar_date_type_type>2</calendar_date_type_type>
+<calendar_date_type_color>#FF6969</calendar_date_type_color>
+<calendar_date_type_name>Angebot</calendar_date_type_name>
+<calendar_date_type_customer>0</calendar_date_type_customer>
+</date-type>
+<date-type id = "3"><calendar_date_type_id>156</calendar_date_type_id>
+<calendar_date_type_type>3</calendar_date_type_type>
+<calendar_date_type_color></calendar_date_type_color>
+<calendar_date_type_name>Spezial Angebot</calendar_date_type_name>
+<calendar_date_type_customer>3146</calendar_date_type_customer>
+</date-type>
+<date-type id = "4"><calendar_date_type_id>4</calendar_date_type_id>
+<calendar_date_type_type>4</calendar_date_type_type>
+<calendar_date_type_color>#6DFF69</calendar_date_type_color>
+<calendar_date_type_name>Feiertag</calendar_date_type_name>
+<calendar_date_type_customer>0</calendar_date_type_customer>
+</date-type>
+</date-types>
+<timeframes></timeframes>
+<offset><days>-0</days>
+</offset>
+</site:calendar-view>
+<content:calendar-display-options id = "380037" page-content-id = "380037" page-content-type = "66" page-content-entail = "1" page-content-order = "0" page-content-group = "0" page-content-changed-date = "2015-03-16 15:59:44"><view display-type = "list" display-part = "day" display-item = "" display-date = "" display-from = "2016-08-22 00:00:00" display-to = "2016-08-22 23:59:59"><texts value = "2016-08-22 00:00:00"><year value = "2016" text = "2016" url = "list.year.2016.html"></year>
+<halfyear value = "2016" text = "2016 / 2017" url = "list.year.2016.html"></halfyear>
+<quarter value = "quarter-value" text = "3" url = "list.quarter.2016.html"></quarter>
+<month value = "08" text = "August" url = "list.month.2016-08.html"></month>
+<week value = "2016-34" text = "34" url = "list.week.2016-34.html"></week>
+<weekday text = "Mon" value = "1"></weekday>
+<day value = "2016-08-22" text = "22" url = "list.day.2016-08-22.html"></day>
+</texts>
+<options><show-day-overlay>true</show-day-overlay>
+</options>
+</view>
+<calendars><int-201><calendar_id>201</calendar_id>
+<calendar_customer>3146</calendar_customer>
+<calendar_name>Ihr Schliffkopftag inkl. WohlFit-Programm</calendar_name>
+<calendar_description>103766</calendar_description>
+<calendar_type>1</calendar_type>
+<calendar_remote_type>0</calendar_remote_type>
+<calendar_remote_url></calendar_remote_url>
+<calendar_share>1</calendar_share>
+<calendar_share_key></calendar_share_key>
+<calendar_display_calendar_id>1933</calendar_display_calendar_id>
+<calendar_display_calendar_customer>3146</calendar_display_calendar_customer>
+<calendar_display_calendar_display>426</calendar_display_calendar_display>
+<calendar_display_calendar_calendar>201</calendar_display_calendar_calendar>
+</int-201>
+</calendars>
+<date-types><date-type id = "1"><calendar_date_type_id>1</calendar_date_type_id>
+<calendar_date_type_type>1</calendar_date_type_type>
+<calendar_date_type_color>#8269FF</calendar_date_type_color>
+<calendar_date_type_name>Veranstaltung</calendar_date_type_name>
+<calendar_date_type_customer>0</calendar_date_type_customer>
+</date-type>
+<date-type id = "2"><calendar_date_type_id>2</calendar_date_type_id>
+<calendar_date_type_type>2</calendar_date_type_type>
+<calendar_date_type_color>#FF6969</calendar_date_type_color>
+<calendar_date_type_name>Angebot</calendar_date_type_name>
+<calendar_date_type_customer>0</calendar_date_type_customer>
+</date-type>
+<date-type id = "3"><calendar_date_type_id>156</calendar_date_type_id>
+<calendar_date_type_type>3</calendar_date_type_type>
+<calendar_date_type_color></calendar_date_type_color>
+<calendar_date_type_name>Spezial Angebot</calendar_date_type_name>
+<calendar_date_type_customer>3146</calendar_date_type_customer>
+</date-type>
+<date-type id = "4"><calendar_date_type_id>4</calendar_date_type_id>
+<calendar_date_type_type>4</calendar_date_type_type>
+<calendar_date_type_color>#6DFF69</calendar_date_type_color>
+<calendar_date_type_name>Feiertag</calendar_date_type_name>
+<calendar_date_type_customer>0</calendar_date_type_customer>
+</date-type>
+</date-types>
+<timeframes></timeframes>
+</content:calendar-display-options>
+</site:content-item>
+<site:content-item name = "footer-1" id = "7690"><content:html1 id = "632619" page-content-id = "632619" page-content-type = "97" page-content-entail = "1" page-content-order = "-1" page-content-group = "0" page-content-changed-date = "2016-08-15 17:15:50" cacheable = "true"><![CDATA[<div itemscope itemtype="http://schema.org/Hotel">
+	<p style="font-size: 15px; margin-bottom: 10px; font-weight: bold;">Kontakt</p>
+	<a itemprop="url" href="http://www.schliffkopf.de/"><span itemprop="name">Nationalpark-Hotel Schliffkopf</span></a><br />Familie Fahrner<br />
+	<span itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+		<span itemprop="streetAddress">Schwarzwaldhochstraße 1</span><br />
+		<span itemprop="postalCode">72270</span> <span itemprop="addressLocality">Schliffkopf (Baiersbronn)</span><br />
+	</span>
+	Telefon: <span itemprop="telephone">+49 (0) 7449 - 920-0</span><br />
+	E-Mail: <a title="Schreiben Sie an das Nationalpark-Hotel Schliffkopf" href="mailto:info@schliffkopf.de" itemprop="email">info@schliffkopf.de</a><br /><br />
+	<link itemprop="sameAs" href="https://www.facebook.com/schliffkopf" />
+	<link itemprop="sameAs" href="https://plus.google.com/+schliffkopfhotel/about" />
+	<link itemprop="sameAs" href="https://www.youtube.com/user/HotelSchliffkopf" />
+	<link itemprop="sameAs" href="https://de.pinterest.com/schliffkopf/" />
+	<link itemprop="sameAs" href="https://www.yelp.de/biz/nationalpark-hotel-schliffkopf-baiersbronn" />
+	<link itemprop="logo" href="http://www.schliffkopf.de/media/25326/schliffkopf-logo-1294683.jpg" />
+	<div itemtype="http://schema.org/AggregateRating" itemscope="itemscope" itemprop="aggregateRating">
+		<meta itemprop="ratingValue" content="92%" />
+		<meta itemprop="bestRating" content="100%" />
+		<meta itemprop="ratingCount" content="1120" />
+	</div>
+</div>]]></content:html1>
+<content:legal-privacy-hint cookie-accepted = "false" id = "461482" page-content-id = "461482" page-content-type = "90" page-content-entail = "1" page-content-order = "0" page-content-group = "0" page-content-changed-date = "2015-07-28 17:13:11" cacheable = "true"><settings><legal_privacy_tao><website_setting_id>5275</website_setting_id>
+<website_setting_customer>3146</website_setting_customer>
+<website_setting_website>351</website_setting_website>
+<website_setting_name>legal_privacy_tao</website_setting_name>
+<website_setting_value>1</website_setting_value>
+</legal_privacy_tao>
+<legal_privacy_google_analytics><website_setting_id>5276</website_setting_id>
+<website_setting_customer>3146</website_setting_customer>
+<website_setting_website>351</website_setting_website>
+<website_setting_name>legal_privacy_google_analytics</website_setting_name>
+<website_setting_value>1</website_setting_value>
+</legal_privacy_google_analytics>
+<legal_privacy_facebook><website_setting_id>5277</website_setting_id>
+<website_setting_customer>3146</website_setting_customer>
+<website_setting_website>351</website_setting_website>
+<website_setting_name>legal_privacy_facebook</website_setting_name>
+<website_setting_value>1</website_setting_value>
+</legal_privacy_facebook>
+<legal_country><website_setting_id>5290</website_setting_id>
+<website_setting_customer>3146</website_setting_customer>
+<website_setting_website>351</website_setting_website>
+<website_setting_name>legal_country</website_setting_name>
+<website_setting_value>DE</website_setting_value>
+</legal_country>
+<legal_org_name><website_setting_id>5291</website_setting_id>
+<website_setting_customer>3146</website_setting_customer>
+<website_setting_website>351</website_setting_website>
+<website_setting_name>legal_org_name</website_setting_name>
+<website_setting_value>Nationalpark-Hotel Schliffkopf</website_setting_value>
+</legal_org_name>
+<legal_org_subname><website_setting_id>5292</website_setting_id>
+<website_setting_customer>3146</website_setting_customer>
+<website_setting_website>351</website_setting_website>
+<website_setting_name>legal_org_subname</website_setting_name>
+<website_setting_value>B&amp;F Hotelbetriebs AG &amp; Co. KG</website_setting_value>
+</legal_org_subname>
+<legal_org_street><website_setting_id>5293</website_setting_id>
+<website_setting_customer>3146</website_setting_customer>
+<website_setting_website>351</website_setting_website>
+<website_setting_name>legal_org_street</website_setting_name>
+<website_setting_value>Schwarzwaldhochstrasse</website_setting_value>
+</legal_org_street>
+<legal_org_zip><website_setting_id>5294</website_setting_id>
+<website_setting_customer>3146</website_setting_customer>
+<website_setting_website>351</website_setting_website>
+<website_setting_name>legal_org_zip</website_setting_name>
+<website_setting_value>72270</website_setting_value>
+</legal_org_zip>
+<legal_org_city><website_setting_id>5295</website_setting_id>
+<website_setting_customer>3146</website_setting_customer>
+<website_setting_website>351</website_setting_website>
+<website_setting_name>legal_org_city</website_setting_name>
+<website_setting_value>Schliffkopf (Baiersbronn)</website_setting_value>
+</legal_org_city>
+<legal_org_email><website_setting_id>5296</website_setting_id>
+<website_setting_customer>3146</website_setting_customer>
+<website_setting_website>351</website_setting_website>
+<website_setting_name>legal_org_email</website_setting_name>
+<website_setting_value>info@schliffkopf.de</website_setting_value>
+</legal_org_email>
+<legal_org_phone><website_setting_id>5297</website_setting_id>
+<website_setting_customer>3146</website_setting_customer>
+<website_setting_website>351</website_setting_website>
+<website_setting_name>legal_org_phone</website_setting_name>
+<website_setting_value>+49 (0) 7449 920-0</website_setting_value>
+<website_setting_value_normalized>+4974499200</website_setting_value_normalized>
+</legal_org_phone>
+<legal_org_fax><website_setting_id>5298</website_setting_id>
+<website_setting_customer>3146</website_setting_customer>
+<website_setting_website>351</website_setting_website>
+<website_setting_name>legal_org_fax</website_setting_name>
+<website_setting_value>+49 (0) 7449 920-199</website_setting_value>
+</legal_org_fax>
+<legal_org_manager><website_setting_id>5303</website_setting_id>
+<website_setting_customer>3146</website_setting_customer>
+<website_setting_website>351</website_setting_website>
+<website_setting_name>legal_org_manager</website_setting_name>
+<website_setting_value>Heiko Fahrner</website_setting_value>
+</legal_org_manager>
+<legal_org_content_charge><website_setting_id>5304</website_setting_id>
+<website_setting_customer>3146</website_setting_customer>
+<website_setting_website>351</website_setting_website>
+<website_setting_name>legal_org_content_charge</website_setting_name>
+<website_setting_value>B&amp;F Hotelbetriebs AG &amp; Co. KG</website_setting_value>
+</legal_org_content_charge>
+<legal_org_uid><website_setting_id>5305</website_setting_id>
+<website_setting_customer>3146</website_setting_customer>
+<website_setting_website>351</website_setting_website>
+<website_setting_name>legal_org_uid</website_setting_name>
+<website_setting_value>DE 244602599</website_setting_value>
+</legal_org_uid>
+<legal_disput_link><website_setting_id>12304</website_setting_id>
+<website_setting_customer>3146</website_setting_customer>
+<website_setting_website>351</website_setting_website>
+<website_setting_name>legal_disput_link</website_setting_name>
+<website_setting_value>1</website_setting_value>
+</legal_disput_link>
+</settings>
+<content:legal-imprint-phone></content:legal-imprint-phone>
+</content:legal-privacy-hint>
+</site:content-item>
+<site:content-item name = "gallery" id = "7683"><content:gallery id = "266166" type = "slideshow-customized" page-content-id = "266166" page-content-type = "54" page-content-entail = "1" page-content-order = "0" page-content-group = "0" page-content-changed-date = "2016-06-24 12:46:17" cacheable = "true"><gallery><mcg_id>22865</mcg_id>
+<mcg_content>266166</mcg_content>
+<mcg_name></mcg_name>
+<mcg_subtitle></mcg_subtitle>
+<mcg_media_folder>36954</mcg_media_folder>
+<mcg_list_cols>0</mcg_list_cols>
+<mcg_list_rows>0</mcg_list_rows>
+<mcg_list_height>0</mcg_list_height>
+<mcg_list_width>0</mcg_list_width>
+<mcg_detail_height>0</mcg_detail_height>
+<mcg_detail_width>0</mcg_detail_width>
+<mcg_slideshow>0</mcg_slideshow>
+<mcg_slideshow_order>1</mcg_slideshow_order>
+<mcg_slideshow_transition>0</mcg_slideshow_transition>
+<mcg_slideshow_easing>0</mcg_slideshow_easing>
+<mcg_slideshow_time>1</mcg_slideshow_time>
+<mcg_slideshow_time_pause>5</mcg_slideshow_time_pause>
+<mcg_send>0</mcg_send>
+<mcg_send_confirm>0</mcg_send_confirm>
+<mcg_print>0</mcg_print>
+<mcg_print_service>0</mcg_print_service>
+<mcg_download>0</mcg_download>
+<mcg_lightbox>0</mcg_lightbox>
+<mcg_download_sizes>0</mcg_download_sizes>
+<mcg_start_view>4</mcg_start_view>
+<mcg_watermark_thumb_image>0</mcg_watermark_thumb_image>
+<mcg_watermark_thumb_pos>0</mcg_watermark_thumb_pos>
+<mcg_watermark_detail_image>0</mcg_watermark_detail_image>
+<mcg_watermark_detail_pos>0</mcg_watermark_detail_pos>
+<mcg_html_text>0</mcg_html_text>
+<mcg_nuke_contents>1</mcg_nuke_contents>
+<mcg_multilanguage>0</mcg_multilanguage>
+</gallery>
+<gallery-items><int-0><mcgi_gallery>22865</mcgi_gallery>
+<mcgi_media>1096662</mcgi_media>
+<mcgi_name></mcgi_name>
+<mcgi_text></mcgi_text>
+<mcgi_alt>Hotel Schliffkopf in Baiersbronn mit Wiese</mcgi_alt>
+<mcgi_order>1</mcgi_order>
+<mcgi_show>1</mcgi_show>
+<media_file_id>1096662</media_file_id>
+<media_file_folder>36955</media_file_folder>
+<media_file_customer>3146</media_file_customer>
+<media_file_name>header-hotel</media_file_name>
+<media_file_description></media_file_description>
+<media_file_type>jpg</media_file_type>
+<media_file_source>0</media_file_source>
+<media_file_changed>2014-02-05 16:36:23</media_file_changed>
+<media_file_mime>image/jpeg</media_file_mime>
+<media_file_size>1277942</media_file_size>
+<media_file_width>3008</media_file_width>
+<media_file_height>1891</media_file_height>
+<media_file_duration>0</media_file_duration>
+<media_file_fps>0</media_file_fps>
+<media_file_codec_audio></media_file_codec_audio>
+<media_file_codec_video></media_file_codec_video>
+<media_file_bandwidth>0</media_file_bandwidth>
+<media_file_class>1</media_file_class>
+<media_file_deleted>0000-00-00 00:00:00</media_file_deleted>
+<rem>0</rem>
+<pois></pois>
+<mcgi_text_full></mcgi_text_full>
+</int-0>
+<int-1><mcgi_gallery>22865</mcgi_gallery>
+<mcgi_media>1531738</mcgi_media>
+<mcgi_name></mcgi_name>
+<mcgi_text></mcgi_text>
+<mcgi_alt></mcgi_alt>
+<mcgi_order>2</mcgi_order>
+<mcgi_show>1</mcgi_show>
+<media_file_id>1531738</media_file_id>
+<media_file_folder>48549</media_file_folder>
+<media_file_customer>3146</media_file_customer>
+<media_file_name>schmetterling</media_file_name>
+<media_file_description></media_file_description>
+<media_file_type>jpg</media_file_type>
+<media_file_source>0</media_file_source>
+<media_file_changed>2016-06-24 12:23:29</media_file_changed>
+<media_file_mime>image/jpeg</media_file_mime>
+<media_file_size>1125529</media_file_size>
+<media_file_width>4000</media_file_width>
+<media_file_height>2455</media_file_height>
+<media_file_duration>0</media_file_duration>
+<media_file_fps>0</media_file_fps>
+<media_file_codec_audio></media_file_codec_audio>
+<media_file_codec_video></media_file_codec_video>
+<media_file_bandwidth>0</media_file_bandwidth>
+<media_file_class>1</media_file_class>
+<media_file_deleted>0000-00-00 00:00:00</media_file_deleted>
+<rem>0</rem>
+<pois></pois>
+<mcgi_text_full></mcgi_text_full>
+</int-1>
+<int-2><mcgi_gallery>22865</mcgi_gallery>
+<mcgi_media>1501230</mcgi_media>
+<mcgi_name></mcgi_name>
+<mcgi_text></mcgi_text>
+<mcgi_alt></mcgi_alt>
+<mcgi_order>3</mcgi_order>
+<mcgi_show>1</mcgi_show>
+<media_file_id>1501230</media_file_id>
+<media_file_folder>48549</media_file_folder>
+<media_file_customer>3146</media_file_customer>
+<media_file_name>_mg_3322</media_file_name>
+<media_file_description></media_file_description>
+<media_file_type>jpg</media_file_type>
+<media_file_source>0</media_file_source>
+<media_file_changed>2016-04-08 13:57:27</media_file_changed>
+<media_file_mime>image/jpeg</media_file_mime>
+<media_file_size>6389599</media_file_size>
+<media_file_width>5120</media_file_width>
+<media_file_height>3413</media_file_height>
+<media_file_duration>0</media_file_duration>
+<media_file_fps>0</media_file_fps>
+<media_file_codec_audio></media_file_codec_audio>
+<media_file_codec_video></media_file_codec_video>
+<media_file_bandwidth>0</media_file_bandwidth>
+<media_file_class>1</media_file_class>
+<media_file_deleted>0000-00-00 00:00:00</media_file_deleted>
+<rem>0</rem>
+<pois></pois>
+<mcgi_text_full></mcgi_text_full>
+</int-2>
+<int-3><mcgi_gallery>22865</mcgi_gallery>
+<mcgi_media>1531706</mcgi_media>
+<mcgi_name></mcgi_name>
+<mcgi_text></mcgi_text>
+<mcgi_alt></mcgi_alt>
+<mcgi_order>4</mcgi_order>
+<mcgi_show>1</mcgi_show>
+<media_file_id>1531706</media_file_id>
+<media_file_folder>48549</media_file_folder>
+<media_file_customer>3146</media_file_customer>
+<media_file_name>2016-06-10-100435</media_file_name>
+<media_file_description></media_file_description>
+<media_file_type>jpg</media_file_type>
+<media_file_source>0</media_file_source>
+<media_file_changed>2016-06-24 12:03:38</media_file_changed>
+<media_file_mime>image/jpeg</media_file_mime>
+<media_file_size>2446218</media_file_size>
+<media_file_width>4032</media_file_width>
+<media_file_height>3024</media_file_height>
+<media_file_duration>0</media_file_duration>
+<media_file_fps>0</media_file_fps>
+<media_file_codec_audio></media_file_codec_audio>
+<media_file_codec_video></media_file_codec_video>
+<media_file_bandwidth>0</media_file_bandwidth>
+<media_file_class>1</media_file_class>
+<media_file_deleted>0000-00-00 00:00:00</media_file_deleted>
+<rem>0</rem>
+<pois></pois>
+<mcgi_text_full></mcgi_text_full>
+</int-3>
+<int-4><mcgi_gallery>22865</mcgi_gallery>
+<mcgi_media>1531786</mcgi_media>
+<mcgi_name></mcgi_name>
+<mcgi_text></mcgi_text>
+<mcgi_alt></mcgi_alt>
+<mcgi_order>5</mcgi_order>
+<mcgi_show>1</mcgi_show>
+<media_file_id>1531786</media_file_id>
+<media_file_folder>48549</media_file_folder>
+<media_file_customer>3146</media_file_customer>
+<media_file_name>_mg_3461</media_file_name>
+<media_file_description></media_file_description>
+<media_file_type>jpg</media_file_type>
+<media_file_source>0</media_file_source>
+<media_file_changed>2016-06-24 12:46:09</media_file_changed>
+<media_file_mime>image/jpeg</media_file_mime>
+<media_file_size>1449387</media_file_size>
+<media_file_width>2636</media_file_width>
+<media_file_height>1479</media_file_height>
+<media_file_duration>0</media_file_duration>
+<media_file_fps>0</media_file_fps>
+<media_file_codec_audio></media_file_codec_audio>
+<media_file_codec_video></media_file_codec_video>
+<media_file_bandwidth>0</media_file_bandwidth>
+<media_file_class>1</media_file_class>
+<media_file_deleted>0000-00-00 00:00:00</media_file_deleted>
+<rem>0</rem>
+<pois></pois>
+<mcgi_text_full></mcgi_text_full>
+</int-4>
+</gallery-items>
+<options></options>
+<gallery-strings><string name = "diashow">Diashow</string>
+<string name = "diashow.start">Diashow starten</string>
+<string name = "remember">Merken</string>
+<string name = "nav.back">zur&#x00fc;ck</string>
+<string name = "nav.next">weiter</string>
+<string name = "remember.pictures">Gemerkte Bilder</string>
+<string name = "remember.send">an Freunde versenden</string>
+<string name = "remember.print">drucken</string>
+<string name = "remember.download.all">Alle Bilder herunterladen</string>
+<string name = "remember.delete">löschen</string>
+<string name = "remember.res.low">niedrig</string>
+<string name = "remember.res.high">hoch</string>
+<string name = "remember.original">orginal</string>
+<string name = "remember.noimage">Es sind keine Bilder ausgewählt</string>
+<string name = "download">herunterladen</string>
+<string name = "pictures.recommended">Empfohlene Bilder</string>
+</gallery-strings>
+</content:gallery>
+</site:content-item>
+<site:content-item name = "footer-2" id = "7691"><content:article1 id = "266171" xml = "true" page-content-id = "266171" page-content-type = "20" page-content-entail = "1" page-content-order = "0" page-content-group = "0" page-content-changed-date = "2015-02-27 08:51:05" cacheable = "true"><xml><span class="h1">Service-Links<br /></span><a href="/de/zimmer-preise/anfrage/">Anfrage</a><br />
+<a href="/de/service/pressebereich/newsletter/">Newsletter</a><br />
+<a href="/de/service/lage-anfahrt/">Lage &amp; Anfahrt</a><br />
+<a href="/de/zimmer-preise/katalog/">Katalog</a><br />
+<a href="/de/service/agb/">AGB</a><br />
+<a href="/de/service/impressum/">Impressum</a><br />
+<a href="/de/service/datenschutz/">Datenschutz</a><br />
+<a href="/de/service/sitemap/">Sitemap</a></xml>
+</content:article1>
+</site:content-item>
+<site:content-item name = "menu" id = "7684"><content:menu1 id = "266172" level = "1" start = "0" page-content-id = "266172" page-content-type = "19" page-content-entail = "1" page-content-order = "0" page-content-group = "0" page-content-changed-date = "2014-01-27 10:57:54"></content:menu1>
+<content:article1 id = "618004" xml = "true" page-content-id = "618004" page-content-type = "20" page-content-entail = "0" page-content-order = "0" page-content-group = "0" page-content-changed-date = "2016-05-19 17:48:52" cacheable = "true"><xml><img alt="4 Sterne Superior Wellnesshotel Schliffkopf im Nationalpark Schwarzwald" src="/media/36955/mg-3476-1502061.jpg" border="0" height="350" width="960" />
+<div class="highlight">
+<h1>4*S Wellnesshotel im Nationalpark Schwarzwald</h1>
+<span>Höchste Entspannung auf 1.025 m über dem Alltag</span></div>
+</xml>
+</content:article1>
+</site:content-item>
+<site:content-item name = "submenu" id = "7686"><content:menu1 id = "266173" level = "1" start = "0" page-content-id = "266173" page-content-type = "19" page-content-entail = "1" page-content-order = "0" page-content-group = "0" page-content-changed-date = "2014-05-09 17:00:24"></content:menu1>
+</site:content-item>
+<site:content-item name = "logo" id = "7681"><content:article1 id = "266186" xml = "true" page-content-id = "266186" page-content-type = "20" page-content-entail = "1" page-content-order = "0" page-content-group = "0" page-content-changed-date = "2015-01-20 11:15:29" cacheable = "true"><xml><p align="center"><img alt="" src="/media/25326/schliffkopf-logo-1294683.jpg" height="131" width="220" border="0" /></p>
+</xml>
+</content:article1>
+</site:content-item>
+<site:content-item name = "footer-5" id = "8809"><content:html1 id = "303245" xml = "true" page-content-id = "303245" page-content-type = "97" page-content-entail = "1" page-content-order = "0" page-content-group = "0" page-content-changed-date = "2015-06-03 13:17:27" cacheable = "true"><xml>
+<span class="h1">Bewertungen</span><a href="http://hotel-barometer.com/schliffkopf-wellness-natur-hotel-403/detail.html" onclick="this.target='_blank'"><img src="//hotel-barometer.com/schliffkopf-wellness-natur-hotel-403/signet.png?summary=1&amp;width=130" alt="Hotel Barometer" /></a>
+</xml>
+</content:html1>
+<content:html1 id = "385635" xml = "true" page-content-id = "385635" page-content-type = "97" page-content-entail = "1" page-content-order = "0" page-content-group = "0" page-content-changed-date = "2014-03-12 11:57:10" cacheable = "true"><xml>
+</xml>
+</content:html1>
+<content:html1 id = "618005" xml = "true" page-content-id = "618005" page-content-type = "97" page-content-entail = "0" page-content-order = "0" page-content-group = "0" page-content-changed-date = "2016-04-29 14:43:48" cacheable = "true"><xml><style type="text/css">
+/*<![CDATA[*/
+        div.site_menu-lvl-1 {background: #C6AD98;}
+        div.site_menu-lvl-1 div.article, #site_main_content .imagebox {position: relative; top: 0; margin: 30px 0 0; line-height: 0;}
+        div.site_menu-lvl-1 div.article div.highlight, #site_main_content .imagebox .highlight {position: absolute; bottom: 20px; background: #f6f6f6; padding: 6px 12px 6px 30px; line-height: 24px;}
+        div.site_menu-lvl-1 div.article div.highlight h1, div.site_menu-lvl-1 div.article div.highlight h2, #site_main_content .imagebox .highlight h1, #site_main_content .imagebox .highlight h2, #site_main_content .imagebox .highlight h3, div.site_menu-lvl-1 div.article div.highlight span {color: #4E4E4E;}
+        div.site_menu-lvl-1 div.article div.highlight span {font-size: 18px; font-family: "quicksandregular",sans-serif; font-weight: normal;}
+        div.site_menu-lvl-1 div.article div.highlight ul, #site_main_content .imagebox .highlight ul {padding-top: 0;}
+        div.site_menu-lvl-1 div.article div.highlight ul li, #site_main_content .imagebox .highlight ul li {float: left; padding: 0 24px 0 12px;}
+        #site_main_content ul.boxlinks {padding-top: 0; margin-bottom: 50px;}
+        #site_main_content ul.boxlinks li {float: left; background: #f6f6f6; color: #4e4e4e; box-sizing: border-box; padding-left: 0;}
+        #site_main_content ul.boxlinks li.width100 {width: 100%;}
+        #site_main_content ul.boxlinks li.width50 {width: 50%;}
+        #site_main_content ul.boxlinks li.width33 {width: 33%;}
+        #site_main_content ul.boxlinks li.width25 {width: 25%;}
+        #site_main_content ul.boxlinks li.width20 {width: 20%;}
+        #site_main_content ul.boxlinks li a {color: #4e4e4e; text-decoration: none; font-weight: bold; display: inline-block; width: 100%; text-align: center; padding: 10px 0; font-family: "quicksandregular",sans-serif; font-weight: normal; transition: all 0.3s ease 0s;}
+        #site_main_content ul.boxlinks li a:hover {background: #D07113; color: #fff;}
+        #site_main_content ul.boxlinks::after {display: block; clear: both;}
+        div.themes div {background-color: #f6f6f6; font-family: "quicksandregular",sans-serif; transition: all 0.3s ease 0s;}
+        div.themes div a {color: #4e4e4e; font-weight: normal;}
+        div.themes div:hover {background: #D07113;}
+        div.themes div:hover a {color: #fff;}
+/*]]>*/
+</style>
+</xml>
+</content:html1>
+</site:content-item>
+<site:content-item name = "metanav" id = "7682"><content:article1 id = "303712" xml = "true" page-content-id = "303712" page-content-type = "20" page-content-entail = "1" page-content-order = "0" page-content-group = "0" page-content-changed-date = "2016-04-29 14:27:34" cacheable = "true"><xml><a class="tel" href="tel:+4974499200"><span>+49 (0) 7449 - 920-0</span></a>&#160;&#160; &#160; <a class="mailto" href="mailto:info@schliffkopf.de">info@schliffkopf.de</a>&#160; &#160;&#160; <a href="/de/service/lage-anfahrt/">Anfahrt</a></xml>
+</content:article1>
+</site:content-item>
+<site:content-item name = "overlay2" id = "10002"><content:article1 id = "348683" xml = "true" page-content-id = "348683" page-content-type = "20" page-content-entail = "1" page-content-order = "0" page-content-group = "0" page-content-changed-date = "2013-07-02 16:20:07" cacheable = "true"><xml><a href="/de/service/schliffkopf-stammgast/gipfelpost/"><img alt="" src="/media/0/gipfelpost-950606.png" border="0" height="163" width="274" /></a></xml>
+</content:article1>
+</site:content-item>
+<site:content-item name = "auxbox" id = "7687"><content:article1 id = "480670" xml = "true" page-content-id = "480670" page-content-type = "20" page-content-entail = "0" page-content-order = "0" page-content-group = "0" page-content-changed-date = "2015-10-31 13:30:59" cacheable = "true"><xml><a href="/de/hotel-schliffkopf/eventkalender/"><strong>Schliffkopf-Kalender</strong></a><a href="/de/hotel-schliffkopf/eventkalender/"><br /></a>Alle Themen-Angebote und Veranstaltungen im Überblick:<br />
+<a href="/de/hotel-schliffkopf/eventkalender/"><img alt="" border="0" src="/media/26363/schliffkopf-kalender-v1-1275567.jpg" width="150" height="71" /></a></xml>
+</content:article1>
+</site:content-item>
+<site:content-item name = "content" id = "7685"><content:article1 id = "618006" xml = "true" page-content-id = "618006" page-content-type = "20" page-content-entail = "0" page-content-order = "0" page-content-group = "0" page-content-changed-date = "2016-07-26 10:54:27" cacheable = "true"><xml><div class="themes" style="padding: 0 0 12px;">
+<div><a href="/de/zimmer-preise/"><img alt="Zimmer und Suiten im 4 Sterne Hotel Schliffkopf in Baiersbronn" width="130" height="80" src="/media/26361/mg-9599-zimmer-retusche-713632.jpg" border="0" />Zimmer &amp; Suiten</a></div>
+<div><a href="/de/zimmer-preise/arrangements/"><img alt="Urlaub in Baiersbronn im Schwarzwald buchen" width="130" height="80" src="/media/26361/hoehepunkte-915694.jpg" border="0" />Urlaubsangebote</a></div>
+<div><a href="/de/zimmer-preise/inklusivleistungen/"><img alt="Inklusivleistungen im 4 Sterne Hotel Schliffkopf in Baiersbronn" width="130" height="80" src="/media/25899/babf00138gr-1510657.jpg" border="0" />Inklusivleistungen</a></div>
+<div><a href="/de/zimmer-preise/arrangements/last-minute/"><img alt="Last Minute Urlaub im Schwarzwald buchen" width="130" height="80" src="/media/26361/mg-0715-1d-713631.jpg" border="0" />Last Minute</a></div>
+</div>
+<p>Mit jeder Kehre, die Sie höher in den Schwarzwald und zu unserem Wellensshotel bringt, kommen Sie Ihrer Erholung näher. Am Schliffkopf sind Sie dann auf 1.025 Metern am Ziel. Dort steht unser 4-Sterne-Superior-Hotel mitten in der Natur, in einer großartigen Schwarzwaldlandschaft. Und dort erwarten Sie die Familie Fahrner und das gesamte Schliffkopf-Team zu einem Urlaub im Zeichen von Entspannung, kulinarischem Spitzengenuss und Wellness im Schwarzwald!</p>
+<div class="imagebox"><a href="/de/hotel-schliffkopf/"><img alt="4 Sterne Superior Hotel Schliffkopf in Baiersbronn im Schwarzwald" width="650" height="237" src="/media/48549/header-startseite-aussicht-1502702.jpg" border="0" /></a>
+<div class="highlight">
+<h2>Hotel Schliffkopf: Eingebettet in die Natur des Schwarzwalds</h2>
+</div>
+</div>
+<ul class="boxlinks">
+<li class="width25"><a href="/de/hotel-schliffkopf/">Über uns</a></li>
+<li class="width25"><a href="/de/hotel-schliffkopf/familie-fahrner-team/">Gastgeber</a></li>
+<li class="width25"><a href="/de/hotel-schliffkopf/auszeichnungen/">Auszeichnungen</a></li>
+<li class="width25"><a href="/de/hotel-schliffkopf/bildergalerie/">Bildergalerie</a></li>
+</ul>
+<p>Eingebettet in Deutschlands größtem Naturpark, inmitten des Naturschutzgebiets Schliffkopf, verbunden durch die schönste Ferienstraße, der Schwarzwaldhochstraße, genau hier liegt die „Kulisse Ruhestein“ des Nationalparks Schwarzwald. Es ist die Heimat seltener Pflanzen und Tiere, Lebensraum für Auerhahn, Rothirsch und Kreuzotter, aber auch für die weithin bekannten Weiderinder des Schwarzwalds.<br />
+&#160;</p>
+<p>Was für ein Erlebnis, beim Wandern &amp; Walken, beim Biken und Wintersport im Schwarzwald aktiv zu sein – und dabei von herrlichen Weitblicken über die Rheinebene hinweg bis zu den Vogesen, ja sogar den Alpen begleitet zu werden! Das Nationalpark-Hotel Schliffkopf und der Nationalpark Schwarzwald: eine einmalige, eine einzigartige Symbiose!<br />
+<br /></p>
+<div class="imagebox"><a href="/de/bergspa/"><img alt="Wellness im BergSPA im Hotel Schliffkopf in Baiersbronn" width="648" height="237" src="/media/36955/hamam3-1547171.jpg" border="0" /></a>
+<div class="highlight">
+<h2>Wellness im Schwarzwald – für Körper, Geist &amp; Seele</h2>
+</div>
+</div>
+<ul class="boxlinks">
+<li class="width25"><a href="/de/bergspa/">BergSPA</a></li>
+<li class="width25"><a href="/de/bergspa/anwendungen/">Wellnessanwendungen</a></li>
+<li class="width25"><a href="/de/bergspa/dayspa/dayspa/">DaySpa</a></li>
+<li class="width25"><a href="/de/zimmer-preise/arrangements/spa-package/">Wellnesspauschalen</a></li>
+</ul>
+<p>Das Nationalpark-Hotel Schliffkopf zählt als 4-Sterne-Superior-Hotel zu den namhaften Wellness-Hotels Deutschlands. Unser BergSPA ist mit seiner klar designten Saunalandschaft, dem Hallenbad und dem Außenpool ganz darauf ausgerichtet, dass Sie zur Ruhe kommen und Kraft auftanken. Für Fitness-Liebhaber und Gesundheitsbewusste bieten wir zudem ein umfangreiches WohlFit-Programm und eine Naturheilpraxis.<br />
+&#160;</p>
+<p>Das Schliffkopf Hotel ist gleich mit 5 Wellness-Stars des Landes Baden-Württemberg ausgezeichnet. Und das garantiert Wesentliches – Körper und Seele erhalten hier inneren Ausgleich und Erholung.<br />
+&#160;</p>
+<h3>Wellnesshotel bei Baiersbronn – wo ganz besondere Werte ihre Bleibe haben</h3>
+<p>Im gastfreundlich geführten Haus der Familie Fahrner haben ganz besondere Werte ihre Bleibe gefunden: Aufmerksamkeit, Gastfreundschaft und die Freude am Wohlergehen der Besucher. Wir nehmen uns gerne Zeit für Sie! Genießen Sie bei uns nicht nur feinste Kulinarik und Wellness, sondern auch die behagliche familiäre Atmosphäre im Schliffkopf, dem renommierten 4-Sterne-Superior-Wellnesshotel im Schwarzwald, mitten in der Natur!<br />
+<br /></p>
+<div class="imagebox"><a href="/de/kulinarik/"><img alt="Genuss und Kulinarik in den Restaurants des Hotel Schliffkopf in Baiersbronn" width="650" height="237" src="/media/36961/mg-0645-2-1502704.jpg" border="0" /></a>
+<div class="highlight">
+<h2>Genuss &amp; Kulinarik im Nationalpark-Hotel Schliffkopf</h2>
+</div>
+</div>
+<ul class="boxlinks">
+<li class="width25"><a href="/de/kulinarik/restaurants/">Restaurants</a></li>
+<li class="width25"><a href="/de/kulinarik/speisenkarten/">Speisekarten</a></li>
+<li class="width25"><a href="/de/kulinarik/getraenkekarten/">Getränkekarten</a></li>
+<li class="width25"><a href="/de/kulinarik/feierlichkeiten/">Feiern</a></li>
+</ul>
+<p>Dass eine Hotelküche ein Ort sein kann, an dem Essenskultur nicht nur stattfindet, sondern zelebriert wird, schmecken Sie in den Restaurants des Nationalpark-Hotel Schliffkopf. Unserem Küchenteam sind nicht nur Rezepte wichtig oder die Umsetzung eigener Kreationen. Von mindestens ebenso großer Bedeutung ist das Wissen um Zutaten, Rohstoffe und vor allen um deren Herkunft und Qualität.<br />
+Aus diesem Grund ist auch die <strong>Schliffkopf Dreiviertel-Pension</strong> schon innerhalb der Übernachtungspreise <strong>inklusive</strong>. So können Sie sich in Ihrem Urlaub im Schwarzwald voll und ganz auf Ihre Erholung und Entspannung konzentrieren.<br />
+&#160;</p>
+<div class="imagebox"><a href="/de/aktiv-vital/"><img alt="Aktivurlaub im Schwarzwald im 4 Sterne Hotel Schliffkopf in Baiersbronn" width="650" height="237" src="/media/36962/outdoor-aktiv-1502705.jpg" border="0" /></a>
+<div class="highlight">
+<h2>Urlaub im Schwarzwald - Aktiv und vital</h2>
+</div>
+</div>
+<ul class="boxlinks">
+<li class="width25"><a href="/de/aktiv-vital/sommer/">Sommerurlaub</a></li>
+<li class="width25"><a href="/de/aktiv-vital/winter/">Winterurlaub</a></li>
+<li class="width25"><a href="/de/aktiv-vital/fitness/">Fitness</a></li>
+<li class="width25"><a href="/de/zimmer-preise/arrangements/aktiv/">Aktivpauschalen</a></li>
+</ul>
+<p>Ob Frühling, Sommer, Herbst oder Winter, der <strong>Naturpark Schwarzwald Mitte/Nord</strong> ist nicht nur der größte Naturpark Deutschlands, er hat auch jede Menge zu bieten. Gerade hier auf dem Schliffkopf, wo unser gleichnamiges Schwarzwaldhotel sein Zuhause hat, hat&#160;jede Jahreszeit&#160;ihren besonderen Charme und lässt für Sportfans nichts zu wünschen übrig! Inmitten des Naturschutzgebiets locken schon im Frühling die ersten Sonnenstrahlen zu gemütlichen Spaziergängen in die Natur. Sowohl der sommerliche als auch der herbstliche Schwarzwald laden zu ausgedehnten <strong>Wanderungen</strong> ein. Und wer gerne etwas flotter unterwegs ist, der steigt auf eines unserer <strong>Leih-Fahrräder.<br />
+<br /></strong> Im&#160;Winter wird dann das, was im&#160;Sommer ein Wanderweg ist,&#160;zur wunderschönen <strong>Loipe</strong> und etliche Berghänge entlang der Schwarzwaldhochstraße verwandeln sich in <strong>Skipisten</strong>. Ein Winterspaß der ganz besonderen Art ist es, mit <strong>Schneeschuhen</strong>&#160;durch den Schwarzwald&#160;zu stapfen.<br />
+<br />
+<strong>Ob auf eigene Faust oder in der Gruppe: Genießen Sie zu jeder Jahreszeit das Hotel Schliffkopf und seine Umgebung in Ihrem Urlaub im Schwarzwald!</strong></p>
+</xml>
+</content:article1>
+</site:content-item>
+<site:content-item name = "themes" id = "7688"><content:article1 id = "618007" xml = "true" page-content-id = "618007" page-content-type = "20" page-content-entail = "0" page-content-order = "0" page-content-group = "0" page-content-changed-date = "2016-04-29 14:46:32" cacheable = "true"><xml><a href="/de/zimmer-preise/"><img alt="Zimmer und Suiten im 4 Sterne Hotel Schliffkopf in Baiersbronn" src="/media/26361/mg-9599-zimmer-retusche-713632.jpg" height="80" border="0" width="130" />Zimmer &amp; Suiten</a></xml>
+</content:article1>
+<content:article1 id = "618008" xml = "true" page-content-id = "618008" page-content-type = "20" page-content-entail = "0" page-content-order = "0" page-content-group = "0" page-content-changed-date = "2016-04-29 14:46:45" cacheable = "true"><xml><a href="/de/zimmer-preise/arrangements/"><img alt="Urlaub in Baiersbronn im Schwarzwald buchen" src="/media/26361/hoehepunkte-915694.jpg" height="80" border="0" width="130" />Urlaubsangebote</a></xml>
+</content:article1>
+<content:article1 id = "618009" xml = "true" page-content-id = "618009" page-content-type = "20" page-content-entail = "0" page-content-order = "0" page-content-group = "0" page-content-changed-date = "2016-05-19 17:51:08" cacheable = "true"><xml><a href="http://www.schwarzwald-nationalpark.de/aktuelles/" target="_blank"><img alt="Nationalpark Schwarzwald Website" src="/media/43172/img-1751-1510116.jpg" border="0" height="80" width="130" />Nationalpark</a></xml>
+</content:article1>
+<content:article1 id = "618010" xml = "true" page-content-id = "618010" page-content-type = "20" page-content-entail = "0" page-content-order = "0" page-content-group = "0" page-content-changed-date = "2016-05-19 17:52:18" cacheable = "true"><xml><a href="/de/service/wetter/"><img alt="Wetter und Webcam auf dem Schliffkopf in Baiersbronn im Schwarzwald" src="/media/28674/webcambild-mit-icons-798478.jpg" border="0" height="80" width="130" />Wetter &amp; Webcam</a></xml>
+</content:article1>
+</site:content-item>
+<site:content-item name = "overlay" id = "9408"><content:article1 id = "619764" xml = "true" page-content-id = "619764" page-content-type = "20" page-content-entail = "1" page-content-order = "0" page-content-group = "0" page-content-changed-date = "2016-08-03 10:22:54" cacheable = "true"><xml><a href="http://www.schliffkopf.de/de/cst/angebot-63368-basenfasten-die-wacker-methode.html"><img alt="" style="display: block; margin-left: auto; margin-right: auto;" src="/media/47559/logo4-1542181.jpg" border="0" height="60" width="242" /></a></xml>
+</content:article1>
+<content:article1 id = "578244" xml = "true" page-content-id = "578244" page-content-type = "20" page-content-entail = "1" page-content-order = "1" page-content-group = "0" page-content-changed-date = "2016-08-09 16:26:24" cacheable = "true"><xml><a href="/media/51143/grindenfest-1551234.pdf" target="_blank"><img alt="" src="/media/47559/kuhjpg-1539244.jpg" border="0" height="60" width="100" /></a><strong>&#160;</strong> <a href="/media/51143/grindenfest-1551234.pdf" target="_blank"><strong>Schliffkopf-Grindenfest<br />
+&#160; 20. / 21. Augsut 2016<br />
+&#160; in 1.025m Höhe<br /></strong></a></xml>
+</content:article1>
+<content:article1 id = "482364" xml = "true" page-content-id = "482364" page-content-type = "20" page-content-entail = "1" page-content-order = "2" page-content-group = "0" page-content-changed-date = "2016-08-03 10:21:31" cacheable = "true"><xml><strong><a href="http://www.schliffkopf.de/de/cst/angebot-62358-Nationalpark-Schnuppertage.html" target="_blank"><img alt="" src="/media/47559/wandern-1492253.jpg" height="60" border="0" width="104" /></a>&#160;&#160;<a href="http://www.schliffkopf.de/de/cst/angebot-62358-Nationalpark-Schnuppertage.html" target="_blank">Nationalpark-<br />
+&#160; Schnuppertage 2 ÜN</a></strong><br />
+<a href="http://www.schliffkopf.de/de/cst/angebot-62358-Nationalpark-Schnuppertage.html" target="_blank">&#160;&#160;01.04. - 18.10.2016</a></xml>
+</content:article1>
+</site:content-item>
+<site:content-item name = "logobar" id = "7694"><content:article1 id = "278790" xml = "true" page-content-id = "278790" page-content-type = "20" page-content-entail = "1" page-content-order = "1" page-content-group = "0" page-content-changed-date = "2016-07-18 14:41:04" cacheable = "true"><xml><br />
+<table class="site_footer" border="0" align="center">
+<tbody>
+<tr>
+<td><a href="https://www.basenfasten.de/" target="_blank"><img alt="" src="/media/25326/basenfasten-logo-weiss-1530515.png" border="0" height="53" width="165" /></a></td>
+<td><a href="https://www.tripadvisor.de/Hotel_Review-g187279-d844557-Reviews-Nationalpark_Hotel_Schliffkopf-Baiersbronn_Baden_Wurttemberg.html" target="_blank"><img alt="" src="/media/25325/print-logo-coe2016-de-1519309.jpg" border="0" height="102" width="101" /></a></td>
+<td><a href="http://www.wellnesshotels-resorts.de/de/wellness-natur-resort_schliffkopf_schliffkopf_baiersbronn_schwarzwaldhochstrasse_schwarzwald_baden-wuerttemberg/hotelinfo" target="_blank"><img alt="Wellness-Hotels &amp; Resorts" style="float: left;" src="/media/25326/wellness-icon-1065986.png" border="0" height="50" width="50" /></a></td>
+<td>&#160;<a href="http://www.wellness-stars.de/Hotels/Schliffkopf-Wellness-Natur-Hotel" target="_blank"><img alt="Wellness Stars Baden-Württemberg" src="/media/25326/wellness-stars-logo-weiss-1543982.png" border="0" width="120" height="55" /></a></td>
+<td><br />
+&#160;&#160;</td>
+<td style="text-align: center;" colspan="2" align="center" valign="middle"><a href="http://www.emas.de/" target="_blank"><img alt="EMAS Zertifizierter Betrieb" src="/media/25326/emas-logo-transp-weiss-klein-1213363.png" border="0" height="77" width="50" /></a></td>
+<td style="text-align: center;" colspan="2" align="center" valign="middle"><a href="http://www.kniebishuette.de/" target="_blank"><img alt="Kniebis-Hütte" src="/media/25326/kniebishuette-724723.png" border="0" height="63" width="152" /></a></td>
+<td><a href="http://www.skizirkus-unterstmatt.de/" target="_blank"><img alt="Skizirkus Unterstmatt" src="/media/25326/skizirkus-1543984.png" border="0" height="67" width="152" /></a></td>
+<td>&#160;<a href="http://www.vioma.de/" target="_blank"><img alt="Logo vioma" style="float: right;" src="/media/25326/vioma-solution-neg-farbe-1126949.png" border="0" height="37" width="60" /></a></td>
+</tr>
+</tbody>
+</table>
+<script src="http://www.jscache.com/wejs?wtype=certificateOfExcellence&amp;uniq=436&amp;locationId=844557&amp;lang=de&amp;year=2015&amp;display_version=2" type="text/javascript">
+</script></xml>
+</content:article1>
+</site:content-item>
+<site:content-item name = "footer-4" id = "7693"><content:article1 id = "409104" xml = "true" page-content-id = "409104" page-content-type = "20" page-content-entail = "1" page-content-order = "10" page-content-group = "0" page-content-changed-date = "2016-07-19 09:18:39" cacheable = "true"><xml><div style="text-align: center;"><span class="h1">Social Media<br /></span></div>
+</xml>
+</content:article1>
+<content:social-media layout = "layer" icon_set = "4" icon_size = "0" url-param-page-prev = "cms_sm_page[801]=CAUQAA&amp;cms_sm_page[535]=1471368872" id = "266169" page-content-id = "266169" page-content-type = "102" page-content-entail = "1" page-content-order = "20" page-content-group = "0" page-content-changed-date = "2016-07-19 09:18:39" cacheable = "true"><social-media><social_media_id>207</social_media_id>
+<social_media_page_content>266169</social_media_page_content>
+<social_media_display_layout>1</social_media_display_layout>
+<social_media_display_size>0</social_media_display_size>
+<social_media_display_icons>4</social_media_display_icons>
+<social_media_display_icon_size>0</social_media_display_icon_size>
+<social_media_display_layer_color>0</social_media_display_layer_color>
+<social_media_display_layer_position_y>0</social_media_display_layer_position_y>
+<social_media_display_layer_position_x>0</social_media_display_layer_position_x>
+</social-media>
+<sources><content:social-media-source-qype url-absolute = "http://www.yelp.de/biz/nationalpark-hotel-schliffkopf-baiersbronn" url = "social-media-source-1709.html" url-ajax = "/(cms)/module/pass/102/source/207/1709/986/de"><settings><social_media_source_id>1709</social_media_source_id>
+<social_media_source_social_media>207</social_media_source_social_media>
+<social_media_source_type>10</social_media_source_type>
+<social_media_source_order>-3</social_media_source_order>
+<social_media_source_foreign></social_media_source_foreign>
+<social_media_source_api_call></social_media_source_api_call>
+<social_media_source_url>http://www.yelp.de/biz/nationalpark-hotel-schliffkopf-baiersbronn</social_media_source_url>
+<social_media_source_count>0</social_media_source_count>
+<social_media_source_title></social_media_source_title>
+<social_media_source_layout>0</social_media_source_layout>
+<social_media_source_image>0</social_media_source_image>
+<social_media_source_option>0</social_media_source_option>
+<social_media_source_color>0</social_media_source_color>
+<social_media_source_font>0</social_media_source_font>
+<social_media_source_width>0</social_media_source_width>
+<social_media_source_text></social_media_source_text>
+<social_media_source_displayname>0</social_media_source_displayname>
+<social_media_source_displayname_text></social_media_source_displayname_text>
+<social_media_source_secure>0</social_media_source_secure>
+<social_media_source_send>0</social_media_source_send>
+<social_media_source_admin></social_media_source_admin>
+<social_media_source_type_id>10</social_media_source_type_id>
+<social_media_source_type_name>Qype</social_media_source_type_name>
+<social_media_source_type_order>0</social_media_source_type_order>
+<social_media_source_type_class>qype</social_media_source_type_class>
+</settings>
+<page-head-tags></page-head-tags>
+</content:social-media-source-qype>
+<content:social-media-source-pinterest url-absolute = "http://www.pinterest.com/schliffkopf/" url = "social-media-source-1708.html" url-ajax = "/(cms)/module/pass/102/source/207/1708/986/de"><settings><social_media_source_id>1708</social_media_source_id>
+<social_media_source_social_media>207</social_media_source_social_media>
+<social_media_source_type>16</social_media_source_type>
+<social_media_source_order>-2</social_media_source_order>
+<social_media_source_foreign></social_media_source_foreign>
+<social_media_source_api_call></social_media_source_api_call>
+<social_media_source_url>http://www.pinterest.com/schliffkopf/</social_media_source_url>
+<social_media_source_count>0</social_media_source_count>
+<social_media_source_title></social_media_source_title>
+<social_media_source_layout>0</social_media_source_layout>
+<social_media_source_image>0</social_media_source_image>
+<social_media_source_option>0</social_media_source_option>
+<social_media_source_color>0</social_media_source_color>
+<social_media_source_font>0</social_media_source_font>
+<social_media_source_width>0</social_media_source_width>
+<social_media_source_text></social_media_source_text>
+<social_media_source_displayname>0</social_media_source_displayname>
+<social_media_source_displayname_text></social_media_source_displayname_text>
+<social_media_source_secure>0</social_media_source_secure>
+<social_media_source_send>0</social_media_source_send>
+<social_media_source_admin></social_media_source_admin>
+<social_media_source_type_id>16</social_media_source_type_id>
+<social_media_source_type_name>Pinterest</social_media_source_type_name>
+<social_media_source_type_order>0</social_media_source_type_order>
+<social_media_source_type_class>pinterest</social_media_source_type_class>
+</settings>
+<page-head-tags></page-head-tags>
+</content:social-media-source-pinterest>
+<content:social-media-source-tripadvisor url-absolute = "http://www.tripadvisor.de/Hotel_Review-g187279-d844557-Reviews-Schliffkopf_Wellness_Hotel-Baiersbronn_Baden_Wurttemberg.html" url = "social-media-source-1418.html" url-ajax = "/(cms)/module/pass/102/source/207/1418/986/de"><settings><social_media_source_id>1418</social_media_source_id>
+<social_media_source_social_media>207</social_media_source_social_media>
+<social_media_source_type>4</social_media_source_type>
+<social_media_source_order>-1</social_media_source_order>
+<social_media_source_foreign>d844557</social_media_source_foreign>
+<social_media_source_api_call></social_media_source_api_call>
+<social_media_source_url>http://www.tripadvisor.de/Hotel_Review-g187279-d844557-Reviews-Schliffkopf_Wellness_Hotel-Baiersbronn_Baden_Wurttemberg.html</social_media_source_url>
+<social_media_source_count>0</social_media_source_count>
+<social_media_source_title></social_media_source_title>
+<social_media_source_layout>0</social_media_source_layout>
+<social_media_source_image>0</social_media_source_image>
+<social_media_source_option>0</social_media_source_option>
+<social_media_source_color>0</social_media_source_color>
+<social_media_source_font>0</social_media_source_font>
+<social_media_source_width>0</social_media_source_width>
+<social_media_source_text></social_media_source_text>
+<social_media_source_displayname>0</social_media_source_displayname>
+<social_media_source_displayname_text></social_media_source_displayname_text>
+<social_media_source_secure>0</social_media_source_secure>
+<social_media_source_send>0</social_media_source_send>
+<social_media_source_admin></social_media_source_admin>
+<social_media_source_type_id>4</social_media_source_type_id>
+<social_media_source_type_name>Tripadvisor</social_media_source_type_name>
+<social_media_source_type_order>0</social_media_source_type_order>
+<social_media_source_type_class>tripadvisor</social_media_source_type_class>
+</settings>
+<page-head-tags></page-head-tags>
+</content:social-media-source-tripadvisor>
+<content:social-media-source-holidaycheck url-absolute = "http://www.holidaycheck.de/hotel-Reiseinformationen_Nationalpark+Hotel+Schliffkopf-hid_68932.html" url = "social-media-source-536.html" url-ajax = "/(cms)/module/pass/102/source/207/536/986/de"><settings><social_media_source_id>536</social_media_source_id>
+<social_media_source_social_media>207</social_media_source_social_media>
+<social_media_source_type>7</social_media_source_type>
+<social_media_source_order>0</social_media_source_order>
+<social_media_source_foreign>68932</social_media_source_foreign>
+<social_media_source_api_call></social_media_source_api_call>
+<social_media_source_url>http://www.holidaycheck.de/hotel-Reiseinformationen_Nationalpark+Hotel+Schliffkopf-hid_68932.html</social_media_source_url>
+<social_media_source_count>5</social_media_source_count>
+<social_media_source_title></social_media_source_title>
+<social_media_source_layout>0</social_media_source_layout>
+<social_media_source_image>0</social_media_source_image>
+<social_media_source_option>0</social_media_source_option>
+<social_media_source_color>0</social_media_source_color>
+<social_media_source_font>0</social_media_source_font>
+<social_media_source_width>0</social_media_source_width>
+<social_media_source_text></social_media_source_text>
+<social_media_source_displayname>0</social_media_source_displayname>
+<social_media_source_displayname_text></social_media_source_displayname_text>
+<social_media_source_secure>0</social_media_source_secure>
+<social_media_source_send>0</social_media_source_send>
+<social_media_source_admin></social_media_source_admin>
+<social_media_source_type_id>7</social_media_source_type_id>
+<social_media_source_type_name>HolidayCheck</social_media_source_type_name>
+<social_media_source_type_order>0</social_media_source_type_order>
+<social_media_source_type_class>holidaycheck</social_media_source_type_class>
+</settings>
+<page-head-tags></page-head-tags>
+</content:social-media-source-holidaycheck>
+<content:social-media-source-youtube url-absolute = "http://www.youtube.com/user/HotelSchliffkopf/feed" url = "social-media-source-801.html" url-ajax = "/(cms)/module/pass/102/source/207/801/986/de" url-param-page-prev = "cms_sm_page[801]=CAUQAA"><settings><social_media_source_id>801</social_media_source_id>
+<social_media_source_social_media>207</social_media_source_social_media>
+<social_media_source_type>1</social_media_source_type>
+<social_media_source_order>1</social_media_source_order>
+<social_media_source_foreign>HotelSchliffkopf</social_media_source_foreign>
+<social_media_source_api_call></social_media_source_api_call>
+<social_media_source_url>http://www.youtube.com/user/HotelSchliffkopf/feed</social_media_source_url>
+<social_media_source_count>0</social_media_source_count>
+<social_media_source_title></social_media_source_title>
+<social_media_source_layout>0</social_media_source_layout>
+<social_media_source_image>0</social_media_source_image>
+<social_media_source_option>0</social_media_source_option>
+<social_media_source_color>0</social_media_source_color>
+<social_media_source_font>0</social_media_source_font>
+<social_media_source_width>0</social_media_source_width>
+<social_media_source_text></social_media_source_text>
+<social_media_source_displayname>0</social_media_source_displayname>
+<social_media_source_displayname_text></social_media_source_displayname_text>
+<social_media_source_secure>0</social_media_source_secure>
+<social_media_source_send>0</social_media_source_send>
+<social_media_source_admin></social_media_source_admin>
+<social_media_source_type_id>1</social_media_source_type_id>
+<social_media_source_type_name>YouTube</social_media_source_type_name>
+<social_media_source_type_order>0</social_media_source_type_order>
+<social_media_source_type_class>youtube</social_media_source_type_class>
+</settings>
+<page-head-tags></page-head-tags>
+</content:social-media-source-youtube>
+<content:social-media-source-googleplus url-absolute = "https://plus.google.com/118390993351432579004" url = "social-media-source-1103.html" url-ajax = "/(cms)/module/pass/102/source/207/1103/986/de"><settings><social_media_source_id>1103</social_media_source_id>
+<social_media_source_social_media>207</social_media_source_social_media>
+<social_media_source_type>15</social_media_source_type>
+<social_media_source_order>2</social_media_source_order>
+<social_media_source_foreign></social_media_source_foreign>
+<social_media_source_api_call></social_media_source_api_call>
+<social_media_source_url>https://plus.google.com/118390993351432579004</social_media_source_url>
+<social_media_source_count>0</social_media_source_count>
+<social_media_source_title></social_media_source_title>
+<social_media_source_layout>0</social_media_source_layout>
+<social_media_source_image>0</social_media_source_image>
+<social_media_source_option>0</social_media_source_option>
+<social_media_source_color>0</social_media_source_color>
+<social_media_source_font>0</social_media_source_font>
+<social_media_source_width>0</social_media_source_width>
+<social_media_source_text></social_media_source_text>
+<social_media_source_displayname>0</social_media_source_displayname>
+<social_media_source_displayname_text></social_media_source_displayname_text>
+<social_media_source_secure>0</social_media_source_secure>
+<social_media_source_send>0</social_media_source_send>
+<social_media_source_admin></social_media_source_admin>
+<social_media_source_type_id>15</social_media_source_type_id>
+<social_media_source_type_name>Google+</social_media_source_type_name>
+<social_media_source_type_order>0</social_media_source_type_order>
+<social_media_source_type_class>googleplus</social_media_source_type_class>
+</settings>
+<page-head-tags></page-head-tags>
+</content:social-media-source-googleplus>
+<content:social-media-source-facebook url-absolute = "https://www.facebook.com/schliffkopf" url = "social-media-source-535.html" url-ajax = "/(cms)/module/pass/102/source/207/535/986/de" url-param-page-prev = "cms_sm_page[535]=1471368872"><settings><social_media_source_id>535</social_media_source_id>
+<social_media_source_social_media>207</social_media_source_social_media>
+<social_media_source_type>2</social_media_source_type>
+<social_media_source_order>3</social_media_source_order>
+<social_media_source_foreign>117441678293686</social_media_source_foreign>
+<social_media_source_api_call></social_media_source_api_call>
+<social_media_source_url>https://www.facebook.com/schliffkopf</social_media_source_url>
+<social_media_source_count>5</social_media_source_count>
+<social_media_source_title></social_media_source_title>
+<social_media_source_layout>0</social_media_source_layout>
+<social_media_source_image>0</social_media_source_image>
+<social_media_source_option>0</social_media_source_option>
+<social_media_source_color>0</social_media_source_color>
+<social_media_source_font>0</social_media_source_font>
+<social_media_source_width>0</social_media_source_width>
+<social_media_source_text></social_media_source_text>
+<social_media_source_displayname>0</social_media_source_displayname>
+<social_media_source_displayname_text></social_media_source_displayname_text>
+<social_media_source_secure>0</social_media_source_secure>
+<social_media_source_send>0</social_media_source_send>
+<social_media_source_admin></social_media_source_admin>
+<social_media_source_type_id>2</social_media_source_type_id>
+<social_media_source_type_name>Facebook</social_media_source_type_name>
+<social_media_source_type_order>0</social_media_source_type_order>
+<social_media_source_type_class>facebook</social_media_source_type_class>
+</settings>
+<page-head-tags></page-head-tags>
+</content:social-media-source-facebook>
+</sources>
+</content:social-media>
+<content:html1 id = "633512" page-content-id = "633512" page-content-type = "97" page-content-entail = "0" page-content-order = "30" page-content-group = "0" page-content-changed-date = "2016-07-19 09:18:39" cacheable = "true"><![CDATA[<!--
+<div id="TA_socialButtonBubbles21" class="TA_socialButtonBubbles">
+<ul id="Cl6vde4" class="TA_links HVhTSYuTu7ES">
+<li id="laMopey88Qt" class="WyFpuKmlp">
+<a target="_blank" href="https://www.tripadvisor.de/Hotel_Review-g187279-d844557-Reviews-Nationalpark_Hotel_Schliffkopf-Baiersbronn_Baden_Wurttemberg.html"><img src="https://www.tripadvisor.de/img/cdsi/img2/branding/socialWidget/20x28_green-21693-2.png"/></a>
+</li>
+</ul>
+</div>
+<script src="https://www.jscache.com/wejs?wtype=socialButtonBubbles&amp;uniq=21&amp;locationId=844557&amp;color=green&amp;size=rect&amp;lang=de&amp;display_version=2"></script>
+
+
+<div id="TA_socialButtonRate495" class="TA_socialButtonRate">
+<ul id="xAeEkl" class="TA_links PKZ3P8geanb">
+<li id="VsTTKxg" class="iHrlHEI">
+<a class="test3" target="_blank" href="https://www.tripadvisor.de/UserReviewEdit-g187279-d844557-Nationalpark_Hotel_Schliffkopf-Baiersbronn_Baden_Wurttemberg.html"><img src="https://www.tripadvisor.de/img/cdsi/img2/branding/socialWidget/ollie_transparent-21691-2.png"/></a>
+</li>
+</ul>
+</div>
+
+-->
+
+<div class="socialWidgetContainer test4">
+	<div class="socialWidget">
+		<a href="https://www.tripadvisor.de/UserReviewEdit-g187279-d844557-Nationalpark_Hotel_Schliffkopf-Baiersbronn_Baden_Wurttemberg.html" target="_blank">
+			<div class="socialWidgetCoreGreen" title="Auf TripAdvisor bewerten">
+				<img src="https://www.tripadvisor.de/img/cdsi/img2/branding/socialWidget/ollie_transparent-21691-2.png" align="middle"/>
+				<div class="rateText">Bewerten </div>
+			</div>
+		</a>
+	</div>
+</div>
+
+<script type="text/javascript">
+
+if (window.taValidate == undefined) {
+   window.taOnLoad   = window.onload;
+   window.taValList  = Array();
+   window.taValIndex = 0;
+   window.taValidate = function () {
+      if (window.taOnLoad != null) {
+         try {
+         window.taOnLoad();
+         } catch (err) { }
+      }
+      for (ii = 0; ii < window.taValIndex; ii=ii+1) {
+         fname = window.taValList[ii];
+         fname();
+      }
+   }
+   window.taAddValidator = function (fname) {
+      window.taValList[window.taValIndex] = fname;
+      window.taValIndex                   = window.taValIndex + 1;
+      }
+   window.onload = window.taValidate
+}
+window.taAddValidator (injectsocialButtonRate9554)
+
+                  if(document.createStyleSheet) {
+        document.createStyleSheet("https://static.tacdn.com/css2/widget/cdswidSOCIAL-v21186289283b.css");
+      } else {
+        var stylesImport = "@import url(' https://static.tacdn.com/css2/widget/cdswidSOCIAL-v21186289283b.css ');";
+        var newSS=document.createElement('link');
+        newSS.rel='stylesheet';
+        newSS.href='data:text/css,'+escape(stylesImport);
+        if (document.getElementsByTagName("head")[0]) {
+            document.getElementsByTagName("head")[0].appendChild(newSS);
+        } else {             document.write('<link rel="stylesheet" href="data:text/css,' + escape(stylesImport) + '"/>');
+        }
+      }
+        
+      var newJs = document.createElement('script');
+    	newJs.setAttribute('type', 'text/javascript');
+    	newJs.setAttribute('src', 'https://static.tacdn.com/js3/widget/cdswidgets_m-c-v2102084671b.js');
+    document.getElementsByTagName("head")[0].appendChild(newJs);
+  
+// Returns true if we find a homepage link. Also, nofollows it if the homepage link in the embed code is nofollowed.
+function checkHomePageLink(link, isHomePageLinkNoFollow) {
+  var href = link.getAttribute('href');
+  if (href) {
+    var hrefsplit = href.split("/");
+    // Check for homepage link - if http(s)://tripadvisor.com or http(s)://tripadvisor.com/
+    // Now if we didn't find a nofollowed home page link in the embed code, we should not add a nofollow
+    // on the home page link in the rendered code.
+    if (hrefsplit.length == 3 || (hrefsplit.length == 4 && hrefsplit[3] == "")) {
+      if (isHomePageLinkNoFollow) {
+        link.setAttribute('rel', 'nofollow');
+      }
+      // Else, don't do anything. Also, we have handled the link so we don't need to check alt/anchor text for this
+      return true;
+    }
+  }
+  return false;
+}
+
+function injectsocialButtonRate9554() {
+    var container = document.getElementById('TA_socialButtonRate');
+  if (container == null) {
+        var scriptTags = document.getElementsByTagName("script");
+    for (var i=0; i<scriptTags.length; i++)
+    {
+      if (scriptTags[i] != null && scriptTags[i].src != null &&
+          scriptTags[i].src.indexOf("socialButtonRate?uniq=") >= 0)
+      {
+        var msgElem = document.createElement('div');
+        if (msgElem != null && msgElem != 'undefined')
+        {
+          msgElem.style.margin='8px';
+          msgElem.style.color='red';
+          msgElem.innerHTML="Bitte &#252;berpr&#252;fen Sie den TripAdvisor Code und installieren Sie erneut.";
+          var parentElem = scriptTags[i].parentNode;
+          if (parentElem != null && parentElem != 'undefined')
+          {
+            parentElem.appendChild(msgElem);
+          }
+          break;
+        }
+      }
+    }
+    return;
+  }
+
+  // The following block of code takes care of gathering information from the embed code about whether we should follow
+  // or nofollow a link in the rendered code. If the user wants to nofollow links to tripadvisor, we should respect that
+  // The logic is as follows - if we find the same link in the embed and rendered code, they both should have the same
+  // nofollow status. If we find a link in the rendered code which is not present in the embedded code, we should
+  // nofollow it. The home page link is an exception to this rule where homepage link should always be followed unless
+  // the user explicitely nofollows it.
+  // Two links are same in embed and rendered code if - the anchor text matches for text link and the alt text matches
+  // for image links. Two image links with no alt text are considered same as well. If we find multiple links with
+  // same anchor text or same alt text in the embed code, only one of them have nofollow, adds nofollow to all the
+  // corresponding links in the rendered code. For more information please check https://jira.tripadvisor.com/browse/SEO-1902
+
+  var imageStatus = {};
+  var linkStatus = {};
+  // Collect all the nofollow attributes for text and image links
+  var links = container.getElementsByTagName('a');
+  var isHomePageLinkNoFollow = false;
+  if (links) {
+    for (var i = 0; i < links.length; i++) {
+
+      hasNoFollow = links[i].getAttribute('rel') && links[i].getAttribute('rel') == 'nofollow';
+
+      // Special case for homepage link
+      var href = links[i].getAttribute('href');
+
+      // If we didn't find a nofollowed home page link already, keep looking for one. Do this check only if the
+      // link in question has nofollow set on it
+      if (hasNoFollow && href && !isHomePageLinkNoFollow) {
+        if (href.indexOf('tripadvisor') > -1) {
+          var hrefsplit = href.split("/");
+          // Check if it's actually a homepage link - if http(s)://tripadvisor.com or http(s)://tripadvisor.com/
+          // and set the nofollow status of that link. Note we are interested in the case where home page link
+          // is nofollowed
+          if (hrefsplit.length == 3 || (hrefsplit.length == 4 && hrefsplit[3] == "")) {
+            isHomePageLinkNoFollow = hasNoFollow;
+            continue;
+          }
+        }
+      }
+
+      // Check if it's an image link. If it is, use the alt attribute as the key in the map.
+      var images = links[i].getElementsByTagName("img");
+      if (images && images.length > 0) {
+        // Check if it's an image link
+        if (images[0].getAttribute('alt')) {
+          imageStatus[images[0].getAttribute('alt').trim()] = hasNoFollow;
+        }
+        // No alt attribute case
+        else {
+          // This is to handle multiple links in the embed code without alt text. In this case if at least one link has
+          // nofollow, we nofollow all the no alt text links in the rendered code
+          if (! imageStatus[""]) {
+            imageStatus[""] = hasNoFollow;
+          }
+        }
+      }
+      // If not use the anchor text.
+      else if(links[i].text) {
+        var anchorText = links[i].text;
+        if (!anchorText in linkStatus || !linkStatus[anchorText]) {
+          linkStatus[anchorText] = hasNoFollow;
+        }
+      }
+    }
+  }
+
+  
+  var holderElement = document.createElement('div');
+  holderElement.innerHTML = '<div class="socialWidgetContainer test2"> '+
+	'<div class="socialWidget"> '+
+	'<a href="https://www.tripadvisor.de/UserReviewEdit-g187279-d844557-Nationalpark_Hotel_Schliffkopf-Baiersbronn_Baden_Wurttemberg.html" target="_blank"> '+
+	'<div class="socialWidgetCoreGreen" title="Auf TripAdvisor bewerten"> '+
+	'<img src="https://www.tripadvisor.de/img/cdsi/img2/branding/socialWidget/ollie_transparent-21691-2.png" align="middle"/> '+
+	'<div class="rateText"> '+
+	'Bewerten </div> '+
+	'</div> '+
+	'</a> </div> </div> ';
+
+  var links = holderElement.getElementsByTagName('a');
+  if (links) {
+    for (var i = 0; i < links.length; i++) {
+
+      // Special case for homepage link. The function returns true if we find a homepage link. In that case, we don't
+      // to apply other rules.
+      if(checkHomePageLink(links[i], isHomePageLinkNoFollow)) {
+        continue;
+      }
+
+      // Check if it's an image link
+      var images = links[i].getElementsByTagName("img");
+      if (images && images.length > 0) {
+        // If the image has alt attribute
+        if (images[0].getAttribute('alt')) {
+          var key = images[0].getAttribute('alt').trim();
+          if (! (key in imageStatus) || imageStatus[key]) {
+            links[i].setAttribute('rel', 'nofollow');
+          }
+        }
+        // No alt attribute case. The no follow status for those are stored under "". If no alt attribute links in
+        // embed code don't exist, we should nofollow any no alt attribute links in the rendered code. Unless it's a
+        // homepage but we handled that above. I haven't seen any no alt non-homepage image link in the rendered code
+        // so this is just a safeguard
+        else {
+          if(! ("" in imageStatus) || imageStatus[""]) {
+            links[i].setAttribute('rel', 'nofollow');
+          }
+        }
+      }
+      else {
+        if (links[i].text) {
+          var key = links[i].text.trim();
+          if (! (key in linkStatus) || linkStatus[key]) {
+            links[i].setAttribute('rel', 'nofollow');
+          }
+        }
+      }
+    }
+
+    widgetHtml = holderElement.innerHTML;
+  }
+  else {
+    var widgetHtml = '<div class="socialWidgetContainer test"> '+
+	'<div class="socialWidget"> '+
+	'<a href="https://www.tripadvisor.de/UserReviewEdit-g187279-d844557-Nationalpark_Hotel_Schliffkopf-Baiersbronn_Baden_Wurttemberg.html" target="_blank"> '+
+	'<div class="socialWidgetCoreGreen" title="Auf TripAdvisor bewerten"> '+
+	'<img src="https://www.tripadvisor.de/img/cdsi/img2/branding/socialWidget/ollie_transparent-21691-2.png" align="middle"/> '+
+	'<div class="rateText"> '+
+	'Bewerten </div> '+
+	'</div> '+
+	'</a> </div> </div> ';
+  }
+
+    if (widgetHtml.indexOf("WIDGET_ERR_LINKS") != -1) {
+    var linksDiv = document.createElement('div');
+
+    var links = container.getElementsByTagName("a");
+    if (links) {
+      for (var i=0; i<links.length; ++i) {
+                if (links[i].getElementsByTagName("img").length > 0) {
+          if (widgetHtml.indexOf("WIDGET_ERR_IMAGE_LINK")) {
+            widgetHtml = widgetHtml.replace('<a id="WIDGET_ERR_IMAGE_LINK" href="http://www.tripadvisor.com/" target="_blank">' ,'<a href="' + links[i] + '" target="_blank">');
+            widgetHtml = widgetHtml.replace('Reviews of Hotels, Flights and Vacation Rentals', links[i].getElementsByTagName("img")[0].alt);
+          }
+        }
+        else {
+          linkDiv = document.createElement('div');
+          links[i].setAttribute('target', '_blank');
+          linkDiv.appendChild(links[i].cloneNode(true));
+          if (linksDiv.getElementsByTagName("div").length == 0) {
+            linkDiv.style.margin="8px 0 0 0";
+          }
+          linksDiv.appendChild(linkDiv);
+        }
+      }
+            var cdsWidgetKey = 'socialButtonRate';
+      if (linksDiv.hasChildNodes() && (cdsWidgetKey != "cdshac")) {
+        linksDiv.insertBefore(document.createTextNode("Lesen Sie mehr auf TripAdvisor:"), linksDiv.firstChild);       } 
+    }
+
+    widgetHtml = widgetHtml.replace('<div id="WIDGET_ERR_LINKS"></div>', linksDiv.innerHTML);
+  }
+
+  
+  container.innerHTML = widgetHtml; 
+}
+	
+</script>
+]]></content:html1>
+<content:search_box1 id = "266190" url = "/de/service/suchergebnisse/" size = "" maxsize = "" layout = "0" page-content-id = "266190" page-content-type = "30" page-content-entail = "1" page-content-order = "50" page-content-group = "0" page-content-changed-date = "2016-07-19 09:18:39" cacheable = "true"></content:search_box1>
+</site:content-item>
+<site:content-item name = "side-links" id = "7680"></site:content-item>
+<site:content-item name = "footer-3" id = "7692"></site:content-item>
+<site:content-item name = "offerbox2" id = "8821"></site:content-item>
+<site:content-item name = "boxes" id = "12651"></site:content-item>
+</site:content>
+<site:template template-id = "1050"></site:template>
+<site:page page-id = "129253" page-struct = "66303" page-struct-parent = "0" page-name = "Wellness &amp; Natur-Hotel Schliffkopf" page-keywords = "Hotel in der Natur, Wellness Schwarzwald, Wellnesshotel Baiersbronn, Wellnesshotel Schwarzwald" page-title = "Wellnesshotel &amp; Restaurant im Schwarzwald" page-description = "Das 4*S Wellnesshotel auf 1.025 Höhenmeter lädt zu top Wellness im Schwarzwald ein. Wir schaffen für Sie den perfekten Ort für Wohlsein &amp; Regeneration" page-language = "de" page-language-iso = "de" page-language-id = "986" page-changed-date = "2016-08-16 12:07:48" page-robots = "1" page-url-canonical = "http://www.schliffkopf.de/"><path><path-item id = "129253" struct = "66303" url = "/de/" keywords = "Hotel in der Natur, Wellness Schwarzwald, Wellnesshotel Baiersbronn, Wellnesshotel Schwarzwald" title = "Wellnesshotel &amp; Restaurant im Schwarzwald" description = "Das 4*S Wellnesshotel auf 1.025 Höhenmeter lädt zu top Wellness im Schwarzwald ein. Wir schaffen für Sie den perfekten Ort für Wohlsein &amp; Regeneration">Wellness &amp; Natur-Hotel Schliffkopf</path-item>
+</path>
+<languages><page id = "129253" language-id = "986" language = "de" language-name = "German" language-website-name = "" website-language-id = "986" state = "current" url = "/de/" keywords = "Hotel in der Natur, Wellness Schwarzwald, Wellnesshotel Baiersbronn, Wellnesshotel Schwarzwald" title = "Wellnesshotel &amp; Restaurant im Schwarzwald" description = "Das 4*S Wellnesshotel auf 1.025 Höhenmeter lädt zu top Wellness im Schwarzwald ein. Wir schaffen für Sie den perfekten Ort für Wohlsein &amp; Regeneration">Wellness &amp; Natur-Hotel Schliffkopf</page>
+<page id = "145801" language-id = "1129" language = "fr" language-name = "French" language-website-name = "" website-language-id = "1129" state = "alternative" url = "/fr/" keywords = "" title = "L'hôtel Spa &amp; Nature en Forêt-Noire" description = "L'hôtel Spa 4*S à 1 025 m d'altitude vous invite à vous détendre dans notre Spa de montagne en Forêt-Noire. Nous créons pour vous l'ambiance parfaite pour votre bien-être &amp; détente.">L'hôtel Spa &amp; Nature Schliffkopf</page>
+<page id = "147475" language-id = "1138" language = "en" language-name = "English" language-website-name = "" website-language-id = "1138" state = "alternative" url = "/en/" keywords = "" title = "" description = "">Wellness &amp; Nature Hotel Schliffkopf</page>
+</languages>
+<content-attributes></content-attributes>
+<page-attributes></page-attributes>
+</site:page>
+<site:website website-id = "351" website-name = "Hotel Schliffkopf" domain-id = "2570" domain-fqdn = "www.schliffkopf.de" domain-secure = "no" domain-domshake = "yes" domain-language-default = "0" domain-language-only = "0" domain-secure-fqdn = "hotel-schliffkopf.viomassl.com" domain-secure-uri = "https://hotel-schliffkopf.viomassl.com" domain-standard-fqdn = "www.schliffkopf.de" domain-standard-uri = "http://www.schliffkopf.de"></site:website>
+<site:customer customer-id = "3146"></site:customer>
+<site:match-space><header><logo></logo>
+<navigation></navigation>
+<tools></tools>
+<gallery></gallery>
+<widgets></widgets>
+</header>
+<main></main>
+<footer></footer>
+<scripts></scripts>
+</site:match-space>
+</site:site>

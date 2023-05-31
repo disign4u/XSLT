@@ -1,0 +1,1709 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="menu_1.xsl" ?>
+<site:site xmlns:site="http://xmlns.webmaking.ms/site/" xmlns:content="http://xmlns.webmaking.ms/content/">
+    <site:env>
+        <site:vars>
+            <php_self>
+                <![CDATA[/de/schliffkopf-club/title-der-2-ebene-unique-e5227eb4501da74f1953c65e71dd5208/unterseite1/?wmms[output]=xml]]></php_self>
+            <dev>yes</dev>
+            <url_action>/de/schliffkopf-club/title-der-2-ebene-unique-e5227eb4501da74f1953c65e71dd5208/unterseite1/
+            </url_action>
+            <session_name>PHPSESSID</session_name>
+            <session_id>fg0mmgi7gb7e66f3altog010v1</session_id>
+        </site:vars>
+        <site:user-agent name="firefox" version="50" os="windows" language="de"/>
+    </site:env>
+    <site:tao>
+        <unique>3247195241</unique>
+        <session_hash>1c1a01f2e99afd7c5c9ea65c94b3ce8c</session_hash>
+        <content:tao-pixel-conversion-dynamic/>
+    </site:tao>
+    <site:optimizer/>
+    <site:software name="Condeon" revision="1.6.5" db-connected="no" db-master="no"/>
+    <site:tree>
+        <menu id="239206" struct="132394" struct-pid="0" module="5" url="/de/"
+              title="Wellness &amp; Naturhotel Schliffkopf" keywords="" page-title="" description="" target="0"
+              level="0" state="n" l="19" ls="60" vstate="active">
+            <menu-item id="239207" struct="132395" struct-pid="132394" module="5" url-name="hotel-schliffkopf"
+                       url="/de/hotel-schliffkopf/" keywords="" page-title="" description="" target="0">Hotel
+                Schliffkopf
+            </menu-item>
+            <menu-item id="239209" struct="132397" struct-pid="132394" module="5" url-name="zimmer-preise"
+                       url="/de/zimmer-preise/" keywords="" page-title="" description="" target="0">Zimmer &amp; Preise
+            </menu-item>
+            <menu-item id="239210" struct="132398" struct-pid="132394" module="5" url-name="angebote"
+                       url="/de/angebote/" keywords="" page-title="" description="" target="0">Angebote
+            </menu-item>
+            <menu-item id="239211" struct="132399" struct-pid="132394" module="5" url-name="schliffkopf-club"
+                       url="/de/schliffkopf-club/" keywords="" page-title="" description="" target="0" state="active">
+                Schliffkopf Club
+            </menu-item>
+        </menu>
+        <menu id="239211" struct="132399" struct-pid="132394" module="5" url="/de/schliffkopf-club/"
+              title="Schliffkopf Club" keywords="" page-title="" description="" target="0" level="1" state="n" l="7"
+              ls="28" vstate="active">
+            <menu-item id="239379" struct="132540" struct-pid="132399" module="5" url-name="title-der-2-ebene"
+                       url="/de/schliffkopf-club/title-der-2-ebene/" keywords="" page-title="" description=""
+                       target="0">Title 1
+            </menu-item>
+            <menu-item id="239811" struct="132859" struct-pid="132399" module="5"
+                       url-name="title-der-2-ebene-unique-e5227eb4501da74f1953c65e71dd5208"
+                       url="/de/schliffkopf-club/title-der-2-ebene-unique-e5227eb4501da74f1953c65e71dd5208/" keywords=""
+                       page-title="" description="" target="0" state="">Title 2
+            </menu-item>
+            <menu-item id="239812" struct="132860" struct-pid="132399" module="5"
+                       url-name="title-der-2-ebene-unique-6655e16cbaea040c270998ff6358d558"
+                       url="/de/schliffkopf-club/title-der-2-ebene-unique-6655e16cbaea040c270998ff6358d558/" keywords=""
+                       page-title="" description="" target="0">Title 3
+            </menu-item>
+            <menu-item id="239813" struct="132861" struct-pid="132399" module="5"
+                       url-name="title-der-2-ebene-unique-4f0dfccaf7ef38cf040126d28939577d"
+                       url="/de/schliffkopf-club/title-der-2-ebene-unique-4f0dfccaf7ef38cf040126d28939577d/" keywords=""
+                       page-title="" description="" target="0">Title 4
+            </menu-item>
+        </menu>
+        <menu id="239811" struct="132859" struct-pid="132399" module="5"
+              url="/de/schliffkopf-club/title-der-2-ebene-unique-e5227eb4501da74f1953c65e71dd5208/" title="Title 2"
+              keywords="" page-title="" description="" target="0" level="2" state="n" l="14" ls="14" vstate="active">
+            <menu-item id="239814" struct="132862" struct-pid="132859" module="5" url-name="unterseite1"
+                       url="/de/schliffkopf-club/title-der-2-ebene-unique-e5227eb4501da74f1953c65e71dd5208/unterseite1/"
+                       keywords="" page-title="" description="" target="0" state="active">unterseite 2-1
+            </menu-item>
+        </menu>
+        <menu id="239814" struct="132862" struct-pid="132859" module="5"
+              url="/de/schliffkopf-club/title-der-2-ebene-unique-e5227eb4501da74f1953c65e71dd5208/unterseite1/"
+              title="unterseite 2-1" keywords="" page-title="" description="" target="0" level="3" state="n" l="0"
+              ls="0" vstate="active"/>
+        <menu id="239207" struct="132395" struct-pid="132394" module="5" url="/de/hotel-schliffkopf/"
+              title="Hotel Schliffkopf" keywords="" page-title="" description="" target="0" level="1" state="f" l="18"
+              ls="49">
+            <menu-item id="239380" struct="132541" struct-pid="132395" module="5" url-name="noch-ein-title"
+                       url="/de/hotel-schliffkopf/noch-ein-title/" keywords="" page-title="" description="" target="0">
+                Noch ein Title
+            </menu-item>
+            <menu-item id="239381" struct="132542" struct-pid="132395" module="5" url-name="ein-weiterer-title"
+                       url="/de/hotel-schliffkopf/ein-weiterer-title/" keywords="" page-title="" description=""
+                       target="0">Ein weiterer Title
+            </menu-item>
+            <menu-item id="239809" struct="132857" struct-pid="132395" module="5" url-name="title-der-2-ebene"
+                       url="/de/hotel-schliffkopf/title-der-2-ebene/" keywords="" page-title="" description=""
+                       target="0">Title der 2 Ebene
+            </menu-item>
+        </menu>
+        <menu id="239209" struct="132397" struct-pid="132394" module="5" url="/de/zimmer-preise/"
+              title="Zimmer &amp; Preise" keywords="" page-title="" description="" target="0" level="1" state="f" l="0"
+              ls="0"/>
+        <menu id="239210" struct="132398" struct-pid="132394" module="5" url="/de/angebote/" title="Angebote"
+              keywords="" page-title="" description="" target="0" level="1" state="f" l="0" ls="0"/>
+        <menu id="239379" struct="132540" struct-pid="132399" module="5" url="/de/schliffkopf-club/title-der-2-ebene/"
+              title="Title 1" keywords="" page-title="" description="" target="0" level="2" state="f" l="14" ls="28">
+            <menu-item id="239805" struct="132853" struct-pid="132540" module="5" url-name="unterseite1"
+                       url="/de/schliffkopf-club/title-der-2-ebene/unterseite1/" keywords="" page-title=""
+                       description="" target="0">unterseite 1-1
+            </menu-item>
+            <menu-item id="239806" struct="132854" struct-pid="132540" module="5" url-name="unterseite2"
+                       url="/de/schliffkopf-club/title-der-2-ebene/unterseite2/" keywords="" page-title=""
+                       description="" target="0">unterseite 1-2
+            </menu-item>
+        </menu>
+        <menu id="239812" struct="132860" struct-pid="132399" module="5"
+              url="/de/schliffkopf-club/title-der-2-ebene-unique-6655e16cbaea040c270998ff6358d558/" title="Title 3"
+              keywords="" page-title="" description="" target="0" level="2" state="f" l="14" ls="14">
+            <menu-item id="239815" struct="132863" struct-pid="132860" module="5" url-name="unterseite1"
+                       url="/de/schliffkopf-club/title-der-2-ebene-unique-6655e16cbaea040c270998ff6358d558/unterseite1/"
+                       keywords="" page-title="" description="" target="0">unterseite 3-1
+            </menu-item>
+        </menu>
+        <menu id="239813" struct="132861" struct-pid="132399" module="5"
+              url="/de/schliffkopf-club/title-der-2-ebene-unique-4f0dfccaf7ef38cf040126d28939577d/" title="Title 4"
+              keywords="" page-title="" description="" target="0" level="2" state="f" l="14" ls="14">
+            <menu-item id="239816" struct="132864" struct-pid="132861" module="5" url-name="unterseite1"
+                       url="/de/schliffkopf-club/title-der-2-ebene-unique-4f0dfccaf7ef38cf040126d28939577d/unterseite1/"
+                       keywords="" page-title="" description="" target="0">unterseite 4-1
+            </menu-item>
+        </menu>
+        <menu id="239380" struct="132541" struct-pid="132395" module="5" url="/de/hotel-schliffkopf/noch-ein-title/"
+              title="Noch ein Title" keywords="" page-title="" description="" target="0" level="unknown"
+              state="start-level" l="0" ls="0"/>
+        <menu id="239381" struct="132542" struct-pid="132395" module="5" url="/de/hotel-schliffkopf/ein-weiterer-title/"
+              title="Ein weiterer Title" keywords="" page-title="" description="" target="0" level="unknown"
+              state="start-level" l="0" ls="0"/>
+        <menu id="239809" struct="132857" struct-pid="132395" module="5" url="/de/hotel-schliffkopf/title-der-2-ebene/"
+              title="Title der 2 Ebene" keywords="" page-title="" description="" target="0" level="unknown"
+              state="start-level" l="10" ls="10">
+            <menu-item id="239810" struct="132858" struct-pid="132857" module="5" url-name="title-der-2-ebene"
+                       url="/de/hotel-schliffkopf/title-der-2-ebene/title-der-2-ebene/" keywords="" page-title=""
+                       description="" target="0">unterseite
+            </menu-item>
+        </menu>
+        <menu id="239810" struct="132858" struct-pid="132857" module="5"
+              url="/de/hotel-schliffkopf/title-der-2-ebene/title-der-2-ebene/" title="unterseite" keywords=""
+              page-title="" description="" target="0" level="unknown" state="start-level" l="0" ls="0"/>
+        <menu id="239805" struct="132853" struct-pid="132540" module="5"
+              url="/de/schliffkopf-club/title-der-2-ebene/unterseite1/" title="unterseite 1-1" keywords="" page-title=""
+              description="" target="0" level="unknown" state="start-level" l="0" ls="0"/>
+        <menu id="239806" struct="132854" struct-pid="132540" module="5"
+              url="/de/schliffkopf-club/title-der-2-ebene/unterseite2/" title="unterseite 1-2" keywords="" page-title=""
+              description="" target="0" level="unknown" state="start-level" l="0" ls="0"/>
+        <menu id="239815" struct="132863" struct-pid="132860" module="5"
+              url="/de/schliffkopf-club/title-der-2-ebene-unique-6655e16cbaea040c270998ff6358d558/unterseite1/"
+              title="unterseite 3-1" keywords="" page-title="" description="" target="0" level="unknown"
+              state="start-level" l="0" ls="0"/>
+        <menu id="239816" struct="132864" struct-pid="132861" module="5"
+              url="/de/schliffkopf-club/title-der-2-ebene-unique-4f0dfccaf7ef38cf040126d28939577d/unterseite1/"
+              title="unterseite 4-1" keywords="" page-title="" description="" target="0" level="unknown"
+              state="start-level" l="0" ls="0"/>
+    </site:tree>
+    <site:content>
+        <site:content-item name="footer" id="14664">
+            <content:media-display id="717906" type="image-static" page-content-id="717906" page-content-type="87"
+                                   page-content-entail="1" page-content-order="-2" page-content-group="0"
+                                   page-content-changed-date="2016-08-16 15:00:39" attr-layout="karte" cacheable="true">
+                <media_display>
+                    <media_display_id>5440</media_display_id>
+                    <media_display_customer>3146</media_display_customer>
+                    <media_display_content>717906</media_display_content>
+                    <media_display_type>7</media_display_type>
+                    <media_display_media>1556841</media_display_media>
+                    <media_display_media_preview>0</media_display_media_preview>
+                    <media_display_width>1920</media_display_width>
+                    <media_display_height>955</media_display_height>
+                    <media_display_class/>
+                    <media_display_style/>
+                    <media_display_autoplay>0</media_display_autoplay>
+                    <media_display_loop>0</media_display_loop>
+                    <media_display_mute>0</media_display_mute>
+                    <media_display_controls>1</media_display_controls>
+                    <media_display_name>48.5320096,8.2177305,12z</media_display_name>
+                    <media_display_description/>
+                    <media_display_alt/>
+                    <media_display_multilanguage>0</media_display_multilanguage>
+                </media_display>
+                <media>
+                    <media_file_id>1556841</media_file_id>
+                    <media_file_folder>51269</media_file_folder>
+                    <media_file_customer>3146</media_file_customer>
+                    <media_file_name>map-schliffkopf</media_file_name>
+                    <media_file_description/>
+                    <media_file_type>jpg</media_file_type>
+                    <media_file_source>0</media_file_source>
+                    <media_file_changed>2016-08-16 14:58:18</media_file_changed>
+                    <media_file_mime>image/jpeg</media_file_mime>
+                    <media_file_size>344681</media_file_size>
+                    <media_file_width>1920</media_file_width>
+                    <media_file_height>955</media_file_height>
+                    <media_file_duration>0</media_file_duration>
+                    <media_file_fps>0</media_file_fps>
+                    <media_file_codec_audio/>
+                    <media_file_codec_video/>
+                    <media_file_bandwidth>0</media_file_bandwidth>
+                    <media_file_class>1</media_file_class>
+                    <media_file_deleted>0000-00-00 00:00:00</media_file_deleted>
+                </media>
+                <media_url>http://3146-678.sites.condeon.net/media/51269/map-schliffkopf-1556841.jpg</media_url>
+            </content:media-display>
+            <content:social-media layout="layer" icon_set="4" icon_size="5"
+                                  url-param-page-prev="cms_sm_page[2639]=CAUQAA&amp;cms_sm_page[2637]=1472911307"
+                                  id="717899" page-content-id="717899" page-content-type="102" page-content-entail="1"
+                                  page-content-order="-1" page-content-group="0"
+                                  page-content-changed-date="2016-08-23 14:04:37" cacheable="true">
+                <social-media>
+                    <social_media_id>826</social_media_id>
+                    <social_media_page_content>717899</social_media_page_content>
+                    <social_media_display_layout>1</social_media_display_layout>
+                    <social_media_display_size>0</social_media_display_size>
+                    <social_media_display_icons>4</social_media_display_icons>
+                    <social_media_display_icon_size>5</social_media_display_icon_size>
+                    <social_media_display_layer_color>0</social_media_display_layer_color>
+                    <social_media_display_layer_position_y>0</social_media_display_layer_position_y>
+                    <social_media_display_layer_position_x>0</social_media_display_layer_position_x>
+                </social-media>
+                <sources>
+                    <content:social-media-source-qype
+                            url-absolute="http://www.yelp.de/biz/nationalpark-hotel-schliffkopf-baiersbronn"
+                            url="social-media-source-2643.html"
+                            url-ajax="/(cms)/module/pass/102/source/826/2643/1714/de">
+                        <settings>
+                            <social_media_source_id>2643</social_media_source_id>
+                            <social_media_source_social_media>826</social_media_source_social_media>
+                            <social_media_source_type>10</social_media_source_type>
+                            <social_media_source_order>-3</social_media_source_order>
+                            <social_media_source_foreign/>
+                            <social_media_source_api_call/>
+                            <social_media_source_url>http://www.yelp.de/biz/nationalpark-hotel-schliffkopf-baiersbronn
+                            </social_media_source_url>
+                            <social_media_source_count>0</social_media_source_count>
+                            <social_media_source_title/>
+                            <social_media_source_layout>0</social_media_source_layout>
+                            <social_media_source_image>0</social_media_source_image>
+                            <social_media_source_option>0</social_media_source_option>
+                            <social_media_source_color>0</social_media_source_color>
+                            <social_media_source_font>0</social_media_source_font>
+                            <social_media_source_width>0</social_media_source_width>
+                            <social_media_source_text/>
+                            <social_media_source_displayname>0</social_media_source_displayname>
+                            <social_media_source_displayname_text/>
+                            <social_media_source_secure>0</social_media_source_secure>
+                            <social_media_source_send>0</social_media_source_send>
+                            <social_media_source_admin/>
+                            <social_media_source_type_id>10</social_media_source_type_id>
+                            <social_media_source_type_name>Qype</social_media_source_type_name>
+                            <social_media_source_type_order>0</social_media_source_type_order>
+                            <social_media_source_type_class>qype</social_media_source_type_class>
+                        </settings>
+                        <page-head-tags/>
+                    </content:social-media-source-qype>
+                    <content:social-media-source-pinterest url-absolute="http://www.pinterest.com/schliffkopf/"
+                                                           url="social-media-source-2642.html"
+                                                           url-ajax="/(cms)/module/pass/102/source/826/2642/1714/de">
+                        <settings>
+                            <social_media_source_id>2642</social_media_source_id>
+                            <social_media_source_social_media>826</social_media_source_social_media>
+                            <social_media_source_type>16</social_media_source_type>
+                            <social_media_source_order>-2</social_media_source_order>
+                            <social_media_source_foreign/>
+                            <social_media_source_api_call/>
+                            <social_media_source_url>http://www.pinterest.com/schliffkopf/</social_media_source_url>
+                            <social_media_source_count>0</social_media_source_count>
+                            <social_media_source_title/>
+                            <social_media_source_layout>0</social_media_source_layout>
+                            <social_media_source_image>0</social_media_source_image>
+                            <social_media_source_option>0</social_media_source_option>
+                            <social_media_source_color>0</social_media_source_color>
+                            <social_media_source_font>0</social_media_source_font>
+                            <social_media_source_width>0</social_media_source_width>
+                            <social_media_source_text/>
+                            <social_media_source_displayname>0</social_media_source_displayname>
+                            <social_media_source_displayname_text/>
+                            <social_media_source_secure>0</social_media_source_secure>
+                            <social_media_source_send>0</social_media_source_send>
+                            <social_media_source_admin/>
+                            <social_media_source_type_id>16</social_media_source_type_id>
+                            <social_media_source_type_name>Pinterest</social_media_source_type_name>
+                            <social_media_source_type_order>0</social_media_source_type_order>
+                            <social_media_source_type_class>pinterest</social_media_source_type_class>
+                        </settings>
+                        <page-head-tags/>
+                    </content:social-media-source-pinterest>
+                    <content:social-media-source-tripadvisor
+                            url-absolute="http://www.tripadvisor.de/Hotel_Review-g187279-d844557-Reviews-Schliffkopf_Wellness_Hotel-Baiersbronn_Baden_Wurttemberg.html"
+                            url="social-media-source-2641.html"
+                            url-ajax="/(cms)/module/pass/102/source/826/2641/1714/de">
+                        <settings>
+                            <social_media_source_id>2641</social_media_source_id>
+                            <social_media_source_social_media>826</social_media_source_social_media>
+                            <social_media_source_type>4</social_media_source_type>
+                            <social_media_source_order>-1</social_media_source_order>
+                            <social_media_source_foreign>d844557</social_media_source_foreign>
+                            <social_media_source_api_call/>
+                            <social_media_source_url>
+                                http://www.tripadvisor.de/Hotel_Review-g187279-d844557-Reviews-Schliffkopf_Wellness_Hotel-Baiersbronn_Baden_Wurttemberg.html
+                            </social_media_source_url>
+                            <social_media_source_count>0</social_media_source_count>
+                            <social_media_source_title/>
+                            <social_media_source_layout>0</social_media_source_layout>
+                            <social_media_source_image>0</social_media_source_image>
+                            <social_media_source_option>0</social_media_source_option>
+                            <social_media_source_color>0</social_media_source_color>
+                            <social_media_source_font>0</social_media_source_font>
+                            <social_media_source_width>0</social_media_source_width>
+                            <social_media_source_text/>
+                            <social_media_source_displayname>0</social_media_source_displayname>
+                            <social_media_source_displayname_text/>
+                            <social_media_source_secure>0</social_media_source_secure>
+                            <social_media_source_send>0</social_media_source_send>
+                            <social_media_source_admin/>
+                            <social_media_source_type_id>4</social_media_source_type_id>
+                            <social_media_source_type_name>Tripadvisor</social_media_source_type_name>
+                            <social_media_source_type_order>0</social_media_source_type_order>
+                            <social_media_source_type_class>tripadvisor</social_media_source_type_class>
+                        </settings>
+                        <page-head-tags/>
+                    </content:social-media-source-tripadvisor>
+                    <content:social-media-source-holidaycheck
+                            url-absolute="http://www.holidaycheck.de/hotel-Reiseinformationen_Nationalpark+Hotel+Schliffkopf-hid_68932.html"
+                            url="social-media-source-2640.html"
+                            url-ajax="/(cms)/module/pass/102/source/826/2640/1714/de">
+                        <settings>
+                            <social_media_source_id>2640</social_media_source_id>
+                            <social_media_source_social_media>826</social_media_source_social_media>
+                            <social_media_source_type>7</social_media_source_type>
+                            <social_media_source_order>0</social_media_source_order>
+                            <social_media_source_foreign>68932</social_media_source_foreign>
+                            <social_media_source_api_call/>
+                            <social_media_source_url>
+                                http://www.holidaycheck.de/hotel-Reiseinformationen_Nationalpark+Hotel+Schliffkopf-hid_68932.html
+                            </social_media_source_url>
+                            <social_media_source_count>5</social_media_source_count>
+                            <social_media_source_title/>
+                            <social_media_source_layout>0</social_media_source_layout>
+                            <social_media_source_image>0</social_media_source_image>
+                            <social_media_source_option>0</social_media_source_option>
+                            <social_media_source_color>0</social_media_source_color>
+                            <social_media_source_font>0</social_media_source_font>
+                            <social_media_source_width>0</social_media_source_width>
+                            <social_media_source_text/>
+                            <social_media_source_displayname>0</social_media_source_displayname>
+                            <social_media_source_displayname_text/>
+                            <social_media_source_secure>0</social_media_source_secure>
+                            <social_media_source_send>0</social_media_source_send>
+                            <social_media_source_admin/>
+                            <social_media_source_type_id>7</social_media_source_type_id>
+                            <social_media_source_type_name>HolidayCheck</social_media_source_type_name>
+                            <social_media_source_type_order>0</social_media_source_type_order>
+                            <social_media_source_type_class>holidaycheck</social_media_source_type_class>
+                        </settings>
+                        <page-head-tags/>
+                    </content:social-media-source-holidaycheck>
+                    <content:social-media-source-youtube
+                            url-absolute="http://www.youtube.com/user/HotelSchliffkopf/feed"
+                            url="social-media-source-2639.html"
+                            url-ajax="/(cms)/module/pass/102/source/826/2639/1714/de"
+                            url-param-page-prev="cms_sm_page[2639]=CAUQAA">
+                        <settings>
+                            <social_media_source_id>2639</social_media_source_id>
+                            <social_media_source_social_media>826</social_media_source_social_media>
+                            <social_media_source_type>1</social_media_source_type>
+                            <social_media_source_order>1</social_media_source_order>
+                            <social_media_source_foreign>HotelSchliffkopf</social_media_source_foreign>
+                            <social_media_source_api_call/>
+                            <social_media_source_url>http://www.youtube.com/user/HotelSchliffkopf/feed
+                            </social_media_source_url>
+                            <social_media_source_count>0</social_media_source_count>
+                            <social_media_source_title/>
+                            <social_media_source_layout>0</social_media_source_layout>
+                            <social_media_source_image>0</social_media_source_image>
+                            <social_media_source_option>0</social_media_source_option>
+                            <social_media_source_color>0</social_media_source_color>
+                            <social_media_source_font>0</social_media_source_font>
+                            <social_media_source_width>0</social_media_source_width>
+                            <social_media_source_text/>
+                            <social_media_source_displayname>0</social_media_source_displayname>
+                            <social_media_source_displayname_text/>
+                            <social_media_source_secure>0</social_media_source_secure>
+                            <social_media_source_send>0</social_media_source_send>
+                            <social_media_source_admin/>
+                            <social_media_source_type_id>1</social_media_source_type_id>
+                            <social_media_source_type_name>YouTube</social_media_source_type_name>
+                            <social_media_source_type_order>0</social_media_source_type_order>
+                            <social_media_source_type_class>youtube</social_media_source_type_class>
+                        </settings>
+                        <page-head-tags/>
+                    </content:social-media-source-youtube>
+                    <content:social-media-source-googleplus url-absolute="https://plus.google.com/118390993351432579004"
+                                                            url="social-media-source-2638.html"
+                                                            url-ajax="/(cms)/module/pass/102/source/826/2638/1714/de">
+                        <settings>
+                            <social_media_source_id>2638</social_media_source_id>
+                            <social_media_source_social_media>826</social_media_source_social_media>
+                            <social_media_source_type>15</social_media_source_type>
+                            <social_media_source_order>2</social_media_source_order>
+                            <social_media_source_foreign/>
+                            <social_media_source_api_call/>
+                            <social_media_source_url>https://plus.google.com/118390993351432579004
+                            </social_media_source_url>
+                            <social_media_source_count>0</social_media_source_count>
+                            <social_media_source_title/>
+                            <social_media_source_layout>0</social_media_source_layout>
+                            <social_media_source_image>0</social_media_source_image>
+                            <social_media_source_option>0</social_media_source_option>
+                            <social_media_source_color>0</social_media_source_color>
+                            <social_media_source_font>0</social_media_source_font>
+                            <social_media_source_width>0</social_media_source_width>
+                            <social_media_source_text/>
+                            <social_media_source_displayname>0</social_media_source_displayname>
+                            <social_media_source_displayname_text/>
+                            <social_media_source_secure>0</social_media_source_secure>
+                            <social_media_source_send>0</social_media_source_send>
+                            <social_media_source_admin/>
+                            <social_media_source_type_id>15</social_media_source_type_id>
+                            <social_media_source_type_name>Google+</social_media_source_type_name>
+                            <social_media_source_type_order>0</social_media_source_type_order>
+                            <social_media_source_type_class>googleplus</social_media_source_type_class>
+                        </settings>
+                        <page-head-tags/>
+                    </content:social-media-source-googleplus>
+                    <content:social-media-source-facebook url-absolute="https://www.facebook.com/schliffkopf"
+                                                          url="social-media-source-2637.html"
+                                                          url-ajax="/(cms)/module/pass/102/source/826/2637/1714/de"
+                                                          url-param-page-prev="cms_sm_page[2637]=1472911307">
+                        <settings>
+                            <social_media_source_id>2637</social_media_source_id>
+                            <social_media_source_social_media>826</social_media_source_social_media>
+                            <social_media_source_type>2</social_media_source_type>
+                            <social_media_source_order>3</social_media_source_order>
+                            <social_media_source_foreign>117441678293686</social_media_source_foreign>
+                            <social_media_source_api_call/>
+                            <social_media_source_url>https://www.facebook.com/schliffkopf</social_media_source_url>
+                            <social_media_source_count>5</social_media_source_count>
+                            <social_media_source_title/>
+                            <social_media_source_layout>0</social_media_source_layout>
+                            <social_media_source_image>0</social_media_source_image>
+                            <social_media_source_option>0</social_media_source_option>
+                            <social_media_source_color>0</social_media_source_color>
+                            <social_media_source_font>0</social_media_source_font>
+                            <social_media_source_width>0</social_media_source_width>
+                            <social_media_source_text/>
+                            <social_media_source_displayname>0</social_media_source_displayname>
+                            <social_media_source_displayname_text/>
+                            <social_media_source_secure>0</social_media_source_secure>
+                            <social_media_source_send>0</social_media_source_send>
+                            <social_media_source_admin/>
+                            <social_media_source_type_id>2</social_media_source_type_id>
+                            <social_media_source_type_name>Facebook</social_media_source_type_name>
+                            <social_media_source_type_order>0</social_media_source_type_order>
+                            <social_media_source_type_class>facebook</social_media_source_type_class>
+                        </settings>
+                        <page-head-tags/>
+                    </content:social-media-source-facebook>
+                </sources>
+            </content:social-media>
+            <content:group id="717858" page-content-id="717858" page-content-type="109" page-content-entail="1"
+                           page-content-order="0" page-content-group="0" page-content-changed-date="2016-08-16 14:04:44"
+                           attr-layout="spalten">
+                <members>
+                    <content:article1 id="717860" xml="true" page-content-id="717860" page-content-type="20"
+                                      page-content-entail="1" page-content-order="0" page-content-group="717858"
+                                      page-content-changed-date="2016-08-16 14:09:22" cacheable="true">
+                        <xml>
+                            <h3>Kontakt</h3>
+                            <p>Nationalpark-Hotel Schliffkopf
+                                <br/>
+                                Familie Fahrner Schwarzwaldhochstraße 1
+                                <br/>
+                                72270 Schliffkopf (Baiersbronn)
+                                <br/>
+                                Telefon: +49 (0) 7449 - 920-0
+                                <br/>
+                                E-Mail:
+                                <a href="mailto:info@schliffkopf.de">info@schliffkopf.de</a>
+                            </p>
+                        </xml>
+                    </content:article1>
+                    <content:group id="717869" page-content-id="717869" page-content-type="109" page-content-entail="1"
+                                   page-content-order="0" page-content-group="717858"
+                                   page-content-changed-date="2016-08-16 14:10:10">
+                        <members>
+                            <content:article1 id="717870" xml="true" page-content-id="717870" page-content-type="20"
+                                              page-content-entail="1" page-content-order="0" page-content-group="717869"
+                                              page-content-changed-date="2016-08-22 15:27:38" cacheable="true">
+                                <xml>
+                                    <h3>Service</h3>
+                                    <ul class="separator-list">
+                                        <li>
+                                            <a href="/de/service/anfrage/">Anfrage</a>
+                                        </li>
+                                        <li>Newsletter</li>
+                                        <li>Lage &amp; Anfahrt</li>
+                                        <li>Katalog</li>
+                                        <li>AGB</li>
+                                        <li>
+                                            <a href="/de/service/impressum/">Impressum</a>
+                                        </li>
+                                        <li>
+                                            <a href="/de/service/datenschutzerklaerung/">Datenschutz</a>
+                                        </li>
+                                        <li>
+                                            <a href="/de/service/sitemap/">Sitemap</a>
+                                        </li>
+                                    </ul>
+                                </xml>
+                            </content:article1>
+                            <content:menu1 id="717885" level="1" start="0" page-content-id="717885"
+                                           page-content-type="19" page-content-entail="1" page-content-order="0"
+                                           page-content-group="717869" page-content-changed-date="2016-08-16 14:31:23"/>
+                            <content:search_box1 id="717886" url="/de/service/suchergebnisse/" size="" maxsize=""
+                                                 layout="2" page-content-id="717886" page-content-type="30"
+                                                 page-content-entail="1" page-content-order="0"
+                                                 page-content-group="717869"
+                                                 page-content-changed-date="2016-08-16 14:31:58" cacheable="true"/>
+                        </members>
+                    </content:group>
+                    <content:group id="717890" page-content-id="717890" page-content-type="109" page-content-entail="1"
+                                   page-content-order="0" page-content-group="717858"
+                                   page-content-changed-date="2016-08-16 14:35:05">
+                        <members>
+                            <content:html1 id="717895" xml="true" page-content-id="717895" page-content-type="97"
+                                           page-content-entail="1" page-content-order="0" page-content-group="717890"
+                                           page-content-changed-date="2016-08-16 14:39:01" cacheable="true">
+                                <xml>
+                                    <a href="http://hotel-barometer.com/schliffkopf-wellness-natur-hotel-403/detail.html"
+                                       onclick="this.target='_blank'">
+                                        <img src="//hotel-barometer.com/schliffkopf-wellness-natur-hotel-403/signet.png?summary=1&amp;width=300"
+                                             alt="Hotel Barometer"/>
+                                    </a>
+                                </xml>
+                            </content:html1>
+                        </members>
+                    </content:group>
+                </members>
+            </content:group>
+        </site:content-item>
+        <site:content-item name="logo" id="14658">
+            <content:media-display id="717817" type="image-static" page-content-id="717817" page-content-type="87"
+                                   page-content-entail="1" page-content-order="0" page-content-group="0"
+                                   page-content-changed-date="2016-08-16 12:53:05" cacheable="true">
+                <media_display>
+                    <media_display_id>5435</media_display_id>
+                    <media_display_customer>3146</media_display_customer>
+                    <media_display_content>717817</media_display_content>
+                    <media_display_type>7</media_display_type>
+                    <media_display_media>1556384</media_display_media>
+                    <media_display_media_preview>0</media_display_media_preview>
+                    <media_display_width>170</media_display_width>
+                    <media_display_height>98</media_display_height>
+                    <media_display_class/>
+                    <media_display_style/>
+                    <media_display_autoplay>0</media_display_autoplay>
+                    <media_display_loop>0</media_display_loop>
+                    <media_display_mute>0</media_display_mute>
+                    <media_display_controls>1</media_display_controls>
+                    <media_display_name>/</media_display_name>
+                    <media_display_description/>
+                    <media_display_alt/>
+                    <media_display_multilanguage>0</media_display_multilanguage>
+                </media_display>
+                <media>
+                    <media_file_id>1556384</media_file_id>
+                    <media_file_folder>51266</media_file_folder>
+                    <media_file_customer>3146</media_file_customer>
+                    <media_file_name>logo-schliffkopf</media_file_name>
+                    <media_file_description/>
+                    <media_file_type>jpg</media_file_type>
+                    <media_file_source>0</media_file_source>
+                    <media_file_changed>2016-08-16 11:55:37</media_file_changed>
+                    <media_file_mime>image/jpeg</media_file_mime>
+                    <media_file_size>6675</media_file_size>
+                    <media_file_width>170</media_file_width>
+                    <media_file_height>98</media_file_height>
+                    <media_file_duration>0</media_file_duration>
+                    <media_file_fps>0</media_file_fps>
+                    <media_file_codec_audio/>
+                    <media_file_codec_video/>
+                    <media_file_bandwidth>0</media_file_bandwidth>
+                    <media_file_class>1</media_file_class>
+                    <media_file_deleted>0000-00-00 00:00:00</media_file_deleted>
+                </media>
+                <media_url>http://3146-678.sites.condeon.net/media/51266/logo-schliffkopf-1556384.jpg</media_url>
+            </content:media-display>
+        </site:content-item>
+        <site:content-item name="tools" id="14660">
+            <content:article1 id="717824" xml="true" page-content-id="717824" page-content-type="20"
+                              page-content-entail="1" page-content-order="0" page-content-group="0"
+                              page-content-changed-date="2016-08-16 12:52:55" cacheable="true">
+                <xml>
+                    <ul>
+                        <li class="header-tel" style="white-space: nowrap;">
+                            <a href="tel:+4974499200">+49 (0) 7449 - 920-0</a>
+                        </li>
+                        <li class="header-email">
+                            <a href="mailto:info@schliffkopf.de">info@schliffkopf.de</a>
+                        </li>
+                    </ul>
+                </xml>
+            </content:article1>
+            <content:article1 id="717825" xml="true" page-content-id="717825" page-content-type="20"
+                              page-content-entail="1" page-content-order="0" page-content-group="0"
+                              page-content-changed-date="2016-08-16 12:52:46" cacheable="true">
+                <xml>
+                    <ul>
+                        <li class="header-route">
+                            <a>Anfahrt</a>
+                        </li>
+                    </ul>
+                </xml>
+            </content:article1>
+            <content:menu1 id="717826" level="1" start="0" page-content-id="717826" page-content-type="19"
+                           page-content-entail="1" page-content-order="0" page-content-group="0"
+                           page-content-changed-date="2016-08-16 12:52:37"/>
+        </site:content-item>
+        <site:content-item name="gallery" id="14661">
+            <content:gallery id="717827" type="slideshow-customized" page-content-id="717827" page-content-type="54"
+                             page-content-entail="1" page-content-order="0" page-content-group="0"
+                             page-content-changed-date="2016-09-16 14:32:30" attr-layout="pois-fixed" cacheable="true">
+                <gallery>
+                    <mcg_id>60797</mcg_id>
+                    <mcg_content>717827</mcg_content>
+                    <mcg_name/>
+                    <mcg_subtitle/>
+                    <mcg_media_folder>0</mcg_media_folder>
+                    <mcg_list_cols>0</mcg_list_cols>
+                    <mcg_list_rows>0</mcg_list_rows>
+                    <mcg_list_height>0</mcg_list_height>
+                    <mcg_list_width>0</mcg_list_width>
+                    <mcg_detail_height>0</mcg_detail_height>
+                    <mcg_detail_width>0</mcg_detail_width>
+                    <mcg_slideshow>0</mcg_slideshow>
+                    <mcg_slideshow_order>1</mcg_slideshow_order>
+                    <mcg_slideshow_transition>0</mcg_slideshow_transition>
+                    <mcg_slideshow_easing>0</mcg_slideshow_easing>
+                    <mcg_slideshow_time>1</mcg_slideshow_time>
+                    <mcg_slideshow_time_pause>5</mcg_slideshow_time_pause>
+                    <mcg_send>0</mcg_send>
+                    <mcg_send_confirm>0</mcg_send_confirm>
+                    <mcg_print>0</mcg_print>
+                    <mcg_print_service>0</mcg_print_service>
+                    <mcg_download>0</mcg_download>
+                    <mcg_lightbox>0</mcg_lightbox>
+                    <mcg_download_sizes>0</mcg_download_sizes>
+                    <mcg_start_view>4</mcg_start_view>
+                    <mcg_watermark_thumb_image>0</mcg_watermark_thumb_image>
+                    <mcg_watermark_thumb_pos>0</mcg_watermark_thumb_pos>
+                    <mcg_watermark_detail_image>0</mcg_watermark_detail_image>
+                    <mcg_watermark_detail_pos>0</mcg_watermark_detail_pos>
+                    <mcg_html_text>0</mcg_html_text>
+                    <mcg_nuke_contents>1</mcg_nuke_contents>
+                    <mcg_multilanguage>0</mcg_multilanguage>
+                </gallery>
+                <gallery-items>
+                    <int-0>
+                        <mcgi_gallery>60797</mcgi_gallery>
+                        <mcgi_media>1560235</mcgi_media>
+                        <mcgi_name/>
+                        <mcgi_text/>
+                        <mcgi_alt/>
+                        <mcgi_order>1</mcgi_order>
+                        <mcgi_show>1</mcgi_show>
+                        <media_file_id>1560235</media_file_id>
+                        <media_file_folder>51268</media_file_folder>
+                        <media_file_customer>3146</media_file_customer>
+                        <media_file_name>bild1</media_file_name>
+                        <media_file_description/>
+                        <media_file_type>png</media_file_type>
+                        <media_file_source>0</media_file_source>
+                        <media_file_changed>2016-09-16 14:32:26</media_file_changed>
+                        <media_file_mime>image/png</media_file_mime>
+                        <media_file_size>1910870</media_file_size>
+                        <media_file_width>1200</media_file_width>
+                        <media_file_height>740</media_file_height>
+                        <media_file_duration>0</media_file_duration>
+                        <media_file_fps>0</media_file_fps>
+                        <media_file_codec_audio/>
+                        <media_file_codec_video/>
+                        <media_file_bandwidth>0</media_file_bandwidth>
+                        <media_file_class>1</media_file_class>
+                        <media_file_deleted>0000-00-00 00:00:00</media_file_deleted>
+                        <rem>0</rem>
+                        <pois>
+                            <int-0>
+                                <media_poi_id>1354</media_poi_id>
+                                <media_poi_media>1560235</media_poi_media>
+                                <media_poi_media_width>1200</media_poi_media_width>
+                                <media_poi_media_height>740</media_poi_media_height>
+                                <media_poi_left>616</media_poi_left>
+                                <media_poi_top>336</media_poi_top>
+                                <media_poi_width>0</media_poi_width>
+                                <media_poi_height>0</media_poi_height>
+                                <media_poi_type>0</media_poi_type>
+                                <media_poi_text>&lt;h2&gt;Hotel Schliffkopf&lt;/h2&gt;
+                                    &lt;h3&gt;Eingebettet in die Natur des Schwarzwalds&lt;/h3&gt;
+                                    &lt;a href="#"&gt;jetzt angebote entdecken&lt;/a&gt;</media_poi_text>
+                                <media_poi_link/>
+                                <media_poi_page_content>717827</media_poi_page_content>
+                                <media_poi_text_xml xml="true">
+                                    <h2>Hotel Schliffkopf</h2>
+                                    <h3>Eingebettet in die Natur des Schwarzwalds</h3>
+                                    <a href="#">jetzt angebote entdecken</a>
+                                </media_poi_text_xml>
+                            </int-0>
+                        </pois>
+                        <mcgi_text_full/>
+                    </int-0>
+                    <int-1>
+                        <mcgi_gallery>60797</mcgi_gallery>
+                        <mcgi_media>1560234</mcgi_media>
+                        <mcgi_name/>
+                        <mcgi_text/>
+                        <mcgi_alt/>
+                        <mcgi_order>2</mcgi_order>
+                        <mcgi_show>1</mcgi_show>
+                        <media_file_id>1560234</media_file_id>
+                        <media_file_folder>51268</media_file_folder>
+                        <media_file_customer>3146</media_file_customer>
+                        <media_file_name>bild2</media_file_name>
+                        <media_file_description/>
+                        <media_file_type>png</media_file_type>
+                        <media_file_source>0</media_file_source>
+                        <media_file_changed>2016-08-24 13:54:49</media_file_changed>
+                        <media_file_mime>image/png</media_file_mime>
+                        <media_file_size>1669907</media_file_size>
+                        <media_file_width>1200</media_file_width>
+                        <media_file_height>740</media_file_height>
+                        <media_file_duration>0</media_file_duration>
+                        <media_file_fps>0</media_file_fps>
+                        <media_file_codec_audio/>
+                        <media_file_codec_video/>
+                        <media_file_bandwidth>0</media_file_bandwidth>
+                        <media_file_class>1</media_file_class>
+                        <media_file_deleted>0000-00-00 00:00:00</media_file_deleted>
+                        <rem>0</rem>
+                        <pois/>
+                        <mcgi_text_full/>
+                    </int-1>
+                    <int-2>
+                        <mcgi_gallery>60797</mcgi_gallery>
+                        <mcgi_media>1262535</mcgi_media>
+                        <mcgi_name/>
+                        <mcgi_text/>
+                        <mcgi_alt/>
+                        <mcgi_order>3</mcgi_order>
+                        <mcgi_show>1</mcgi_show>
+                        <media_file_id>1262535</media_file_id>
+                        <media_file_folder>36955</media_file_folder>
+                        <media_file_customer>3146</media_file_customer>
+                        <media_file_name>hotel-im-winter</media_file_name>
+                        <media_file_description/>
+                        <media_file_type>jpg</media_file_type>
+                        <media_file_source>0</media_file_source>
+                        <media_file_changed>2016-08-17 08:11:52</media_file_changed>
+                        <media_file_mime>image/jpeg</media_file_mime>
+                        <media_file_size>5509773</media_file_size>
+                        <media_file_width>4000</media_file_width>
+                        <media_file_height>1457</media_file_height>
+                        <media_file_duration>0</media_file_duration>
+                        <media_file_fps>0</media_file_fps>
+                        <media_file_codec_audio/>
+                        <media_file_codec_video/>
+                        <media_file_bandwidth>0</media_file_bandwidth>
+                        <media_file_class>1</media_file_class>
+                        <media_file_deleted>0000-00-00 00:00:00</media_file_deleted>
+                        <rem>0</rem>
+                        <pois>
+                            <int-0>
+                                <media_poi_id>1352</media_poi_id>
+                                <media_poi_media>1262535</media_poi_media>
+                                <media_poi_media_width>4000</media_poi_media_width>
+                                <media_poi_media_height>1457</media_poi_media_height>
+                                <media_poi_left>1866</media_poi_left>
+                                <media_poi_top>832</media_poi_top>
+                                <media_poi_width>0</media_poi_width>
+                                <media_poi_height>0</media_poi_height>
+                                <media_poi_type>1</media_poi_type>
+                                <media_poi_text>&lt;h3&gt;Hotel Schliffkopf&lt;/h3&gt;
+                                    &lt;p&gt;eingebettet in die Natur des Schwarzwalds&lt;br /&gt;&lt;a
+                                    href="/de/angebote/"&gt;Jetzt Angebot entdecken&lt;/a&gt;&lt;/p&gt;</media_poi_text>
+                                <media_poi_link/>
+                                <media_poi_page_content>717827</media_poi_page_content>
+                                <media_poi_text_xml xml="true">
+                                    <h3>Hotel Schliffkopf</h3>
+                                    <p>eingebettet in die Natur des Schwarzwalds
+                                        <br/>
+                                        <a href="/de/angebote/">Jetzt Angebot entdecken</a>
+                                    </p>
+                                </media_poi_text_xml>
+                            </int-0>
+                        </pois>
+                        <mcgi_text_full/>
+                    </int-2>
+                    <int-3>
+                        <mcgi_gallery>60797</mcgi_gallery>
+                        <mcgi_media>1092035</mcgi_media>
+                        <mcgi_name/>
+                        <mcgi_text/>
+                        <mcgi_alt/>
+                        <mcgi_order>4</mcgi_order>
+                        <mcgi_show>1</mcgi_show>
+                        <media_file_id>1092035</media_file_id>
+                        <media_file_folder>36955</media_file_folder>
+                        <media_file_customer>3146</media_file_customer>
+                        <media_file_name>_mg_3476</media_file_name>
+                        <media_file_description/>
+                        <media_file_type>jpg</media_file_type>
+                        <media_file_source>0</media_file_source>
+                        <media_file_changed>2014-02-05 09:18:00</media_file_changed>
+                        <media_file_mime>image/jpeg</media_file_mime>
+                        <media_file_size>1175781</media_file_size>
+                        <media_file_width>1920</media_file_width>
+                        <media_file_height>700</media_file_height>
+                        <media_file_duration>0</media_file_duration>
+                        <media_file_fps>0</media_file_fps>
+                        <media_file_codec_audio/>
+                        <media_file_codec_video/>
+                        <media_file_bandwidth>0</media_file_bandwidth>
+                        <media_file_class>1</media_file_class>
+                        <media_file_deleted>0000-00-00 00:00:00</media_file_deleted>
+                        <rem>0</rem>
+                        <pois/>
+                        <mcgi_text_full/>
+                    </int-3>
+                    <int-4>
+                        <mcgi_gallery>60797</mcgi_gallery>
+                        <mcgi_media>1501210</mcgi_media>
+                        <mcgi_name/>
+                        <mcgi_text/>
+                        <mcgi_alt/>
+                        <mcgi_order>5</mcgi_order>
+                        <mcgi_show>1</mcgi_show>
+                        <media_file_id>1501210</media_file_id>
+                        <media_file_folder>36961</media_file_folder>
+                        <media_file_customer>3146</media_file_customer>
+                        <media_file_name>0e2a3387stuebchen-2-</media_file_name>
+                        <media_file_description/>
+                        <media_file_type>jpg</media_file_type>
+                        <media_file_source>0</media_file_source>
+                        <media_file_changed>2016-04-08 13:13:47</media_file_changed>
+                        <media_file_mime>image/jpeg</media_file_mime>
+                        <media_file_size>23584160</media_file_size>
+                        <media_file_width>8688</media_file_width>
+                        <media_file_height>4511</media_file_height>
+                        <media_file_duration>0</media_file_duration>
+                        <media_file_fps>0</media_file_fps>
+                        <media_file_codec_audio/>
+                        <media_file_codec_video/>
+                        <media_file_bandwidth>0</media_file_bandwidth>
+                        <media_file_class>1</media_file_class>
+                        <media_file_deleted>0000-00-00 00:00:00</media_file_deleted>
+                        <rem>0</rem>
+                        <pois/>
+                        <mcgi_text_full/>
+                    </int-4>
+                    <int-5>
+                        <mcgi_gallery>60797</mcgi_gallery>
+                        <mcgi_media>1262552</mcgi_media>
+                        <mcgi_name/>
+                        <mcgi_text/>
+                        <mcgi_alt/>
+                        <mcgi_order>6</mcgi_order>
+                        <mcgi_show>1</mcgi_show>
+                        <media_file_id>1262552</media_file_id>
+                        <media_file_folder>36960</media_file_folder>
+                        <media_file_customer>3146</media_file_customer>
+                        <media_file_name>bergspa-detail</media_file_name>
+                        <media_file_description/>
+                        <media_file_type>jpg</media_file_type>
+                        <media_file_source>0</media_file_source>
+                        <media_file_changed>2014-11-07 09:17:41</media_file_changed>
+                        <media_file_mime>image/jpeg</media_file_mime>
+                        <media_file_size>4527834</media_file_size>
+                        <media_file_width>3997</media_file_width>
+                        <media_file_height>1456</media_file_height>
+                        <media_file_duration>0</media_file_duration>
+                        <media_file_fps>0</media_file_fps>
+                        <media_file_codec_audio/>
+                        <media_file_codec_video/>
+                        <media_file_bandwidth>0</media_file_bandwidth>
+                        <media_file_class>1</media_file_class>
+                        <media_file_deleted>0000-00-00 00:00:00</media_file_deleted>
+                        <rem>0</rem>
+                        <pois/>
+                        <mcgi_text_full/>
+                    </int-5>
+                    <int-6>
+                        <mcgi_gallery>60797</mcgi_gallery>
+                        <mcgi_media>1256120</mcgi_media>
+                        <mcgi_name/>
+                        <mcgi_text/>
+                        <mcgi_alt/>
+                        <mcgi_order>7</mcgi_order>
+                        <mcgi_show>1</mcgi_show>
+                        <media_file_id>1256120</media_file_id>
+                        <media_file_folder>25890</media_file_folder>
+                        <media_file_customer>3146</media_file_customer>
+                        <media_file_name>natur-pur-wanderer</media_file_name>
+                        <media_file_description/>
+                        <media_file_type>jpg</media_file_type>
+                        <media_file_source>0</media_file_source>
+                        <media_file_changed>2014-10-30 15:37:55</media_file_changed>
+                        <media_file_mime>image/jpeg</media_file_mime>
+                        <media_file_size>2293020</media_file_size>
+                        <media_file_width>1920</media_file_width>
+                        <media_file_height>700</media_file_height>
+                        <media_file_duration>0</media_file_duration>
+                        <media_file_fps>0</media_file_fps>
+                        <media_file_codec_audio/>
+                        <media_file_codec_video/>
+                        <media_file_bandwidth>0</media_file_bandwidth>
+                        <media_file_class>1</media_file_class>
+                        <media_file_deleted>0000-00-00 00:00:00</media_file_deleted>
+                        <rem>0</rem>
+                        <pois/>
+                        <mcgi_text_full/>
+                    </int-6>
+                    <int-7>
+                        <mcgi_gallery>60797</mcgi_gallery>
+                        <mcgi_media>1501233</mcgi_media>
+                        <mcgi_name/>
+                        <mcgi_text/>
+                        <mcgi_alt/>
+                        <mcgi_order>8</mcgi_order>
+                        <mcgi_show>1</mcgi_show>
+                        <media_file_id>1501233</media_file_id>
+                        <media_file_folder>36957</media_file_folder>
+                        <media_file_customer>3146</media_file_customer>
+                        <media_file_name>wohnzimmer</media_file_name>
+                        <media_file_description/>
+                        <media_file_type>jpg</media_file_type>
+                        <media_file_source>0</media_file_source>
+                        <media_file_changed>2016-04-08 14:14:48</media_file_changed>
+                        <media_file_mime>image/jpeg</media_file_mime>
+                        <media_file_size>3509235</media_file_size>
+                        <media_file_width>4608</media_file_width>
+                        <media_file_height>3456</media_file_height>
+                        <media_file_duration>0</media_file_duration>
+                        <media_file_fps>0</media_file_fps>
+                        <media_file_codec_audio/>
+                        <media_file_codec_video/>
+                        <media_file_bandwidth>0</media_file_bandwidth>
+                        <media_file_class>1</media_file_class>
+                        <media_file_deleted>0000-00-00 00:00:00</media_file_deleted>
+                        <rem>0</rem>
+                        <pois/>
+                        <mcgi_text_full/>
+                    </int-7>
+                    <int-8>
+                        <mcgi_gallery>60797</mcgi_gallery>
+                        <mcgi_media>1096404</mcgi_media>
+                        <mcgi_name/>
+                        <mcgi_text/>
+                        <mcgi_alt/>
+                        <mcgi_order>9</mcgi_order>
+                        <mcgi_show>1</mcgi_show>
+                        <media_file_id>1096404</media_file_id>
+                        <media_file_folder>36963</media_file_folder>
+                        <media_file_customer>3146</media_file_customer>
+                        <media_file_name>header-service1</media_file_name>
+                        <media_file_description/>
+                        <media_file_type>jpg</media_file_type>
+                        <media_file_source>0</media_file_source>
+                        <media_file_changed>2014-02-05 10:10:58</media_file_changed>
+                        <media_file_mime>image/jpeg</media_file_mime>
+                        <media_file_size>1070806</media_file_size>
+                        <media_file_width>1919</media_file_width>
+                        <media_file_height>700</media_file_height>
+                        <media_file_duration>0</media_file_duration>
+                        <media_file_fps>0</media_file_fps>
+                        <media_file_codec_audio/>
+                        <media_file_codec_video/>
+                        <media_file_bandwidth>0</media_file_bandwidth>
+                        <media_file_class>1</media_file_class>
+                        <media_file_deleted>0000-00-00 00:00:00</media_file_deleted>
+                        <rem>0</rem>
+                        <pois/>
+                        <mcgi_text_full/>
+                    </int-8>
+                    <int-9>
+                        <mcgi_gallery>60797</mcgi_gallery>
+                        <mcgi_media>1256117</mcgi_media>
+                        <mcgi_name/>
+                        <mcgi_text/>
+                        <mcgi_alt/>
+                        <mcgi_order>10</mcgi_order>
+                        <mcgi_show>1</mcgi_show>
+                        <media_file_id>1256117</media_file_id>
+                        <media_file_folder>25890</media_file_folder>
+                        <media_file_customer>3146</media_file_customer>
+                        <media_file_name>dsc_0116</media_file_name>
+                        <media_file_description/>
+                        <media_file_type>jpg</media_file_type>
+                        <media_file_source>0</media_file_source>
+                        <media_file_changed>2014-10-30 15:34:59</media_file_changed>
+                        <media_file_mime>image/jpeg</media_file_mime>
+                        <media_file_size>9169525</media_file_size>
+                        <media_file_width>6016</media_file_width>
+                        <media_file_height>4000</media_file_height>
+                        <media_file_duration>0</media_file_duration>
+                        <media_file_fps>0</media_file_fps>
+                        <media_file_codec_audio/>
+                        <media_file_codec_video/>
+                        <media_file_bandwidth>0</media_file_bandwidth>
+                        <media_file_class>1</media_file_class>
+                        <media_file_deleted>0000-00-00 00:00:00</media_file_deleted>
+                        <rem>0</rem>
+                        <pois/>
+                        <mcgi_text_full/>
+                    </int-9>
+                </gallery-items>
+                <options/>
+                <gallery-strings>
+                    <string name="diashow">Diashow</string>
+                    <string name="diashow.start">Diashow starten</string>
+                    <string name="remember">Merken</string>
+                    <string name="nav.back">zurück</string>
+                    <string name="nav.next">weiter</string>
+                    <string name="remember.pictures">Gemerkte Bilder</string>
+                    <string name="remember.send">an Freunde versenden</string>
+                    <string name="remember.print">drucken</string>
+                    <string name="remember.download.all">Alle Bilder herunterladen</string>
+                    <string name="remember.delete">löschen</string>
+                    <string name="remember.res.low">niedrig</string>
+                    <string name="remember.res.high">hoch</string>
+                    <string name="remember.original">orginal</string>
+                    <string name="remember.noimage">Es sind keine Bilder ausgewählt</string>
+                    <string name="download">herunterladen</string>
+                    <string name="pictures.recommended">Empfohlene Bilder</string>
+                </gallery-strings>
+            </content:gallery>
+        </site:content-item>
+        <site:content-item name="widget" id="14662">
+            <content:clearingstation-box-request id="717828" hotel-id="2444"
+                                                 client-url="http://master-hotel-schliffkopf2.cst.dgi.w.og.vioma.de/"
+                                                 box_request_style="0" client-url-cms="/de/service/online-buchung/"
+                                                 page-content-id="717828" page-content-type="57" page-content-entail="1"
+                                                 page-content-order="0" page-content-group="0"
+                                                 page-content-changed-date="2016-08-16 12:58:47">
+                <date-year>
+                    <int-0>2016</int-0>
+                    <int-1>2017</int-1>
+                    <int-2>2018</int-2>
+                    <int-3>2019</int-3>
+                </date-year>
+                <date-month>
+                    <int-0>1</int-0>
+                    <int-1>2</int-1>
+                    <int-2>3</int-2>
+                    <int-3>4</int-3>
+                    <int-4>5</int-4>
+                    <int-5>6</int-5>
+                    <int-6>7</int-6>
+                    <int-7>8</int-7>
+                    <int-8>9</int-8>
+                    <int-9>10</int-9>
+                    <int-10>11</int-10>
+                    <int-11>12</int-11>
+                </date-month>
+                <date-day>
+                    <int-0>1</int-0>
+                    <int-1>2</int-1>
+                    <int-2>3</int-2>
+                    <int-3>4</int-3>
+                    <int-4>5</int-4>
+                    <int-5>6</int-5>
+                    <int-6>7</int-6>
+                    <int-7>8</int-7>
+                    <int-8>9</int-8>
+                    <int-9>10</int-9>
+                    <int-10>11</int-10>
+                    <int-11>12</int-11>
+                    <int-12>13</int-12>
+                    <int-13>14</int-13>
+                    <int-14>15</int-14>
+                    <int-15>16</int-15>
+                    <int-16>17</int-16>
+                    <int-17>18</int-17>
+                    <int-18>19</int-18>
+                    <int-19>20</int-19>
+                    <int-20>21</int-20>
+                    <int-21>22</int-21>
+                    <int-22>23</int-22>
+                    <int-23>24</int-23>
+                    <int-24>25</int-24>
+                    <int-25>26</int-25>
+                    <int-26>27</int-26>
+                    <int-27>28</int-27>
+                    <int-28>29</int-28>
+                    <int-29>30</int-29>
+                    <int-30>31</int-30>
+                </date-day>
+                <date-select-year>2016</date-select-year>
+                <date-select-month>10</date-select-month>
+                <date-select-day>01</date-select-day>
+                <num-stays>
+                    <int-0>1</int-0>
+                    <int-1>2</int-1>
+                    <int-2>3</int-2>
+                    <int-3>4</int-3>
+                    <int-4>5</int-4>
+                    <int-5>6</int-5>
+                    <int-6>7</int-6>
+                    <int-7>8</int-7>
+                    <int-8>9</int-8>
+                    <int-9>10</int-9>
+                    <int-10>11</int-10>
+                    <int-11>12</int-11>
+                    <int-12>13</int-12>
+                    <int-13>14</int-13>
+                    <int-14>15</int-14>
+                    <int-15>16</int-15>
+                    <int-16>17</int-16>
+                    <int-17>18</int-17>
+                    <int-18>19</int-18>
+                    <int-19>20</int-19>
+                    <int-20>21</int-20>
+                    <int-21>22</int-21>
+                    <int-22>23</int-22>
+                    <int-23>24</int-23>
+                    <int-24>25</int-24>
+                    <int-25>26</int-25>
+                    <int-26>27</int-26>
+                    <int-27>28</int-27>
+                    <int-28>29</int-28>
+                    <int-29>30</int-29>
+                    <int-30>31</int-30>
+                </num-stays>
+                <num-select-stays>7</num-select-stays>
+                <num-persons>
+                    <int-0>1</int-0>
+                    <int-1>2</int-1>
+                    <int-2>3</int-2>
+                    <int-3>4</int-3>
+                    <int-4>5</int-4>
+                    <int-5>6</int-5>
+                    <int-6>7</int-6>
+                    <int-7>8</int-7>
+                    <int-8>9</int-8>
+                    <int-9>10</int-9>
+                </num-persons>
+                <num-select-persons>2</num-select-persons>
+                <match-space>
+                    <datepicker type="date_from"/>
+                    <datepicker type="date_to"/>
+                </match-space>
+            </content:clearingstation-box-request>
+        </site:content-item>
+        <site:content-item name="partners" id="14665">
+            <content:article1 id="717830" xml="true" page-content-id="717830" page-content-type="20"
+                              page-content-entail="1" page-content-order="0" page-content-group="0"
+                              page-content-changed-date="2016-09-12 07:59:04" cacheable="true">
+                <xml>
+                    <ul>
+                        <li>
+                            <a href="https://www.basenfasten.de/" target="_blank">
+                                <img alt="Basenfasten"
+                                     src="http://3146-678.sites.condeon.net/media/51267/logo-basenfast-1556385.png"
+                                     border="0" height="42" width="148"/>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://www.tripadvisor.de/Hotel_Review-g187279-d844557-Reviews-Nationalpark_Hotel_Schliffkopf-Baiersbronn_Baden_Wurttemberg.html"
+                               target="_blank">
+                                <img alt="Tripadvisor"
+                                     src="http://3146-678.sites.condeon.net/media/51267/logo-tripadvisor-1556389.png"
+                                     height="54" width="54"/>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="http://www.wellnesshotels-resorts.de/de/wellness-natur-resort_schliffkopf_schliffkopf_baiersbronn_schwarzwaldhochstrasse_schwarzwald_baden-wuerttemberg/hotelinfo"
+                               target="_blank">
+                                <img alt="Wellness-Hotels &amp; Resorts" style="float: left;"
+                                     src="http://3146-678.sites.condeon.net/media/51267/logo-wellnesshotels-1556390.png"
+                                     height="49" width="44"/>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="http://www.wellness-stars.de/Hotels/Schliffkopf-Wellness-Natur-Hotel"
+                               target="_blank">
+                                <img alt="Wellness Stars"
+                                     src="http://3146-678.sites.condeon.net/media/51267/logo-wellnessstars-1556858.png"
+                                     height="50" width="116"/>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="http://www.emas.de/" target="_blank">
+                                <img alt="EMAS Zertifizierter Betrieb"
+                                     src="http://3146-678.sites.condeon.net/media/51267/logo-emas-1556859.png"
+                                     height="57" width="37"/>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="http://www.kniebishuette.de/" target="_blank">
+                                <img alt="Kniebis-Hütte"
+                                     src="http://3146-678.sites.condeon.net/media/51267/logo-kniebishuette-1556860.png"
+                                     height="40" width="123"/>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="http://www.skizirkus-unterstmatt.de/" target="_blank">
+                                <img alt="Skizirkus Unterstmatt"
+                                     src="http://3146-678.sites.condeon.net/media/51267/logo-skizirkus-1556861.png"
+                                     height="34" width="112"/>
+                            </a>
+                        </li>
+                    </ul>
+                </xml>
+            </content:article1>
+        </site:content-item>
+        <site:content-item name="cookie-hint" id="14666">
+            <content:legal-privacy-hint cookie-accepted="false" id="717883" page-content-id="717883"
+                                        page-content-type="90" page-content-entail="1" page-content-order="0"
+                                        page-content-group="0" page-content-changed-date="2016-08-16 14:23:53"
+                                        cacheable="true">
+                <settings>
+                    <legal_privacy_tracking_codes>
+                        <website_setting_id>12367</website_setting_id>
+                        <website_setting_customer>3146</website_setting_customer>
+                        <website_setting_website>678</website_setting_website>
+                        <website_setting_name>legal_privacy_tracking_codes</website_setting_name>
+                        <website_setting_value>1</website_setting_value>
+                    </legal_privacy_tracking_codes>
+                    <legal_privacy_tao>
+                        <website_setting_id>12368</website_setting_id>
+                        <website_setting_customer>3146</website_setting_customer>
+                        <website_setting_website>678</website_setting_website>
+                        <website_setting_name>legal_privacy_tao</website_setting_name>
+                        <website_setting_value>1</website_setting_value>
+                    </legal_privacy_tao>
+                    <legal_privacy_google_analytics>
+                        <website_setting_id>12369</website_setting_id>
+                        <website_setting_customer>3146</website_setting_customer>
+                        <website_setting_website>678</website_setting_website>
+                        <website_setting_name>legal_privacy_google_analytics</website_setting_name>
+                        <website_setting_value>1</website_setting_value>
+                    </legal_privacy_google_analytics>
+                    <legal_privacy_google_adwords_remarketing>
+                        <website_setting_id>12370</website_setting_id>
+                        <website_setting_customer>3146</website_setting_customer>
+                        <website_setting_website>678</website_setting_website>
+                        <website_setting_name>legal_privacy_google_adwords_remarketing</website_setting_name>
+                        <website_setting_value>1</website_setting_value>
+                    </legal_privacy_google_adwords_remarketing>
+                    <legal_privacy_chat>
+                        <website_setting_id>12371</website_setting_id>
+                        <website_setting_customer>3146</website_setting_customer>
+                        <website_setting_website>678</website_setting_website>
+                        <website_setting_name>legal_privacy_chat</website_setting_name>
+                        <website_setting_value>0</website_setting_value>
+                    </legal_privacy_chat>
+                    <legal_privacy_facebook>
+                        <website_setting_id>12372</website_setting_id>
+                        <website_setting_customer>3146</website_setting_customer>
+                        <website_setting_website>678</website_setting_website>
+                        <website_setting_name>legal_privacy_facebook</website_setting_name>
+                        <website_setting_value>1</website_setting_value>
+                    </legal_privacy_facebook>
+                    <legal_privacy_facebook_custom_audiences>
+                        <website_setting_id>12373</website_setting_id>
+                        <website_setting_customer>3146</website_setting_customer>
+                        <website_setting_website>678</website_setting_website>
+                        <website_setting_name>legal_privacy_facebook_custom_audiences</website_setting_name>
+                        <website_setting_value>1</website_setting_value>
+                    </legal_privacy_facebook_custom_audiences>
+                    <legal_country>
+                        <website_setting_id>12374</website_setting_id>
+                        <website_setting_customer>3146</website_setting_customer>
+                        <website_setting_website>678</website_setting_website>
+                        <website_setting_name>legal_country</website_setting_name>
+                        <website_setting_value>DE</website_setting_value>
+                    </legal_country>
+                    <legal_disput_link>
+                        <website_setting_id>12375</website_setting_id>
+                        <website_setting_customer>3146</website_setting_customer>
+                        <website_setting_website>678</website_setting_website>
+                        <website_setting_name>legal_disput_link</website_setting_name>
+                        <website_setting_value>1</website_setting_value>
+                    </legal_disput_link>
+                    <legal_org_name>
+                        <website_setting_id>12376</website_setting_id>
+                        <website_setting_customer>3146</website_setting_customer>
+                        <website_setting_website>678</website_setting_website>
+                        <website_setting_name>legal_org_name</website_setting_name>
+                        <website_setting_value>Nationalpark-Hotel Schliffkopf</website_setting_value>
+                    </legal_org_name>
+                    <legal_org_subname>
+                        <website_setting_id>12377</website_setting_id>
+                        <website_setting_customer>3146</website_setting_customer>
+                        <website_setting_website>678</website_setting_website>
+                        <website_setting_name>legal_org_subname</website_setting_name>
+                        <website_setting_value>Familie Fahrner</website_setting_value>
+                    </legal_org_subname>
+                    <legal_org_street>
+                        <website_setting_id>12378</website_setting_id>
+                        <website_setting_customer>3146</website_setting_customer>
+                        <website_setting_website>678</website_setting_website>
+                        <website_setting_name>legal_org_street</website_setting_name>
+                        <website_setting_value>Schwarzwaldhochstraße 1</website_setting_value>
+                    </legal_org_street>
+                    <legal_org_zip>
+                        <website_setting_id>12379</website_setting_id>
+                        <website_setting_customer>3146</website_setting_customer>
+                        <website_setting_website>678</website_setting_website>
+                        <website_setting_name>legal_org_zip</website_setting_name>
+                        <website_setting_value>72270</website_setting_value>
+                    </legal_org_zip>
+                    <legal_org_city>
+                        <website_setting_id>12380</website_setting_id>
+                        <website_setting_customer>3146</website_setting_customer>
+                        <website_setting_website>678</website_setting_website>
+                        <website_setting_name>legal_org_city</website_setting_name>
+                        <website_setting_value>Schliffkopf (Baiersbronn)</website_setting_value>
+                    </legal_org_city>
+                    <legal_org_email>
+                        <website_setting_id>12381</website_setting_id>
+                        <website_setting_customer>3146</website_setting_customer>
+                        <website_setting_website>678</website_setting_website>
+                        <website_setting_name>legal_org_email</website_setting_name>
+                        <website_setting_value>info@schliffkopf.de</website_setting_value>
+                    </legal_org_email>
+                    <legal_org_phone>
+                        <website_setting_id>12382</website_setting_id>
+                        <website_setting_customer>3146</website_setting_customer>
+                        <website_setting_website>678</website_setting_website>
+                        <website_setting_name>legal_org_phone</website_setting_name>
+                        <website_setting_value>+49 (0) 7449 - 920-0</website_setting_value>
+                        <website_setting_value_normalized>+4974499200</website_setting_value_normalized>
+                    </legal_org_phone>
+                    <legal_org_domain>
+                        <website_setting_id>12383</website_setting_id>
+                        <website_setting_customer>3146</website_setting_customer>
+                        <website_setting_website>678</website_setting_website>
+                        <website_setting_name>legal_org_domain</website_setting_name>
+                        <website_setting_value>http://www.schliffkopf.de/</website_setting_value>
+                    </legal_org_domain>
+                    <legal_org_fax>
+                        <website_setting_id>12384</website_setting_id>
+                        <website_setting_customer>3146</website_setting_customer>
+                        <website_setting_website>678</website_setting_website>
+                        <website_setting_name>legal_org_fax</website_setting_name>
+                        <website_setting_value>+49 781 31055-29</website_setting_value>
+                    </legal_org_fax>
+                </settings>
+                <content:legal-imprint-phone/>
+            </content:legal-privacy-hint>
+        </site:content-item>
+        <site:content-item name="nav" id="14659">
+            <content:menu1 id="719259" level="1" start="0" page-content-id="719259" page-content-type="19"
+                           page-content-entail="1" page-content-order="0" page-content-group="0"
+                           page-content-changed-date="2016-08-24 11:37:21"/>
+        </site:content-item>
+        <site:content-item name="quicklinks" id="14691">
+            <content:article1 id="719295" xml="true" page-content-id="719295" page-content-type="20"
+                              page-content-entail="1" page-content-order="0" page-content-group="0"
+                              page-content-changed-date="2016-09-15 14:39:53" cacheable="true">
+                <xml>
+                    <ul>
+                        <li>
+                            <a class="tour" title="360° Tour" href="#">
+                                <span class="action-button-text">360° Tour</span>
+                                <span class="action-button-desc">erleben Sie das Hotel</span>
+                            </a>
+                        </li>
+                        <li>
+                            <a class="angebote" title="last minute" href="#">
+                                <span class="action-button-text">Last Minute</span>
+                                <span class="action-button-desc">Angebote entdecken</span>
+                            </a>
+                        </li>
+                        <li>
+                            <a class="news" title="Basenfasten" href="#">
+                                <span class="action-button-text">Basenfasten</span>
+                                <span class="action-button-desc">Neu im Schliffkopf</span>
+                            </a>
+                        </li>
+                    </ul>
+                </xml>
+            </content:article1>
+        </site:content-item>
+        <site:content-item name="content" id="14663"/>
+        <site:content-item name="nav-content-1" id="14687"/>
+        <site:content-item name="nav-content-2" id="14688"/>
+        <site:content-item name="nav-content-3" id="14689"/>
+        <site:content-item name="nav-content-4" id="14690"/>
+    </site:content>
+    <site:template template-id="1805">
+        <template-settings>
+            <template-setting id="171506" name="variant-template" value="A"/>
+            <template-setting id="171507" name="variant-header" value="Z"/>
+            <template-setting id="171508" name="variant-logo" value="Z"/>
+            <template-setting id="171509" name="variant-widget" value="A"/>
+            <template-setting id="171510" name="variant-navigation" value="Z"/>
+            <template-setting id="171511" name="variant-logo-vioma" value="B"/>
+            <template-setting id="171512" name="widget-adults" value="no"/>
+            <template-setting id="171513" name="widget-children" value="no"/>
+            <template-setting id="171514" name="widget-inquire" value="yes"/>
+            <template-setting id="171515" name="widget-inquire-vri" value="yes"/>
+            <template-setting id="171516" name="widget-inquire-id" value="1289"/>
+            <template-setting id="171517" name="widget-vouchers" value="yes"/>
+            <template-setting id="171523" name="font-family-google-url"
+                              value="'//fonts.googleapis.com/css?family=Quicksand%3A300%2C400'"/>
+            <template-setting id="171535" name="smoothscroll-effect" value="yes"/>
+            <template-setting id="171600" name="search-result-highlight" value="yes"/>
+        </template-settings>
+    </site:template>
+    <site:page page-id="239814" page-struct="132862" page-struct-parent="132859" page-name="unterseite 2-1"
+               page-keywords="" page-title="" page-description="" page-language="de" page-language-iso="de"
+               page-language-id="1714" page-changed-date="2016-09-17 10:45:22" page-robots="1"
+               page-url-canonical="http://3146-678.sites.condeon.net/de/schliffkopf-club/title-der-2-ebene-unique-e5227eb4501da74f1953c65e71dd5208/unterseite1/">
+        <path>
+            <path-item id="239211" struct="132399" url="/de/schliffkopf-club/" keywords="" title="" description="">
+                Schliffkopf Club
+            </path-item>
+            <path-item id="239811" struct="132859"
+                       url="/de/schliffkopf-club/title-der-2-ebene-unique-e5227eb4501da74f1953c65e71dd5208/" keywords=""
+                       title="" description="">Title 2
+            </path-item>
+            <path-item id="239814" struct="132862"
+                       url="/de/schliffkopf-club/title-der-2-ebene-unique-e5227eb4501da74f1953c65e71dd5208/unterseite1/"
+                       keywords="" title="" description="">unterseite 2-1
+            </path-item>
+        </path>
+        <languages>
+            <page id="239814" language-id="1714" language="de" language-name="DE" language-website-name=""
+                  website-language-id="1714" state="current"
+                  url="/de/schliffkopf-club/title-der-2-ebene-unique-e5227eb4501da74f1953c65e71dd5208/unterseite1/"
+                  keywords="" title="" description="">unterseite 2-1
+            </page>
+        </languages>
+        <content-attributes>
+            <content-attribute id="532" page-content-id="717827" name="layout" value="pois-fixed"/>
+            <content-attribute id="532" page-content-id="717858" name="layout" value="spalten"/>
+            <content-attribute id="532" page-content-id="717906" name="layout" value="karte"/>
+        </content-attributes>
+        <page-attributes>
+            <page-attribute id="444" name="untertitel" page="239207" value="Ich wünsche mir  "/>
+            <page-attribute id="444" name="untertitel" page="239209" value="Fahrner"/>
+            <page-attribute id="444" name="untertitel" page="239380" value="Ein Untertitel der etwas länger ist"/>
+            <page-attribute id="458" name="menü-bild" struct="132540" value="1572074"/>
+            <page-attribute id="458" name="menü-bild" struct="132541" value="1572077"/>
+            <page-attribute id="458" name="menü-bild" struct="132542" value="1572075"/>
+            <page-attribute id="458" name="menü-bild" struct="132857" value="1572074"/>
+            <page-attribute id="458" name="menü-bild" struct="132858" value="1572074"/>
+            <page-attribute id="458" name="menü-bild" struct="132859" value="1572074"/>
+            <page-attribute id="458" name="menü-bild" struct="132860" value="1572074"/>
+            <page-attribute id="458" name="menü-bild" struct="132861" value="1572074"/>
+            <page-attribute id="459" name="untertitel" page="239379" value="Die Ebene2 mit 3"/>
+            <page-attribute id="469" name="untertitel" page="239805" value="Die mit 3"/>
+        </page-attributes>
+    </site:page>
+    <site:website website-id="678" website-name="Hotel Schliffkopf 2016" domain-id="3951"
+                  domain-fqdn="3146.condeon.dgi.w.og.vioma.de" domain-secure="no" domain-domshake="yes"
+                  domain-language-default="0" domain-language-only="0" domain-standard-fqdn="3146-678.sites.condeon.net"
+                  domain-standard-uri="http://3146-678.sites.condeon.net"/>
+    <site:customer customer-id="3146"/>
+    <site:match-space>
+        <header>
+            <logo/>
+            <navigation/>
+            <tools/>
+            <gallery/>
+            <widgets/>
+        </header>
+        <main/>
+        <footer/>
+        <scripts/>
+    </site:match-space>
+</site:site>
+        <!--
+        0.000 0.000 prepend (start) php-5625-31.og.vioma.de
+        0.009 0.009 cache memcache extension
+        0.009 0.000 prepend (done)
+        0.009 0.000 core (start)
+        0.009 0.000 cache_prefetch start cmscondeon/web/dgi_prefetch_json_3146.condeon.dgi.w.og.vioma.de_4dfec0035fa7a433a846fc5339e3da93
+        0.009 0.000 cache_prefetch done
+        0.012 0.003 core (CM_SYSTEM, CFE_REQUEST)
+        0.012 0.000 cache_get cmscondeon/web/dgi_cache_domain_3146.condeon.dgi.w.og.vioma.de_80
+        0.012 0.000 core (CM_SYSTEM, CFE_DOMAIN)
+        0.012 0.000 cache_get cmscondeon/web/dgi_cache_domain_filter_678_domain_secure_1_domain_media_0_domain_static_0
+        0.012 0.000 cache_get cmscondeon/web/dgi_cache_domain_filter_678_domain_media_1_domain_secure_0
+        0.013 0.000 cache_get cmscondeon/web/dgi_cache_domain_filter_678_domain_static_1_domain_secure_0
+        0.013 0.000 cache_get cmscondeon/web/dgi_cache_domain_filter_678_domain_mobile_1
+        0.013 0.000 cache_get cmscondeon/web/dgi_cache_domain_standard_678_
+        0.014 0.001 cache_get cmscondeon/web/dgi_cache_module_type_3146_2
+        0.020 0.006 cache_get cmscondeon/web/dgi_cache_website_678
+        0.020 0.000 cache_get cmscondeon/web/dgi_cache_website_languages_678
+        0.021 0.000 core (CM_WEBSITE, CFE_WEBSITE)
+        0.021 0.000 mstack call()
+        0.021 0.000 mstack call (cms_module_fe_website_url_redirect//cb_check)
+        0.021 0.000 cache_get cmscondeon/web/dgi_cache_website_url_redirect_path_count_678_1
+        0.021 0.000 mstack call() done
+        0.023 0.002 cache_get cmscondeon/web/dgi_cache_website_language_string_678_de
+        0.023 0.000 cache_get cmscondeon/web/dgi_cache_website_language_code_678_de
+        0.023 0.000 cache_get cmscondeon/web/dgi_cache_url_parser_path_1714_132394_3_schliffkopf-club_title-der-2-ebene-unique-e5227eb4501da74f1953c65e71dd5208_unterseite1
+        0.024 0.000 core (CM_PAGE, CFE_URL_PARSE)
+        0.024 0.000 cache_get cmscondeon/web/dgi_cache_page_full_239814
+        0.024 0.000 cache_get cmscondeon/web/dgi_cache_template_contents_1805
+        0.024 0.000 cache_get cmscondeon/web/dgi_cache_template_1805
+        0.024 0.000 cache_get cmscondeon/web/dgi_cache_module_id_5
+        0.025 0.001 core (CM_PAGE, CFE_MODULE_PAGE)
+        0.025 0.000 mstack call()
+        0.025 0.000 mstack call (cms_fe_page//cf_page_secure_check)
+        0.025 0.000 mstack call() done
+        0.025 0.000 core (page_handler//handle)
+        0.025 0.000 html1 (CM_CONTENT, CFE_MODULE_CONTENT_LOAD)
+        0.025 0.000 mstack call()
+        0.025 0.000 mstack call (cms_module_fe_website_tracking_code//cb_collect)
+        0.025 0.000 cache_get cmscondeon/web/dgi_cache_website_tracking_codes_678
+        0.025 0.000 mstack call() done
+        0.025 0.000 html1 (CM_CONTENT, CFE_MODULE_CONTENT_INTERNAL)
+        0.025 0.000 cache_get cmscondeon/web/dgi_cache_page_content_get_by_page_239814_0_true
+        0.026 0.000 cache_get cmscondeon/web/dgi_cache_website_setting_678_request_page_contents_template_current_only
+        0.026 0.000 mstack call()
+        0.026 0.000 mstack call (cms_module_fe_website_website_optimizer//cb_page_content_parse)
+        0.026 0.000 cache_get cmscondeon/web/dgi_cache_wso_experiments_678
+        0.026 0.000 mstack call() done
+        0.026 0.000 html1 (load modules)
+        0.026 0.000 cache_get cmscondeon/web/dgi_cache_module_id_87
+        0.028 0.003 cache_get cmscondeon/web/dgi_cache_module_id_102
+        0.035 0.006 cache_get cmscondeon/web/dgi_cache_page_content_module_social_media_717899
+        0.035 0.000 cache_get cmscondeon/web/dgi_cache_social_media_sources_826
+        0.035 0.000 cache_get cmscondeon/web/dgi_cache_module_id_87
+        0.035 0.000 cache_get cmscondeon/web/dgi_cache_module_id_20
+        0.038 0.003 cache_get cmscondeon/web/dgi_cache_module_id_20
+        0.038 0.000 cache_get cmscondeon/web/dgi_cache_module_id_19
+        0.041 0.003 cache_get cmscondeon/web/dgi_cache_module_id_54
+        0.045 0.004 cache_get cmscondeon/web/dgi_cache_module_id_57
+        0.051 0.006 cache_get cmscondeon/web/dgi_cache_page_content_module_clearingstation_717828
+        0.051 0.000 cache_get cmscondeon/web/dgi_cache_website_setting_678_cst_client_url_dgi
+        0.051 0.000 cache_get cmscondeon/web/dgi_cache_website_setting_678_cst_subpage_detail_package
+        0.051 0.000 cache_get cmscondeon/web/dgi_cache_website_setting_678_cst_subpage_detail_voucher
+        0.051 0.000 cache_get cmscondeon/web/dgi_cache_website_setting_678_cst_subpage_detail_roomtype
+        0.051 0.000 cache_get cmscondeon/web/dgi_cache_website_setting_678_cst_subpage_detail_program
+        0.051 0.000 cache_get cmscondeon/web/dgi_cache_website_setting_678_cst_subpage_transaction_robots
+        0.052 0.000 cache_get cmscondeon/web/dgi_cache_module_id_20
+        0.052 0.000 cache_get cmscondeon/web/dgi_cache_module_id_109
+        0.054 0.003 cache_get cmscondeon/web/dgi_cache_module_id_20
+        0.054 0.000 cache_get cmscondeon/web/dgi_cache_module_id_109
+        0.054 0.000 cache_get cmscondeon/web/dgi_cache_module_id_20
+        0.055 0.000 cache_get cmscondeon/web/dgi_cache_module_id_90
+        0.057 0.003 cache_get cmscondeon/web/dgi_cache_module_id_19
+        0.057 0.000 cache_get cmscondeon/web/dgi_cache_module_id_30
+        0.060 0.002 cache_get cmscondeon/web/dgi_cache_module_id_109
+        0.060 0.000 cache_get cmscondeon/web/dgi_cache_module_id_97
+        0.062 0.003 cache_get cmscondeon/web/dgi_cache_module_id_19
+        0.063 0.000 cache_get cmscondeon/web/dgi_cache_module_id_20
+        0.063 0.000 cache_get cmscondeon/web/dgi_cache_template_1805
+        0.063 0.000 html1 (CM_CONTENT, CFE_MODULE_CONTENT_WELCOME)
+        0.063 0.000 mstack call()
+        0.063 0.000 mstack call (cms_fe_page//cf_page_secure_required)
+        0.063 0.000 mstack call (cms_module_fe_content_menu1//tree_build)
+        0.063 0.000 cache_get cmscondeon/web/dgi_cache_menu_tree_page_239814
+        0.063 0.000 mstack call (cms_module_fe_content_menu1//tree_build)
+        0.063 0.000 cache_get cmscondeon/web/dgi_cache_menu_tree_page_239814
+        0.063 0.000 mstack call (cms_module_fe_content_menu1//tree_build)
+        0.063 0.000 cache_get cmscondeon/web/dgi_cache_menu_tree_page_239814
+        0.063 0.000 mstack call() done
+        0.063 0.000 html1 (CM_CONTENT, CFE_MODULE_CONTENT_INTEGRITY_BEFORE)
+        0.063 0.000 html1 (CM_CONTENT, CFE_MODULE_CONTENT_INTEGRITY)
+        0.063 0.000 mstack call()
+        0.063 0.000 mstack call (cms_module_fe_website_contact_control//integrity_content)
+        0.063 0.000 cache_get cmscondeon/web/dgi_cache_contact_control_contents_4_4fb5fd35f1b0eb713d6f7687881a0ead
+        0.064 0.000 mstack call (cms_module_fe_content_clearingstation//cb_integrity)
+        0.064 0.000 mstack call() done
+        0.064 0.000 html1 (CM_CONTENT, CFE_MODULE_CONTENT_REQUEST_BEFORE)
+        0.064 0.000 mstack call()
+        0.064 0.000 mstack call (cms_module_fe_website_content_attribute//cb_collect)
+        0.064 0.000 cache_get cmscondeon/web/dgi_cache_website_content_attributes_2_678_239814
+        0.064 0.000 mstack call() done
+        0.064 0.000 html1 (CM_CONTENT, CFE_MODULE_CONTENT_REQUEST)
+        0.064 0.000 mstack call()
+        0.064 0.000 mstack call (cms_module_fe_content_media_display//cb_request)
+        0.064 0.000 cache_get cmscondeon/web/dgi_cache_page_content_1714_717906_717906
+        0.065 0.001 mstack call()
+        0.065 0.000 mstack call (cms_module_fe_website_content_attribute//cb_content_modify)
+        0.065 0.000 mstack call() done
+        0.065 0.000 mstack call (cms_module_fe_content_social_media//cb_request)
+        0.065 0.000 cache_get cmscondeon/web/dgi_cache_page_content_1714_717899_717899
+        0.067 0.001 mstack call()
+        0.067 0.000 mstack call (cms_module_fe_website_content_attribute//cb_content_modify)
+        0.067 0.000 mstack call() done
+        0.067 0.000 mstack call (cms_module_fe_content_media_display//cb_request)
+        0.067 0.000 cache_get cmscondeon/web/dgi_cache_page_content_1714_717817_717817
+        0.067 0.000 mstack call()
+        0.067 0.000 mstack call (cms_module_fe_website_content_attribute//cb_content_modify)
+        0.067 0.000 mstack call() done
+        0.067 0.000 mstack call (cms_module_fe_content_article1//request)
+        0.067 0.000 cache_get cmscondeon/web/dgi_cache_page_content_1714_717824_717824_domshake
+        0.068 0.001 mstack call()
+        0.068 0.000 mstack call (cms_module_fe_website_content_attribute//cb_content_modify)
+        0.068 0.000 mstack call() done
+        0.068 0.000 mstack call (cms_module_fe_content_article1//request)
+        0.068 0.000 cache_get cmscondeon/web/dgi_cache_page_content_1714_717825_717825_domshake
+        0.068 0.000 mstack call()
+        0.068 0.000 mstack call (cms_module_fe_website_content_attribute//cb_content_modify)
+        0.068 0.000 mstack call() done
+        0.068 0.000 mstack call (cms_module_fe_content_menu1//menu_request)
+        0.068 0.000 cache_get cmscondeon/web/dgi_cache_page_content_module_menu_717826
+        0.069 0.001 mstack call()
+        0.069 0.000 mstack call (cms_module_fe_website_content_attribute//cb_content_modify)
+        0.069 0.000 mstack call() done
+        0.069 0.000 mstack call (cms_module_fe_content_gallery//request)
+        0.069 0.000 cache_get cmscondeon/web/dgi_cache_page_content_1714_717827_717827_
+        0.071 0.001 mstack call()
+        0.071 0.000 mstack call (cms_module_fe_website_content_attribute//cb_content_modify)
+        0.071 0.000 mstack call() done
+        0.071 0.000 mstack call (cms_module_fe_content_clearingstation//cb_request)
+        0.071 0.000 cache_get cmscondeon/web/dgi_cache_page_path_678_239214
+        0.072 0.001 mstack call()
+        0.072 0.000 mstack call (cms_module_fe_website_content_attribute//cb_content_modify)
+        0.072 0.000 mstack call() done
+        0.072 0.000 mstack call (cms_module_fe_content_article1//request)
+        0.072 0.000 cache_get cmscondeon/web/dgi_cache_page_content_1714_717830_717830_domshake
+        0.072 0.001 mstack call()
+        0.072 0.000 mstack call (cms_module_fe_website_content_attribute//cb_content_modify)
+        0.072 0.000 mstack call() done
+        0.072 0.000 mstack call (cms_module_fe_content_group//cb_request)
+        0.073 0.001 mstack call()
+        0.073 0.000 mstack call (cms_module_fe_website_content_attribute//cb_content_modify)
+        0.073 0.000 mstack call() done
+        0.073 0.000 mstack call (cms_module_fe_content_article1//request)
+        0.073 0.000 cache_get cmscondeon/web/dgi_cache_page_content_1714_717860_717860_domshake
+        0.074 0.000 mstack call()
+        0.074 0.000 mstack call (cms_module_fe_website_content_attribute//cb_content_modify)
+        0.074 0.000 mstack call() done
+        0.074 0.000 mstack call (cms_module_fe_content_group//cb_request)
+        0.074 0.000 mstack call()
+        0.074 0.000 mstack call (cms_module_fe_website_content_attribute//cb_content_modify)
+        0.074 0.000 mstack call() done
+        0.074 0.000 mstack call (cms_module_fe_content_article1//request)
+        0.074 0.000 cache_get cmscondeon/web/dgi_cache_page_content_1714_717870_717870_domshake
+        0.074 0.000 mstack call()
+        0.074 0.000 mstack call (cms_module_fe_website_content_attribute//cb_content_modify)
+        0.074 0.000 mstack call() done
+        0.074 0.000 mstack call (cms_module_fe_content_legal//cb_request)
+        0.074 0.000 cache_get cmscondeon/web/dgi_cache_page_content_1714_717883_717883
+        0.075 0.001 mstack call()
+        0.075 0.000 mstack call (cms_module_fe_website_content_attribute//cb_content_modify)
+        0.075 0.000 mstack call() done
+        0.075 0.000 mstack call (cms_module_fe_content_menu1//menu_request)
+        0.075 0.000 cache_get cmscondeon/web/dgi_cache_page_content_module_menu_717885
+        0.076 0.000 mstack call()
+        0.076 0.000 mstack call (cms_module_fe_website_content_attribute//cb_content_modify)
+        0.076 0.000 mstack call() done
+        0.076 0.000 mstack call (cms_module_fe_content_search_box1//search_box_request)
+        0.076 0.000 cache_get cmscondeon/web/dgi_cache_page_content_1714_717886_717886
+        0.077 0.001 mstack call()
+        0.077 0.000 mstack call (cms_module_fe_website_content_attribute//cb_content_modify)
+        0.077 0.000 mstack call() done
+        0.077 0.000 mstack call (cms_module_fe_content_group//cb_request)
+        0.077 0.000 mstack call()
+        0.077 0.000 mstack call (cms_module_fe_website_content_attribute//cb_content_modify)
+        0.077 0.000 mstack call() done
+        0.077 0.000 mstack call (cms_module_fe_content_html1//request)
+        0.077 0.000 cache_get cmscondeon/web/dgi_cache_page_content_1714_717895_717895_domshake
+        0.078 0.001 mstack call()
+        0.078 0.000 mstack call (cms_module_fe_website_content_attribute//cb_content_modify)
+        0.078 0.000 mstack call() done
+        0.078 0.000 mstack call (cms_module_fe_content_menu1//menu_request)
+        0.078 0.000 cache_get cmscondeon/web/dgi_cache_page_content_module_menu_719259
+        0.078 0.000 mstack call()
+        0.078 0.000 mstack call (cms_module_fe_website_content_attribute//cb_content_modify)
+        0.078 0.000 mstack call() done
+        0.078 0.000 mstack call (cms_module_fe_content_article1//request)
+        0.078 0.000 cache_get cmscondeon/web/dgi_cache_page_content_1714_719295_719295_domshake
+        0.078 0.000 mstack call()
+        0.078 0.000 mstack call (cms_module_fe_website_content_attribute//cb_content_modify)
+        0.078 0.000 mstack call() done
+        0.079 0.000 mstack call() done
+        0.079 0.000 html1 (CM_CONTENT, CFE_MODULE_CONTENT_COLLECT)
+        0.079 0.000 mstack call()
+        0.079 0.000 mstack call (cms_module_fe_website_page_attribute//cb_collect)
+        0.079 0.000 cache_get cmscondeon/web/dgi_cache_website_page_attributes_678_239814
+        0.079 0.000 mstack call (cms_module_fe_content_group//cb_collect)
+        0.079 0.000 mstack call (cms_module_fe_content_group//cb_collect)
+        0.079 0.000 mstack call (cms_module_fe_content_group//cb_collect)
+        0.079 0.000 mstack call() done
+        0.079 0.000 html1 (CM_CONTENT, CFE_XSL_TRANSFORM)
+        0.079 0.000 html1 (xml_add_xsl current_template)
+        0.080 0.001 reply (xsl parse)
+        0.080 0.000 reply (load xsl class)
+        0.081 0.002 cache_get cmscondeon/web/dgi_cache_page_239814
+        0.081 0.000 cache_get cmscondeon/web/dgi_cache_page_struct_132862
+        0.082 0.000 cache_get cmscondeon/web/dgi_cache_page_struct_132859
+        0.082 0.000 cache_get cmscondeon/web/dgi_cache_page_struct_132399
+        0.082 0.000 cache_get cmscondeon/web/dgi_cache_page_get_by_struct_132399_boolean_1_1714_1_678_1_3146_1714
+        0.082 0.000 cache_get cmscondeon/web/dgi_cache_page_get_by_struct_132859_boolean_1_1714_1_678_1_3146_1714
+        0.082 0.000 cache_get cmscondeon/web/dgi_cache_page_get_by_struct_132862_boolean_1_1714_1_678_1_3146_1714
+        0.082 0.000 cache_get cmscondeon/web/dgi_cache_page_path_678_239211
+        0.082 0.000 cache_get cmscondeon/web/dgi_cache_page_path_678_239811
+        0.082 0.000 cache_get cmscondeon/web/dgi_cache_page_path_678_239814
+        0.082 0.000 cache_get cmscondeon/web/dgi_cache_page_get_by_struct_132862_boolean__1714_1_678_1_3146
+        0.083 0.000 cache_get cmscondeon/web/dgi_cache_page_239814
+        0.083 0.000 cache_get cmscondeon/web/dgi_cache_page_struct_132862
+        0.083 0.000 cache_get cmscondeon/web/dgi_cache_page_struct_132859
+        0.083 0.000 cache_get cmscondeon/web/dgi_cache_page_struct_132399
+        0.083 0.000 cache_get cmscondeon/web/dgi_cache_page_struct_132394
+        0.083 0.000 cache_get cmscondeon/web/dgi_cache_page_get_by_struct_132394_integer_1714_1714_1_678_1_3146
+        0.083 0.000 cache_get cmscondeon/web/dgi_cache_page_get_by_struct_132399_integer_1714_1714_1_678_1_3146
+        0.083 0.000 cache_get cmscondeon/web/dgi_cache_page_get_by_struct_132859_integer_1714_1714_1_678_1_3146
+        0.083 0.000 cache_get cmscondeon/web/dgi_cache_page_get_by_struct_132862_integer_1714_1714_1_678_1_3146
+        0.083 0.000 cache_get cmscondeon/web/dgi_cache_template_settings_1805
+        0.083 0.000 cache_get cmscondeon/web/dgi_cache_domain_standard_678_
+        qc: 0 memc get: 155 memc set: 0-->

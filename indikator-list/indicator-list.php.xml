@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="index.xsl" ?>
+<site:site xmlns:site="http://xmlns.webmaking.ms/site/" xmlns:cstc="http://xmlns.webmaking.ms/cstc/"
+           xmlns:content="http://xmlns.webmaking.ms/content/">
+    <site:env>
+        <site:vars php_self="indicator-list.php" base=""
+                   base-resources="http://channel-113-prok.clients.clearingstation.de/" client-name="channel-113-prok"
+                   secure="false" session-id="1uoi8imjcunef03hijas2dagc1" session-name="PHPSESSID"
+                   version-cache="1484324177" dev="no"></site:vars>
+        <site:hotel></site:hotel>
+        <site:channel></site:channel>
+        <site:user-agent name="chrome" version="55"></site:user-agent>
+    </site:env>
+    <site:config currency="Euro" currency-sign="€" currency-user="1" currency-client="1" price-zero-cent=",--"
+                 date-weekday-start="1" default-age="30" link-hotel="false" hotel="1495" remember=""
+                 remember-vnh="false" view360="true" conversion-code="false" list-images="true" language="1"
+                 language-str="de" search-roomtypes="3" search-programs="3" search-packages="3" search-layout="3"
+                 detail-button-back="false" privacy="true" templates-xhtml="false" templates-html5="true"
+                 templates-remote="false" standard-image-width="506" standard-image-height=""
+                 standard-image-detail-width="508" standard-images-detail-width="508" standard-image-zoom-width="800"
+                 standard-image-thumb-width="60" standard-image-thumb-height="42" standard-image-detail-height="177"
+                 standard-image-scaling="s" image-zoom-icon="true" standard-image-mobile-width="278"
+                 standard-vjg-scroller-mode="vertical" standard-vjg-links-force="false"
+                 standard-vjg-scroller-links-force="false" xd-url="false" booking-mobile="true"></site:config>
+    <site:auth type="unknown"></site:auth>
+    <site:menu></site:menu>
+    <site:cms></site:cms>
+    <site:tags></site:tags>
+    <site:tao></site:tao>
+    <site:match-space>
+        <site-headline></site-headline>
+        <site-links>
+            <normal></normal>
+            <back></back>
+            <hotel></hotel>
+            <privacy></privacy>
+            <remember></remember>
+        </site-links>
+        <images></images>
+        <navigation></navigation>
+        <calendar>
+            <jquery></jquery>
+        </calendar>
+        <form>
+            <element-required></element-required>
+            <select-countries></select-countries>
+            <remember-items></remember-items>
+            <user-data></user-data>
+        </form>
+        <hotel>
+            <stars></stars>
+            <rooms>
+                <teaser></teaser>
+                <content></content>
+                <price></price>
+                <view360></view360>
+            </rooms>
+            <programs>
+                <teaser></teaser>
+                <content></content>
+                <content-variants></content-variants>
+            </programs>
+            <packages>
+                <not-bookable></not-bookable>
+                <content></content>
+                <variants></variants>
+                <programs></programs>
+            </packages>
+        </hotel>
+        <formatted-text></formatted-text>
+        <custom>
+            <css></css>
+        </custom>
+        <booking>
+            <channel-settings></channel-settings>
+            <language-handles></language-handles>
+            <book-items></book-items>
+            <mobile>
+                <custom>
+                    <css></css>
+                </custom>
+            </mobile>
+        </booking>
+        <voucher>
+            <voucher-programs-branch></voucher-programs-branch>
+        </voucher>
+    </site:match-space>
+    <cstc:frame layout="full" foreign-id="0">
+        <cstc:site page-name="indicators" page-title="#Programme">
+            <cstc:indicator-list type="5368" type-str="programs" hotel="1495">
+                <cstc:general-list>
+                    <cstc:indicator-teaser id="27002" parent="26994">
+                        <coi_description>
+                            <span class="cst-bold">Ihr Prokulus-Zimmer</span>
+                            oder Ihre Prokulus-Suite sind Ihre ganz persönliche Urlaubswelt – Ihr Kuschelnest, Ihr Hideaway, Ihre Familienhöhle. Hier genießen Sie den Luxus hochwertiger Ausstattung, Geborgenheit und besten Schlafkomfort. Schlafen Sie wie auf Wolke 7, in Ihrem Traumurlaub im Hotel Prokulus in Südtirol.
+                            <br />
+                            <ul class="cst-list">
+                                <li>liste1</li>
+                                <li>liste2</li>
+                                <li>liste3</li>
+                            </ul>
+                        </coi_description>
+                        <coi_visible_booking>0</coi_visible_booking>
+                        <coi_teaser>Indikator 27002: unterprogramm#2</coi_teaser>
+                        <coi_image>http://media1.clearingstation.de/channel/113/264464</coi_image>
+                        <coi_id>27002</coi_id>
+                        <coi_parent>26994</coi_parent>
+                        <coi_teaser_str>Indikator 27002: unterprogramm#2</coi_teaser_str>
+                        <coi_visible>1</coi_visible>
+                        <coi_use>2</coi_use>
+                        <coi_image_merged2>0</coi_image_merged2>
+                        <coi_name>unterprogramm#2</coi_name>
+                        <coi_channel>113</coi_channel>
+                        <coi_name_str>unterprogramm#2</coi_name_str>
+                        <coi_image2>0</coi_image2>
+                        <coi_image_merged>264464</coi_image_merged>
+                        <coi_order>0</coi_order>
+                        <coi_description_str></coi_description_str>
+                        <program-count>4</program-count>
+                    </cstc:indicator-teaser>
+                    <cstc:indicator-teaser id="26998" parent="26994">
+                        <coi_description>
+                            <span class="cst-bold">Ihr Prokulus-Zimmer</span>
+                            oder Ihre Prokulus-Suite sind Ihre ganz persönliche Urlaubswelt – Ihr Kuschelnest, Ihr Hideaway, Ihre Familienhöhle. Hier genießen Sie den Luxus hochwertiger Ausstattung, Geborgenheit und besten Schlafkomfort. Schlafen Sie wie auf Wolke 7, in Ihrem Traumurlaub im Hotel Prokulus in Südtirol.
+                            <br />
+                            <ul class="cst-list">
+                                <li>liste1</li>
+                                <li>liste2</li>
+                                <li>liste3</li>
+                            </ul>
+                        </coi_description>
+                        <coi_visible_booking>0</coi_visible_booking>
+                        <coi_teaser>Indikator 26998: unterprogramm#1</coi_teaser>
+                        <coi_image>http://media2.clearingstation.de/channel/0/183761</coi_image>
+                        <coi_id>26998</coi_id>
+                        <coi_parent>26994</coi_parent>
+                        <coi_teaser_str>Indikator 26998: unterprogramm#1</coi_teaser_str>
+                        <coi_visible>1</coi_visible>
+                        <coi_use>2</coi_use>
+                        <coi_image_merged2>0</coi_image_merged2>
+                        <coi_name>unterprogramm#1</coi_name>
+                        <coi_channel>113</coi_channel>
+                        <coi_name_str>unterprogramm#1</coi_name_str>
+                        <coi_image2>0</coi_image2>
+                        <coi_image_merged>183761</coi_image_merged>
+                        <coi_order>0</coi_order>
+                        <coi_description_str></coi_description_str>
+                        <program-count>1</program-count>
+                    </cstc:indicator-teaser>
+                    <cstc:indicator-teaser id="26994" parent="0">
+                        <coi_description>
+                            <span class="cst-bold">Ihr Prokulus-Zimmer</span>
+                            oder Ihre Prokulus-Suite sind Ihre ganz persönliche Urlaubswelt – Ihr Kuschelnest, Ihr Hideaway, Ihre Familienhöhle. Hier genießen Sie den Luxus hochwertiger Ausstattung, Geborgenheit und besten Schlafkomfort. Schlafen Sie wie auf Wolke 7, in Ihrem Traumurlaub im Hotel Prokulus in Südtirol.
+                            <br />
+                            <ul class="cst-list">
+                                <li>liste1</li>
+                                <li>liste2</li>
+                                <li>liste3</li>
+                            </ul>
+                        </coi_description>
+                        <coi_visible_booking>0</coi_visible_booking>
+                        <coi_teaser>Teaser Programme....</coi_teaser>
+                        <coi_image>http://media4.clearingstation.de/channel/113/264463</coi_image>
+                        <coi_id>26994</coi_id>
+                        <coi_parent>0</coi_parent>
+                        <coi_teaser_str>Teaser Programme....</coi_teaser_str>
+                        <coi_visible>1</coi_visible>
+                        <coi_use>2</coi_use>
+                        <coi_image_merged2>0</coi_image_merged2>
+                        <coi_name>#Programme</coi_name>
+                        <coi_channel>113</coi_channel>
+                        <coi_name_str>#Programme</coi_name_str>
+                        <coi_image2>0</coi_image2>
+                        <coi_image_merged>264463</coi_image_merged>
+                        <coi_order>0</coi_order>
+                        <coi_description_str>Beschreibung Programme</coi_description_str>
+                        <program-count>3</program-count>
+                    </cstc:indicator-teaser>
+                </cstc:general-list>
+            </cstc:indicator-list>
+        </cstc:site>
+        <cstc:tao-tracking-pixel object-id="" tao_unique="16450469">
+            <impression_resources></impression_resources>
+        </cstc:tao-tracking-pixel>
+    </cstc:frame>
+</site:site>

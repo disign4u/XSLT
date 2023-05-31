@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="index.xsl" ?>
+<site:site xmlns:site = "http://xmlns.webmaking.ms/site/"
+           xmlns:content = "http://xmlns.webmaking.ms/content/">
+	<hallo>Hallo Welt</hallo>
+</site:site>

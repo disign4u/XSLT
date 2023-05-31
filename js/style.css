@@ -1,0 +1,23 @@
+body {
+  backround: lightgray;
+  font-family: Verdana, san-serif;
+  padding: 5vW;
+}
+section {
+  box-sizing: border-box;
+  width: 90vw;
+  height: 25vw;
+  padding: 5vw;
+  border: 1px solid black;
+  margin: 0 0 5vh 0;
+}
+.flex-container {
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: row;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  width: 100%;
+  background: red;
+}
