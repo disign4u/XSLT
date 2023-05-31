@@ -1,0 +1,2642 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<site:site xmlns:site="http://xmlns.webmaking.ms/site/" xmlns:content="http://xmlns.webmaking.ms/content/">
+	<site:env>
+		<site:vars>
+			<php_self>
+				<![CDATA[/?wmms[output]=xml]]>
+			</php_self>
+			<dev>yes</dev>
+			<url_action>/de/</url_action>
+			<session_name>PHPSESSID</session_name>
+			<session_id>r5j7aef5dplhlh149ljucl9en3</session_id>
+		</site:vars>
+		<site:user-agent name="chrome" version="74" os="macintosh" language="de" country="de"></site:user-agent>
+	</site:env>
+	<site:tao>
+		<unique>2498759114</unique>
+		<session_hash>b8a4a3638820ae0769c03badcdc28064</session_hash>
+		<content:tao-pixel-conversion-dynamic></content:tao-pixel-conversion-dynamic>
+		<page_sub>
+			<type>34</type>
+			<name>Newsletter Subscribe</name>
+			<priority>0</priority>
+			<content>form</content>
+			<additional></additional>
+		</page_sub>
+		<content:tao-pixel-custom></content:tao-pixel-custom>
+	</site:tao>
+	<site:optimizer></site:optimizer>
+	<site:software name="Condeon" revision="1.8.6" db-connected="yes" db-master="no"></site:software>
+	<site:tree>
+		<menu id="281583" struct="155197" struct-pid="0" module="5" url="/de/" title="Naturhotel Waldklause" keywords=""
+		      page-title="Naturhotel Waldklause | 5 Sterne Design- &amp; Wellnesshotel in Tirol"
+		      description="Naturhotel Waldklause im Ötztaler Längenfeld. Das besondere Hotel in Tirol für: ✓ Wellness &amp; Beauty, ✓ Design, ✓ Kulinarik, ✓ Sport &amp; Aktiv ➨ Mehr dazu.  "
+		      target="0" level="0" state="n" l="32" ls="83" vstate="active">
+			<menu-item id="281881" struct="155371" struct-pid="155197" module="5" url-name="naturhotel"
+			           url="/de/naturhotel/" keywords=""
+			           page-title="Naturhotel Waldklause | Ihr Naturhotel in Österreich"
+			           description="Im Naturhotel Waldklause im Ötztaler kommen Sie der Natur ganz nahe. Natur pur im Ötztal und im Hotel erleben. ✓NaturSPA ✓Naturküche ✓Nachhaltigkeit  "
+			           target="0">Naturhotel
+			</menu-item>
+			<menu-item id="281882" struct="155372" struct-pid="155197" module="5" url-name="zimmer-angebote"
+			           url="/de/zimmer-angebote/" keywords="" page-title="Zimmer &amp; Angebote | Naturhotel Waldklause"
+			           description="☀ Hier finden Sie Infos zu unseren Zimmern &amp; Angeboten im 5* Naturhotel Waldklause. Informieren Sie sich jetzt! ☀  "
+			           target="0">Zimmer &amp; Angebote
+			</menu-item>
+			<menu-item id="281895" struct="155385" struct-pid="155197" module="5" url-name="naturkueche"
+			           url="/de/naturkueche/" keywords="" page-title="Naturküche | Naturhotel Waldklause"
+			           description="Lassen Sie sich von der ★ Naturküche ★ im Hotel Waldklause verwöhnen. Jetzt mehr erfahren! ►►  "
+			           target="0">Naturküche
+			</menu-item>
+			<menu-item id="281896" struct="155386" struct-pid="155197" module="5" url-name="naturspa"
+			           url="/de/naturspa/" keywords=""
+			           page-title="Wellnesshotel Ötztal | NaturSPA im Naturhotel Waldklause"
+			           description="Entspannen Sie im Wellness Urlaub im Ötztal auf ganz besondere Weise im Naturhotel Waldklause. ✓Beheizter Außenpool ✓Saunawelt ✓Massagen uvm.  ►  "
+			           target="0">NATUR-SPA
+			</menu-item>
+			<menu-item id="281897" struct="155387" struct-pid="155197" module="5" url-name="aktivitaeten-ausflugsziele"
+			           url="/de/aktivitaeten-ausflugsziele/" keywords=""
+			           page-title="Urlaub im Ötztal | Naturhotel Waldklause"
+			           description="Sommer wie Winter ist das Ötztal einen Besuch wert. ☀ Hier finden Sie alle Infos zu Aktivitäten und Ausflugszielen im Ötztal. ◄ Jetzt informieren! ►  "
+			           target="0">Aktivitäten &amp; Ausflugsziele
+			</menu-item>
+		</menu>
+		<menu id="281881" struct="155371" struct-pid="155197" module="5" url="/de/naturhotel/" title="Naturhotel"
+		      keywords="" page-title="Naturhotel Waldklause | Ihr Naturhotel in Österreich"
+		      description="Im Naturhotel Waldklause im Ötztaler kommen Sie der Natur ganz nahe. Natur pur im Ötztal und im Hotel erleben. ✓NaturSPA ✓Naturküche ✓Nachhaltigkeit  "
+		      target="0" level="unknown" state="start-level" l="32" ls="110">
+			<menu-item id="281883" struct="155373" struct-pid="155371" module="5" url-name="kontakt-anreise"
+			           url="/de/naturhotel/kontakt-anreise/" keywords=""
+			           page-title="Kontakt &amp; Anreise | Naturhotel Waldklause"
+			           description="Hier finden Sie alle Informationen um uns kontaktieren zu können. Sie erreichen uns per E-Mail, Telefon oder Fax ☎  "
+			           target="0">Kontakt &amp; Anreise
+			</menu-item>
+			<menu-item id="281884" struct="155374" struct-pid="155371" module="5" url-name="auf-einen-blick"
+			           url="/de/naturhotel/auf-einen-blick/" keywords=""
+			           page-title="Naturhotel Waldklause | Was uns auszeichnet"
+			           description="Überzeugen Sie sich selbst von allem was das Naturhotel Waldklause auszeichnet &amp; Ihren Urlaub in Tirol zu etwas ganz Besonderem macht. ► Mehr dazu! ►  "
+			           target="0">Auf einen Blick
+			</menu-item>
+			<menu-item id="281885" struct="155375" struct-pid="155371" module="5" url-name="nachhaltigkeit"
+			           url="/de/naturhotel/nachhaltigkeit/" keywords=""
+			           page-title="Nachhaltiger Urlaub im Ötztal | Naturhotel Waldklause"
+			           description="Wir lieben Nachhaltigkeit und leben sie auch im Naturhotel im Ötztal. ✓nachhaltig errichtet ✓im Einklang mit der Natur ✓regionale Produkte im Haus &amp; am Teller  "
+			           target="0">Nachhaltigkeit
+			</menu-item>
+			<menu-item id="281886" struct="155376" struct-pid="155371" module="5" url-name="auszeichnungen-bewertungen"
+			           url="/de/naturhotel/auszeichnungen-bewertungen/" keywords=""
+			           page-title="Auszeichnungen &amp; Bewertungen | Naturhotel Waldklause"
+			           description="Überzeugen Sie sich selbst von unseren Auszeichnungen - denn Nachhaltigkeit zahlt sich aus. ► Überzeugen Sie sich selbst! ►  "
+			           target="0">Auszeichnungen &amp; Bewertungen
+			</menu-item>
+			<menu-item id="281887" struct="155377" struct-pid="155371" module="5" url-name="prospekte"
+			           url="/de/naturhotel/prospekte/" keywords="" page-title="Prospekte | Naturhotel Waldklause"
+			           description="Hier finden Sie Prospekte &amp; Infomaterial zum durchblättern und downloaden.  ► Jetzt über das Naturhotel Waldklause informieren! ◄  "
+			           target="0">Prospekte
+			</menu-item>
+			<menu-item id="281888" struct="155378" struct-pid="155371" module="5" url-name="bilder-videos"
+			           url="/de/naturhotel/bilder-videos/" keywords=""
+			           page-title="Bilder &amp; Videos | Naturhotel Waldklause"
+			           description="Hier finden Sie Bilder und Videos zu unserem Naturhotel im Ötztal. ◄ Jetzt ansehen! ►  "
+			           target="0">Bilder &amp; Videos
+			</menu-item>
+		</menu>
+		<menu id="281882" struct="155372" struct-pid="155197" module="5" url="/de/zimmer-angebote/"
+		      title="Zimmer &amp; Angebote" keywords="" page-title="Zimmer &amp; Angebote | Naturhotel Waldklause"
+		      description="☀ Hier finden Sie Infos zu unseren Zimmern &amp; Angeboten im 5* Naturhotel Waldklause. Informieren Sie sich jetzt! ☀  "
+		      target="0" level="unknown" state="start-level" l="25" ls="79">
+			<menu-item id="281890" struct="155380" struct-pid="155372" module="5" url-name="angebote-highlights"
+			           url="/de/zimmer-angebote/angebote-highlights/" keywords=""
+			           page-title="Angebote &amp; Highlights | Naturhotel Waldklause"
+			           description="Urlaubsangebote im Ötztal: Sommer wie Winter von tolle Angebote im Naturhotel Waldklause profitieren. ► Jetzt Angebot sichern! ►  "
+			           target="0">Angebote &amp; Highlights
+			</menu-item>
+			<menu-item id="281891" struct="155381" struct-pid="155372" module="5" url-name="last-minutes"
+			           url="/de/zimmer-angebote/last-minutes/" keywords=""
+			           page-title="Last Minute Urlaub im Ötztal | Naturhotel Waldklause"
+			           description="Lust auf Last Minute Urlaub in Tirol? Jetzt Wellness Last Minute Angebot im Naturhotel Waldklause sichern. ► Zu den Angeboten! ►   "
+			           target="0">Last-Minutes
+			</menu-item>
+			<menu-item id="281892" struct="155382" struct-pid="155372" module="5" url-name="schnellanfrage"
+			           url="/de/zimmer-angebote/schnellanfrage/" keywords=""
+			           page-title="Schnellanfrage | Naturhotel Waldklause"
+			           description="Wir freuen uns, dass Sie sich für einen Aufenthalt in unserem Naturhotel interessieren. Schnellanfrage ausfüllen &amp; ab in den Urlaub. Zur Anfrage ►►  "
+			           target="0">Schnellanfrage
+			</menu-item>
+			<menu-item id="281893" struct="155383" struct-pid="155372" module="5" url-name="inklusivleistungen"
+			           url="/de/zimmer-angebote/inklusivleistungen/" keywords=""
+			           page-title="Inklusivleistungen im Naturhotel Waldklause"
+			           description="Erfahren Sie hier alles zu unseren ★Inklusivleistungen★ im 5 Sterne Naturhotel Waldklause. Jetzt informieren!  "
+			           target="0">Inklusivleistungen
+			</menu-item>
+			<menu-item id="281894" struct="155384" struct-pid="155372" module="5" url-name="gutscheine"
+			           url="/de/zimmer-angebote/gutscheine/" keywords="" page-title="Gutscheine | Naturhotel Waldklause"
+			           description="Mit Gutscheinen vom Naturhotel Waldklause verschenken Sie Erholung &amp; Entspannung vom Feinsten. ♥ Jetzt Freude schenken! ♥  "
+			           target="0">Gutscheine
+			</menu-item>
+		</menu>
+		<menu id="281895" struct="155385" struct-pid="155197" module="5" url="/de/naturkueche/" title="Naturküche"
+		      keywords="" page-title="Naturküche | Naturhotel Waldklause"
+		      description="Lassen Sie sich von der ★ Naturküche ★ im Hotel Waldklause verwöhnen. Jetzt mehr erfahren! ►►  "
+		      target="0" level="unknown" state="start-level" l="18" ls="28">
+			<menu-item id="281899" struct="155389" struct-pid="155385" module="5" url-name="weingenuss"
+			           url="/de/naturkueche/weingenuss/" keywords=""
+			           page-title="Weingenuss im Naturhotel Waldklause, Ötztal"
+			           description="Genießen Sie Weingenuss im Naturhotel Waldklause. ✓ Vinothek, ✓ Weinverkostung im Hotel, ✓ Wein aus nah und fern. ► Mehr dazu ►  "
+			           target="0">Weingenuss
+			</menu-item>
+			<menu-item id="281900" struct="155390" struct-pid="155385" module="5" url-name="regionale-produkte"
+			           url="/de/naturkueche/regionale-produkte/" keywords=""
+			           page-title="Genussurlaub im Naturhotel Waldklause, Ötztal"
+			           description="Ob morgens, mittags oder abends - regionale Produkte finden im Naturhotel Waldklause immer einen Platz am Esstisch. ► Mehr dazu ►  "
+			           target="0">Regionale Produkte
+			</menu-item>
+		</menu>
+		<menu id="281896" struct="155386" struct-pid="155197" module="5" url="/de/naturspa/" title="NATUR-SPA"
+		      keywords="" page-title="Wellnesshotel Ötztal | NaturSPA im Naturhotel Waldklause"
+		      description="Entspannen Sie im Wellness Urlaub im Ötztal auf ganz besondere Weise im Naturhotel Waldklause. ✓Beheizter Außenpool ✓Saunawelt ✓Massagen uvm.  ►  "
+		      target="0" level="unknown" state="start-level" l="26" ls="82">
+			<menu-item id="281901" struct="155391" struct-pid="155386" module="5" url-name="massagen-anwendungen"
+			           url="/de/naturspa/massagen-anwendungen/" keywords=""
+			           page-title="Massagen &amp; Anwendungen | Wellnesshotel Waldklause"
+			           description="Ihr Wellnessurlaub im Ötztal wird mit Massagen &amp; Anwendungen im Naturhotel Waldklause abgerundet. ► Jetzt informieren! ►  "
+			           target="0">Massagen &amp; Anwendungen
+			</menu-item>
+			<menu-item id="281902" struct="155392" struct-pid="155386" module="5" url-name="naturprodukte"
+			           url="/de/naturspa/naturprodukte/" keywords=""
+			           page-title="Wellness und Gesundheit im Naturhotel Waldklause"
+			           description="Wir setzen auf Natur pur &amp; das auch in unserer Produktauswahl im NaturSPA. Alle Infos zu unseren Naturprodukten finden sie hier. ► Jetzt informieren! ►  "
+			           target="0">Naturprodukte
+			</menu-item>
+			<menu-item id="281903" struct="155393" struct-pid="155386" module="5" url-name="fitness-bewegung"
+			           url="/de/naturspa/fitness-bewegung/" keywords=""
+			           page-title="Fitness im Aktivurlaub,  Ötztal | Naturhotel Waldklause"
+			           description="Fitness und Bewegung im Urlaub im Ötztal. ✓ Fitnessraum ✓ Bewegungsraum ✓ Natur pur direkt vor der Hoteltür ✓ Jetzt mehr erfahren!  "
+			           target="0">Fitness &amp; Bewegung
+			</menu-item>
+			<menu-item id="281904" struct="155394" struct-pid="155386" module="5" url-name="aqua-dome-laengenfeld"
+			           url="/de/naturspa/aqua-dome-laengenfeld/" keywords=""
+			           page-title="5* Hotel am Aqua Dome Längenfeld | Naturhotel Waldklause"
+			           description="Freier Eintritt für Hotelgäste in der Therme Aqua Dome Längenfeld. ★Nur 2 Minuten vom Hotel entfernt!★ ► Hier mehr erfahren! ►  "
+			           target="0">Aqua Dome Längenfeld
+			</menu-item>
+		</menu>
+		<menu id="281897" struct="155387" struct-pid="155197" module="5" url="/de/aktivitaeten-ausflugsziele/"
+		      title="Aktivitäten &amp; Ausflugsziele" keywords="" page-title="Urlaub im Ötztal | Naturhotel Waldklause"
+		      description="Sommer wie Winter ist das Ötztal einen Besuch wert. ☀ Hier finden Sie alle Infos zu Aktivitäten und Ausflugszielen im Ötztal. ◄ Jetzt informieren! ►  "
+		      target="0" level="unknown" state="start-level" l="27" ls="102">
+			<menu-item id="281905" struct="155395" struct-pid="155387" module="5" url-name="skifahren-snowboarden"
+			           url="/de/aktivitaeten-ausflugsziele/skifahren-snowboarden/" keywords=""
+			           page-title="Skiurlaub Ötztal | Urlaub im Naturhotel Waldklause"
+			           description="Im Skiurlaub im Ötztal ✓ vom Mitte November bis Mai dank ✓ Schneesicherheit Skispaß genießen &amp; im Naturhotel Waldklause entspannen. ► Mehr dazu! ►  "
+			           target="0">Skifahren &amp; Snowboarden
+			</menu-item>
+			<menu-item id="281906" struct="155396" struct-pid="155387" module="5" url-name="langlauf"
+			           url="/de/aktivitaeten-ausflugsziele/langlauf/" keywords=""
+			           page-title="Langlaufen im Ötztal | Urlaub im Naturhotel Waldklause"
+			           description="Langlaufurlaub auf top präparierten Loipen in unmittelbarer Nähe zum Hotel Waldklause. ✚ Jetzt informieren &amp; Urlaub sichern! ✚  "
+			           target="0">Langlauf
+			</menu-item>
+			<menu-item id="281907" struct="155397" struct-pid="155387" module="5" url-name="schneeschuh-wandern"
+			           url="/de/aktivitaeten-ausflugsziele/schneeschuh-wandern/" keywords=""
+			           page-title="Schneeschuhwandern im Ötztal | Naturhotel Waldklause"
+			           description="Die Natur des Ötztals auf Schneeschuhen entdecken. ✓unberührte Natur ✓Ruhe &amp; frische Luft  ✓Entspannung &amp; Genuss im Naturhotel Waldklause. Mehr Info ►  "
+			           target="0">Schneeschuhwandern
+			</menu-item>
+			<menu-item id="281908" struct="155398" struct-pid="155387" module="5" url-name="rodeln"
+			           url="/de/aktivitaeten-ausflugsziele/rodeln/" keywords=""
+			           page-title="Rodeln im Ötztal | Urlaub im Naturhotel Waldklause"
+			           description="Rodeln im Ötztal heißt Spaß für Groß und Klein. Ob zu Fuß oder mit dem Lift - für jeden ist das Passende dabei. ★Mehr erfahren!★  "
+			           target="0">Rodeln
+			</menu-item>
+			<menu-item id="281911" struct="155401" struct-pid="155387" module="5" url-name="wandern"
+			           url="/de/aktivitaeten-ausflugsziele/wandern/" keywords=""
+			           page-title="Wandern im Ötztal | Urlaub im Naturhotel Waldklause"
+			           description="Nutzen Sie das Naturhotel Waldklause als perfekten Ausgangspunkt für Ihren Wanderurlaub im Ötztal. ✓ 140 km Wanderwege ✓ tolle Berge ✓ Erholung - mehr dazu!  "
+			           target="0">Wandern
+			</menu-item>
+			<menu-item id="281912" struct="155402" struct-pid="155387" module="5" url-name="mountainbiken"
+			           url="/de/aktivitaeten-ausflugsziele/mountainbiken/" keywords=""
+			           page-title="Mountainbiken im Ötztal | Naturhotel Waldklause"
+			           description="Vom Bikehotel im Ötztal aus macht Radurlaub gleich viel mehr Spaß. ✓ tolle Biketouren ✓ 900 km Rad- und Mountainbikewege ✓ Urlaub im Naturhotel - mehr dazu!  "
+			           target="0">Mountainbiken
+			</menu-item>
+			<menu-item id="281913" struct="155403" struct-pid="155387" module="5" url-name="nordic-walking"
+			           url="/de/aktivitaeten-ausflugsziele/nordic-walking/" keywords=""
+			           page-title="Nordic Walking im Ötztal | Naturhotel Waldklause"
+			           description="Hier finden Sie alle Infos zu Ihrem Nordic Walking Urlaub in Tirol im Naturhotel Waldklause. ✓ NaturSPA ✓ Naturküche ✓ unberührte Natur - mehr dazu! ►  "
+			           target="0">Nordic Walking
+			</menu-item>
+			<menu-item id="281914" struct="155404" struct-pid="155387" module="5" url-name="fun-sport"
+			           url="/de/aktivitaeten-ausflugsziele/fun-sport/" keywords=""
+			           page-title="Fun Sport &amp; Abenteuer im Ötztal | Naturhotel Waldklause"
+			           description="Ob Rafting, Canyoning uvm. - im Sommerurlaub im Ötztal erleben Sie viele Abenteuer &amp; das Naturhotel Waldklause hilft Ihnen dabei. ► Mehr erfahren! ◄  "
+			           target="0">Fun-Sport
+			</menu-item>
+		</menu>
+	</site:tree>
+	<site:content>
+		<site:content-item name="content" id="16553">
+			<content:group id="1002100" page-content-id="1002100" page-content-type="109" page-content-entail="0"
+			               page-content-order="0" page-content-group="0" page-content-changed-date="2019-04-04 07:55:18"
+			               attr-display="grid">
+				<members>
+					<content:group id="998577" page-content-id="998577" page-content-type="109" page-content-entail="0"
+					               page-content-order="10" page-content-group="1002100"
+					               page-content-changed-date="2019-04-16 14:41:16" attr-layout="spalten"
+					               attr-hintergrund-bild-id="1893756">
+						<members>
+							<content:group id="998578" page-content-id="998578" page-content-type="109"
+							               page-content-entail="0" page-content-order="10" page-content-group="998577"
+							               page-content-changed-date="2019-04-04 07:50:19">
+								<members>
+									<content:article1 id="998579" xml="true" page-content-id="998579"
+									                  page-content-type="20" page-content-entail="0"
+									                  page-content-order="10" page-content-group="998578"
+									                  page-content-changed-date="2019-05-10 14:50:05" cacheable="true">
+										<xml>
+											<h1>
+												Natürlich Willkommen im&#160;
+												<strong>Naturhotel Waldklause</strong>
+												!
+											</h1>
+											<h2>Unser Hotel im Ötztal - wohnen mit und in der Natur</h2>
+											<p>
+												Bei uns beginnt Ihr Urlaub mit dem besonderen Spiel des Lichtes. Wenn es
+												zart durch die Baumkronen blinzelt, dann sind Sie angekommen. Bei uns
+												<a href="/de/naturhotel/">im Naturhotel Ötztal</a>
+												und bei sich.
+											</p>
+											<ul>
+												<li>Die Kraft aus</li>
+												<li>der Natur schöpfend,</li>
+												<li>unseren Lebensraum</li>
+												<li>in den beeindruckenden</li>
+											</ul>
+											<p style="text-align: left;">
+												<br/>
+												Wäldern im Tiroler Längenfeld achtend sind wird tief verwurzelt mit und
+												in der Region.
+											</p>
+											<p>
+												<a class="cta" href="/de/aktivitaeten-ausflugsziele/">
+													Entdecken Sie Längenfeld im Ötztal
+													<br/>
+													<br/>
+												</a>
+											</p>
+											<h2>URLAUB IN DER NATUR</h2>
+											<h3>WOHLFÜHLEN IM NATURHOTEL WALDKLAUSE</h3>
+											<p>
+												<a class="cta" href="/de/aktivitaeten-ausflugsziele/">&#160;</a>
+											</p>
+										</xml>
+									</content:article1>
+									<content:group id="1002169" page-content-id="1002169" page-content-type="109"
+									               page-content-entail="0" page-content-order="30"
+									               page-content-group="998578"
+									               page-content-changed-date="2019-04-17 15:11:39"
+									               attr-display="overflow">
+										<members>
+											<content:proxy1 id="1008344" xml="true" page-content-id="1008344"
+											                page-content-type="29" page-content-entail="0"
+											                page-content-order="-1" page-content-group="1002169"
+											                page-content-changed-date="2019-05-08 09:46:46"
+											                attr-display="widget">
+												<xml>
+													<div class="rating-score" itemprop="ratingValue">98</div>
+													<div class="counter">
+														<span itemprop="reviewCount" content="824">824</span>
+														Bewertungen
+													</div>
+												</xml>
+											</content:proxy1>
+											<content:media-display id="1008345" type="image-static"
+											                       page-content-id="1008345" page-content-type="87"
+											                       page-content-entail="0" page-content-order="0"
+											                       page-content-group="1002169"
+											                       page-content-changed-date="2019-05-08 07:48:37"
+											                       cacheable="true">
+												<media_display>
+													<media_display_id>26105</media_display_id>
+													<media_display_customer>3001</media_display_customer>
+													<media_display_content>1008345</media_display_content>
+													<media_display_type>7</media_display_type>
+													<media_display_media>1904814</media_display_media>
+													<media_display_media_preview>0</media_display_media_preview>
+													<media_display_width>1499</media_display_width>
+													<media_display_height>1079</media_display_height>
+													<media_display_class>has-transition widget</media_display_class>
+													<media_display_style></media_display_style>
+													<media_display_autoplay>0</media_display_autoplay>
+													<media_display_loop>0</media_display_loop>
+													<media_display_mute>0</media_display_mute>
+													<media_display_controls>1</media_display_controls>
+													<media_display_name></media_display_name>
+													<media_display_description>&lt;h2&gt;WIR SAGEN DANKE!&lt;/h2&gt;
+														&lt;p&gt;&lt;a href=&quot;/de/naturhotel/auszeichnungen-bewertungen/&quot;&gt;MEHR
+														INFOS&lt;/a&gt;&lt;/p&gt;
+													</media_display_description>
+													<media_display_alt></media_display_alt>
+													<media_display_multilanguage>0</media_display_multilanguage>
+													<media_display_description_xml xml="true">
+														<xml>
+															<h2>WIR SAGEN DANKE!</h2>
+															<p>
+																<a href="/de/naturhotel/auszeichnungen-bewertungen/">
+																	MEHR INFOS
+																</a>
+															</p>
+														</xml>
+													</media_display_description_xml>
+												</media_display>
+												<media>
+													<media_file_id>1904814</media_file_id>
+													<media_file_folder>59878</media_file_folder>
+													<media_file_customer>3001</media_file_customer>
+													<media_file_name>bg_bewertungen</media_file_name>
+													<media_file_description></media_file_description>
+													<media_file_type>jpg</media_file_type>
+													<media_file_source>0</media_file_source>
+													<media_file_changed>2019-04-24 10:32:50</media_file_changed>
+													<media_file_mime>image/jpeg</media_file_mime>
+													<media_file_size>60204</media_file_size>
+													<media_file_width>1499</media_file_width>
+													<media_file_height>1079</media_file_height>
+													<media_file_duration>0</media_file_duration>
+													<media_file_fps>0</media_file_fps>
+													<media_file_codec_audio></media_file_codec_audio>
+													<media_file_codec_video></media_file_codec_video>
+													<media_file_bandwidth>0</media_file_bandwidth>
+													<media_file_class>1</media_file_class>
+													<media_file_deleted>0000-00-00 00:00:00</media_file_deleted>
+												</media>
+												<media_url>
+													http://3001-802.sites.condeon.net/media/59878/bg-bewertungen-1904814.jpg
+												</media_url>
+											</content:media-display>
+										</members>
+									</content:group>
+								</members>
+							</content:group>
+							<content:group id="998583" page-content-id="998583" page-content-type="109"
+							               page-content-entail="0" page-content-order="20" page-content-group="998577"
+							               page-content-changed-date="2019-04-17 15:13:30">
+								<members>
+									<content:article1 id="1005132" xml="true" page-content-id="1005132"
+									                  page-content-type="20" page-content-entail="0"
+									                  page-content-order="0" page-content-group="998583"
+									                  page-content-changed-date="2019-05-07 10:33:13"
+									                  attr-display="slogan" cacheable="true">
+										<xml>
+											<p style="text-align: center;">
+												Bäume sind Gedichte, die die Erde in den Himmel schreibt.
+												<br/>
+												<strong>KAHLIL GIBRAN</strong>
+											</p>
+										</xml>
+									</content:article1>
+								</members>
+							</content:group>
+						</members>
+					</content:group>
+					<content:group id="1002099" page-content-id="1002099" page-content-type="109"
+					               page-content-entail="0" page-content-order="11" page-content-group="1002100"
+					               page-content-changed-date="2019-04-04 07:55:43" attr-layout="spalten">
+						<members>
+							<content:article1 id="998582" xml="true" page-content-id="998582" page-content-type="20"
+							                  page-content-entail="0" page-content-order="10"
+							                  page-content-group="1002099"
+							                  page-content-changed-date="2019-04-24 10:22:57" cacheable="true">
+								<xml>
+									<h2>Design- und Wellnesshotel Waldklause</h2>
+									<p>
+										Unsere Herzlichkeit und die Begeisterung für die Natur ist in unserem&#160;
+										<strong>5 Sterne Hotel im Ötztal</strong>
+										&#160;allgegenwärtig und schafft Rückzugsorte mit vielen einzelnen Oasen für
+										Wellnessfreuden und&#160;
+										<a href="/de/aktivitaeten-ausflugsziele/">Aktives im Freien</a>
+										: das&#160;
+										<a href="/de/naturspa/">NATUR-SPA&#160;mit schönster Aussicht</a>
+										, modern-behagliches Ambiente für das kulinarische Genießen und&#160;
+										<a href="/de/zimmer-angebote/">geschmackvolle Zimmer und Suiten</a>
+										.
+									</p>
+									<p>Herzlich willkommen in unserem Kleinod aus Holz, Glas und Stein, in dem
+										Gastlichkeit, Leidenschaft und Begeisterung für die Natur zu Hause sind.
+									</p>
+									<p>
+										<em>Ihre Familie Auer</em>
+									</p>
+								</xml>
+							</content:article1>
+							<content:group id="1004673" page-content-id="1004673" page-content-type="109"
+							               page-content-entail="0" page-content-order="20" page-content-group="1002099"
+							               page-content-changed-date="2019-04-24 09:57:16" attr-display="overflow">
+								<members>
+									<content:media-display id="998585" type="image-static" page-content-id="998585"
+									                       page-content-type="87" page-content-entail="0"
+									                       page-content-order="30" page-content-group="1004673"
+									                       page-content-changed-date="2019-04-29 12:38:59"
+									                       attr-layout="full-height" cacheable="true">
+										<media_display>
+											<media_display_id>25407</media_display_id>
+											<media_display_customer>3001</media_display_customer>
+											<media_display_content>998585</media_display_content>
+											<media_display_type>7</media_display_type>
+											<media_display_media>1905698</media_display_media>
+											<media_display_media_preview>0</media_display_media_preview>
+											<media_display_width>1328</media_display_width>
+											<media_display_height>887</media_display_height>
+											<media_display_class></media_display_class>
+											<media_display_style></media_display_style>
+											<media_display_autoplay>0</media_display_autoplay>
+											<media_display_loop>0</media_display_loop>
+											<media_display_mute>0</media_display_mute>
+											<media_display_controls>1</media_display_controls>
+											<media_display_name></media_display_name>
+											<media_display_description></media_display_description>
+											<media_display_alt></media_display_alt>
+											<media_display_multilanguage>0</media_display_multilanguage>
+										</media_display>
+										<media>
+											<media_file_id>1905698</media_file_id>
+											<media_file_folder>59967</media_file_folder>
+											<media_file_customer>3001</media_file_customer>
+											<media_file_name>fam</media_file_name>
+											<media_file_description></media_file_description>
+											<media_file_type>jpg</media_file_type>
+											<media_file_source>0</media_file_source>
+											<media_file_changed>2019-04-29 12:38:55</media_file_changed>
+											<media_file_mime>image/jpeg</media_file_mime>
+											<media_file_size>974148</media_file_size>
+											<media_file_width>1328</media_file_width>
+											<media_file_height>887</media_file_height>
+											<media_file_duration>0</media_file_duration>
+											<media_file_fps>0</media_file_fps>
+											<media_file_codec_audio></media_file_codec_audio>
+											<media_file_codec_video></media_file_codec_video>
+											<media_file_bandwidth>0</media_file_bandwidth>
+											<media_file_class>1</media_file_class>
+											<media_file_deleted>0000-00-00 00:00:00</media_file_deleted>
+										</media>
+										<media_url>http://3001-802.sites.condeon.net/media/59967/fam-1905698.jpg
+										</media_url>
+									</content:media-display>
+								</members>
+							</content:group>
+						</members>
+					</content:group>
+				</members>
+			</content:group>
+			<content:article1 id="998586" xml="true" page-content-id="998586" page-content-type="20"
+			                  page-content-entail="0" page-content-order="20" page-content-group="0"
+			                  page-content-changed-date="2019-05-07 10:29:49" attr-hintergrund="transparent"
+			                  cacheable="true">
+				<xml>
+					<h3>Ganz nah. Mitten drin.</h3>
+				</xml>
+			</content:article1>
+			<content:gallery id="998587" type="list" page-content-id="998587" page-content-type="54"
+			                 page-content-entail="0" page-content-order="30" page-content-group="0"
+			                 page-content-changed-date="2019-04-24 10:38:53" attr-layout="tiles"
+			                 attr-display="no-padding" cacheable="true">
+				<gallery>
+					<mcg_id>83184</mcg_id>
+					<mcg_content>998587</mcg_content>
+					<mcg_name></mcg_name>
+					<mcg_subtitle></mcg_subtitle>
+					<mcg_media_folder>0</mcg_media_folder>
+					<mcg_list_cols>0</mcg_list_cols>
+					<mcg_list_rows>0</mcg_list_rows>
+					<mcg_list_height>0</mcg_list_height>
+					<mcg_list_width>0</mcg_list_width>
+					<mcg_detail_height>0</mcg_detail_height>
+					<mcg_detail_width>0</mcg_detail_width>
+					<mcg_slideshow>0</mcg_slideshow>
+					<mcg_slideshow_order>1</mcg_slideshow_order>
+					<mcg_slideshow_transition>0</mcg_slideshow_transition>
+					<mcg_slideshow_easing>0</mcg_slideshow_easing>
+					<mcg_slideshow_time>1</mcg_slideshow_time>
+					<mcg_slideshow_time_pause>5</mcg_slideshow_time_pause>
+					<mcg_send>0</mcg_send>
+					<mcg_send_confirm>0</mcg_send_confirm>
+					<mcg_print>0</mcg_print>
+					<mcg_print_service>0</mcg_print_service>
+					<mcg_download>0</mcg_download>
+					<mcg_lightbox>0</mcg_lightbox>
+					<mcg_download_sizes>0</mcg_download_sizes>
+					<mcg_start_view>1</mcg_start_view>
+					<mcg_watermark_thumb_image>0</mcg_watermark_thumb_image>
+					<mcg_watermark_thumb_pos>0</mcg_watermark_thumb_pos>
+					<mcg_watermark_detail_image>0</mcg_watermark_detail_image>
+					<mcg_watermark_detail_pos>0</mcg_watermark_detail_pos>
+					<mcg_html_text>1</mcg_html_text>
+					<mcg_nuke_contents>1</mcg_nuke_contents>
+					<mcg_multilanguage>1</mcg_multilanguage>
+					<mcg_name_handle>1431667</mcg_name_handle>
+					<mcg_subtitle_handle>1431668</mcg_subtitle_handle>
+				</gallery>
+				<gallery-items>
+					<int-0>
+						<mcgi_gallery>83184</mcgi_gallery>
+						<mcgi_media>1904813</mcgi_media>
+						<mcgi_name>NATURHOTEL</mcgi_name>
+						<mcgi_text xml="true">
+							<xml>
+								<p>
+									Unser
+									<strong>Naturhotel Waldklause,</strong>
+									als erstes Naturhotel in Tirol, ist über die Jahre mit viel Liebe gewachsen. Holz,
+									Glas und Stein fügen sich hier ein in eine Design-Philosophie, die die Natur stets
+									ehrt.
+								</p>
+								<p>
+									<a href="/de/naturhotel/">Naturhotel</a>
+								</p>
+							</xml>
+						</mcgi_text>
+						<mcgi_alt></mcgi_alt>
+						<mcgi_order>1</mcgi_order>
+						<mcgi_show>1</mcgi_show>
+						<media_file_id>1904813</media_file_id>
+						<media_file_folder>59967</media_file_folder>
+						<media_file_customer>3001</media_file_customer>
+						<media_file_name>andreschoenherrdji_0609</media_file_name>
+						<media_file_description></media_file_description>
+						<media_file_type>jpg</media_file_type>
+						<media_file_source>0</media_file_source>
+						<media_file_changed>2019-04-24 10:31:31</media_file_changed>
+						<media_file_mime>image/jpeg</media_file_mime>
+						<media_file_size>784998</media_file_size>
+						<media_file_width>2000</media_file_width>
+						<media_file_height>1332</media_file_height>
+						<media_file_duration>0</media_file_duration>
+						<media_file_fps>0</media_file_fps>
+						<media_file_codec_audio></media_file_codec_audio>
+						<media_file_codec_video></media_file_codec_video>
+						<media_file_bandwidth>0</media_file_bandwidth>
+						<media_file_class>1</media_file_class>
+						<media_file_deleted>0000-00-00 00:00:00</media_file_deleted>
+						<rem>0</rem>
+						<mcgi_name_handle>1497251</mcgi_name_handle>
+						<mcgi_text_handle>1497252</mcgi_text_handle>
+						<mcgi_alt_handle>1497253</mcgi_alt_handle>
+						<pois></pois>
+					</int-0>
+					<int-1>
+						<mcgi_gallery>83184</mcgi_gallery>
+						<mcgi_media>1901512</mcgi_media>
+						<mcgi_name>ZIMMER &amp; SUITEN</mcgi_name>
+						<mcgi_text xml="true">
+							<xml>
+								<p>
+									Als
+									<strong>5 Sterne Öko Hotel im Ötztal</strong>
+									mit Designliebe sorgen wir mit natürlichen Baustoffen für ein wohltuendes, gesundes
+									Raumklima. Unsere Zimmer und Suiten erfüllen allerhöchste ästhetische Ansprüche und
+									bedienen sich den Elementen der Feng-Shui-Lehre.
+								</p>
+								<p>
+									<a href="/de/zimmer-angebote/">Zimmer &amp; Angebote</a>
+								</p>
+							</xml>
+						</mcgi_text>
+						<mcgi_alt></mcgi_alt>
+						<mcgi_order>11</mcgi_order>
+						<mcgi_show>1</mcgi_show>
+						<media_file_id>1901512</media_file_id>
+						<media_file_folder>59963</media_file_folder>
+						<media_file_customer>3001</media_file_customer>
+						<media_file_name>waldklause4326_print</media_file_name>
+						<media_file_description></media_file_description>
+						<media_file_type>jpg</media_file_type>
+						<media_file_source>0</media_file_source>
+						<media_file_changed>2019-04-09 17:31:22</media_file_changed>
+						<media_file_mime>image/jpeg</media_file_mime>
+						<media_file_size>10050698</media_file_size>
+						<media_file_width>5040</media_file_width>
+						<media_file_height>3360</media_file_height>
+						<media_file_duration>0</media_file_duration>
+						<media_file_fps>0</media_file_fps>
+						<media_file_codec_audio></media_file_codec_audio>
+						<media_file_codec_video></media_file_codec_video>
+						<media_file_bandwidth>0</media_file_bandwidth>
+						<media_file_class>1</media_file_class>
+						<media_file_deleted>0000-00-00 00:00:00</media_file_deleted>
+						<rem>0</rem>
+						<mcgi_name_handle>1497254</mcgi_name_handle>
+						<mcgi_text_handle>1497255</mcgi_text_handle>
+						<mcgi_alt_handle>1497256</mcgi_alt_handle>
+						<pois></pois>
+					</int-1>
+					<int-2>
+						<mcgi_gallery>83184</mcgi_gallery>
+						<mcgi_media>1904796</mcgi_media>
+						<mcgi_name>NATUR-SPA</mcgi_name>
+						<mcgi_text xml="true">
+							<xml>
+								<p>Nur das Beste aus Holz, Stein und Lehm wurden für das 1.800 m2 große Natur
+									Spaverarbeitet. Finden Sie in der Baumsauna mit Waldblick zur Ruhe und entspannen
+									Sie im Solewhirlpool mit Aussicht auf die Berge.
+								</p>
+								<p>
+									<a href="/de/naturspa/">NATUR-SPA</a>
+								</p>
+							</xml>
+						</mcgi_text>
+						<mcgi_alt></mcgi_alt>
+						<mcgi_order>21</mcgi_order>
+						<mcgi_show>1</mcgi_show>
+						<media_file_id>1904796</media_file_id>
+						<media_file_folder>59964</media_file_folder>
+						<media_file_customer>3001</media_file_customer>
+						<media_file_name>ho2_0001</media_file_name>
+						<media_file_description></media_file_description>
+						<media_file_type>jpg</media_file_type>
+						<media_file_source>0</media_file_source>
+						<media_file_changed>2019-04-24 10:25:42</media_file_changed>
+						<media_file_mime>image/jpeg</media_file_mime>
+						<media_file_size>1114951</media_file_size>
+						<media_file_width>1179</media_file_width>
+						<media_file_height>1766</media_file_height>
+						<media_file_duration>0</media_file_duration>
+						<media_file_fps>0</media_file_fps>
+						<media_file_codec_audio></media_file_codec_audio>
+						<media_file_codec_video></media_file_codec_video>
+						<media_file_bandwidth>0</media_file_bandwidth>
+						<media_file_class>1</media_file_class>
+						<media_file_deleted>0000-00-00 00:00:00</media_file_deleted>
+						<rem>0</rem>
+						<mcgi_name_handle>1497257</mcgi_name_handle>
+						<mcgi_text_handle>1497258</mcgi_text_handle>
+						<mcgi_alt_handle>1497259</mcgi_alt_handle>
+						<pois></pois>
+					</int-2>
+					<int-3>
+						<mcgi_gallery>83184</mcgi_gallery>
+						<mcgi_media>1902080</mcgi_media>
+						<mcgi_name>AKTIV IM ÖTZTAL</mcgi_name>
+						<mcgi_text xml="true">
+							<xml>
+								<p>
+									Zelebrieren Sie bei Ihrem Urlaub im
+									<strong>Naturhotel Waldklause</strong>
+									den Moment in der vitalisierenden Naturwelt des Ötztals. Grüne Almterrassen, wilde
+									Berglandschaften und tiefverschneite Hänge lassen die Freude am Aktiv-Sein das ganze
+									Jahr über aufleben.
+								</p>
+								<p>
+									<a href="/de/aktivitaeten-ausflugsziele/">Aktivitäten &amp; Ausflugsziele</a>
+								</p>
+							</xml>
+						</mcgi_text>
+						<mcgi_alt></mcgi_alt>
+						<mcgi_order>31</mcgi_order>
+						<mcgi_show>1</mcgi_show>
+						<media_file_id>1902080</media_file_id>
+						<media_file_folder>59965</media_file_folder>
+						<media_file_customer>3001</media_file_customer>
+						<media_file_name>andreschoenherrb1046285</media_file_name>
+						<media_file_description></media_file_description>
+						<media_file_type>jpg</media_file_type>
+						<media_file_source>0</media_file_source>
+						<media_file_changed>2019-04-11 17:09:19</media_file_changed>
+						<media_file_mime>image/jpeg</media_file_mime>
+						<media_file_size>5107739</media_file_size>
+						<media_file_width>3500</media_file_width>
+						<media_file_height>2623</media_file_height>
+						<media_file_duration>0</media_file_duration>
+						<media_file_fps>0</media_file_fps>
+						<media_file_codec_audio></media_file_codec_audio>
+						<media_file_codec_video></media_file_codec_video>
+						<media_file_bandwidth>0</media_file_bandwidth>
+						<media_file_class>1</media_file_class>
+						<media_file_deleted>0000-00-00 00:00:00</media_file_deleted>
+						<rem>0</rem>
+						<mcgi_name_handle>1497260</mcgi_name_handle>
+						<mcgi_text_handle>1497261</mcgi_text_handle>
+						<mcgi_alt_handle>1497262</mcgi_alt_handle>
+						<pois></pois>
+					</int-3>
+				</gallery-items>
+				<options></options>
+				<gallery-strings>
+					<string name="diashow">Diashow</string>
+					<string name="diashow.start">Diashow starten</string>
+					<string name="remember">Merken</string>
+					<string name="nav.back">zur&#x00fc;ck</string>
+					<string name="nav.next">weiter</string>
+					<string name="remember.pictures">Gemerkte Bilder</string>
+					<string name="remember.send">an Freunde versenden</string>
+					<string name="remember.print">drucken</string>
+					<string name="remember.download.all">Alle Bilder herunterladen</string>
+					<string name="remember.delete">löschen</string>
+					<string name="remember.res.low">niedrig</string>
+					<string name="remember.res.high">hoch</string>
+					<string name="remember.original">orginal</string>
+					<string name="remember.noimage">Es sind keine Bilder ausgewählt</string>
+					<string name="download">herunterladen</string>
+					<string name="pictures.recommended">Empfohlene Bilder</string>
+				</gallery-strings>
+			</content:gallery>
+			<content:group id="1006229" page-content-id="1006229" page-content-type="109" page-content-entail="0"
+			               page-content-order="32" page-content-group="0"
+			               page-content-changed-date="2019-05-03 11:15:07" attr-display="display-hide-640">
+				<members>
+					<content:article1 id="1003196" xml="true" page-content-id="1003196" page-content-type="20"
+					                  page-content-entail="0" page-content-order="35" page-content-group="1006229"
+					                  page-content-changed-date="2019-05-03 11:15:16" attr-display="center"
+					                  cacheable="true">
+						<xml>
+							<h2 class="header">Impressionen</h2>
+						</xml>
+					</content:article1>
+					<content:gallery id="998589" type="list" page-content-id="998589" page-content-type="54"
+					                 page-content-entail="0" page-content-order="36" page-content-group="1006229"
+					                 page-content-changed-date="2019-05-03 11:15:47" attr-layout="mosaic"
+					                 cacheable="true">
+						<gallery>
+							<mcg_id>83185</mcg_id>
+							<mcg_content>998589</mcg_content>
+							<mcg_name>Impressionen</mcg_name>
+							<mcg_subtitle></mcg_subtitle>
+							<mcg_media_folder>0</mcg_media_folder>
+							<mcg_list_cols>0</mcg_list_cols>
+							<mcg_list_rows>0</mcg_list_rows>
+							<mcg_list_height>0</mcg_list_height>
+							<mcg_list_width>0</mcg_list_width>
+							<mcg_detail_height>0</mcg_detail_height>
+							<mcg_detail_width>0</mcg_detail_width>
+							<mcg_slideshow>0</mcg_slideshow>
+							<mcg_slideshow_order>1</mcg_slideshow_order>
+							<mcg_slideshow_transition>0</mcg_slideshow_transition>
+							<mcg_slideshow_easing>0</mcg_slideshow_easing>
+							<mcg_slideshow_time>1</mcg_slideshow_time>
+							<mcg_slideshow_time_pause>5</mcg_slideshow_time_pause>
+							<mcg_send>0</mcg_send>
+							<mcg_send_confirm>0</mcg_send_confirm>
+							<mcg_print>0</mcg_print>
+							<mcg_print_service>0</mcg_print_service>
+							<mcg_download>0</mcg_download>
+							<mcg_lightbox>0</mcg_lightbox>
+							<mcg_download_sizes>0</mcg_download_sizes>
+							<mcg_start_view>1</mcg_start_view>
+							<mcg_watermark_thumb_image>0</mcg_watermark_thumb_image>
+							<mcg_watermark_thumb_pos>0</mcg_watermark_thumb_pos>
+							<mcg_watermark_detail_image>0</mcg_watermark_detail_image>
+							<mcg_watermark_detail_pos>0</mcg_watermark_detail_pos>
+							<mcg_html_text>1</mcg_html_text>
+							<mcg_nuke_contents>1</mcg_nuke_contents>
+							<mcg_multilanguage>1</mcg_multilanguage>
+							<mcg_name_handle>1431693</mcg_name_handle>
+							<mcg_subtitle_handle>1431694</mcg_subtitle_handle>
+						</gallery>
+						<gallery-items>
+							<int-0>
+								<mcgi_gallery>83185</mcgi_gallery>
+								<mcgi_media>1904812</mcgi_media>
+								<mcgi_name></mcgi_name>
+								<mcgi_text xml="true">
+									<xml>
+										<h3>Naturhotel Waldklause</h3>
+										<p>
+											<a href="/de/naturhotel/bilder-videos/">MEHR SEHEN</a>
+										</p>
+									</xml>
+								</mcgi_text>
+								<mcgi_alt></mcgi_alt>
+								<mcgi_order>1</mcgi_order>
+								<mcgi_show>1</mcgi_show>
+								<media_file_id>1904812</media_file_id>
+								<media_file_folder>59967</media_file_folder>
+								<media_file_customer>3001</media_file_customer>
+								<media_file_name>andreschoenherrdji_0672</media_file_name>
+								<media_file_description></media_file_description>
+								<media_file_type>jpg</media_file_type>
+								<media_file_source>0</media_file_source>
+								<media_file_changed>2019-04-24 10:31:15</media_file_changed>
+								<media_file_mime>image/jpeg</media_file_mime>
+								<media_file_size>679338</media_file_size>
+								<media_file_width>2000</media_file_width>
+								<media_file_height>1332</media_file_height>
+								<media_file_duration>0</media_file_duration>
+								<media_file_fps>0</media_file_fps>
+								<media_file_codec_audio></media_file_codec_audio>
+								<media_file_codec_video></media_file_codec_video>
+								<media_file_bandwidth>0</media_file_bandwidth>
+								<media_file_class>1</media_file_class>
+								<media_file_deleted>0000-00-00 00:00:00</media_file_deleted>
+								<rem>0</rem>
+								<mcgi_name_handle>1501198</mcgi_name_handle>
+								<mcgi_text_handle>1501199</mcgi_text_handle>
+								<mcgi_alt_handle>1501200</mcgi_alt_handle>
+								<pois></pois>
+							</int-0>
+							<int-1>
+								<mcgi_gallery>83185</mcgi_gallery>
+								<mcgi_media>1901717</mcgi_media>
+								<mcgi_name></mcgi_name>
+								<mcgi_text xml="true">
+									<xml></xml>
+								</mcgi_text>
+								<mcgi_alt></mcgi_alt>
+								<mcgi_order>11</mcgi_order>
+								<mcgi_show>1</mcgi_show>
+								<media_file_id>1901717</media_file_id>
+								<media_file_folder>59964</media_file_folder>
+								<media_file_customer>3001</media_file_customer>
+								<media_file_name>andreschoenherrb1046726</media_file_name>
+								<media_file_description></media_file_description>
+								<media_file_type>jpg</media_file_type>
+								<media_file_source>0</media_file_source>
+								<media_file_changed>2019-04-10 15:55:53</media_file_changed>
+								<media_file_mime>image/jpeg</media_file_mime>
+								<media_file_size>2206391</media_file_size>
+								<media_file_width>3500</media_file_width>
+								<media_file_height>2623</media_file_height>
+								<media_file_duration>0</media_file_duration>
+								<media_file_fps>0</media_file_fps>
+								<media_file_codec_audio></media_file_codec_audio>
+								<media_file_codec_video></media_file_codec_video>
+								<media_file_bandwidth>0</media_file_bandwidth>
+								<media_file_class>1</media_file_class>
+								<media_file_deleted>0000-00-00 00:00:00</media_file_deleted>
+								<rem>0</rem>
+								<mcgi_name_handle>1501201</mcgi_name_handle>
+								<mcgi_text_handle>1501202</mcgi_text_handle>
+								<mcgi_alt_handle>1501203</mcgi_alt_handle>
+								<pois></pois>
+							</int-1>
+							<int-2>
+								<mcgi_gallery>83185</mcgi_gallery>
+								<mcgi_media>1902015</mcgi_media>
+								<mcgi_name></mcgi_name>
+								<mcgi_text xml="true">
+									<xml></xml>
+								</mcgi_text>
+								<mcgi_alt></mcgi_alt>
+								<mcgi_order>21</mcgi_order>
+								<mcgi_show>1</mcgi_show>
+								<media_file_id>1902015</media_file_id>
+								<media_file_folder>59966</media_file_folder>
+								<media_file_customer>3001</media_file_customer>
+								<media_file_name>ho2_8979</media_file_name>
+								<media_file_description></media_file_description>
+								<media_file_type>jpg</media_file_type>
+								<media_file_source>0</media_file_source>
+								<media_file_changed>2019-04-11 15:40:47</media_file_changed>
+								<media_file_mime>image/jpeg</media_file_mime>
+								<media_file_size>40268635</media_file_size>
+								<media_file_width>7360</media_file_width>
+								<media_file_height>4912</media_file_height>
+								<media_file_duration>0</media_file_duration>
+								<media_file_fps>0</media_file_fps>
+								<media_file_codec_audio></media_file_codec_audio>
+								<media_file_codec_video></media_file_codec_video>
+								<media_file_bandwidth>0</media_file_bandwidth>
+								<media_file_class>1</media_file_class>
+								<media_file_deleted>0000-00-00 00:00:00</media_file_deleted>
+								<rem>0</rem>
+								<media-children>
+									<int-0>
+										<media_file_id>1902016</media_file_id>
+										<media_file_folder>59966</media_file_folder>
+										<media_file_customer>3001</media_file_customer>
+										<media_file_name>ho2_8979-rgb</media_file_name>
+										<media_file_description></media_file_description>
+										<media_file_type>jpg</media_file_type>
+										<media_file_source>1902015</media_file_source>
+										<media_file_changed>2019-04-11 15:40:47</media_file_changed>
+										<media_file_mime>image/jpeg</media_file_mime>
+										<media_file_size>1428702</media_file_size>
+										<media_file_width>4096</media_file_width>
+										<media_file_height>4096</media_file_height>
+										<media_file_duration>0</media_file_duration>
+										<media_file_fps>0</media_file_fps>
+										<media_file_codec_audio></media_file_codec_audio>
+										<media_file_codec_video></media_file_codec_video>
+										<media_file_bandwidth>0</media_file_bandwidth>
+										<media_file_class>1</media_file_class>
+										<media_file_deleted>0000-00-00 00:00:00</media_file_deleted>
+									</int-0>
+								</media-children>
+								<mcgi_name_handle>1501204</mcgi_name_handle>
+								<mcgi_text_handle>1501205</mcgi_text_handle>
+								<mcgi_alt_handle>1501206</mcgi_alt_handle>
+								<pois></pois>
+							</int-2>
+						</gallery-items>
+						<options></options>
+						<gallery-strings>
+							<string name="diashow">Diashow</string>
+							<string name="diashow.start">Diashow starten</string>
+							<string name="remember">Merken</string>
+							<string name="nav.back">zur&#x00fc;ck</string>
+							<string name="nav.next">weiter</string>
+							<string name="remember.pictures">Gemerkte Bilder</string>
+							<string name="remember.send">an Freunde versenden</string>
+							<string name="remember.print">drucken</string>
+							<string name="remember.download.all">Alle Bilder herunterladen</string>
+							<string name="remember.delete">löschen</string>
+							<string name="remember.res.low">niedrig</string>
+							<string name="remember.res.high">hoch</string>
+							<string name="remember.original">orginal</string>
+							<string name="remember.noimage">Es sind keine Bilder ausgewählt</string>
+							<string name="download">herunterladen</string>
+							<string name="pictures.recommended">Empfohlene Bilder</string>
+						</gallery-strings>
+					</content:gallery>
+				</members>
+			</content:group>
+			<content:group id="998588" page-content-id="998588" page-content-type="109" page-content-entail="0"
+			               page-content-order="50" page-content-group="0"
+			               page-content-changed-date="2019-04-12 12:59:46" attr-layout="spalte-volle-breite"
+			               attr-titel="tabs">
+				<members>
+					<content:group id="1003198" page-content-id="1003198" page-content-type="109"
+					               page-content-entail="0" page-content-order="-1" page-content-group="998588"
+					               page-content-changed-date="2019-04-09 14:54:53" attr-layout="tabs">
+						<members>
+							<content:group id="1005868" page-content-id="1005868" page-content-type="109"
+							               page-content-entail="0" page-content-order="0" page-content-group="1003198"
+							               page-content-changed-date="2019-05-02 15:52:34" attr-titel="Bewertungen">
+								<members>
+									<content:proxy1 id="1005647" page-content-id="1005647" page-content-type="57"
+									                page-content-entail="0" page-content-order="19"
+									                page-content-group="1005868"
+									                page-content-changed-date="2019-05-02 15:52:39"
+									                attr-titel="Bewertungen">
+										<html>
+											<![CDATA[<h1>FATAL ERROR</h1>Cannot connect to Clearing Station via TCP: 10.10.163.3:5284 (productive)<hr>/web/dgi/cst/common/class.cst_client3.php:1610<hr />web.cst.media:1558077591.099:5fd78e3135b7e3b275c80c86464e15ba]]>
+										</html>
+										<supplied-nodes>
+											<cst>
+												<cst_proxy_id>167834</cst_proxy_id>
+												<cst_proxy_content>1005647</cst_proxy_content>
+												<cst_proxy_cleanup>1</cst_proxy_cleanup>
+												<cst_proxy_url>/hotel-detail-review-list.php?hotel=1255</cst_proxy_url>
+												<cst_proxy_hotel>1255</cst_proxy_hotel>
+												<cst_proxy_type>109</cst_proxy_type>
+												<cst_proxy_integration>0</cst_proxy_integration>
+												<cst_proxy_integration_type>0</cst_proxy_integration_type>
+												<cst_proxy_indicator>0</cst_proxy_indicator>
+												<cst_proxy_indicator_no_childs>0</cst_proxy_indicator_no_childs>
+												<cst_proxy_region>0_0</cst_proxy_region>
+												<cst_proxy_region_channel>0</cst_proxy_region_channel>
+												<cst_proxy_stars>-1</cst_proxy_stars>
+												<cst_proxy_ch_in>0</cst_proxy_ch_in>
+												<cst_proxy_date_from></cst_proxy_date_from>
+												<cst_proxy_date_to></cst_proxy_date_to>
+												<cst_proxy_subpage_responsible>1</cst_proxy_subpage_responsible>
+												<cst_proxy_subpage_target>0</cst_proxy_subpage_target>
+												<cst_proxy_special_mode></cst_proxy_special_mode>
+												<cst_proxy_special_value></cst_proxy_special_value>
+												<cst_proxy_indicator_list_type>0</cst_proxy_indicator_list_type>
+												<cst_proxy_indicator_list_parent>1</cst_proxy_indicator_list_parent>
+												<cst_proxy_routing_address_type>0</cst_proxy_routing_address_type>
+												<cst_proxy_routing_waypoint></cst_proxy_routing_waypoint>
+												<cst_proxy_output_type>0</cst_proxy_output_type>
+												<cst_proxy_width>0</cst_proxy_width>
+												<cst_proxy_height>0</cst_proxy_height>
+												<cst_proxy_order></cst_proxy_order>
+												<cst_proxy_box_request_style>0</cst_proxy_box_request_style>
+											</cst>
+											<cst_client_url>http://master-channel-30-waka.cst.dgi.w.og.vioma.de/
+											</cst_client_url>
+											<cst_client_url_out>http://master-channel-30-waka.cst.dgi.w.og.vioma.de/
+											</cst_client_url_out>
+										</supplied-nodes>
+									</content:proxy1>
+									<content:article1 id="1005869" xml="true" page-content-id="1005869"
+									                  page-content-type="20" page-content-entail="0"
+									                  page-content-order="20" page-content-group="1005868"
+									                  page-content-changed-date="2019-05-02 15:53:21" cacheable="true">
+										<xml>
+											<div style="text-align: center;">
+												<a class="cta" href="/de/naturhotel/auszeichnungen-bewertungen/">MEHR
+													BEWERTUNGEN SEHEN
+												</a>
+											</div>
+										</xml>
+									</content:article1>
+								</members>
+							</content:group>
+							<content:group id="1005870" page-content-id="1005870" page-content-type="109"
+							               page-content-entail="0" page-content-order="0" page-content-group="1003198"
+							               page-content-changed-date="2019-05-02 15:53:43" attr-titel="Auszeichnungen">
+								<members>
+									<content:gallery id="998595" type="list" page-content-id="998595"
+									                 page-content-type="54" page-content-entail="0"
+									                 page-content-order="30" page-content-group="1005870"
+									                 page-content-changed-date="2019-05-02 15:53:49"
+									                 attr-titel="Auszeichnungen" cacheable="true">
+										<gallery>
+											<mcg_id>83186</mcg_id>
+											<mcg_content>998595</mcg_content>
+											<mcg_name>Auszeichnungen</mcg_name>
+											<mcg_subtitle></mcg_subtitle>
+											<mcg_media_folder>0</mcg_media_folder>
+											<mcg_list_cols>0</mcg_list_cols>
+											<mcg_list_rows>0</mcg_list_rows>
+											<mcg_list_height>0</mcg_list_height>
+											<mcg_list_width>0</mcg_list_width>
+											<mcg_detail_height>0</mcg_detail_height>
+											<mcg_detail_width>0</mcg_detail_width>
+											<mcg_slideshow>1</mcg_slideshow>
+											<mcg_slideshow_order>1</mcg_slideshow_order>
+											<mcg_slideshow_transition>0</mcg_slideshow_transition>
+											<mcg_slideshow_easing>0</mcg_slideshow_easing>
+											<mcg_slideshow_time>1</mcg_slideshow_time>
+											<mcg_slideshow_time_pause>5</mcg_slideshow_time_pause>
+											<mcg_send>0</mcg_send>
+											<mcg_send_confirm>0</mcg_send_confirm>
+											<mcg_print>0</mcg_print>
+											<mcg_print_service>0</mcg_print_service>
+											<mcg_download>0</mcg_download>
+											<mcg_lightbox>0</mcg_lightbox>
+											<mcg_download_sizes>0</mcg_download_sizes>
+											<mcg_start_view>1</mcg_start_view>
+											<mcg_watermark_thumb_image>0</mcg_watermark_thumb_image>
+											<mcg_watermark_thumb_pos>0</mcg_watermark_thumb_pos>
+											<mcg_watermark_detail_image>0</mcg_watermark_detail_image>
+											<mcg_watermark_detail_pos>0</mcg_watermark_detail_pos>
+											<mcg_html_text>1</mcg_html_text>
+											<mcg_nuke_contents>1</mcg_nuke_contents>
+											<mcg_multilanguage>1</mcg_multilanguage>
+											<mcg_name_handle>1497296</mcg_name_handle>
+											<mcg_subtitle_handle>1497297</mcg_subtitle_handle>
+										</gallery>
+										<gallery-items>
+											<int-0>
+												<mcgi_gallery>83186</mcgi_gallery>
+												<mcgi_media>416845</mcgi_media>
+												<mcgi_name>UMWELTAUSZEICHNUNGEN</mcgi_name>
+												<mcgi_text xml="true">
+													<xml>
+														Das Naturhotel Waldklause hat zwei der strengsten und
+														international anerkanntesten Umwelt-Auszeichnungen erhalten: das
+														vom Umweltministerium verliehene Österreichische sowie das
+														Europäische Umweltzeichen. Damit können sich unsere Gäste auf
+														einen nachhaltigen und umweltschonenden Urlaub in der Waldklause
+														freuen.
+													</xml>
+												</mcgi_text>
+												<mcgi_alt></mcgi_alt>
+												<mcgi_order>1</mcgi_order>
+												<mcgi_show>1</mcgi_show>
+												<media_file_id>416845</media_file_id>
+												<media_file_folder>9027</media_file_folder>
+												<media_file_customer>3001</media_file_customer>
+												<media_file_name>umweltzeichen</media_file_name>
+												<media_file_description></media_file_description>
+												<media_file_type>gif</media_file_type>
+												<media_file_source>0</media_file_source>
+												<media_file_changed>2011-05-27 13:31:49</media_file_changed>
+												<media_file_mime>image/gif</media_file_mime>
+												<media_file_size>9100</media_file_size>
+												<media_file_width>150</media_file_width>
+												<media_file_height>300</media_file_height>
+												<media_file_duration>0</media_file_duration>
+												<media_file_fps>0</media_file_fps>
+												<media_file_codec_audio></media_file_codec_audio>
+												<media_file_codec_video></media_file_codec_video>
+												<media_file_bandwidth>0</media_file_bandwidth>
+												<media_file_class>1</media_file_class>
+												<media_file_deleted>0000-00-00 00:00:00</media_file_deleted>
+												<rem>0</rem>
+												<mcgi_name_handle>1514558</mcgi_name_handle>
+												<mcgi_text_handle>1514559</mcgi_text_handle>
+												<mcgi_alt_handle>1514560</mcgi_alt_handle>
+												<pois></pois>
+											</int-0>
+											<int-1>
+												<mcgi_gallery>83186</mcgi_gallery>
+												<mcgi_media>1897138</mcgi_media>
+												<mcgi_name>HOLIDAYCHECK QUALITY SELECTION</mcgi_name>
+												<mcgi_text xml="true">
+													<xml>
+														Aufgrund der vielen positiven Bewertungen unserer Gäste hat
+														unser Naturhotel von Holidaycheck zum wiederholten Male die
+														Quality Selection-Auszeichnung erhalten.
+													</xml>
+												</mcgi_text>
+												<mcgi_alt></mcgi_alt>
+												<mcgi_order>11</mcgi_order>
+												<mcgi_show>1</mcgi_show>
+												<media_file_id>1897138</media_file_id>
+												<media_file_folder>30771</media_file_folder>
+												<media_file_customer>3001</media_file_customer>
+												<media_file_name>2018</media_file_name>
+												<media_file_description></media_file_description>
+												<media_file_type>gif</media_file_type>
+												<media_file_source>0</media_file_source>
+												<media_file_changed>2019-03-26 17:06:23</media_file_changed>
+												<media_file_mime>image/gif</media_file_mime>
+												<media_file_size>9891</media_file_size>
+												<media_file_width>150</media_file_width>
+												<media_file_height>150</media_file_height>
+												<media_file_duration>0</media_file_duration>
+												<media_file_fps>0</media_file_fps>
+												<media_file_codec_audio></media_file_codec_audio>
+												<media_file_codec_video></media_file_codec_video>
+												<media_file_bandwidth>0</media_file_bandwidth>
+												<media_file_class>1</media_file_class>
+												<media_file_deleted>0000-00-00 00:00:00</media_file_deleted>
+												<rem>0</rem>
+												<mcgi_name_handle>1514561</mcgi_name_handle>
+												<mcgi_text_handle>1514562</mcgi_text_handle>
+												<mcgi_alt_handle>1514563</mcgi_alt_handle>
+												<pois></pois>
+											</int-1>
+											<int-2>
+												<mcgi_gallery>83186</mcgi_gallery>
+												<mcgi_media>1779625</mcgi_media>
+												<mcgi_name>
+													3 LILIEN IM RELAX GUIDE
+													<br/>
+												</mcgi_name>
+												<mcgi_text xml="true">
+													<xml>
+														Vom renommierten Relax Guide wurden wir mit ausgezeichneten 3
+														Lilien bewertet. Damit gehören wir zu den besten der Branche -
+														rund zwei Drittel aller Hotels konnten keine einzige Lilie
+														erringen.
+													</xml>
+												</mcgi_text>
+												<mcgi_alt></mcgi_alt>
+												<mcgi_order>21</mcgi_order>
+												<mcgi_show>1</mcgi_show>
+												<media_file_id>1779625</media_file_id>
+												<media_file_folder>30771</media_file_folder>
+												<media_file_customer>3001</media_file_customer>
+												<media_file_name>2018</media_file_name>
+												<media_file_description></media_file_description>
+												<media_file_type>gif</media_file_type>
+												<media_file_source>0</media_file_source>
+												<media_file_changed>2018-03-28 14:21:51</media_file_changed>
+												<media_file_mime>image/gif</media_file_mime>
+												<media_file_size>4394</media_file_size>
+												<media_file_width>150</media_file_width>
+												<media_file_height>169</media_file_height>
+												<media_file_duration>0</media_file_duration>
+												<media_file_fps>0</media_file_fps>
+												<media_file_codec_audio></media_file_codec_audio>
+												<media_file_codec_video></media_file_codec_video>
+												<media_file_bandwidth>0</media_file_bandwidth>
+												<media_file_class>1</media_file_class>
+												<media_file_deleted>0000-00-00 00:00:00</media_file_deleted>
+												<rem>0</rem>
+												<mcgi_name_handle>1514564</mcgi_name_handle>
+												<mcgi_text_handle>1514565</mcgi_text_handle>
+												<mcgi_alt_handle>1514566</mcgi_alt_handle>
+												<pois></pois>
+											</int-2>
+											<int-3>
+												<mcgi_gallery>83186</mcgi_gallery>
+												<mcgi_media>1897136</mcgi_media>
+												<mcgi_name>TRIPADVISOR TRAVELLER'S CHOICE AWARD 2018</mcgi_name>
+												<mcgi_text xml="true">
+													<xml>
+														Bereits zum vierten Mal in Serie erhalten wir den Traveller's
+														Choice Award der weltweit größten Hotelbewertungsplattform
+														TripAdvisor. Eine Auszeichnung über die wir außerordentlich
+														stolz sind, da sie auf den guten Bewertungen unserer vielen
+														Gäste beruht. Herzlichen Dank!
+													</xml>
+												</mcgi_text>
+												<mcgi_alt></mcgi_alt>
+												<mcgi_order>31</mcgi_order>
+												<mcgi_show>1</mcgi_show>
+												<media_file_id>1897136</media_file_id>
+												<media_file_folder>30771</media_file_folder>
+												<media_file_customer>3001</media_file_customer>
+												<media_file_name>travellers-choice-2018</media_file_name>
+												<media_file_description></media_file_description>
+												<media_file_type>gif</media_file_type>
+												<media_file_source>0</media_file_source>
+												<media_file_changed>2019-03-26 16:58:11</media_file_changed>
+												<media_file_mime>image/gif</media_file_mime>
+												<media_file_size>5618</media_file_size>
+												<media_file_width>150</media_file_width>
+												<media_file_height>135</media_file_height>
+												<media_file_duration>0</media_file_duration>
+												<media_file_fps>0</media_file_fps>
+												<media_file_codec_audio></media_file_codec_audio>
+												<media_file_codec_video></media_file_codec_video>
+												<media_file_bandwidth>0</media_file_bandwidth>
+												<media_file_class>1</media_file_class>
+												<media_file_deleted>0000-00-00 00:00:00</media_file_deleted>
+												<rem>0</rem>
+												<mcgi_name_handle>1514567</mcgi_name_handle>
+												<mcgi_text_handle>1514568</mcgi_text_handle>
+												<mcgi_alt_handle>1514569</mcgi_alt_handle>
+												<pois></pois>
+											</int-3>
+											<int-4>
+												<mcgi_gallery>83186</mcgi_gallery>
+												<mcgi_media>1359892</mcgi_media>
+												<mcgi_name>AUFNAHME IN DIE TRIPADVISOR-RUHMESHALLE</mcgi_name>
+												<mcgi_text xml="true">
+													<xml>
+														Voller Freude dürfen wir verkünden, dass unser Naturhotel in die
+														exklusive Tripadvisor-Ruhmeshalle aufgenommen wurde. Diese
+														besondere Auszeichnung wird ausschließlich an die Unternehmen
+														verliehen, die fünf Jahre in Folge ein Zertifikat für Exzellenz
+														gewonnen haben. Dabei werden nur jene Hotels mit einem
+														Zertifikat für Exzellenz ausgezeichnet, die auf der weltweit
+														größten Reise-Website fortwährend hervorragende Bewertungen
+														erhalten. Wir freuen uns sehr darüber!
+													</xml>
+												</mcgi_text>
+												<mcgi_alt></mcgi_alt>
+												<mcgi_order>41</mcgi_order>
+												<mcgi_show>1</mcgi_show>
+												<media_file_id>1359892</media_file_id>
+												<media_file_folder>30771</media_file_folder>
+												<media_file_customer>3001</media_file_customer>
+												<media_file_name>ruhmeshalle_de</media_file_name>
+												<media_file_description></media_file_description>
+												<media_file_type>jpg</media_file_type>
+												<media_file_source>0</media_file_source>
+												<media_file_changed>2015-05-27 14:48:56</media_file_changed>
+												<media_file_mime>image/jpeg</media_file_mime>
+												<media_file_size>56608</media_file_size>
+												<media_file_width>150</media_file_width>
+												<media_file_height>194</media_file_height>
+												<media_file_duration>0</media_file_duration>
+												<media_file_fps>0</media_file_fps>
+												<media_file_codec_audio></media_file_codec_audio>
+												<media_file_codec_video></media_file_codec_video>
+												<media_file_bandwidth>0</media_file_bandwidth>
+												<media_file_class>1</media_file_class>
+												<media_file_deleted>0000-00-00 00:00:00</media_file_deleted>
+												<rem>0</rem>
+												<mcgi_name_handle>1514570</mcgi_name_handle>
+												<mcgi_text_handle>1514571</mcgi_text_handle>
+												<mcgi_alt_handle>1514572</mcgi_alt_handle>
+												<pois></pois>
+											</int-4>
+											<int-5>
+												<mcgi_gallery>83186</mcgi_gallery>
+												<mcgi_media>1233615</mcgi_media>
+												<mcgi_name>ÖKO-SPITZENREITER MIT PLATIN STATUS</mcgi_name>
+												<mcgi_text xml="true">
+													<xml>
+														Voller stolz können wir bekanntgeben, dass wir als
+														Öko-Spitzenreiter mit dem bestmöglichen Platin Status in das
+														Tripadvisor Green Leaders Programm aufgenommen wurden. Das
+														Programm zeichnet Hotels aus, die sich in besonderem Maße
+														umweltfreundlichen Geschäftspraktiken verschrieben haben.
+													</xml>
+												</mcgi_text>
+												<mcgi_alt></mcgi_alt>
+												<mcgi_order>51</mcgi_order>
+												<mcgi_show>1</mcgi_show>
+												<media_file_id>1233615</media_file_id>
+												<media_file_folder>30771</media_file_folder>
+												<media_file_customer>3001</media_file_customer>
+												<media_file_name>green-leaders-waldklause</media_file_name>
+												<media_file_description></media_file_description>
+												<media_file_type>jpg</media_file_type>
+												<media_file_source>0</media_file_source>
+												<media_file_changed>2014-09-23 16:17:15</media_file_changed>
+												<media_file_mime>image/jpeg</media_file_mime>
+												<media_file_size>6279</media_file_size>
+												<media_file_width>150</media_file_width>
+												<media_file_height>151</media_file_height>
+												<media_file_duration>0</media_file_duration>
+												<media_file_fps>0</media_file_fps>
+												<media_file_codec_audio></media_file_codec_audio>
+												<media_file_codec_video></media_file_codec_video>
+												<media_file_bandwidth>0</media_file_bandwidth>
+												<media_file_class>1</media_file_class>
+												<media_file_deleted>0000-00-00 00:00:00</media_file_deleted>
+												<rem>0</rem>
+												<mcgi_name_handle>1514573</mcgi_name_handle>
+												<mcgi_text_handle>1514574</mcgi_text_handle>
+												<mcgi_alt_handle>1514575</mcgi_alt_handle>
+												<pois></pois>
+											</int-5>
+											<int-6>
+												<mcgi_gallery>83186</mcgi_gallery>
+												<mcgi_media>249307</mcgi_media>
+												<mcgi_name>WELLNESS-APHRODITE 2009, 2011, 2018</mcgi_name>
+												<mcgi_text xml="true">
+													<xml>
+														Neben mehreren Nominierungen standen wir bereits drei Mal ganz
+														oben auf dem Siegertreppchen: 2009, 2011 und 2018 erhielten wir
+														die von der Fachzeitschrift Top hotel verliehene „Wellness
+														Aphrodite“ – den Oscar der Wellnessbranche – in den Kategorien
+														„Ökologie/Nachhaltigkeit“ und "Gesamtkonzept". Wir freuen uns
+														sehr!
+													</xml>
+												</mcgi_text>
+												<mcgi_alt></mcgi_alt>
+												<mcgi_order>61</mcgi_order>
+												<mcgi_show>1</mcgi_show>
+												<media_file_id>249307</media_file_id>
+												<media_file_folder>9757</media_file_folder>
+												<media_file_customer>3001</media_file_customer>
+												<media_file_name>aphrodite2</media_file_name>
+												<media_file_description></media_file_description>
+												<media_file_type>jpg</media_file_type>
+												<media_file_source>0</media_file_source>
+												<media_file_changed>2011-05-27 13:31:49</media_file_changed>
+												<media_file_mime>image/jpeg</media_file_mime>
+												<media_file_size>9469</media_file_size>
+												<media_file_width>150</media_file_width>
+												<media_file_height>224</media_file_height>
+												<media_file_duration>0</media_file_duration>
+												<media_file_fps>0</media_file_fps>
+												<media_file_codec_audio></media_file_codec_audio>
+												<media_file_codec_video></media_file_codec_video>
+												<media_file_bandwidth>0</media_file_bandwidth>
+												<media_file_class>1</media_file_class>
+												<media_file_deleted>0000-00-00 00:00:00</media_file_deleted>
+												<rem>0</rem>
+												<mcgi_name_handle>1514576</mcgi_name_handle>
+												<mcgi_text_handle>1514577</mcgi_text_handle>
+												<mcgi_alt_handle>1514578</mcgi_alt_handle>
+												<pois></pois>
+											</int-6>
+											<int-7>
+												<mcgi_gallery>83186</mcgi_gallery>
+												<mcgi_media>1093397</mcgi_media>
+												<mcgi_name>BEWUSST TIROL AUSZEICHNUNG 2011-2019</mcgi_name>
+												<mcgi_text xml="true">
+													<xml>
+														Für die konsequente Verwendung regionaler Produkte aus Tirol,
+														wurden wir bereits zum dritten Mal in Folge mit dem "Bewusst
+														Tirol"-Siegel geehrt. Wir haben auch weiterhin vor unseren
+														Gästen Tiroler Lebensmittel anzubieten und damit die lokalen
+														Produzenten zu fördern.
+													</xml>
+												</mcgi_text>
+												<mcgi_alt></mcgi_alt>
+												<mcgi_order>71</mcgi_order>
+												<mcgi_show>1</mcgi_show>
+												<media_file_id>1093397</media_file_id>
+												<media_file_folder>30771</media_file_folder>
+												<media_file_customer>3001</media_file_customer>
+												<media_file_name>bewusst_tirol_2013</media_file_name>
+												<media_file_description></media_file_description>
+												<media_file_type>jpg</media_file_type>
+												<media_file_source>0</media_file_source>
+												<media_file_changed>2014-01-29 18:15:18</media_file_changed>
+												<media_file_mime>image/jpeg</media_file_mime>
+												<media_file_size>6845</media_file_size>
+												<media_file_width>150</media_file_width>
+												<media_file_height>199</media_file_height>
+												<media_file_duration>0</media_file_duration>
+												<media_file_fps>0</media_file_fps>
+												<media_file_codec_audio></media_file_codec_audio>
+												<media_file_codec_video></media_file_codec_video>
+												<media_file_bandwidth>0</media_file_bandwidth>
+												<media_file_class>1</media_file_class>
+												<media_file_deleted>0000-00-00 00:00:00</media_file_deleted>
+												<rem>0</rem>
+												<mcgi_name_handle>1514579</mcgi_name_handle>
+												<mcgi_text_handle>1514580</mcgi_text_handle>
+												<mcgi_alt_handle>1514581</mcgi_alt_handle>
+												<pois></pois>
+											</int-7>
+											<int-8>
+												<mcgi_gallery>83186</mcgi_gallery>
+												<mcgi_media>1419014</mcgi_media>
+												<mcgi_name>WIR SIND STOLZER KLIMABÜNDNIS BETRIEB</mcgi_name>
+												<mcgi_text xml="true">
+													<xml>
+														Das Naturhotel verschreibt sich dem Klimaschutz! 2015 wurden wir
+														als Klimabündnis Betrieb aufgenommen. Das Klimabündnis ist das
+														größte kommunale Klimaschutz-Netzwerk Europas. Es verbindet
+														Gemeinden, Betriebe und Bildungseinrichtungen in Europa mit
+														Indigenen Völkern der Regenwälder Südamerikas. Unsere Ziele als
+														Klimabündnis-Partner sind die Reduktion der Treibhausgase und
+														der Schutz der Regenwälder.
+													</xml>
+												</mcgi_text>
+												<mcgi_alt></mcgi_alt>
+												<mcgi_order>81</mcgi_order>
+												<mcgi_show>1</mcgi_show>
+												<media_file_id>1419014</media_file_id>
+												<media_file_folder>30771</media_file_folder>
+												<media_file_customer>3001</media_file_customer>
+												<media_file_name>kbu_logos_betrieb_150</media_file_name>
+												<media_file_description></media_file_description>
+												<media_file_type>gif</media_file_type>
+												<media_file_source>0</media_file_source>
+												<media_file_changed>2015-09-04 16:09:46</media_file_changed>
+												<media_file_mime>image/gif</media_file_mime>
+												<media_file_size>3121</media_file_size>
+												<media_file_width>150</media_file_width>
+												<media_file_height>64</media_file_height>
+												<media_file_duration>0</media_file_duration>
+												<media_file_fps>0</media_file_fps>
+												<media_file_codec_audio></media_file_codec_audio>
+												<media_file_codec_video></media_file_codec_video>
+												<media_file_bandwidth>0</media_file_bandwidth>
+												<media_file_class>1</media_file_class>
+												<media_file_deleted>0000-00-00 00:00:00</media_file_deleted>
+												<rem>0</rem>
+												<mcgi_name_handle>1514582</mcgi_name_handle>
+												<mcgi_text_handle>1514583</mcgi_text_handle>
+												<mcgi_alt_handle>1514584</mcgi_alt_handle>
+												<pois></pois>
+											</int-8>
+											<int-9>
+												<mcgi_gallery>83186</mcgi_gallery>
+												<mcgi_media>1174878</mcgi_media>
+												<mcgi_name>NATURPARK ÖTZTAL PARTNERSCHAFT</mcgi_name>
+												<mcgi_text xml="true">
+													<xml>
+														Die Erhaltung der alpinen Natur ist uns sehr wichtig. Aus diesem
+														Grund strebten wir eine Partnerschaft mit dem Naturpark Ötztal
+														an und wurden 2014 offiziell Partnerbetrieb des Naturparks.
+													</xml>
+												</mcgi_text>
+												<mcgi_alt></mcgi_alt>
+												<mcgi_order>91</mcgi_order>
+												<mcgi_show>1</mcgi_show>
+												<media_file_id>1174878</media_file_id>
+												<media_file_folder>30771</media_file_folder>
+												<media_file_customer>3001</media_file_customer>
+												<media_file_name>naturpark_oetztal-logo_p</media_file_name>
+												<media_file_description></media_file_description>
+												<media_file_type>gif</media_file_type>
+												<media_file_source>0</media_file_source>
+												<media_file_changed>2014-07-01 16:04:43</media_file_changed>
+												<media_file_mime>image/gif</media_file_mime>
+												<media_file_size>5143</media_file_size>
+												<media_file_width>150</media_file_width>
+												<media_file_height>181</media_file_height>
+												<media_file_duration>0</media_file_duration>
+												<media_file_fps>0</media_file_fps>
+												<media_file_codec_audio></media_file_codec_audio>
+												<media_file_codec_video></media_file_codec_video>
+												<media_file_bandwidth>0</media_file_bandwidth>
+												<media_file_class>1</media_file_class>
+												<media_file_deleted>0000-00-00 00:00:00</media_file_deleted>
+												<rem>0</rem>
+												<mcgi_name_handle>1514585</mcgi_name_handle>
+												<mcgi_text_handle>1514586</mcgi_text_handle>
+												<mcgi_alt_handle>1514587</mcgi_alt_handle>
+												<pois></pois>
+											</int-9>
+										</gallery-items>
+										<options></options>
+										<gallery-strings>
+											<string name="diashow">Diashow</string>
+											<string name="diashow.start">Diashow starten</string>
+											<string name="remember">Merken</string>
+											<string name="nav.back">zur&#x00fc;ck</string>
+											<string name="nav.next">weiter</string>
+											<string name="remember.pictures">Gemerkte Bilder</string>
+											<string name="remember.send">an Freunde versenden</string>
+											<string name="remember.print">drucken</string>
+											<string name="remember.download.all">Alle Bilder herunterladen</string>
+											<string name="remember.delete">löschen</string>
+											<string name="remember.res.low">niedrig</string>
+											<string name="remember.res.high">hoch</string>
+											<string name="remember.original">orginal</string>
+											<string name="remember.noimage">Es sind keine Bilder ausgewählt</string>
+											<string name="download">herunterladen</string>
+											<string name="pictures.recommended">Empfohlene Bilder</string>
+										</gallery-strings>
+									</content:gallery>
+									<content:article1 id="1005871" xml="true" page-content-id="1005871"
+									                  page-content-type="20" page-content-entail="0"
+									                  page-content-order="31" page-content-group="1005870"
+									                  page-content-changed-date="2019-05-02 15:54:05" cacheable="true">
+										<xml>
+											<div style="text-align: center;">
+												<a class="cta" href="/de/naturhotel/auszeichnungen-bewertungen/">
+													Auszeichnungen &amp; Bewertungen
+												</a>
+											</div>
+										</xml>
+									</content:article1>
+								</members>
+							</content:group>
+						</members>
+					</content:group>
+				</members>
+			</content:group>
+		</site:content-item>
+		<site:content-item name="offers" id="16594">
+			<content:media-display id="1003588" type="image-static" page-content-id="1003588" page-content-type="87"
+			                       page-content-entail="1" page-content-order="-1" page-content-group="0"
+			                       page-content-changed-date="2019-05-03 13:36:51" cacheable="true">
+				<media_display>
+					<media_display_id>25846</media_display_id>
+					<media_display_customer>3001</media_display_customer>
+					<media_display_content>1003588</media_display_content>
+					<media_display_type>7</media_display_type>
+					<media_display_media>1904794</media_display_media>
+					<media_display_media_preview>0</media_display_media_preview>
+					<media_display_width>1179</media_display_width>
+					<media_display_height>1766</media_display_height>
+					<media_display_class></media_display_class>
+					<media_display_style></media_display_style>
+					<media_display_autoplay>0</media_display_autoplay>
+					<media_display_loop>0</media_display_loop>
+					<media_display_mute>0</media_display_mute>
+					<media_display_controls>1</media_display_controls>
+					<media_display_name>ANGEBOTE</media_display_name>
+					<media_display_description>&lt;h3&gt;Wellnessurlaub im &amp;Ouml;tztal&lt;/h3&gt;
+						&lt;h4&gt;Unverbindlich anfragen, oder direkt online buchen ...&lt;/h4&gt;
+					</media_display_description>
+					<media_display_alt></media_display_alt>
+					<media_display_multilanguage>0</media_display_multilanguage>
+					<media_display_description_xml xml="true">
+						<xml>
+							<h3>Wellnessurlaub im Ötztal</h3>
+							<h4>Unverbindlich anfragen, oder direkt online buchen ...</h4>
+						</xml>
+					</media_display_description_xml>
+				</media_display>
+				<media>
+					<media_file_id>1904794</media_file_id>
+					<media_file_folder>59964</media_file_folder>
+					<media_file_customer>3001</media_file_customer>
+					<media_file_name>ho2_0090</media_file_name>
+					<media_file_description></media_file_description>
+					<media_file_type>jpg</media_file_type>
+					<media_file_source>0</media_file_source>
+					<media_file_changed>2019-04-24 10:25:42</media_file_changed>
+					<media_file_mime>image/jpeg</media_file_mime>
+					<media_file_size>490898</media_file_size>
+					<media_file_width>1179</media_file_width>
+					<media_file_height>1766</media_file_height>
+					<media_file_duration>0</media_file_duration>
+					<media_file_fps>0</media_file_fps>
+					<media_file_codec_audio></media_file_codec_audio>
+					<media_file_codec_video></media_file_codec_video>
+					<media_file_bandwidth>0</media_file_bandwidth>
+					<media_file_class>1</media_file_class>
+					<media_file_deleted>0000-00-00 00:00:00</media_file_deleted>
+				</media>
+				<media_url>http://3001-802.sites.condeon.net/media/59964/ho2-0090-1904794.jpg</media_url>
+			</content:media-display>
+			<content:proxy1 id="1004042" page-content-id="1004042" page-content-type="57" page-content-entail="1"
+			                page-content-order="0" page-content-group="0"
+			                page-content-changed-date="2019-04-17 13:18:41">
+				<html>
+					<![CDATA[<h1>FATAL ERROR</h1>Cannot connect to Clearing Station via TCP: 10.10.163.3:5284 (productive)<hr>/web/dgi/cst/common/class.cst_client3.php:1610<hr />web.cst.media:1558077591.099:5fd78e3135b7e3b275c80c86464e15ba]]>
+				</html>
+				<supplied-nodes>
+					<cst>
+						<cst_proxy_id>167751</cst_proxy_id>
+						<cst_proxy_content>1004042</cst_proxy_content>
+						<cst_proxy_cleanup>1</cst_proxy_cleanup>
+						<cst_proxy_url>/offer-list.php?type=1&amp;c[ids_hotels][]=1255</cst_proxy_url>
+						<cst_proxy_hotel>1255</cst_proxy_hotel>
+						<cst_proxy_type>23</cst_proxy_type>
+						<cst_proxy_integration>0</cst_proxy_integration>
+						<cst_proxy_integration_type>0</cst_proxy_integration_type>
+						<cst_proxy_indicator>0</cst_proxy_indicator>
+						<cst_proxy_indicator_no_childs>0</cst_proxy_indicator_no_childs>
+						<cst_proxy_region>0_0</cst_proxy_region>
+						<cst_proxy_region_channel>0</cst_proxy_region_channel>
+						<cst_proxy_stars>-1</cst_proxy_stars>
+						<cst_proxy_ch_in>0</cst_proxy_ch_in>
+						<cst_proxy_date_from></cst_proxy_date_from>
+						<cst_proxy_date_to></cst_proxy_date_to>
+						<cst_proxy_subpage_responsible>0</cst_proxy_subpage_responsible>
+						<cst_proxy_subpage_target>281890</cst_proxy_subpage_target>
+						<cst_proxy_special_mode></cst_proxy_special_mode>
+						<cst_proxy_special_value></cst_proxy_special_value>
+						<cst_proxy_indicator_list_type>0</cst_proxy_indicator_list_type>
+						<cst_proxy_indicator_list_parent>1</cst_proxy_indicator_list_parent>
+						<cst_proxy_routing_address_type>0</cst_proxy_routing_address_type>
+						<cst_proxy_routing_waypoint></cst_proxy_routing_waypoint>
+						<cst_proxy_output_type>0</cst_proxy_output_type>
+						<cst_proxy_width>0</cst_proxy_width>
+						<cst_proxy_height>0</cst_proxy_height>
+						<cst_proxy_order></cst_proxy_order>
+						<cst_proxy_box_request_style>0</cst_proxy_box_request_style>
+					</cst>
+					<cst_client_url>http://master-channel-30-waka.cst.dgi.w.og.vioma.de/</cst_client_url>
+					<cst_client_url_out>http://master-channel-30-waka.cst.dgi.w.og.vioma.de/</cst_client_url_out>
+				</supplied-nodes>
+			</content:proxy1>
+		</site:content-item>
+		<site:content-item name="gallery" id="16550">
+			<content:gallery id="994477" type="list" page-content-id="994477" page-content-type="54"
+			                 page-content-entail="1" page-content-order="0" page-content-group="0"
+			                 page-content-changed-date="2019-04-15 15:39:19" cacheable="true">
+				<gallery>
+					<mcg_id>82754</mcg_id>
+					<mcg_content>994477</mcg_content>
+					<mcg_name></mcg_name>
+					<mcg_subtitle></mcg_subtitle>
+					<mcg_media_folder>0</mcg_media_folder>
+					<mcg_list_cols>0</mcg_list_cols>
+					<mcg_list_rows>0</mcg_list_rows>
+					<mcg_list_height>0</mcg_list_height>
+					<mcg_list_width>0</mcg_list_width>
+					<mcg_detail_height>0</mcg_detail_height>
+					<mcg_detail_width>0</mcg_detail_width>
+					<mcg_slideshow>0</mcg_slideshow>
+					<mcg_slideshow_order>1</mcg_slideshow_order>
+					<mcg_slideshow_transition>0</mcg_slideshow_transition>
+					<mcg_slideshow_easing>0</mcg_slideshow_easing>
+					<mcg_slideshow_time>1</mcg_slideshow_time>
+					<mcg_slideshow_time_pause>5</mcg_slideshow_time_pause>
+					<mcg_send>0</mcg_send>
+					<mcg_send_confirm>0</mcg_send_confirm>
+					<mcg_print>0</mcg_print>
+					<mcg_print_service>0</mcg_print_service>
+					<mcg_download>0</mcg_download>
+					<mcg_lightbox>0</mcg_lightbox>
+					<mcg_download_sizes>0</mcg_download_sizes>
+					<mcg_start_view>1</mcg_start_view>
+					<mcg_watermark_thumb_image>0</mcg_watermark_thumb_image>
+					<mcg_watermark_thumb_pos>0</mcg_watermark_thumb_pos>
+					<mcg_watermark_detail_image>0</mcg_watermark_detail_image>
+					<mcg_watermark_detail_pos>0</mcg_watermark_detail_pos>
+					<mcg_html_text>0</mcg_html_text>
+					<mcg_nuke_contents>1</mcg_nuke_contents>
+					<mcg_multilanguage>0</mcg_multilanguage>
+				</gallery>
+				<gallery-items>
+					<int-0>
+						<mcgi_gallery>82754</mcgi_gallery>
+						<mcgi_media>1902076</mcgi_media>
+						<mcgi_name></mcgi_name>
+						<mcgi_text></mcgi_text>
+						<mcgi_alt></mcgi_alt>
+						<mcgi_order>1</mcgi_order>
+						<mcgi_show>1</mcgi_show>
+						<media_file_id>1902076</media_file_id>
+						<media_file_folder>59967</media_file_folder>
+						<media_file_customer>3001</media_file_customer>
+						<media_file_name>andreschoenherrdji_0545</media_file_name>
+						<media_file_description></media_file_description>
+						<media_file_type>jpg</media_file_type>
+						<media_file_source>0</media_file_source>
+						<media_file_changed>2019-04-11 17:06:17</media_file_changed>
+						<media_file_mime>image/jpeg</media_file_mime>
+						<media_file_size>4990203</media_file_size>
+						<media_file_width>3500</media_file_width>
+						<media_file_height>2332</media_file_height>
+						<media_file_duration>0</media_file_duration>
+						<media_file_fps>0</media_file_fps>
+						<media_file_codec_audio></media_file_codec_audio>
+						<media_file_codec_video></media_file_codec_video>
+						<media_file_bandwidth>0</media_file_bandwidth>
+						<media_file_class>1</media_file_class>
+						<media_file_deleted>0000-00-00 00:00:00</media_file_deleted>
+						<rem>0</rem>
+						<pois></pois>
+						<mcgi_text_full></mcgi_text_full>
+					</int-0>
+					<int-1>
+						<mcgi_gallery>82754</mcgi_gallery>
+						<mcgi_media>1901953</mcgi_media>
+						<mcgi_name></mcgi_name>
+						<mcgi_text></mcgi_text>
+						<mcgi_alt></mcgi_alt>
+						<mcgi_order>2</mcgi_order>
+						<mcgi_show>1</mcgi_show>
+						<media_file_id>1901953</media_file_id>
+						<media_file_folder>59967</media_file_folder>
+						<media_file_customer>3001</media_file_customer>
+						<media_file_name>hotel-waldklause100014</media_file_name>
+						<media_file_description></media_file_description>
+						<media_file_type>jpg</media_file_type>
+						<media_file_source>0</media_file_source>
+						<media_file_changed>2019-04-11 14:48:25</media_file_changed>
+						<media_file_mime>image/jpeg</media_file_mime>
+						<media_file_size>10332604</media_file_size>
+						<media_file_width>4000</media_file_width>
+						<media_file_height>3000</media_file_height>
+						<media_file_duration>0</media_file_duration>
+						<media_file_fps>0</media_file_fps>
+						<media_file_codec_audio></media_file_codec_audio>
+						<media_file_codec_video></media_file_codec_video>
+						<media_file_bandwidth>0</media_file_bandwidth>
+						<media_file_class>1</media_file_class>
+						<media_file_deleted>0000-00-00 00:00:00</media_file_deleted>
+						<rem>0</rem>
+						<pois></pois>
+						<mcgi_text_full></mcgi_text_full>
+					</int-1>
+					<int-2>
+						<mcgi_gallery>82754</mcgi_gallery>
+						<mcgi_media>1901952</mcgi_media>
+						<mcgi_name></mcgi_name>
+						<mcgi_text></mcgi_text>
+						<mcgi_alt></mcgi_alt>
+						<mcgi_order>3</mcgi_order>
+						<mcgi_show>1</mcgi_show>
+						<media_file_id>1901952</media_file_id>
+						<media_file_folder>59967</media_file_folder>
+						<media_file_customer>3001</media_file_customer>
+						<media_file_name>hotel-waldklause100001</media_file_name>
+						<media_file_description></media_file_description>
+						<media_file_type>jpg</media_file_type>
+						<media_file_source>0</media_file_source>
+						<media_file_changed>2019-04-11 14:47:05</media_file_changed>
+						<media_file_mime>image/jpeg</media_file_mime>
+						<media_file_size>10770917</media_file_size>
+						<media_file_width>4000</media_file_width>
+						<media_file_height>3000</media_file_height>
+						<media_file_duration>0</media_file_duration>
+						<media_file_fps>0</media_file_fps>
+						<media_file_codec_audio></media_file_codec_audio>
+						<media_file_codec_video></media_file_codec_video>
+						<media_file_bandwidth>0</media_file_bandwidth>
+						<media_file_class>1</media_file_class>
+						<media_file_deleted>0000-00-00 00:00:00</media_file_deleted>
+						<rem>0</rem>
+						<pois></pois>
+						<mcgi_text_full></mcgi_text_full>
+					</int-2>
+				</gallery-items>
+				<options></options>
+				<gallery-strings>
+					<string name="diashow">Diashow</string>
+					<string name="diashow.start">Diashow starten</string>
+					<string name="remember">Merken</string>
+					<string name="nav.back">zur&#x00fc;ck</string>
+					<string name="nav.next">weiter</string>
+					<string name="remember.pictures">Gemerkte Bilder</string>
+					<string name="remember.send">an Freunde versenden</string>
+					<string name="remember.print">drucken</string>
+					<string name="remember.download.all">Alle Bilder herunterladen</string>
+					<string name="remember.delete">löschen</string>
+					<string name="remember.res.low">niedrig</string>
+					<string name="remember.res.high">hoch</string>
+					<string name="remember.original">orginal</string>
+					<string name="remember.noimage">Es sind keine Bilder ausgewählt</string>
+					<string name="download">herunterladen</string>
+					<string name="pictures.recommended">Empfohlene Bilder</string>
+				</gallery-strings>
+			</content:gallery>
+		</site:content-item>
+		<site:content-item name="widget" id="16551">
+			<content:clearingstation-box-request id="998554" hotel-id="4763"
+			                                     client-url="http://master-channel-30-waka.cst.dgi.w.og.vioma.de/"
+			                                     box_request_style="0" client-url-cms="/de/online-buchung/"
+			                                     page-content-id="998554" page-content-type="57" page-content-entail="1"
+			                                     page-content-order="0" page-content-group="0"
+			                                     page-content-changed-date="2019-04-15 15:38:49">
+				<date-year>
+					<int-0>2019</int-0>
+					<int-1>2020</int-1>
+					<int-2>2021</int-2>
+					<int-3>2022</int-3>
+				</date-year>
+				<date-month>
+					<int-0>1</int-0>
+					<int-1>2</int-1>
+					<int-2>3</int-2>
+					<int-3>4</int-3>
+					<int-4>5</int-4>
+					<int-5>6</int-5>
+					<int-6>7</int-6>
+					<int-7>8</int-7>
+					<int-8>9</int-8>
+					<int-9>10</int-9>
+					<int-10>11</int-10>
+					<int-11>12</int-11>
+				</date-month>
+				<date-day>
+					<int-0>1</int-0>
+					<int-1>2</int-1>
+					<int-2>3</int-2>
+					<int-3>4</int-3>
+					<int-4>5</int-4>
+					<int-5>6</int-5>
+					<int-6>7</int-6>
+					<int-7>8</int-7>
+					<int-8>9</int-8>
+					<int-9>10</int-9>
+					<int-10>11</int-10>
+					<int-11>12</int-11>
+					<int-12>13</int-12>
+					<int-13>14</int-13>
+					<int-14>15</int-14>
+					<int-15>16</int-15>
+					<int-16>17</int-16>
+					<int-17>18</int-17>
+					<int-18>19</int-18>
+					<int-19>20</int-19>
+					<int-20>21</int-20>
+					<int-21>22</int-21>
+					<int-22>23</int-22>
+					<int-23>24</int-23>
+					<int-24>25</int-24>
+					<int-25>26</int-25>
+					<int-26>27</int-26>
+					<int-27>28</int-27>
+					<int-28>29</int-28>
+					<int-29>30</int-29>
+					<int-30>31</int-30>
+				</date-day>
+				<date-select-year>2019</date-select-year>
+				<date-select-month>05</date-select-month>
+				<date-select-day>31</date-select-day>
+				<num-stays>
+					<int-0>1</int-0>
+					<int-1>2</int-1>
+					<int-2>3</int-2>
+					<int-3>4</int-3>
+					<int-4>5</int-4>
+					<int-5>6</int-5>
+					<int-6>7</int-6>
+					<int-7>8</int-7>
+					<int-8>9</int-8>
+					<int-9>10</int-9>
+					<int-10>11</int-10>
+					<int-11>12</int-11>
+					<int-12>13</int-12>
+					<int-13>14</int-13>
+					<int-14>15</int-14>
+					<int-15>16</int-15>
+					<int-16>17</int-16>
+					<int-17>18</int-17>
+					<int-18>19</int-18>
+					<int-19>20</int-19>
+					<int-20>21</int-20>
+					<int-21>22</int-21>
+					<int-22>23</int-22>
+					<int-23>24</int-23>
+					<int-24>25</int-24>
+					<int-25>26</int-25>
+					<int-26>27</int-26>
+					<int-27>28</int-27>
+					<int-28>29</int-28>
+					<int-29>30</int-29>
+					<int-30>31</int-30>
+				</num-stays>
+				<num-select-stays>7</num-select-stays>
+				<num-persons>
+					<int-0>1</int-0>
+					<int-1>2</int-1>
+					<int-2>3</int-2>
+					<int-3>4</int-3>
+					<int-4>5</int-4>
+					<int-5>6</int-5>
+					<int-6>7</int-6>
+					<int-7>8</int-7>
+					<int-8>9</int-8>
+					<int-9>10</int-9>
+				</num-persons>
+				<num-select-persons>2</num-select-persons>
+				<match-space>
+					<datepicker type="date_from"></datepicker>
+					<datepicker type="date_to"></datepicker>
+				</match-space>
+			</content:clearingstation-box-request>
+		</site:content-item>
+		<site:content-item name="tools" id="16549">
+			<content:article1 id="998562" xml="true" page-content-id="998562" page-content-type="20"
+			                  page-content-entail="1" page-content-order="0" page-content-group="0"
+			                  page-content-changed-date="2019-05-03 17:08:29" cacheable="true">
+				<xml>
+					<ul>
+						<li class="header-tel">
+							<a href="tel:+4352535455">
+								<span>+43 5253 5455</span>
+							</a>
+						</li>
+						<li class="header-map">
+							<a href="/de/naturhotel/kontakt-anreise/">
+								<span>Lage &amp; Anfahrt</span>
+							</a>
+						</li>
+						<li class="header-book">
+							<a href="/de/online-buchung/">
+								<span>Buchen &amp; Anfragen</span>
+							</a>
+						</li>
+					</ul>
+				</xml>
+			</content:article1>
+			<content:search_box1 id="998567" url="/de/suchergebnisse/" size="" maxsize="" layout="2"
+			                     page-content-id="998567" page-content-type="30" page-content-entail="1"
+			                     page-content-order="0" page-content-group="0"
+			                     page-content-changed-date="2019-04-15 15:38:33" cacheable="true"></content:search_box1>
+		</site:content-item>
+		<site:content-item name="actions" id="16592">
+			<content:article1 id="998576" xml="true" page-content-id="998576" page-content-type="20"
+			                  page-content-entail="0" page-content-order="0" page-content-group="0"
+			                  page-content-changed-date="2019-04-24 09:58:31" cacheable="true">
+				<xml>
+					<h3>
+						Verwurzelt
+						<br/>
+						Gewachsen
+						<br/>
+						Gekrönt
+					</h3>
+					<ol>
+						<li>
+							<a href="/de/naturhotel/">Naturhotel</a>
+						</li>
+						<li>
+							<a href="/de/zimmer-angebote/">Zimmer &amp; Angebote</a>
+						</li>
+						<li>
+							<a href="/de/naturkueche/">Naturküche</a>
+						</li>
+						<li>
+							<a href="/de/naturspa/">NATUR-SPA</a>
+						</li>
+						<li>
+							<a href="/de/aktivitaeten-ausflugsziele/">Aktivitäten &amp; Ausflugsziele</a>
+						</li>
+					</ol>
+				</xml>
+			</content:article1>
+		</site:content-item>
+		<site:content-item name="footer" id="16554">
+			<content:group id="998597" page-content-id="998597" page-content-type="109" page-content-entail="1"
+			               page-content-order="0" page-content-group="0" page-content-changed-date="2019-04-15 15:40:35"
+			               attr-layout="spalten">
+				<members>
+					<content:article1 id="998598" xml="true" page-content-id="998598" page-content-type="20"
+					                  page-content-entail="1" page-content-order="10" page-content-group="998597"
+					                  page-content-changed-date="2019-04-15 15:42:08" attr-hintergrund="hauptfarbe"
+					                  attr-display="center" cacheable="true">
+						<xml>
+							<br/>
+							<img alt="" src="http://3001-802.sites.condeon.net/media/59878/logo-quadratisch-1901600.svg"
+							     width="156" height="100" border="0"/>
+							<h3 class="auer">
+								<br/>
+								Familie Auer
+							</h3>
+							<p>
+								Unterlängenfeld 190
+								<br/>
+								AT-6444 Längenfeld
+								<br/>
+								Tirol, Österreich
+								<br/>
+								TEL.
+								<a href="tel:+4352535455"
+								   onclick=" if( typeof ga != &quot;undefined&quot; ) { var ts = ga.getAll(); for (var i=0; i &lt; ts.length; ++i) { var t = ts[i]; ga(t.get('name')+'.send','event','Footer DE','click','+43 5253 5455',1); } } if( typeof _gaq_trackers != &quot;undefined&quot; ) { for (var i=0; i &lt; _gaq_trackers.length; ++i) { var t = _gaq_trackers[i]; _gaq.push([t+'._trackEvent','Footer DE','click','+43 5253 5455',1]); } } ;">
+									+43 5253 5455
+								</a>
+								<br/>
+								FAX +43 5253 54554
+								<br/>
+								<a href="mailto:office@waldklause.at"
+								   onclick=" if( typeof ga != &quot;undefined&quot; ) { var ts = ga.getAll(); for (var i=0; i &lt; ts.length; ++i) { var t = ts[i]; ga(t.get('name')+'.send','event','Footer DE','click','office@waldklause.at',1); } } if( typeof _gaq_trackers != &quot;undefined&quot; ) { for (var i=0; i &lt; _gaq_trackers.length; ++i) { var t = _gaq_trackers[i]; _gaq.push([t+'._trackEvent','Footer DE','click','office@waldklause.at',1]); } } ;">
+									office@waldklause.at
+								</a>
+							</p>
+						</xml>
+					</content:article1>
+					<content:map id="998599" page-content-id="998599" page-content-type="116" page-content-entail="1"
+					             page-content-order="20" page-content-group="998597"
+					             page-content-changed-date="2019-04-15 15:40:47" cacheable="true">
+						<map>
+							<map_id>76</map_id>
+							<map_page_content>998599</map_page_content>
+							<map_customer>3001</map_customer>
+							<map_thumbnail>1902764</map_thumbnail>
+							<map_provider>0</map_provider>
+							<map_api_key></map_api_key>
+							<map_width>310</map_width>
+							<map_height>480</map_height>
+							<map_center_lat>47.0719924957</map_center_lat>
+							<map_center_long>10.9643554688</map_center_long>
+							<map_zoom>8</map_zoom>
+							<map_expand>0</map_expand>
+							<map_expansion>0</map_expansion>
+							<map_autobuild>0</map_autobuild>
+							<map_cluster>0</map_cluster>
+							<media>
+								<media_file_id>1902764</media_file_id>
+								<media_file_folder>59878</media_file_folder>
+								<media_file_customer>3001</media_file_customer>
+								<media_file_name>cms-3001-802viomasslcom_condeon_horizon_</media_file_name>
+								<media_file_description></media_file_description>
+								<media_file_type>png</media_file_type>
+								<media_file_source>0</media_file_source>
+								<media_file_changed>2019-04-15 15:47:53</media_file_changed>
+								<media_file_mime>image/png</media_file_mime>
+								<media_file_size>253306</media_file_size>
+								<media_file_width>310</media_file_width>
+								<media_file_height>480</media_file_height>
+								<media_file_duration>0</media_file_duration>
+								<media_file_fps>0</media_file_fps>
+								<media_file_codec_audio></media_file_codec_audio>
+								<media_file_codec_video></media_file_codec_video>
+								<media_file_bandwidth>0</media_file_bandwidth>
+								<media_file_class>1</media_file_class>
+								<media_file_deleted>0000-00-00 00:00:00</media_file_deleted>
+							</media>
+						</map>
+						<markers>
+							<int-0>
+								<map_marker_id>765</map_marker_id>
+								<map_marker_map>76</map_marker_map>
+								<map_marker_customer>3001</map_marker_customer>
+								<map_marker_lat>47.0719918000</map_marker_lat>
+								<map_marker_long>10.9651204000</map_marker_long>
+								<map_marker_name>Naturhotel Waldklause</map_marker_name>
+								<map_marker_url>https://goo.gl/maps/o5Mqt5YnRK22</map_marker_url>
+								<map_marker_button></map_marker_button>
+								<map_marker_description></map_marker_description>
+								<map_marker_image>1902761</map_marker_image>
+								<map_marker_width>138</map_marker_width>
+								<map_marker_height>200</map_marker_height>
+								<map_marker_place_id>6546007</map_marker_place_id>
+								<map_marker_size>100</map_marker_size>
+								<map_marker_image_type>png</map_marker_image_type>
+								<media>
+									<media_file_id>1902761</media_file_id>
+									<media_file_folder>59878</media_file_folder>
+									<media_file_customer>3001</media_file_customer>
+									<media_file_name>marker</media_file_name>
+									<media_file_description></media_file_description>
+									<media_file_type>png</media_file_type>
+									<media_file_source>0</media_file_source>
+									<media_file_changed>2019-04-15 15:46:13</media_file_changed>
+									<media_file_mime>image/png</media_file_mime>
+									<media_file_size>4714</media_file_size>
+									<media_file_width>138</media_file_width>
+									<media_file_height>200</media_file_height>
+									<media_file_duration>0</media_file_duration>
+									<media_file_fps>0</media_file_fps>
+									<media_file_codec_audio></media_file_codec_audio>
+									<media_file_codec_video></media_file_codec_video>
+									<media_file_bandwidth>0</media_file_bandwidth>
+									<media_file_class>1</media_file_class>
+									<media_file_deleted>0000-00-00 00:00:00</media_file_deleted>
+								</media>
+							</int-0>
+						</markers>
+						<config>
+							<![CDATA[{"map":{"map_id":"76","map_page_content":"998599","map_customer":"3001","map_thumbnail":"1902764","map_provider":"0","map_api_key":"","map_width":"310","map_height":"480","map_center_lat":"47.0719924957","map_center_long":"10.9643554688","map_zoom":"8","map_expand":"0","map_expansion":"0","map_autobuild":"0","map_cluster":"0","media":{"media_file_id":"1902764","media_file_folder":"59878","media_file_customer":"3001","media_file_name":"cms-3001-802viomasslcom_condeon_horizon_","media_file_description":"","media_file_type":"png","media_file_source":"0","media_file_changed":"2019-04-15 15:47:53","media_file_mime":"image\/png","media_file_size":"253306","media_file_width":"310","media_file_height":"480","media_file_duration":"0","media_file_fps":"0","media_file_codec_audio":"","media_file_codec_video":"","media_file_bandwidth":"0","media_file_class":"1","media_file_deleted":"0000-00-00 00:00:00"}},"markers":[{"map_marker_id":"765","map_marker_map":"76","map_marker_customer":"3001","map_marker_lat":"47.0719918000","map_marker_long":"10.9651204000","map_marker_name":"Naturhotel Waldklause","map_marker_url":"https:\/\/goo.gl\/maps\/o5Mqt5YnRK22","map_marker_button":"","map_marker_description":"","map_marker_image":"1902761","map_marker_width":"138","map_marker_height":"200","map_marker_place_id":"6546007","map_marker_size":"100","map_marker_image_type":"png","media":{"media_file_id":"1902761","media_file_folder":"59878","media_file_customer":"3001","media_file_name":"marker","media_file_description":"","media_file_type":"png","media_file_source":"0","media_file_changed":"2019-04-15 15:46:13","media_file_mime":"image\/png","media_file_size":"4714","media_file_width":"138","media_file_height":"200","media_file_duration":"0","media_file_fps":"0","media_file_codec_audio":"","media_file_codec_video":"","media_file_bandwidth":"0","media_file_class":"1","media_file_deleted":"0000-00-00 00:00:00"}}]}]]>
+						</config>
+						<language-strings>
+							<map.directions>Routenplaner</map.directions>
+							<map.alt>Umgebungskarte</map.alt>
+						</language-strings>
+						<matchspaces>
+							<css></css>
+							<script></script>
+						</matchspaces>
+					</content:map>
+					<content:group id="1003354" page-content-id="1003354" page-content-type="109"
+					               page-content-entail="1" page-content-order="30" page-content-group="998597"
+					               page-content-changed-date="2019-04-15 15:40:50" attr-hintergrund="akzent">
+						<members>
+							<content:article1 id="998600" xml="true" page-content-id="998600" page-content-type="20"
+							                  page-content-entail="1" page-content-order="1"
+							                  page-content-group="1003354"
+							                  page-content-changed-date="2019-04-17 14:57:45" attr-hintergrund="akzent"
+							                  cacheable="true">
+								<xml>
+									<h4>Service &amp; Social</h4>
+									<ul>
+										<li>
+											<a href="https://www.waldklause.at/de/kontakt/anreise/">Anreise</a>
+										</li>
+										<li>
+											<a href="https://www.waldklause.at/de/buchung/anfragen/">Schnellanfrage</a>
+										</li>
+										<li>
+											<a href="https://www.waldklause.at/de/kontakt/newsletter/">Newsletter</a>
+										</li>
+										<li>
+											<a href="https://www.waldklause.at/de/kontakt/impressum/">Impressum</a>
+										</li>
+										<li>
+											<a href="https://www.waldklause.at/de/kontakt/partner/">Partner</a>
+										</li>
+									</ul>
+								</xml>
+							</content:article1>
+							<content:search_box1 id="1003355" url="/de/suchergebnisse/" size="" maxsize="" layout="2"
+							                     page-content-id="1003355" page-content-type="30"
+							                     page-content-entail="1" page-content-order="2"
+							                     page-content-group="1003354"
+							                     page-content-changed-date="2019-04-15 15:40:57"
+							                     cacheable="true"></content:search_box1>
+							<content:article1 id="1003356" xml="true" page-content-id="1003356" page-content-type="20"
+							                  page-content-entail="1" page-content-order="3"
+							                  page-content-group="1003354"
+							                  page-content-changed-date="2019-04-15 15:41:02" cacheable="true">
+								<xml>
+									<ul class="social-media">
+										<li class="fb">
+											<a class="social-media-source-icon"
+											   href="https://www.facebook.com/naturhotel?fref=ts">
+												<span>facebook</span>
+											</a>
+										</li>
+										<li class="twitter">
+											<a class="social-media-source-icon" href="https://twitter.com/naturhotel">
+												<span>twitter</span>
+											</a>
+										</li>
+										<li class="instagram">
+											<a class="social-media-source-icon"
+											   href="https://www.instagram.com/naturhotel_waldklause">
+												<span>instagram</span>
+											</a>
+										</li>
+										<li class="youtube">
+											<a class="social-media-source-icon"
+											   href="https://www.youtube.com/channel/UCCm6nJTL44V3iNoDI9G6H1Q">
+												<span>youtube</span>
+											</a>
+										</li>
+									</ul>
+								</xml>
+							</content:article1>
+						</members>
+					</content:group>
+					<content:group id="1003353" page-content-id="1003353" page-content-type="109"
+					               page-content-entail="1" page-content-order="40" page-content-group="998597"
+					               page-content-changed-date="2019-04-15 15:41:24" attr-hintergrund="hell">
+						<members>
+							<content:newsletter id="998601" page="subscribe-page1" page-content-id="998601"
+							                    page-content-type="115" page-content-entail="1" page-content-order="0"
+							                    page-content-group="1003353"
+							                    page-content-changed-date="2019-04-15 15:41:27">
+								<newsletter>
+									<newsletter_id>212</newsletter_id>
+									<newsletter_page_content>998601</newsletter_page_content>
+									<newsletter_customer>3001</newsletter_customer>
+									<newsletter_config>
+										<page1>
+											<textHeading>DEMO ACCOUNT</textHeading>
+											<textIntro></textIntro>
+											<fieldGroups>
+												<int-0>
+													<id>1</id>
+													<label></label>
+													<fields>
+														<int-0>
+															<id>1</id>
+															<field>email</field>
+															<required>1</required>
+															<label>E-Mail</label>
+															<type>text</type>
+															<options></options>
+														</int-0>
+													</fields>
+												</int-0>
+											</fieldGroups>
+										</page1>
+										<page2>
+											<active>1</active>
+											<textHeading>Newsletter-Anmeldung</textHeading>
+											<textIntro>Dürfen wir sie persönlich ansprechen? Hier haben sie die
+												Möglichkeit, Ihre Daten zu hinterlegen.
+											</textIntro>
+											<fieldGroups>
+												<int-0>
+													<id>1</id>
+													<label>Persönliche Daten</label>
+													<fields>
+														<int-0>
+															<id>1</id>
+															<field>salut</field>
+															<required></required>
+															<label>Anrede</label>
+															<type>select</type>
+															<options>
+																<int-0>
+																	<id>1</id>
+																	<value>Herr</value>
+																	<label>Herr</label>
+																</int-0>
+																<int-1>
+																	<id>2</id>
+																	<value>Frau</value>
+																	<label>Frau</label>
+																</int-1>
+																<int-2>
+																	<id>3</id>
+																	<value>Familie</value>
+																	<label>Familie</label>
+																</int-2>
+															</options>
+														</int-0>
+														<int-1>
+															<id>2</id>
+															<field>first</field>
+															<required></required>
+															<label>Vorname</label>
+															<type>text</type>
+															<options></options>
+														</int-1>
+														<int-2>
+															<id>3</id>
+															<field>last</field>
+															<required></required>
+															<label>Nachname</label>
+															<type>text</type>
+															<options></options>
+														</int-2>
+														<int-3>
+															<id>4</id>
+															<field>birth</field>
+															<required></required>
+															<label>Geburtstag</label>
+															<type>text</type>
+															<options></options>
+														</int-3>
+													</fields>
+												</int-0>
+											</fieldGroups>
+										</page2>
+										<confirmation1>
+											<textHeading>Vielen Dank für Ihre Anmeldung</textHeading>
+											<textCheckMail>Bitte denken sie daran, Ihre Anmeldung zu bestätigen!
+											</textCheckMail>
+											<textAlreadySubscribed>Viel Spass mit dem Newsletter.
+											</textAlreadySubscribed>
+										</confirmation1>
+										<confirmation2>
+											<textHeading>Anmeldung</textHeading>
+											<textSuccess>Vielen Dank für die Bestätigung ihrer Anmeldung.</textSuccess>
+											<textErrorProfile>Ihre Anmeldung konnte leider nicht durchgeführt werden,
+												bitte melden Sie sich erneut an.
+											</textErrorProfile>
+											<textErrorTimeout>Ihre Anmeldung konnte leider nicht durchgeführt werden, da
+												der Anmeldelink nicht mehr gültig war.
+											</textErrorTimeout>
+										</confirmation2>
+									</newsletter_config>
+								</newsletter>
+								<user></user>
+								<errors></errors>
+								<matchspaces>
+									<css></css>
+									<script></script>
+								</matchspaces>
+								<language-strings>
+									<privacy_consent_accept>Ich möchte regelmäßig über Neuigkeiten und Aktionen per
+										personalisiertem Newsletter (E-Mail) informiert werden.
+									</privacy_consent_accept>
+									<privacy_consent_revoke>
+										Sie können Ihre Einwilligung jederzeit per E-Mail an
+										<a href="mailto:office@waldklause.at">office@waldklause.at</a>
+										oder dem Abmelde-Link im Newsletter widerrufen.
+									</privacy_consent_revoke>
+									<privacy_policy_link>
+										Detaillierte Informationen zum Umgang mit Nutzerdaten, dem Anmeldeverfahren und
+										dessen Protokollierung finden Sie in unserer
+										<a href="/(cms)/module/pass/90/redir-legal/privacy/de?cms_redir_fragment=module-legal-privacy-start"
+										   target="_blank">Datenschutzerklärung
+										</a>
+										.
+									</privacy_policy_link>
+									<input_subscribe>Anmelden</input_subscribe>
+									<input_save>Speichern</input_save>
+									<input_error>Bitte prüfen Sie die markierten Felder</input_error>
+								</language-strings>
+							</content:newsletter>
+						</members>
+					</content:group>
+				</members>
+			</content:group>
+		</site:content-item>
+		<site:content-item name="footer-nav" id="16597">
+			<content:article1 id="1003351" xml="true" page-content-id="1003351" page-content-type="20"
+			                  page-content-entail="1" page-content-order="0" page-content-group="0"
+			                  page-content-changed-date="2019-05-03 17:12:59" cacheable="true">
+				<xml>
+					<ul>
+						<li>
+							<a href="/de/impressum/">Impressum</a>
+						</li>
+						<li>
+							<a href="/de/datenschutzerklaerung/">Datenschutzerklärung</a>
+						</li>
+					</ul>
+				</xml>
+			</content:article1>
+		</site:content-item>
+		<site:content-item name="logo" id="16547">
+			<content:media-display id="1005494" type="" page-content-id="1005494" page-content-type="87"
+			                       page-content-entail="1" page-content-order="0" page-content-group="0"
+			                       page-content-changed-date="2019-05-02 15:47:28" cacheable="true">
+				<media_display>
+					<media_display_id>26010</media_display_id>
+					<media_display_customer>3001</media_display_customer>
+					<media_display_content>1005494</media_display_content>
+					<media_display_type>0</media_display_type>
+					<media_display_media>1905961</media_display_media>
+					<media_display_media_preview>0</media_display_media_preview>
+					<media_display_width>0</media_display_width>
+					<media_display_height>0</media_display_height>
+					<media_display_class></media_display_class>
+					<media_display_style></media_display_style>
+					<media_display_autoplay>0</media_display_autoplay>
+					<media_display_loop>0</media_display_loop>
+					<media_display_mute>0</media_display_mute>
+					<media_display_controls>1</media_display_controls>
+					<media_display_name></media_display_name>
+					<media_display_description></media_display_description>
+					<media_display_alt></media_display_alt>
+					<media_display_multilanguage>0</media_display_multilanguage>
+				</media_display>
+				<media>
+					<media_file_id>1905961</media_file_id>
+					<media_file_folder>59824</media_file_folder>
+					<media_file_customer>3001</media_file_customer>
+					<media_file_name>logo_quer</media_file_name>
+					<media_file_description></media_file_description>
+					<media_file_type>svg</media_file_type>
+					<media_file_source>0</media_file_source>
+					<media_file_changed>2019-04-30 10:40:55</media_file_changed>
+					<media_file_mime>image/svg+xml</media_file_mime>
+					<media_file_size>7738</media_file_size>
+					<media_file_width>0</media_file_width>
+					<media_file_height>0</media_file_height>
+					<media_file_duration>0</media_file_duration>
+					<media_file_fps>0</media_file_fps>
+					<media_file_codec_audio></media_file_codec_audio>
+					<media_file_codec_video></media_file_codec_video>
+					<media_file_bandwidth>0</media_file_bandwidth>
+					<media_file_class>1</media_file_class>
+					<media_file_deleted>0000-00-00 00:00:00</media_file_deleted>
+				</media>
+				<media_url>http://3001-802.sites.condeon.net/media/59824/logo-quer-1905961.svg</media_url>
+			</content:media-display>
+		</site:content-item>
+		<site:content-item name="nav" id="16548">
+			<content:menu1 id="998558" level="1" start="0" page-content-id="998558" page-content-type="19"
+			               page-content-entail="1" page-content-order="10" page-content-group="0"
+			               page-content-changed-date="2019-04-12 14:39:25"></content:menu1>
+			<content:article1 id="998574" xml="true" page-content-id="998574" page-content-type="20"
+			                  page-content-entail="1" page-content-order="20" page-content-group="0"
+			                  page-content-changed-date="2019-05-03 13:36:39" attr-display="hotel" cacheable="true">
+				<xml>
+					<table border="0" cellpadding="10">
+						<tbody>
+							<tr class="top-image">
+								<td colspan="2">
+									<img alt=""
+									     src="http://3001-802.sites.condeon.net/media/59878/logo-quadratisch-1901600.svg"
+									     border="0" height="" width=""/>
+								</td>
+							</tr>
+							<tr>
+								<td colspan="2">
+									<strong>Familie Auer</strong>
+								</td>
+							</tr>
+							<tr>
+								<td valign="top">
+									Unterlängenfeld 190
+									<br/>
+									AT-6444 Längenfeld
+									<br/>
+									Tirol, Österreich
+								</td>
+								<td valign="top">
+									TEL.
+									<a href="#">+43 5253 5455</a>
+									<br/>
+									FAX +43 5253 54554
+									<br/>
+									<a href="mailto:office@waldklause.at">
+										office@waldklause.at
+										<br/>
+									</a>
+								</td>
+							</tr>
+							<tr>
+								<td colspan="2" valign="top">
+									<ul class="social-media">
+										<li class="fb">
+											<a class="social-media-source-icon"
+											   href="https://www.facebook.com/naturhotel?fref=ts">
+												<span>facebook</span>
+											</a>
+										</li>
+										<li class="twitter">
+											<a class="social-media-source-icon" href="https://twitter.com/naturhotel">
+												<span>twitter</span>
+											</a>
+										</li>
+										<li class="instagram">
+											<a class="social-media-source-icon"
+											   href="https://www.instagram.com/naturhotel_waldklause">
+												<span>instagram</span>
+											</a>
+										</li>
+										<li class="youtube">
+											<a class="social-media-source-icon"
+											   href="https://www.youtube.com/channel/UCCm6nJTL44V3iNoDI9G6H1Q">
+												<span>youtube</span>
+											</a>
+										</li>
+									</ul>
+								</td>
+							</tr>
+						</tbody>
+					</table>
+				</xml>
+			</content:article1>
+			<content:article1 id="1001887" xml="true" page-content-id="1001887" page-content-type="20"
+			                  page-content-entail="1" page-content-order="30" page-content-group="0"
+			                  page-content-changed-date="2019-05-03 17:11:46" attr-display="navigation"
+			                  cacheable="true">
+				<xml>
+					<ul>
+						<li class="header-gift">
+							<a href="/de/zimmer-angebote/gutscheine/">
+								<span>Gutschein</span>
+							</a>
+						</li>
+						<li class="header-map">
+							<a href="/de/naturhotel/kontakt-anreise/">
+								<span>Anfahrt</span>
+							</a>
+						</li>
+						<li class="header-image">
+							<a href="/de/naturhotel/bilder-videos/">
+								<span>Impressionen</span>
+							</a>
+						</li>
+						<li class="header-question">
+							<a href="/de/naturhotel/prospekte/">
+								<span>Broschüren</span>
+							</a>
+						</li>
+						<li class="header-plane">
+							<a href="/de/newsletter/">
+								<span>Newsletter</span>
+							</a>
+						</li>
+						<li class="header-calendar">
+							<a href="/de/online-buchung/">
+								<span>Buchen</span>
+							</a>
+						</li>
+					</ul>
+				</xml>
+			</content:article1>
+		</site:content-item>
+		<site:content-item name="breadcrumb" id="16552"></site:content-item>
+		<site:content-item name="cookie-hint" id="16556"></site:content-item>
+		<site:content-item name="actions" id="16593"></site:content-item>
+	</site:content>
+	<site:template template-id="1987">
+		<template-settings>
+			<template-setting id="853462" name="variant-template" value="Z"></template-setting>
+			<template-setting id="853463" name="variant-header" value="Z"></template-setting>
+			<template-setting id="853464" name="variant-logo" value="Z"></template-setting>
+			<template-setting id="853465" name="variant-widget" value="Z"></template-setting>
+			<template-setting id="853466" name="variant-navigation" value="Z"></template-setting>
+			<template-setting id="853467" name="variant-logo-vioma" value="C"></template-setting>
+			<template-setting id="853468" name="syntax-fix-2018" value="yes"></template-setting>
+			<template-setting id="853471" name="font-family-google-url"
+			                  value="'https://fonts-api.viomassl.com/css?family=Fira+Sans:100,100i,400,400i'"></template-setting>
+			<template-setting id="853477" name="smoothscroll-effect" value="yes"></template-setting>
+			<template-setting id="853482" name="footer-anchor-display" value="no"></template-setting>
+			<template-setting id="853483" name="tiles-ratio" value="100%"></template-setting>
+		</template-settings>
+	</site:template>
+	<site:page page-id="281583" page-struct="155197" page-struct-parent="0" page-name="Naturhotel Waldklause"
+	           page-keywords="" page-title="Naturhotel Waldklause | 5 Sterne Design- &amp; Wellnesshotel in Tirol"
+	           page-description="Naturhotel Waldklause im Ötztaler Längenfeld. Das besondere Hotel in Tirol für: ✓ Wellness &amp; Beauty, ✓ Design, ✓ Kulinarik, ✓ Sport &amp; Aktiv ➨ Mehr dazu.
+" page-language="de" page-language-iso="de" page-language-id="2006" page-changed-date="2019-05-03 16:00:59"
+	           page-root="true" page-robots="1" page-url-canonical="http://3001-802.sites.condeon.net/de/">
+		<path>
+			<path-item id="281583" struct="155197" url="/de/" keywords=""
+			           title="Naturhotel Waldklause | 5 Sterne Design- &amp; Wellnesshotel in Tirol"
+			           description="Naturhotel Waldklause im Ötztaler Längenfeld. Das besondere Hotel in Tirol für: ✓ Wellness &amp; Beauty, ✓ Design, ✓ Kulinarik, ✓ Sport &amp; Aktiv ➨ Mehr dazu.  ">
+				Naturhotel Waldklause
+			</path-item>
+		</path>
+		<languages>
+			<page id="281583" language-id="2006" language="de" language-name="DE" language-website-name=""
+			      website-language-id="2006" state="current" url="/de/" language-alternative="true" keywords=""
+			      title="Naturhotel Waldklause | 5 Sterne Design- &amp; Wellnesshotel in Tirol"
+			      description="Naturhotel Waldklause im Ötztaler Längenfeld. Das besondere Hotel in Tirol für: ✓ Wellness &amp; Beauty, ✓ Design, ✓ Kulinarik, ✓ Sport &amp; Aktiv ➨ Mehr dazu.  ">
+				Naturhotel Waldklause
+			</page>
+		</languages>
+		<content-attributes>
+			<content-attribute id="1308" page-content-id="998577" name="layout" value="spalten"></content-attribute>
+			<content-attribute id="1308" page-content-id="998585" name="layout" value="full-height"></content-attribute>
+			<content-attribute id="1308" page-content-id="998587" name="layout" value="tiles"></content-attribute>
+			<content-attribute id="1308" page-content-id="998588" name="layout"
+			                   value="spalte-volle-breite"></content-attribute>
+			<content-attribute id="1308" page-content-id="998589" name="layout" value="mosaic"></content-attribute>
+			<content-attribute id="1308" page-content-id="998597" name="layout" value="spalten"></content-attribute>
+			<content-attribute id="1308" page-content-id="1002099" name="layout" value="spalten"></content-attribute>
+			<content-attribute id="1308" page-content-id="1003198" name="layout" value="tabs"></content-attribute>
+			<content-attribute id="1309" page-content-id="998586" name="hintergrund"
+			                   value="transparent"></content-attribute>
+			<content-attribute id="1309" page-content-id="998598" name="hintergrund"
+			                   value="hauptfarbe"></content-attribute>
+			<content-attribute id="1309" page-content-id="998600" name="hintergrund" value="akzent"></content-attribute>
+			<content-attribute id="1309" page-content-id="1003353" name="hintergrund" value="hell"></content-attribute>
+			<content-attribute id="1309" page-content-id="1003354" name="hintergrund"
+			                   value="akzent"></content-attribute>
+			<content-attribute id="1310" page-content-id="998577" name="hintergrund-bild-id"
+			                   value="1893756"></content-attribute>
+			<content-attribute id="1328" page-content-id="998588" name="titel" value="tabs"></content-attribute>
+			<content-attribute id="1328" page-content-id="998595" name="titel"
+			                   value="Auszeichnungen"></content-attribute>
+			<content-attribute id="1328" page-content-id="1005647" name="titel" value="Bewertungen"></content-attribute>
+			<content-attribute id="1328" page-content-id="1005868" name="titel" value="Bewertungen"></content-attribute>
+			<content-attribute id="1328" page-content-id="1005870" name="titel"
+			                   value="Auszeichnungen"></content-attribute>
+			<content-attribute id="1329" page-content-id="998574" name="display" value="hotel"></content-attribute>
+			<content-attribute id="1329" page-content-id="998587" name="display" value="no-padding"></content-attribute>
+			<content-attribute id="1329" page-content-id="998598" name="display" value="center"></content-attribute>
+			<content-attribute id="1329" page-content-id="1001887" name="display"
+			                   value="navigation"></content-attribute>
+			<content-attribute id="1329" page-content-id="1002100" name="display" value="grid"></content-attribute>
+			<content-attribute id="1329" page-content-id="1002169" name="display" value="overflow"></content-attribute>
+			<content-attribute id="1329" page-content-id="1003196" name="display" value="center"></content-attribute>
+			<content-attribute id="1329" page-content-id="1004673" name="display" value="overflow"></content-attribute>
+			<content-attribute id="1329" page-content-id="1005132" name="display" value="slogan"></content-attribute>
+			<content-attribute id="1329" page-content-id="1006229" name="display"
+			                   value="display-hide-640"></content-attribute>
+			<content-attribute id="1329" page-content-id="1008344" name="display" value="widget"></content-attribute>
+		</content-attributes>
+		<page-attributes>
+			<page-attribute id="877" name="special-page" struct="155372" value=""></page-attribute>
+			<page-attribute id="877" name="special-page" struct="155373" value=""></page-attribute>
+			<page-attribute id="877" name="special-page" struct="155374" value=""></page-attribute>
+			<page-attribute id="877" name="special-page" struct="155375" value=""></page-attribute>
+			<page-attribute id="877" name="special-page" struct="155376" value=""></page-attribute>
+			<page-attribute id="877" name="special-page" struct="155377" value=""></page-attribute>
+			<page-attribute id="877" name="special-page" struct="155378" value=""></page-attribute>
+			<page-attribute id="877" name="special-page" struct="155380" value=""></page-attribute>
+			<page-attribute id="877" name="special-page" struct="155381" value=""></page-attribute>
+			<page-attribute id="877" name="special-page" struct="155382" value=""></page-attribute>
+			<page-attribute id="877" name="special-page" struct="155384" value=""></page-attribute>
+			<page-attribute id="877" name="special-page" struct="155389" value=""></page-attribute>
+			<page-attribute id="877" name="special-page" struct="155390" value=""></page-attribute>
+			<page-attribute id="877" name="special-page" struct="155391" value=""></page-attribute>
+			<page-attribute id="877" name="special-page" struct="155392" value=""></page-attribute>
+			<page-attribute id="877" name="special-page" struct="155393" value=""></page-attribute>
+			<page-attribute id="877" name="special-page" struct="155394" value=""></page-attribute>
+			<page-attribute id="877" name="special-page" struct="155395" value=""></page-attribute>
+			<page-attribute id="877" name="special-page" struct="155396" value=""></page-attribute>
+			<page-attribute id="877" name="special-page" struct="155397" value=""></page-attribute>
+			<page-attribute id="877" name="special-page" struct="155398" value=""></page-attribute>
+			<page-attribute id="877" name="special-page" struct="155401" value=""></page-attribute>
+			<page-attribute id="877" name="special-page" struct="155402" value=""></page-attribute>
+			<page-attribute id="877" name="special-page" struct="155403" value=""></page-attribute>
+			<page-attribute id="877" name="special-page" struct="155404" value=""></page-attribute>
+			<page-attribute id="877" name="special-page" struct="155405" value=""></page-attribute>
+			<page-attribute id="877" name="special-page" struct="155406" value=""></page-attribute>
+			<page-attribute id="877" name="special-page" struct="155407" value=""></page-attribute>
+			<page-attribute id="877" name="special-page" struct="155408" value=""></page-attribute>
+			<page-attribute id="877" name="special-page" struct="155409" value=""></page-attribute>
+			<page-attribute id="877" name="special-page" struct="155410" value=""></page-attribute>
+			<page-attribute id="877" name="special-page" struct="155412" value=""></page-attribute>
+			<page-attribute id="894" name="Hintergrundbild" struct="155197" value="1906909"></page-attribute>
+			<page-attribute id="896" name="topsite" struct="155372" value="1901510"></page-attribute>
+			<page-attribute id="896" name="topsite" struct="155375" value="1902017"></page-attribute>
+			<page-attribute id="896" name="topsite" struct="155380" value="1901955"></page-attribute>
+			<page-attribute id="896" name="topsite" struct="155390" value="1902071"></page-attribute>
+			<page-attribute id="896" name="topsite" struct="155391" value="1901719"></page-attribute>
+			<page-attribute id="896" name="topsite" struct="155404" value="1901966"></page-attribute>
+		</page-attributes>
+	</site:page>
+	<site:website website-id="802" website-name="Naturhotel Waldklause" domain-id="4447"
+	              domain-fqdn="3001.condeon.dgi.w.og.vioma.de" domain-secure="no" domain-domshake="yes"
+	              domain-language-default="2006" domain-language-only="0" domain-secure-fqdn="cms-3001-802.viomassl.com"
+	              domain-secure-uri="https://cms-3001-802.viomassl.com"
+	              domain-standard-fqdn="3001-802.sites.condeon.net"
+	              domain-standard-uri="http://3001-802.sites.condeon.net"></site:website>
+	<site:customer customer-id="3001"></site:customer>
+	<site:match-space>
+		<head>
+			<head-tags></head-tags>
+			<head-tags-user></head-tags-user>
+			<open-graph-tags></open-graph-tags>
+			<lib-versions></lib-versions>
+			<combined-styles></combined-styles>
+			<combined-styles-user></combined-styles-user>
+			<combined-scripts></combined-scripts>
+			<combined-scripts-user></combined-scripts-user>
+			<tracking>
+				<tao-pixel></tao-pixel>
+			</tracking>
+		</head>
+		<helper>
+			<content-attribute></content-attribute>
+		</helper>
+		<header>
+			<logo></logo>
+			<navigation></navigation>
+			<tools></tools>
+			<gallery></gallery>
+			<widgets></widgets>
+		</header>
+		<main></main>
+		<footer></footer>
+		<scripts></scripts>
+	</site:match-space>
+</site:site><!--

@@ -46,12 +46,10 @@ header .tool .lang-menu {
     margin-top: 30px;
     text-align: right;
     opacity: 1;
-    transition: all .6s ease;
+    transition: all 0.6s ease;
   }
   .scrolled header .banner .logo a {
-    -webkit-transform: scale(0.5);
-        -ms-transform: scale(0.5);
-            transform: scale(0.5);
+    transform: scale(0.5);
     margin: 5px 0 0 0;
     padding: 0;
     opacity: 0.6;
@@ -87,6 +85,7 @@ header .tool .lang-menu {
     font-size: 18px;
   }
   header .nav-level-0 {
+    width: -webkit-calc(100% - 180px - 25%);
     width: calc(100% - 180px - 25%);
   }
   header .tools {
@@ -153,3 +152,4 @@ header .tool .lang-menu {
     padding: 0 0 0 0;
   }
 }
+/*# sourceMappingURL=site_tmp.css.map */

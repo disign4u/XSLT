@@ -1,0 +1,2197 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<site:site xmlns:site="http://xmlns.webmaking.ms/site/" xmlns:content="http://xmlns.webmaking.ms/content/">
+	<site:env>
+		<site:vars>
+			<php_self><![CDATA[/de/?wmms[output]=xml]]></php_self>
+			<dev>yes</dev>
+			<url_action>/de/</url_action>
+			<session_name>PHPSESSID</session_name>
+			<session_id>h0575c0m0fscoatr1e9o6r8751</session_id>
+		</site:vars>
+		<site:user-agent name="chrome" version="113" os="macintosh" language="de" country="de"></site:user-agent>
+	</site:env>
+	<site:tao tracking-mode="enabled" tracking-consent="true">
+		<unique>487338918</unique>
+		<session_hash>4002db03c9fecadac4cd8969d030a615</session_hash>
+		<content:tao-pixel-conversion-dynamic></content:tao-pixel-conversion-dynamic>
+	</site:tao>
+	<site:optimizer></site:optimizer>
+	<site:software name="Condeon" revision="1.8.49" db-connected="yes" db-master="no"></site:software>
+	<site:tree>
+		<menu id="332997" struct="187099" struct-pid="0" module="5" url="/de/" title="Startseite" keywords=""
+		      page-title="" description="" target="0" level="0" state="n" l="25" ls="87" vstate="active">
+			<menu-item id="332999" struct="187101" struct-pid="187099" module="5" url-name="zimmer-preise"
+			           url="/de/zimmer-preise/" keywords="" page-title="" description="" target="0">Zimmer &amp; Preise
+			</menu-item>
+			<menu-item id="333005" struct="187107" struct-pid="187099" module="5" url-name="hotel-adler"
+			           url="/de/hotel-adler/" keywords="" page-title="" description="" target="0">Hotel Adler
+			</menu-item>
+			<menu-item id="338761" struct="190669" struct-pid="187099" module="5" url-name="restaurant"
+			           url="/de/restaurant/" keywords="" page-title="" description="" target="0">Restaurant
+			</menu-item>
+			<menu-item id="338763" struct="190671" struct-pid="187099" module="5" url-name="golf-aktivurlaub"
+			           url="/de/golf-aktivurlaub/" keywords="" page-title="" description="" target="0">Golf &amp;
+				Aktivurlaub
+			</menu-item>
+			<menu-item id="338765" struct="190673" struct-pid="187099" module="5" url-name="wellness-gesundheit"
+			           url="/de/wellness-gesundheit/" keywords="" page-title="" description="" target="0">Wellness &amp;
+				Gesundheit
+			</menu-item>
+		</menu>
+		<menu id="332999" struct="187101" struct-pid="187099" module="5" url="/de/zimmer-preise/"
+		      title="Zimmer &amp; Preise" keywords="" page-title="" description="" target="0" level="unknown"
+		      state="start-level" l="12" ls="24">
+			<menu-item id="333001" struct="187103" struct-pid="187101" module="5" url-name="unterseite-1"
+			           url="/de/zimmer-preise/unterseite-1/" keywords="" page-title="" description="" target="0">
+				Unterseite 1
+			</menu-item>
+			<menu-item id="333003" struct="187105" struct-pid="187101" module="5" url-name="unterseite-2"
+			           url="/de/zimmer-preise/unterseite-2/" keywords="" page-title="" description="" target="0">
+				Unterseite 2
+			</menu-item>
+		</menu>
+		<menu id="333005" struct="187107" struct-pid="187099" module="5" url="/de/hotel-adler/" title="Hotel Adler"
+		      keywords="" page-title="" description="" target="0" level="unknown" state="start-level" l="0"
+		      ls="0"></menu>
+		<menu id="338761" struct="190669" struct-pid="187099" module="5" url="/de/restaurant/" title="Restaurant"
+		      keywords="" page-title="" description="" target="0" level="unknown" state="start-level" l="0"
+		      ls="0"></menu>
+		<menu id="338763" struct="190671" struct-pid="187099" module="5" url="/de/golf-aktivurlaub/"
+		      title="Golf &amp; Aktivurlaub" keywords="" page-title="" description="" target="0" level="unknown"
+		      state="start-level" l="0" ls="0"></menu>
+		<menu id="338765" struct="190673" struct-pid="187099" module="5" url="/de/wellness-gesundheit/"
+		      title="Wellness &amp; Gesundheit" keywords="" page-title="" description="" target="0" level="unknown"
+		      state="start-level" l="4" ls="4">
+			<menu-item id="338780" struct="190688" struct-pid="190673" module="5" url-name="demo"
+			           url="/de/wellness-gesundheit/demo/" keywords="" page-title="" description="" target="0">demo
+			</menu-item>
+		</menu>
+	</site:tree>
+	<site:content>
+		<site:content-item name="nav" id="20125">
+			<content:menu1 id="1468207" level="1" start="0" page-content-id="1468207" page-content-type="19"
+			               page-content-entail="1" page-content-order="0" page-content-group="0"
+			               page-content-changed-date="2022-12-09 08:40:47"></content:menu1>
+			<content:article1 id="1527083" xml="true" page-content-id="1527083" page-content-type="20"
+			                  page-content-entail="1" page-content-order="1" page-content-group="0"
+			                  page-content-changed-date="2023-05-10 14:38:44" cacheable="true">
+				<xml>
+					<ul>
+						<li>
+							<a href="/de/hotel-adler/">Hotel Adler</a>
+						</li>
+						<li>
+							<a href="/de/zimmer-preise/">Zimmer &amp; Preise</a>
+						</li>
+						<li>
+							<a href="/de/golf-aktivurlaub/">Golf &amp; Aktivurlaub</a>
+						</li>
+					</ul>
+				</xml>
+			</content:article1>
+		</site:content-item>
+		<site:content-item name="logo" id="20123">
+			<content:media-display id="1468209" type="" page-content-id="1468209" page-content-type="87"
+			                       page-content-entail="1" page-content-order="0" page-content-group="0"
+			                       page-content-changed-date="2023-05-09 07:01:47" cacheable="true">
+				<media_display>
+					<media_display_id>70547</media_display_id>
+					<media_display_customer>3396</media_display_customer>
+					<media_display_content>1468209</media_display_content>
+					<media_display_type>0</media_display_type>
+					<media_display_media>2676403</media_display_media>
+					<media_display_media_preview>2676405</media_display_media_preview>
+					<media_display_width>0</media_display_width>
+					<media_display_height>0</media_display_height>
+					<media_display_class></media_display_class>
+					<media_display_style></media_display_style>
+					<media_display_autoplay>0</media_display_autoplay>
+					<media_display_loop>0</media_display_loop>
+					<media_display_mute>0</media_display_mute>
+					<media_display_controls>1</media_display_controls>
+					<media_display_name></media_display_name>
+					<media_display_description></media_display_description>
+					<media_display_alt></media_display_alt>
+					<media_display_multilanguage>1</media_display_multilanguage>
+					<media_display_name_handle>9177344</media_display_name_handle>
+					<media_display_description_handle>9177345</media_display_description_handle>
+					<media_display_alt_handle>9177346</media_display_alt_handle>
+				</media_display>
+				<media>
+					<media_file_id>2676403</media_file_id>
+					<media_file_folder>79523</media_file_folder>
+					<media_file_customer>3396</media_file_customer>
+					<media_file_name>logo</media_file_name>
+					<media_file_copyright></media_file_copyright>
+					<media_file_description></media_file_description>
+					<media_file_alt>0</media_file_alt>
+					<media_file_type>svg</media_file_type>
+					<media_file_source>0</media_file_source>
+					<media_file_changed>2023-05-08 07:21:42</media_file_changed>
+					<media_file_mime>image/svg+xml</media_file_mime>
+					<media_file_size>23350</media_file_size>
+					<media_file_width>0</media_file_width>
+					<media_file_height>0</media_file_height>
+					<media_file_duration>0</media_file_duration>
+					<media_file_fps>0</media_file_fps>
+					<media_file_codec_audio></media_file_codec_audio>
+					<media_file_codec_video></media_file_codec_video>
+					<media_file_bandwidth>0</media_file_bandwidth>
+					<media_file_class>1</media_file_class>
+					<media_file_deleted>0000-00-00 00:00:00</media_file_deleted>
+					<media_file_alt_str></media_file_alt_str>
+				</media>
+				<media_url>/media/79523/logo-2676403.svg</media_url>
+				<media_preview>
+					<media_file_id>2676405</media_file_id>
+					<media_file_folder>79523</media_file_folder>
+					<media_file_customer>3396</media_file_customer>
+					<media_file_name>logo_small</media_file_name>
+					<media_file_copyright></media_file_copyright>
+					<media_file_description></media_file_description>
+					<media_file_alt>0</media_file_alt>
+					<media_file_type>svg</media_file_type>
+					<media_file_source>0</media_file_source>
+					<media_file_changed>2023-05-08 07:23:02</media_file_changed>
+					<media_file_mime>image/svg+xml</media_file_mime>
+					<media_file_size>10578</media_file_size>
+					<media_file_width>0</media_file_width>
+					<media_file_height>0</media_file_height>
+					<media_file_duration>0</media_file_duration>
+					<media_file_fps>0</media_file_fps>
+					<media_file_codec_audio></media_file_codec_audio>
+					<media_file_codec_video></media_file_codec_video>
+					<media_file_bandwidth>0</media_file_bandwidth>
+					<media_file_class>1</media_file_class>
+					<media_file_deleted>0000-00-00 00:00:00</media_file_deleted>
+					<media_file_alt_str></media_file_alt_str>
+				</media_preview>
+				<media_preview_url>/media/79523/logo-small-2676405.svg</media_preview_url>
+			</content:media-display>
+		</site:content-item>
+		<site:content-item name="tools" id="20127">
+			<content:article1 id="1468211" xml="true" page-content-id="1468211" page-content-type="20"
+			                  page-content-entail="1" page-content-order="0" page-content-group="0"
+			                  page-content-changed-date="2023-05-08 14:28:31" cacheable="true">
+				<xml>
+					<ul>
+						<li class="header-voucher">
+							<a href="#">Gutschein</a>
+						</li>
+						<li class="header-gallery">
+							<a href="/de/hotel-adler/">Impresionen</a>
+						</li>
+						<li class="header-tel">
+							<a href="tel:++49123451234512">+49 (0) 1234-1234</a>
+						</li>
+					</ul>
+				</xml>
+			</content:article1>
+			<content:menu1 id="1527082" level="1" start="0" page-content-id="1527082" page-content-type="19"
+			               page-content-entail="1" page-content-order="0" page-content-group="0"
+			               page-content-changed-date="2023-05-10 14:21:55"></content:menu1>
+		</site:content-item>
+		<site:content-item name="gallery" id="20129">
+			<content:gallery id="1468213" type="list" page-content-id="1468213" page-content-type="54"
+			                 page-content-entail="1" page-content-order="0" page-content-group="0"
+			                 page-content-changed-date="2023-05-09 10:47:10" cacheable="true">
+				<gallery>
+					<mcg_id>122103</mcg_id>
+					<mcg_content>1468213</mcg_content>
+					<mcg_name></mcg_name>
+					<mcg_subtitle></mcg_subtitle>
+					<mcg_media_folder>0</mcg_media_folder>
+					<mcg_list_cols>0</mcg_list_cols>
+					<mcg_list_rows>0</mcg_list_rows>
+					<mcg_list_height>0</mcg_list_height>
+					<mcg_list_width>0</mcg_list_width>
+					<mcg_detail_height>0</mcg_detail_height>
+					<mcg_detail_width>0</mcg_detail_width>
+					<mcg_slideshow>0</mcg_slideshow>
+					<mcg_slideshow_order>1</mcg_slideshow_order>
+					<mcg_slideshow_transition>0</mcg_slideshow_transition>
+					<mcg_slideshow_easing>0</mcg_slideshow_easing>
+					<mcg_slideshow_time>1</mcg_slideshow_time>
+					<mcg_slideshow_time_pause>5</mcg_slideshow_time_pause>
+					<mcg_download>0</mcg_download>
+					<mcg_lightbox>1</mcg_lightbox>
+					<mcg_download_sizes>0</mcg_download_sizes>
+					<mcg_start_view>1</mcg_start_view>
+					<mcg_watermark_thumb_image>0</mcg_watermark_thumb_image>
+					<mcg_watermark_thumb_pos>0</mcg_watermark_thumb_pos>
+					<mcg_watermark_detail_image>0</mcg_watermark_detail_image>
+					<mcg_watermark_detail_pos>0</mcg_watermark_detail_pos>
+					<mcg_html_text>1</mcg_html_text>
+					<mcg_nuke_contents>1</mcg_nuke_contents>
+					<mcg_multilanguage>1</mcg_multilanguage>
+					<mcg_name_handle>7962637</mcg_name_handle>
+					<mcg_subtitle_handle>7962639</mcg_subtitle_handle>
+				</gallery>
+				<gallery-items>
+					<int-0>
+						<mcgi_gallery>122103</mcgi_gallery>
+						<mcgi_media>2676359</mcgi_media>
+						<mcgi_name>Schissdreck</mcgi_name>
+						<mcgi_text xml="true">
+							<xml>
+								<a href="/de/hotel-adler/">Hotel Adler</a>
+							</xml>
+						</mcgi_text>
+						<mcgi_alt></mcgi_alt>
+						<mcgi_order>1</mcgi_order>
+						<mcgi_show>1</mcgi_show>
+						<media_file_id>2676359</media_file_id>
+						<media_file_folder>79521</media_file_folder>
+						<media_file_customer>3396</media_file_customer>
+						<media_file_name>img_8130-kopie</media_file_name>
+						<media_file_copyright></media_file_copyright>
+						<media_file_description></media_file_description>
+						<media_file_alt>0</media_file_alt>
+						<media_file_type>jpg</media_file_type>
+						<media_file_source>0</media_file_source>
+						<media_file_changed>2023-05-08 06:55:52</media_file_changed>
+						<media_file_mime>image/jpeg</media_file_mime>
+						<media_file_size>798253</media_file_size>
+						<media_file_width>4368</media_file_width>
+						<media_file_height>3055</media_file_height>
+						<media_file_duration>0</media_file_duration>
+						<media_file_fps>0</media_file_fps>
+						<media_file_codec_audio></media_file_codec_audio>
+						<media_file_codec_video></media_file_codec_video>
+						<media_file_bandwidth>0</media_file_bandwidth>
+						<media_file_class>1</media_file_class>
+						<media_file_deleted>0000-00-00 00:00:00</media_file_deleted>
+						<media_file_alt_str></media_file_alt_str>
+						<mcgi_name_handle>9177377</mcgi_name_handle>
+						<mcgi_text_handle>9177378</mcgi_text_handle>
+						<mcgi_alt_handle>9177379</mcgi_alt_handle>
+						<pois></pois>
+					</int-0>
+					<int-1>
+						<mcgi_gallery>122103</mcgi_gallery>
+						<mcgi_media>2676395</mcgi_media>
+						<mcgi_name></mcgi_name>
+						<mcgi_text xml="true">
+							<xml>
+								<a href="/de/zimmer-preise/">Zimmer &amp; Preise</a>
+							</xml>
+						</mcgi_text>
+						<mcgi_alt></mcgi_alt>
+						<mcgi_order>5</mcgi_order>
+						<mcgi_show>1</mcgi_show>
+						<media_file_id>2676395</media_file_id>
+						<media_file_folder>79521</media_file_folder>
+						<media_file_customer>3396</media_file_customer>
+						<media_file_name>hotel_adler-239</media_file_name>
+						<media_file_copyright></media_file_copyright>
+						<media_file_description></media_file_description>
+						<media_file_alt>0</media_file_alt>
+						<media_file_type>jpg</media_file_type>
+						<media_file_source>0</media_file_source>
+						<media_file_changed>2023-05-08 06:55:53</media_file_changed>
+						<media_file_mime>image/jpeg</media_file_mime>
+						<media_file_size>621217</media_file_size>
+						<media_file_width>4899</media_file_width>
+						<media_file_height>3266</media_file_height>
+						<media_file_duration>0</media_file_duration>
+						<media_file_fps>0</media_file_fps>
+						<media_file_codec_audio></media_file_codec_audio>
+						<media_file_codec_video></media_file_codec_video>
+						<media_file_bandwidth>0</media_file_bandwidth>
+						<media_file_class>1</media_file_class>
+						<media_file_deleted>0000-00-00 00:00:00</media_file_deleted>
+						<media_file_alt_str></media_file_alt_str>
+						<mcgi_name_handle>9177380</mcgi_name_handle>
+						<mcgi_text_handle>9177381</mcgi_text_handle>
+						<mcgi_alt_handle>9177382</mcgi_alt_handle>
+						<pois></pois>
+					</int-1>
+					<int-2>
+						<mcgi_gallery>122103</mcgi_gallery>
+						<mcgi_media>2676415</mcgi_media>
+						<mcgi_name></mcgi_name>
+						<mcgi_text xml="true">
+							<xml>
+								<a href="/de/restaurant/">Restaurant</a>
+							</xml>
+						</mcgi_text>
+						<mcgi_alt></mcgi_alt>
+						<mcgi_order>9</mcgi_order>
+						<mcgi_show>1</mcgi_show>
+						<media_file_id>2676415</media_file_id>
+						<media_file_folder>79527</media_file_folder>
+						<media_file_customer>3396</media_file_customer>
+						<media_file_name>img_8067</media_file_name>
+						<media_file_copyright></media_file_copyright>
+						<media_file_description></media_file_description>
+						<media_file_alt>0</media_file_alt>
+						<media_file_type>jpg</media_file_type>
+						<media_file_source>0</media_file_source>
+						<media_file_changed>2023-05-08 07:28:56</media_file_changed>
+						<media_file_mime>image/jpeg</media_file_mime>
+						<media_file_size>524474</media_file_size>
+						<media_file_width>4368</media_file_width>
+						<media_file_height>2912</media_file_height>
+						<media_file_duration>0</media_file_duration>
+						<media_file_fps>0</media_file_fps>
+						<media_file_codec_audio></media_file_codec_audio>
+						<media_file_codec_video></media_file_codec_video>
+						<media_file_bandwidth>0</media_file_bandwidth>
+						<media_file_class>1</media_file_class>
+						<media_file_deleted>0000-00-00 00:00:00</media_file_deleted>
+						<media_file_alt_str></media_file_alt_str>
+						<mcgi_name_handle>9177383</mcgi_name_handle>
+						<mcgi_text_handle>9177384</mcgi_text_handle>
+						<mcgi_alt_handle>9177385</mcgi_alt_handle>
+						<pois></pois>
+					</int-2>
+					<int-3>
+						<mcgi_gallery>122103</mcgi_gallery>
+						<mcgi_media>2676383</mcgi_media>
+						<mcgi_name></mcgi_name>
+						<mcgi_text xml="true">
+							<xml>
+								<a href="/de/golf-aktivurlaub/">Golf &amp; Aktivurlaub</a>
+							</xml>
+						</mcgi_text>
+						<mcgi_alt></mcgi_alt>
+						<mcgi_order>13</mcgi_order>
+						<mcgi_show>1</mcgi_show>
+						<media_file_id>2676383</media_file_id>
+						<media_file_folder>79521</media_file_folder>
+						<media_file_customer>3396</media_file_customer>
+						<media_file_name>img_7405</media_file_name>
+						<media_file_copyright></media_file_copyright>
+						<media_file_description></media_file_description>
+						<media_file_alt>0</media_file_alt>
+						<media_file_type>jpg</media_file_type>
+						<media_file_source>0</media_file_source>
+						<media_file_changed>2023-05-08 06:55:52</media_file_changed>
+						<media_file_mime>image/jpeg</media_file_mime>
+						<media_file_size>1011892</media_file_size>
+						<media_file_width>3880</media_file_width>
+						<media_file_height>2912</media_file_height>
+						<media_file_duration>0</media_file_duration>
+						<media_file_fps>0</media_file_fps>
+						<media_file_codec_audio></media_file_codec_audio>
+						<media_file_codec_video></media_file_codec_video>
+						<media_file_bandwidth>0</media_file_bandwidth>
+						<media_file_class>1</media_file_class>
+						<media_file_deleted>0000-00-00 00:00:00</media_file_deleted>
+						<media_file_alt_str></media_file_alt_str>
+						<mcgi_name_handle>9177386</mcgi_name_handle>
+						<mcgi_text_handle>9177387</mcgi_text_handle>
+						<mcgi_alt_handle>9177388</mcgi_alt_handle>
+						<pois></pois>
+					</int-3>
+					<int-4>
+						<mcgi_gallery>122103</mcgi_gallery>
+						<mcgi_media>2676373</mcgi_media>
+						<mcgi_name></mcgi_name>
+						<mcgi_text xml="true">
+							<xml>
+								<a href="/de/wellness-gesundheit/">Wellness &amp; Gesundheit</a>
+							</xml>
+						</mcgi_text>
+						<mcgi_alt></mcgi_alt>
+						<mcgi_order>17</mcgi_order>
+						<mcgi_show>1</mcgi_show>
+						<media_file_id>2676373</media_file_id>
+						<media_file_folder>79521</media_file_folder>
+						<media_file_customer>3396</media_file_customer>
+						<media_file_name>http-imgoastaticcom-img-424767989667212794</media_file_name>
+						<media_file_copyright></media_file_copyright>
+						<media_file_description></media_file_description>
+						<media_file_alt>0</media_file_alt>
+						<media_file_type>jpg</media_file_type>
+						<media_file_source>0</media_file_source>
+						<media_file_changed>2023-05-08 06:55:52</media_file_changed>
+						<media_file_mime>image/jpeg</media_file_mime>
+						<media_file_size>167582</media_file_size>
+						<media_file_width>1024</media_file_width>
+						<media_file_height>678</media_file_height>
+						<media_file_duration>0</media_file_duration>
+						<media_file_fps>0</media_file_fps>
+						<media_file_codec_audio></media_file_codec_audio>
+						<media_file_codec_video></media_file_codec_video>
+						<media_file_bandwidth>0</media_file_bandwidth>
+						<media_file_class>1</media_file_class>
+						<media_file_deleted>0000-00-00 00:00:00</media_file_deleted>
+						<media_file_alt_str></media_file_alt_str>
+						<mcgi_name_handle>9177389</mcgi_name_handle>
+						<mcgi_text_handle>9177390</mcgi_text_handle>
+						<mcgi_alt_handle>9177391</mcgi_alt_handle>
+						<pois></pois>
+					</int-4>
+				</gallery-items>
+				<options></options>
+				<gallery-strings>
+					<string name="diashow">Diashow</string>
+					<string name="diashow.start">Diashow starten</string>
+					<string name="remember">Merken</string>
+					<string name="nav.back">zur&#x00fc;ck</string>
+					<string name="nav.next">weiter</string>
+					<string name="remember.pictures">Gemerkte Bilder</string>
+					<string name="remember.send">an Freunde versenden</string>
+					<string name="remember.print">drucken</string>
+					<string name="remember.download.all">Alle Bilder herunterladen</string>
+					<string name="remember.delete">löschen</string>
+					<string name="remember.res.low">niedrig</string>
+					<string name="remember.res.high">hoch</string>
+					<string name="remember.original">orginal</string>
+					<string name="remember.noimage">Es sind keine Bilder ausgewählt</string>
+					<string name="download">herunterladen</string>
+					<string name="pictures.recommended">Empfohlene Bilder</string>
+				</gallery-strings>
+			</content:gallery>
+		</site:content-item>
+		<site:content-item name="gallery-poi" id="20427">
+			<content:media-display id="1526949" type="" page-content-id="1526949" page-content-type="87"
+			                       page-content-entail="0" page-content-order="0" page-content-group="0"
+			                       page-content-changed-date="2023-05-09 12:08:10" cacheable="true">
+				<media_display>
+					<media_display_id>76365</media_display_id>
+					<media_display_customer>3396</media_display_customer>
+					<media_display_content>1526949</media_display_content>
+					<media_display_type>0</media_display_type>
+					<media_display_media>2676405</media_display_media>
+					<media_display_media_preview>0</media_display_media_preview>
+					<media_display_width>0</media_display_width>
+					<media_display_height>0</media_display_height>
+					<media_display_class></media_display_class>
+					<media_display_style></media_display_style>
+					<media_display_autoplay>0</media_display_autoplay>
+					<media_display_loop>0</media_display_loop>
+					<media_display_mute>0</media_display_mute>
+					<media_display_controls>1</media_display_controls>
+					<media_display_name></media_display_name>
+					<media_display_description>&lt;a href=&quot;/de/zimmer-preise/unterseite-1/&quot;&gt;Traditionell,
+						Charmant &amp;amp; unvergesslich Daheim in Oberstaufen&lt;/a&gt;
+					</media_display_description>
+					<media_display_alt></media_display_alt>
+					<media_display_multilanguage>1</media_display_multilanguage>
+					<media_display_name_handle>9174135</media_display_name_handle>
+					<media_display_description_handle>9174137</media_display_description_handle>
+					<media_display_alt_handle>9174139</media_display_alt_handle>
+					<media_display_description_xml xml="true">
+						<xml>
+							<a href="/de/zimmer-preise/unterseite-1/">Traditionell, Charmant &amp; unvergesslich Daheim
+								in Oberstaufen
+							</a>
+						</xml>
+					</media_display_description_xml>
+				</media_display>
+				<media>
+					<media_file_id>2676405</media_file_id>
+					<media_file_folder>79523</media_file_folder>
+					<media_file_customer>3396</media_file_customer>
+					<media_file_name>logo_small</media_file_name>
+					<media_file_copyright></media_file_copyright>
+					<media_file_description></media_file_description>
+					<media_file_alt>0</media_file_alt>
+					<media_file_type>svg</media_file_type>
+					<media_file_source>0</media_file_source>
+					<media_file_changed>2023-05-08 07:23:02</media_file_changed>
+					<media_file_mime>image/svg+xml</media_file_mime>
+					<media_file_size>10578</media_file_size>
+					<media_file_width>0</media_file_width>
+					<media_file_height>0</media_file_height>
+					<media_file_duration>0</media_file_duration>
+					<media_file_fps>0</media_file_fps>
+					<media_file_codec_audio></media_file_codec_audio>
+					<media_file_codec_video></media_file_codec_video>
+					<media_file_bandwidth>0</media_file_bandwidth>
+					<media_file_class>1</media_file_class>
+					<media_file_deleted>0000-00-00 00:00:00</media_file_deleted>
+					<media_file_alt_str></media_file_alt_str>
+				</media>
+				<media_url>/media/79523/logo-small-2676405.svg</media_url>
+			</content:media-display>
+		</site:content-item>
+		<site:content-item name="widget" id="20131">
+			<content:article1 id="1526957" xml="true" page-content-id="1526957" page-content-type="20"
+			                  page-content-entail="1" page-content-order="0" page-content-group="0"
+			                  page-content-changed-date="2023-05-10 14:44:42" cacheable="true">
+				<xml>
+					<ol>
+						<li class="header-tabel">
+							<a href="#]">
+								<strong>Tisch</strong>
+								reservieren
+							</a>
+						</li>
+						<li class="header-request">
+							<a href="#">
+								<strong>Zimmer</strong>
+								Anfragen
+							</a>
+						</li>
+						<li class="header-booking">
+							<a href="https://onepagebooking.com/restadler" target="_blank">
+								<strong>Zimmer</strong>
+								Buchen
+							</a>
+						</li>
+					</ol>
+				</xml>
+			</content:article1>
+		</site:content-item>
+		<site:content-item name="content" id="20135">
+			<content:article1 id="1527084" xml="true" page-content-id="1527084" page-content-type="20"
+			                  page-content-entail="0" page-content-order="10" page-content-group="0"
+			                  page-content-changed-date="2023-05-25 12:50:49" attr-display="max1200" cacheable="true">
+				<xml>
+					<p>KreativitÃ¤t und die Liebe zum Detail begleiten Sie auf Schritt und Tritt. Der persÃ¶nliche <a
+							href="#">Normalzustand
+					</a> GÃ¤sten, Herzlichkeit und Freundlichkeit sowie die Liebe zum
+						<em>
+							<a href="#">Hoverzustand</a>
+						</em>
+						Gastgeber sind die GrundsÃ¤tze unseres Hauses. Wir sind ein persÃ¶nlich gefÃ¼hrtes Haus, das
+						seine GÃ¤ste noch beim Namen kennt und individuell auf deren BedÃ¼rfnisse eingehen kann!
+					</p>
+					<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt
+						ut labore et dolore magna aliquyam erat, sed diam voluptua.
+						<br/>
+						<br/>
+					</p>
+					<ul class="cta-list">
+						<li>
+							<a class="cta" href="#">CTA Marine</a>
+						</li>
+						<li>
+							<a class="cta-secondary" href="#">CTA Gold</a>
+						</li>
+						<li>
+							<a class="cta" href="#">CTA Marine</a>
+						</li>
+						<li>
+							<a class="cta-secondary" href="#">CTA Gold</a>
+						</li>
+						<li>
+							<a class="cta" href="#">CTA Marine</a>
+						</li>
+						<li>
+							<a class="cta-secondary" href="#">CTA Gold</a>
+						</li>
+					</ul>
+				</xml>
+			</content:article1>
+			<content:group id="1526963" page-content-id="1526963" page-content-type="109" page-content-entail="0"
+			               page-content-order="20" page-content-group="0"
+			               page-content-changed-date="2023-05-12 11:34:40" attr-layout="spalten"
+			               attr-display="adler-group">
+				<members>
+					<content:article1 id="1526965" xml="true" page-content-id="1526965" page-content-type="20"
+					                  page-content-entail="0" page-content-order="0" page-content-group="1526963"
+					                  page-content-changed-date="2023-05-10 15:13:14" cacheable="true">
+						<xml>
+							<h1>Das 4-Sterne Hotel in Oberstaufen</h1>
+							<h2>HOTEL ADLER IN OBERSTAUFEN</h2>
+						</xml>
+					</content:article1>
+					<content:group id="1527091" page-content-id="1527091" page-content-type="109"
+					               page-content-entail="0" page-content-order="0" page-content-group="1526963"
+					               page-content-changed-date="2023-05-12 09:22:35" attr-layout="blockquotes"
+					               attr-notiz="Zitate">
+						<members>
+							<content:article1 id="1527092" xml="true" page-content-id="1527092" page-content-type="20"
+							                  page-content-entail="0" page-content-order="0"
+							                  page-content-group="1527091"
+							                  page-content-changed-date="2023-05-12 11:39:37" cacheable="true">
+								<xml>
+									<p>An das Schaukeln hatten wir uns schnell gewöhnt. Das Haus hat alles was man
+										braucht. Wir haben uns rundum wohl gefühlt.
+									</p>
+									<p>
+										<em>
+											<strong>Jana</strong>
+											(April 2019)
+										</em>
+									</p>
+								</xml>
+							</content:article1>
+							<content:article1 id="1527093" xml="true" page-content-id="1527093" page-content-type="20"
+							                  page-content-entail="0" page-content-order="0"
+							                  page-content-group="1527091"
+							                  page-content-changed-date="2023-05-12 10:13:52" cacheable="true">
+								<xml>
+									<p>An das Schaukeln hatten wir uns schnell gewöhnt. Das Haus hat alles was man
+										braucht. Wir haben uns rundum wohl gefühlt.
+									</p>
+									<p>
+										<em>Jana (April 2019)</em>
+									</p>
+								</xml>
+							</content:article1>
+							<content:article1 id="1527094" xml="true" page-content-id="1527094" page-content-type="20"
+							                  page-content-entail="0" page-content-order="0"
+							                  page-content-group="1527091"
+							                  page-content-changed-date="2023-05-12 09:22:33" cacheable="true">
+								<xml>Man wirkt hier und da aus dem Zusammenhang gerissen. Oft wird man gar nicht erst
+									gelesen.
+								</xml>
+							</content:article1>
+						</members>
+					</content:group>
+				</members>
+			</content:group>
+			<content:gallery id="1526969" type="list" page-content-id="1526969" page-content-type="54"
+			                 page-content-entail="0" page-content-order="30" page-content-group="0"
+			                 page-content-changed-date="2023-05-12 07:10:57" attr-layout="mosaic" cacheable="true">
+				<gallery>
+					<mcg_id>127181</mcg_id>
+					<mcg_content>1526969</mcg_content>
+					<mcg_name></mcg_name>
+					<mcg_subtitle></mcg_subtitle>
+					<mcg_media_folder>0</mcg_media_folder>
+					<mcg_list_cols>0</mcg_list_cols>
+					<mcg_list_rows>0</mcg_list_rows>
+					<mcg_list_height>0</mcg_list_height>
+					<mcg_list_width>0</mcg_list_width>
+					<mcg_detail_height>0</mcg_detail_height>
+					<mcg_detail_width>0</mcg_detail_width>
+					<mcg_slideshow>0</mcg_slideshow>
+					<mcg_slideshow_order>1</mcg_slideshow_order>
+					<mcg_slideshow_transition>0</mcg_slideshow_transition>
+					<mcg_slideshow_easing>0</mcg_slideshow_easing>
+					<mcg_slideshow_time>1</mcg_slideshow_time>
+					<mcg_slideshow_time_pause>5</mcg_slideshow_time_pause>
+					<mcg_download>0</mcg_download>
+					<mcg_lightbox>0</mcg_lightbox>
+					<mcg_download_sizes>0</mcg_download_sizes>
+					<mcg_start_view>1</mcg_start_view>
+					<mcg_watermark_thumb_image>0</mcg_watermark_thumb_image>
+					<mcg_watermark_thumb_pos>0</mcg_watermark_thumb_pos>
+					<mcg_watermark_detail_image>0</mcg_watermark_detail_image>
+					<mcg_watermark_detail_pos>0</mcg_watermark_detail_pos>
+					<mcg_html_text>1</mcg_html_text>
+					<mcg_nuke_contents>1</mcg_nuke_contents>
+					<mcg_multilanguage>1</mcg_multilanguage>
+					<mcg_name_handle>9175445</mcg_name_handle>
+					<mcg_subtitle_handle>9175447</mcg_subtitle_handle>
+				</gallery>
+				<gallery-items>
+					<int-0>
+						<mcgi_gallery>127181</mcgi_gallery>
+						<mcgi_media>2676395</mcgi_media>
+						<mcgi_name></mcgi_name>
+						<mcgi_text xml="true">
+							<xml>
+								<a href="/de/zimmer-preise/">Zimmer &amp; Preise</a>
+								<p>Träume wie Zuhause</p>
+							</xml>
+						</mcgi_text>
+						<mcgi_alt></mcgi_alt>
+						<mcgi_order>1</mcgi_order>
+						<mcgi_show>1</mcgi_show>
+						<media_file_id>2676395</media_file_id>
+						<media_file_folder>79521</media_file_folder>
+						<media_file_customer>3396</media_file_customer>
+						<media_file_name>hotel_adler-239</media_file_name>
+						<media_file_copyright></media_file_copyright>
+						<media_file_description></media_file_description>
+						<media_file_alt>0</media_file_alt>
+						<media_file_type>jpg</media_file_type>
+						<media_file_source>0</media_file_source>
+						<media_file_changed>2023-05-08 06:55:53</media_file_changed>
+						<media_file_mime>image/jpeg</media_file_mime>
+						<media_file_size>621217</media_file_size>
+						<media_file_width>4899</media_file_width>
+						<media_file_height>3266</media_file_height>
+						<media_file_duration>0</media_file_duration>
+						<media_file_fps>0</media_file_fps>
+						<media_file_codec_audio></media_file_codec_audio>
+						<media_file_codec_video></media_file_codec_video>
+						<media_file_bandwidth>0</media_file_bandwidth>
+						<media_file_class>1</media_file_class>
+						<media_file_deleted>0000-00-00 00:00:00</media_file_deleted>
+						<media_file_alt_str></media_file_alt_str>
+						<mcgi_name_handle>9177473</mcgi_name_handle>
+						<mcgi_text_handle>9177474</mcgi_text_handle>
+						<mcgi_alt_handle>9177475</mcgi_alt_handle>
+						<pois></pois>
+					</int-0>
+					<int-1>
+						<mcgi_gallery>127181</mcgi_gallery>
+						<mcgi_media>2676387</mcgi_media>
+						<mcgi_name></mcgi_name>
+						<mcgi_text xml="true">
+							<xml>
+								<h2>erewerwerewrewr</h2>
+								<p>Tradition erleben</p>
+							</xml>
+						</mcgi_text>
+						<mcgi_alt></mcgi_alt>
+						<mcgi_order>15</mcgi_order>
+						<mcgi_show>1</mcgi_show>
+						<media_file_id>2676387</media_file_id>
+						<media_file_folder>79521</media_file_folder>
+						<media_file_customer>3396</media_file_customer>
+						<media_file_name>hotel_adler-228</media_file_name>
+						<media_file_copyright></media_file_copyright>
+						<media_file_description></media_file_description>
+						<media_file_alt>0</media_file_alt>
+						<media_file_type>jpg</media_file_type>
+						<media_file_source>0</media_file_source>
+						<media_file_changed>2023-05-08 06:55:52</media_file_changed>
+						<media_file_mime>image/jpeg</media_file_mime>
+						<media_file_size>2070746</media_file_size>
+						<media_file_width>4825</media_file_width>
+						<media_file_height>3217</media_file_height>
+						<media_file_duration>0</media_file_duration>
+						<media_file_fps>0</media_file_fps>
+						<media_file_codec_audio></media_file_codec_audio>
+						<media_file_codec_video></media_file_codec_video>
+						<media_file_bandwidth>0</media_file_bandwidth>
+						<media_file_class>1</media_file_class>
+						<media_file_deleted>0000-00-00 00:00:00</media_file_deleted>
+						<media_file_alt_str></media_file_alt_str>
+						<mcgi_name_handle>9177476</mcgi_name_handle>
+						<mcgi_text_handle>9177477</mcgi_text_handle>
+						<mcgi_alt_handle>9177478</mcgi_alt_handle>
+						<pois></pois>
+					</int-1>
+					<int-2>
+						<mcgi_gallery>127181</mcgi_gallery>
+						<mcgi_media>2676669</mcgi_media>
+						<mcgi_name></mcgi_name>
+						<mcgi_text xml="true">
+							<xml>
+								<p>
+									<a href="/de/wellness-gesundheit/">Wellness &amp; Gesundheit</a>
+								</p>
+								<p>Verwöhnung pur</p>
+							</xml>
+						</mcgi_text>
+						<mcgi_alt></mcgi_alt>
+						<mcgi_order>22</mcgi_order>
+						<mcgi_show>1</mcgi_show>
+						<media_file_id>2676669</media_file_id>
+						<media_file_folder>79547</media_file_folder>
+						<media_file_customer>3396</media_file_customer>
+						<media_file_name>hoteladler--web</media_file_name>
+						<media_file_copyright></media_file_copyright>
+						<media_file_description></media_file_description>
+						<media_file_alt>0</media_file_alt>
+						<media_file_type>jpg</media_file_type>
+						<media_file_source>0</media_file_source>
+						<media_file_changed>2023-05-08 08:40:46</media_file_changed>
+						<media_file_mime>image/jpeg</media_file_mime>
+						<media_file_size>247558</media_file_size>
+						<media_file_width>1600</media_file_width>
+						<media_file_height>1200</media_file_height>
+						<media_file_duration>0</media_file_duration>
+						<media_file_fps>0</media_file_fps>
+						<media_file_codec_audio></media_file_codec_audio>
+						<media_file_codec_video></media_file_codec_video>
+						<media_file_bandwidth>0</media_file_bandwidth>
+						<media_file_class>1</media_file_class>
+						<media_file_deleted>0000-00-00 00:00:00</media_file_deleted>
+						<media_file_alt_str></media_file_alt_str>
+						<mcgi_name_handle>9177479</mcgi_name_handle>
+						<mcgi_text_handle>9177480</mcgi_text_handle>
+						<mcgi_alt_handle>9177481</mcgi_alt_handle>
+						<pois></pois>
+					</int-2>
+					<int-3>
+						<mcgi_gallery>127181</mcgi_gallery>
+						<mcgi_media>2676405</mcgi_media>
+						<mcgi_name></mcgi_name>
+						<mcgi_text xml="true">
+							<xml>
+								<p>
+									<a href="/de/golf-aktivurlaub/">Golf Plus</a>
+								</p>
+								<p>Neues entdecken</p>
+							</xml>
+						</mcgi_text>
+						<mcgi_alt></mcgi_alt>
+						<mcgi_order>29</mcgi_order>
+						<mcgi_show>1</mcgi_show>
+						<media_file_id>2676405</media_file_id>
+						<media_file_folder>79523</media_file_folder>
+						<media_file_customer>3396</media_file_customer>
+						<media_file_name>logo_small</media_file_name>
+						<media_file_copyright></media_file_copyright>
+						<media_file_description></media_file_description>
+						<media_file_alt>0</media_file_alt>
+						<media_file_type>svg</media_file_type>
+						<media_file_source>0</media_file_source>
+						<media_file_changed>2023-05-08 07:23:02</media_file_changed>
+						<media_file_mime>image/svg+xml</media_file_mime>
+						<media_file_size>10578</media_file_size>
+						<media_file_width>0</media_file_width>
+						<media_file_height>0</media_file_height>
+						<media_file_duration>0</media_file_duration>
+						<media_file_fps>0</media_file_fps>
+						<media_file_codec_audio></media_file_codec_audio>
+						<media_file_codec_video></media_file_codec_video>
+						<media_file_bandwidth>0</media_file_bandwidth>
+						<media_file_class>1</media_file_class>
+						<media_file_deleted>0000-00-00 00:00:00</media_file_deleted>
+						<media_file_alt_str></media_file_alt_str>
+						<mcgi_name_handle>9177482</mcgi_name_handle>
+						<mcgi_text_handle>9177483</mcgi_text_handle>
+						<mcgi_alt_handle>9177484</mcgi_alt_handle>
+						<pois></pois>
+					</int-3>
+					<int-4>
+						<mcgi_gallery>127181</mcgi_gallery>
+						<mcgi_media>2676431</mcgi_media>
+						<mcgi_name></mcgi_name>
+						<mcgi_text xml="true">
+							<xml>
+								<p>
+									<a href="/de/restaurant/">Restaurant</a>
+								</p>
+								<p>Genuss in Oberstaufen</p>
+							</xml>
+						</mcgi_text>
+						<mcgi_alt></mcgi_alt>
+						<mcgi_order>36</mcgi_order>
+						<mcgi_show>1</mcgi_show>
+						<media_file_id>2676431</media_file_id>
+						<media_file_folder>79527</media_file_folder>
+						<media_file_customer>3396</media_file_customer>
+						<media_file_name>img_7623</media_file_name>
+						<media_file_copyright></media_file_copyright>
+						<media_file_description></media_file_description>
+						<media_file_alt>0</media_file_alt>
+						<media_file_type>jpg</media_file_type>
+						<media_file_source>0</media_file_source>
+						<media_file_changed>2023-05-08 07:28:57</media_file_changed>
+						<media_file_mime>image/jpeg</media_file_mime>
+						<media_file_size>605781</media_file_size>
+						<media_file_width>4368</media_file_width>
+						<media_file_height>2912</media_file_height>
+						<media_file_duration>0</media_file_duration>
+						<media_file_fps>0</media_file_fps>
+						<media_file_codec_audio></media_file_codec_audio>
+						<media_file_codec_video></media_file_codec_video>
+						<media_file_bandwidth>0</media_file_bandwidth>
+						<media_file_class>1</media_file_class>
+						<media_file_deleted>0000-00-00 00:00:00</media_file_deleted>
+						<media_file_alt_str></media_file_alt_str>
+						<mcgi_name_handle>9177485</mcgi_name_handle>
+						<mcgi_text_handle>9177486</mcgi_text_handle>
+						<mcgi_alt_handle>9177487</mcgi_alt_handle>
+						<pois></pois>
+					</int-4>
+					<int-5>
+						<mcgi_gallery>127181</mcgi_gallery>
+						<mcgi_media>2676759</mcgi_media>
+						<mcgi_name></mcgi_name>
+						<mcgi_text xml="true">
+							<xml>
+								<p>
+									<a href="/de/golf-aktivurlaub/">Golf &amp; Aktivurlaub</a>
+								</p>
+								<p>Akitv in Oberstaufen</p>
+							</xml>
+						</mcgi_text>
+						<mcgi_alt></mcgi_alt>
+						<mcgi_order>43</mcgi_order>
+						<mcgi_show>1</mcgi_show>
+						<media_file_id>2676759</media_file_id>
+						<media_file_folder>79553</media_file_folder>
+						<media_file_customer>3396</media_file_customer>
+						<media_file_name>golf</media_file_name>
+						<media_file_copyright></media_file_copyright>
+						<media_file_description></media_file_description>
+						<media_file_alt>0</media_file_alt>
+						<media_file_type>jpg</media_file_type>
+						<media_file_source>0</media_file_source>
+						<media_file_changed>2023-05-08 08:41:23</media_file_changed>
+						<media_file_mime>image/jpeg</media_file_mime>
+						<media_file_size>279884</media_file_size>
+						<media_file_width>1400</media_file_width>
+						<media_file_height>931</media_file_height>
+						<media_file_duration>0</media_file_duration>
+						<media_file_fps>0</media_file_fps>
+						<media_file_codec_audio></media_file_codec_audio>
+						<media_file_codec_video></media_file_codec_video>
+						<media_file_bandwidth>0</media_file_bandwidth>
+						<media_file_class>1</media_file_class>
+						<media_file_deleted>0000-00-00 00:00:00</media_file_deleted>
+						<media_file_alt_str></media_file_alt_str>
+						<mcgi_name_handle>9177488</mcgi_name_handle>
+						<mcgi_text_handle>9177489</mcgi_text_handle>
+						<mcgi_alt_handle>9177490</mcgi_alt_handle>
+						<pois></pois>
+					</int-5>
+				</gallery-items>
+				<options></options>
+				<gallery-strings>
+					<string name="diashow">Diashow</string>
+					<string name="diashow.start">Diashow starten</string>
+					<string name="remember">Merken</string>
+					<string name="nav.back">zur&#x00fc;ck</string>
+					<string name="nav.next">weiter</string>
+					<string name="remember.pictures">Gemerkte Bilder</string>
+					<string name="remember.send">an Freunde versenden</string>
+					<string name="remember.print">drucken</string>
+					<string name="remember.download.all">Alle Bilder herunterladen</string>
+					<string name="remember.delete">löschen</string>
+					<string name="remember.res.low">niedrig</string>
+					<string name="remember.res.high">hoch</string>
+					<string name="remember.original">orginal</string>
+					<string name="remember.noimage">Es sind keine Bilder ausgewählt</string>
+					<string name="download">herunterladen</string>
+					<string name="pictures.recommended">Empfohlene Bilder</string>
+				</gallery-strings>
+			</content:gallery>
+			<content:gallery id="1527085" type="list" page-content-id="1527085" page-content-type="54"
+			                 page-content-entail="0" page-content-order="31" page-content-group="0"
+			                 page-content-changed-date="2023-05-25 12:47:24" attr-layout="three-gallery"
+			                 attr-display="max1200" cacheable="true">
+				<gallery>
+					<mcg_id>127194</mcg_id>
+					<mcg_content>1527085</mcg_content>
+					<mcg_name></mcg_name>
+					<mcg_subtitle></mcg_subtitle>
+					<mcg_media_folder>0</mcg_media_folder>
+					<mcg_list_cols>0</mcg_list_cols>
+					<mcg_list_rows>0</mcg_list_rows>
+					<mcg_list_height>0</mcg_list_height>
+					<mcg_list_width>0</mcg_list_width>
+					<mcg_detail_height>0</mcg_detail_height>
+					<mcg_detail_width>0</mcg_detail_width>
+					<mcg_slideshow>0</mcg_slideshow>
+					<mcg_slideshow_order>1</mcg_slideshow_order>
+					<mcg_slideshow_transition>0</mcg_slideshow_transition>
+					<mcg_slideshow_easing>0</mcg_slideshow_easing>
+					<mcg_slideshow_time>1</mcg_slideshow_time>
+					<mcg_slideshow_time_pause>5</mcg_slideshow_time_pause>
+					<mcg_download>0</mcg_download>
+					<mcg_lightbox>0</mcg_lightbox>
+					<mcg_download_sizes>0</mcg_download_sizes>
+					<mcg_start_view>1</mcg_start_view>
+					<mcg_watermark_thumb_image>0</mcg_watermark_thumb_image>
+					<mcg_watermark_thumb_pos>0</mcg_watermark_thumb_pos>
+					<mcg_watermark_detail_image>0</mcg_watermark_detail_image>
+					<mcg_watermark_detail_pos>0</mcg_watermark_detail_pos>
+					<mcg_html_text>1</mcg_html_text>
+					<mcg_nuke_contents>1</mcg_nuke_contents>
+					<mcg_multilanguage>1</mcg_multilanguage>
+					<mcg_name_handle>9177432</mcg_name_handle>
+					<mcg_subtitle_handle>9177433</mcg_subtitle_handle>
+				</gallery>
+				<gallery-items>
+					<int-0>
+						<mcgi_gallery>127194</mcgi_gallery>
+						<mcgi_media>2676739</mcgi_media>
+						<mcgi_name></mcgi_name>
+						<mcgi_text xml="true">
+							<xml>
+								<h3>Kulinarik im Adler</h3>
+								<h3>SPEIS &amp; TRANK</h3>
+								<p>Das Adler-Restaurant ist Anziehungspunkt fuÌr GÃ¤ste und Einheimische. Ob auf der
+									Sonnenterrasse oder in einer der gemuÌtlichen Gaststuben; hier fuÌhlt man sich
+									wohl. Ãhnlich verhÃ¤lt es sich bei der Speisekarte. Von AllgÃ¤uer SpezialitÃ¤ten
+									bis hin zu feinen Delikatessen findet jeder Gaumen sein Lieblingsgericht.
+								</p>
+								<p>DafuÌr wurden wir mehrfach ausgezeichnet: mit der KochmuÌtze im
+									Aral-Schlemmerlexikon, dem Stern im Varta-FuÌhrer und als âBest Restaurant
+									Top-of-the Mountainsâ.
+								</p>
+								<p>
+									<a class="cta" href="/de/zimmer-preise/">Zimmer &amp; Preise</a>
+								</p>
+							</xml>
+						</mcgi_text>
+						<mcgi_alt></mcgi_alt>
+						<mcgi_order>1</mcgi_order>
+						<mcgi_show>1</mcgi_show>
+						<media_file_id>2676739</media_file_id>
+						<media_file_folder>79553</media_file_folder>
+						<media_file_customer>3396</media_file_customer>
+						<media_file_name>golf-bild</media_file_name>
+						<media_file_copyright></media_file_copyright>
+						<media_file_description></media_file_description>
+						<media_file_alt>0</media_file_alt>
+						<media_file_type>jpg</media_file_type>
+						<media_file_source>0</media_file_source>
+						<media_file_changed>2023-05-08 08:41:22</media_file_changed>
+						<media_file_mime>image/jpeg</media_file_mime>
+						<media_file_size>9175040</media_file_size>
+						<media_file_width>4592</media_file_width>
+						<media_file_height>3056</media_file_height>
+						<media_file_duration>0</media_file_duration>
+						<media_file_fps>0</media_file_fps>
+						<media_file_codec_audio></media_file_codec_audio>
+						<media_file_codec_video></media_file_codec_video>
+						<media_file_bandwidth>0</media_file_bandwidth>
+						<media_file_class>1</media_file_class>
+						<media_file_deleted>0000-00-00 00:00:00</media_file_deleted>
+						<media_file_alt_str></media_file_alt_str>
+						<mcgi_name_handle>9177443</mcgi_name_handle>
+						<mcgi_text_handle>9177444</mcgi_text_handle>
+						<mcgi_alt_handle>9177445</mcgi_alt_handle>
+						<pois></pois>
+					</int-0>
+					<int-1>
+						<mcgi_gallery>127194</mcgi_gallery>
+						<mcgi_media>2676749</mcgi_media>
+						<mcgi_name></mcgi_name>
+						<mcgi_text xml="true">
+							<xml>
+							</xml>
+						</mcgi_text>
+						<mcgi_alt></mcgi_alt>
+						<mcgi_order>5</mcgi_order>
+						<mcgi_show>1</mcgi_show>
+						<media_file_id>2676749</media_file_id>
+						<media_file_folder>79553</media_file_folder>
+						<media_file_customer>3396</media_file_customer>
+						<media_file_name>oberstaufen-sonnenuntergang</media_file_name>
+						<media_file_copyright></media_file_copyright>
+						<media_file_description></media_file_description>
+						<media_file_alt>0</media_file_alt>
+						<media_file_type>jpg</media_file_type>
+						<media_file_source>0</media_file_source>
+						<media_file_changed>2023-05-08 08:41:23</media_file_changed>
+						<media_file_mime>image/jpeg</media_file_mime>
+						<media_file_size>203623</media_file_size>
+						<media_file_width>1400</media_file_width>
+						<media_file_height>901</media_file_height>
+						<media_file_duration>0</media_file_duration>
+						<media_file_fps>0</media_file_fps>
+						<media_file_codec_audio></media_file_codec_audio>
+						<media_file_codec_video></media_file_codec_video>
+						<media_file_bandwidth>0</media_file_bandwidth>
+						<media_file_class>1</media_file_class>
+						<media_file_deleted>0000-00-00 00:00:00</media_file_deleted>
+						<media_file_alt_str></media_file_alt_str>
+						<mcgi_name_handle>9177446</mcgi_name_handle>
+						<mcgi_text_handle>9177447</mcgi_text_handle>
+						<mcgi_alt_handle>9177448</mcgi_alt_handle>
+						<pois></pois>
+					</int-1>
+					<int-2>
+						<mcgi_gallery>127194</mcgi_gallery>
+						<mcgi_media>2676753</mcgi_media>
+						<mcgi_name></mcgi_name>
+						<mcgi_text xml="true">
+							<xml>
+							</xml>
+						</mcgi_text>
+						<mcgi_alt></mcgi_alt>
+						<mcgi_order>9</mcgi_order>
+						<mcgi_show>1</mcgi_show>
+						<media_file_id>2676753</media_file_id>
+						<media_file_folder>79553</media_file_folder>
+						<media_file_customer>3396</media_file_customer>
+						<media_file_name>oberstaufen-spritz</media_file_name>
+						<media_file_copyright></media_file_copyright>
+						<media_file_description></media_file_description>
+						<media_file_alt>0</media_file_alt>
+						<media_file_type>png</media_file_type>
+						<media_file_source>0</media_file_source>
+						<media_file_changed>2023-05-08 08:41:23</media_file_changed>
+						<media_file_mime>image/png</media_file_mime>
+						<media_file_size>1734362</media_file_size>
+						<media_file_width>1410</media_file_width>
+						<media_file_height>830</media_file_height>
+						<media_file_duration>0</media_file_duration>
+						<media_file_fps>0</media_file_fps>
+						<media_file_codec_audio></media_file_codec_audio>
+						<media_file_codec_video></media_file_codec_video>
+						<media_file_bandwidth>0</media_file_bandwidth>
+						<media_file_class>1</media_file_class>
+						<media_file_deleted>0000-00-00 00:00:00</media_file_deleted>
+						<media_file_alt_str></media_file_alt_str>
+						<mcgi_name_handle>9177449</mcgi_name_handle>
+						<mcgi_text_handle>9177450</mcgi_text_handle>
+						<mcgi_alt_handle>9177451</mcgi_alt_handle>
+						<pois></pois>
+					</int-2>
+				</gallery-items>
+				<options></options>
+				<gallery-strings>
+					<string name="diashow">Diashow</string>
+					<string name="diashow.start">Diashow starten</string>
+					<string name="remember">Merken</string>
+					<string name="nav.back">zur&#x00fc;ck</string>
+					<string name="nav.next">weiter</string>
+					<string name="remember.pictures">Gemerkte Bilder</string>
+					<string name="remember.send">an Freunde versenden</string>
+					<string name="remember.print">drucken</string>
+					<string name="remember.download.all">Alle Bilder herunterladen</string>
+					<string name="remember.delete">löschen</string>
+					<string name="remember.res.low">niedrig</string>
+					<string name="remember.res.high">hoch</string>
+					<string name="remember.original">orginal</string>
+					<string name="remember.noimage">Es sind keine Bilder ausgewählt</string>
+					<string name="download">herunterladen</string>
+					<string name="pictures.recommended">Empfohlene Bilder</string>
+				</gallery-strings>
+			</content:gallery>
+			<content:media-display id="1527007" type="image-resized" page-content-id="1527007" page-content-type="87"
+			                       page-content-entail="0" page-content-order="50" page-content-group="0"
+			                       page-content-changed-date="2023-05-23 15:01:17" attr-layout="golf-kachel"
+			                       cacheable="true">
+				<media_display>
+					<media_display_id>76375</media_display_id>
+					<media_display_customer>3396</media_display_customer>
+					<media_display_content>1527007</media_display_content>
+					<media_display_type>8</media_display_type>
+					<media_display_media>2676759</media_display_media>
+					<media_display_media_preview>2676859</media_display_media_preview>
+					<media_display_width>1400</media_display_width>
+					<media_display_height>931</media_display_height>
+					<media_display_class></media_display_class>
+					<media_display_style></media_display_style>
+					<media_display_autoplay>0</media_display_autoplay>
+					<media_display_loop>0</media_display_loop>
+					<media_display_mute>0</media_display_mute>
+					<media_display_controls>1</media_display_controls>
+					<media_display_name></media_display_name>
+					<media_display_description>&lt;h3&gt;Die Oberstaufen PLUS GOLF Karte&lt;/h3&gt;
+						&lt;p&gt;Wir sind Partner-Hotel der Oberstaufen PLUS Karte, mit der Sie zus&amp;auml;tzlich zu
+						unseren eigenen Leistungen zahlreiche kostenlose Mehrwerte bei den beteiligten Freizeitbetrieben
+						genie&amp;szlig;en.&lt;/p&gt;
+						&lt;p&gt;Au&amp;szlig;erdem erhalten Sie bei uns die Oberstaufen PLUS GOLF Karte, mit der Sie
+						auf 5 Panorama-Golfpl&amp;auml;tzen in Oberstaufen abschlagen k&amp;ouml;nnen - komplett
+						kostenlos!&lt;/p&gt;
+						&lt;p&gt;&lt;a class=&quot;cta-white&quot; href=&quot;/de/golf-aktivurlaub/&quot;&gt;mit Link&lt;/a&gt;&lt;/p&gt;
+					</media_display_description>
+					<media_display_alt></media_display_alt>
+					<media_display_multilanguage>1</media_display_multilanguage>
+					<media_display_name_handle>9176553</media_display_name_handle>
+					<media_display_description_handle>9176555</media_display_description_handle>
+					<media_display_alt_handle>9176557</media_display_alt_handle>
+					<media_display_description_xml xml="true">
+						<xml>
+							<h3>Die Oberstaufen PLUS GOLF Karte</h3>
+							<p>Wir sind Partner-Hotel der Oberstaufen PLUS Karte, mit der Sie zusätzlich zu unseren
+								eigenen Leistungen zahlreiche kostenlose Mehrwerte bei den beteiligten Freizeitbetrieben
+								genießen.
+							</p>
+							<p>Außerdem erhalten Sie bei uns die Oberstaufen PLUS GOLF Karte, mit der Sie auf 5
+								Panorama-Golfplätzen in Oberstaufen abschlagen können - komplett kostenlos!
+							</p>
+							<p>
+								<a class="cta-white" href="/de/golf-aktivurlaub/">mit Link</a>
+							</p>
+						</xml>
+					</media_display_description_xml>
+				</media_display>
+				<media>
+					<media_file_id>2676759</media_file_id>
+					<media_file_folder>79553</media_file_folder>
+					<media_file_customer>3396</media_file_customer>
+					<media_file_name>golf</media_file_name>
+					<media_file_copyright></media_file_copyright>
+					<media_file_description></media_file_description>
+					<media_file_alt>0</media_file_alt>
+					<media_file_type>jpg</media_file_type>
+					<media_file_source>0</media_file_source>
+					<media_file_changed>2023-05-08 08:41:23</media_file_changed>
+					<media_file_mime>image/jpeg</media_file_mime>
+					<media_file_size>279884</media_file_size>
+					<media_file_width>1400</media_file_width>
+					<media_file_height>931</media_file_height>
+					<media_file_duration>0</media_file_duration>
+					<media_file_fps>0</media_file_fps>
+					<media_file_codec_audio></media_file_codec_audio>
+					<media_file_codec_video></media_file_codec_video>
+					<media_file_bandwidth>0</media_file_bandwidth>
+					<media_file_class>1</media_file_class>
+					<media_file_deleted>0000-00-00 00:00:00</media_file_deleted>
+					<media_file_alt_str></media_file_alt_str>
+				</media>
+				<media_url>/media/79553/golf-2676759.jpg</media_url>
+				<media_preview>
+					<media_file_id>2676859</media_file_id>
+					<media_file_folder>79523</media_file_folder>
+					<media_file_customer>3396</media_file_customer>
+					<media_file_name>oberstaufen-plus-8bit</media_file_name>
+					<media_file_copyright></media_file_copyright>
+					<media_file_description></media_file_description>
+					<media_file_alt>0</media_file_alt>
+					<media_file_type>png</media_file_type>
+					<media_file_source>0</media_file_source>
+					<media_file_changed>2023-05-08 09:07:44</media_file_changed>
+					<media_file_mime>image/png</media_file_mime>
+					<media_file_size>2732</media_file_size>
+					<media_file_width>98</media_file_width>
+					<media_file_height>127</media_file_height>
+					<media_file_duration>0</media_file_duration>
+					<media_file_fps>0</media_file_fps>
+					<media_file_codec_audio></media_file_codec_audio>
+					<media_file_codec_video></media_file_codec_video>
+					<media_file_bandwidth>0</media_file_bandwidth>
+					<media_file_class>1</media_file_class>
+					<media_file_deleted>0000-00-00 00:00:00</media_file_deleted>
+					<media_file_alt_str></media_file_alt_str>
+				</media_preview>
+				<media_preview_url>/media/79523/oberstaufen-plus-8bit-2676859.png</media_preview_url>
+			</content:media-display>
+			<content:media-display id="1527009" type="image-static" page-content-id="1527009" page-content-type="87"
+			                       page-content-entail="0" page-content-order="60" page-content-group="0"
+			                       page-content-changed-date="2023-05-11 13:42:32" attr-layout="parallax"
+			                       cacheable="true">
+				<media_display>
+					<media_display_id>76377</media_display_id>
+					<media_display_customer>3396</media_display_customer>
+					<media_display_content>1527009</media_display_content>
+					<media_display_type>7</media_display_type>
+					<media_display_media>2676395</media_display_media>
+					<media_display_media_preview>0</media_display_media_preview>
+					<media_display_width>4899</media_display_width>
+					<media_display_height>3266</media_display_height>
+					<media_display_class></media_display_class>
+					<media_display_style></media_display_style>
+					<media_display_autoplay>0</media_display_autoplay>
+					<media_display_loop>0</media_display_loop>
+					<media_display_mute>0</media_display_mute>
+					<media_display_controls>1</media_display_controls>
+					<media_display_name></media_display_name>
+					<media_display_description>Wo man&amp;hellip; &amp;hellip;sich sofort angekommen fuÌhlt. &amp;hellip;eigentlich
+						nie mehr weg m&amp;ouml;chte. &amp;hellip;immer wieder gerne hinkommt.
+					</media_display_description>
+					<media_display_alt></media_display_alt>
+					<media_display_multilanguage>1</media_display_multilanguage>
+					<media_display_name_handle>9176571</media_display_name_handle>
+					<media_display_description_handle>9176573</media_display_description_handle>
+					<media_display_alt_handle>9176575</media_display_alt_handle>
+					<media_display_description_xml xml="true">
+						<xml>
+							Wo man… …sich sofort angekommen fuÌhlt. …eigentlich nie mehr weg möchte. …immer wieder
+							gerne hinkommt.
+						</xml>
+					</media_display_description_xml>
+				</media_display>
+				<media>
+					<media_file_id>2676395</media_file_id>
+					<media_file_folder>79521</media_file_folder>
+					<media_file_customer>3396</media_file_customer>
+					<media_file_name>hotel_adler-239</media_file_name>
+					<media_file_copyright></media_file_copyright>
+					<media_file_description></media_file_description>
+					<media_file_alt>0</media_file_alt>
+					<media_file_type>jpg</media_file_type>
+					<media_file_source>0</media_file_source>
+					<media_file_changed>2023-05-08 06:55:53</media_file_changed>
+					<media_file_mime>image/jpeg</media_file_mime>
+					<media_file_size>621217</media_file_size>
+					<media_file_width>4899</media_file_width>
+					<media_file_height>3266</media_file_height>
+					<media_file_duration>0</media_file_duration>
+					<media_file_fps>0</media_file_fps>
+					<media_file_codec_audio></media_file_codec_audio>
+					<media_file_codec_video></media_file_codec_video>
+					<media_file_bandwidth>0</media_file_bandwidth>
+					<media_file_class>1</media_file_class>
+					<media_file_deleted>0000-00-00 00:00:00</media_file_deleted>
+					<media_file_alt_str></media_file_alt_str>
+				</media>
+				<media_url>/media/79521/hotel-adler-239-2676395.jpg</media_url>
+			</content:media-display>
+			<content:group id="1527011" page-content-id="1527011" page-content-type="109" page-content-entail="0"
+			               page-content-order="80" page-content-group="0"
+			               page-content-changed-date="2023-05-30 07:55:54" attr-layout="spalten" attr-display="max1200">
+				<members>
+					<content:article1 id="1527013" xml="true" page-content-id="1527013" page-content-type="20"
+					                  page-content-entail="0" page-content-order="0" page-content-group="1527011"
+					                  page-content-changed-date="2023-05-30 07:56:16" attr-layout="spalte-volle-breite"
+					                  attr-display="center" cacheable="true">
+						<xml>
+							<h3>UNSER HAUS DAHEIM</h3>
+						</xml>
+					</content:article1>
+					<content:article1 id="1527015" xml="true" page-content-id="1527015" page-content-type="20"
+					                  page-content-entail="0" page-content-order="0" page-content-group="1527011"
+					                  page-content-changed-date="2023-05-08 09:15:25" cacheable="true">
+						<xml>Das nostalgisch anmutende Haus Daheim liegt zentrumsnah und trotzdem ruhig zwischen d
+							<br/>
+							<ul>
+								<li>em Erlebnisbad Aquaria</li>
+								<li>und dem Blauen Haus,</li>
+								<li>ca. 2-3 Gehminuten (200m)</li>
+							</ul>
+							<p>vom Hotel Restaurant Adler entfernt.
+								<br/>
+								<br/>
+								Mit ihren 13 Zimmern ist unsere kleine Pension die ideale Unterkunft fÃ¼r einen
+								AllgÃ¤u-Urlaub mit kleinerem Budget. Unsere Pension bietet eine Ã¼berwÃ¤ltigende
+								Aussicht auf
+							</p>
+							<ul>
+								<li>
+									<a class="cta" href="/de/service/">CTA - Hauptfarbe</a>
+								</li>
+								<li>
+									<a class="cta-secondary" href="/de/service/">CTA - Nebenfarbe</a>
+								</li>
+							</ul>
+						</xml>
+					</content:article1>
+					<content:article1 id="1527019" xml="true" page-content-id="1527019" page-content-type="20"
+					                  page-content-entail="0" page-content-order="0" page-content-group="1527011"
+					                  page-content-changed-date="2023-05-08 09:15:37" cacheable="true">
+						<xml>Unsere Pension bietet eine Ã¼berwÃ¤ltigende Aussicht auf den Naturpark Nagelfluhkette mit
+							dem Hochgrat als hÃ¶chste Erhebung und gleichzeitig markantem Hausberg von Oberstaufen. Am
+							besten lÃ¤sst sich dieser auf der groÃen Sonnenterrasse und der groÃzÃ¼gigen, hauseigenen
+							Liegewiese genieÃen â oder vom eigenen Balkon aus, mit dem fast jedes Zimmer ausgestattet
+							ist.
+						</xml>
+					</content:article1>
+				</members>
+			</content:group>
+			<content:group id="1527021" page-content-id="1527021" page-content-type="109" page-content-entail="0"
+			               page-content-order="90" page-content-group="0"
+			               page-content-changed-date="2023-05-11 13:42:32" attr-layout="" attr-hintergrund="hell">
+				<members>
+					<content:article1 id="1527023" xml="true" page-content-id="1527023" page-content-type="20"
+					                  page-content-entail="0" page-content-order="0" page-content-group="1527021"
+					                  page-content-changed-date="2023-05-08 09:17:34" attr-layout="spalte-volle-breite"
+					                  cacheable="true">
+						<xml>
+							<h3>UNSERE ANGEBOTE</h3>
+						</xml>
+					</content:article1>
+					<content:container-display-navigation id="1527025" contact="false" page-content-id="1527025"
+					                                      page-content-type="73" page-content-entail="0"
+					                                      page-content-order="0" page-content-group="1527021"
+					                                      page-content-changed-date="2023-05-08 09:18:36"
+					                                      attr-notiz="Angebote">
+						<container></container>
+						<categories-all></categories-all>
+						<subpage-request type="0" category="0" object="0" responsible="true"></subpage-request>
+					</content:container-display-navigation>
+					<content:article1 id="1527027" xml="true" page-content-id="1527027" page-content-type="20"
+					                  page-content-entail="0" page-content-order="0" page-content-group="1527021"
+					                  page-content-changed-date="2023-05-08 09:19:54" cacheable="true">
+						<xml>
+							<a class="cta" href="/de/service/anfrage/">Alle Angebote</a>
+						</xml>
+					</content:article1>
+				</members>
+			</content:group>
+		</site:content-item>
+		<site:content-item name="footer" id="20137">
+			<content:gallery id="1527041" type="list" page-content-id="1527041" page-content-type="54"
+			                 page-content-entail="0" page-content-order="0" page-content-group="0"
+			                 page-content-changed-date="2023-05-08 09:31:37" attr-layout="spalte-volle-breite"
+			                 cacheable="true">
+				<gallery>
+					<mcg_id>127191</mcg_id>
+					<mcg_content>1527041</mcg_content>
+					<mcg_name></mcg_name>
+					<mcg_subtitle></mcg_subtitle>
+					<mcg_media_folder>0</mcg_media_folder>
+					<mcg_list_cols>0</mcg_list_cols>
+					<mcg_list_rows>0</mcg_list_rows>
+					<mcg_list_height>0</mcg_list_height>
+					<mcg_list_width>0</mcg_list_width>
+					<mcg_detail_height>0</mcg_detail_height>
+					<mcg_detail_width>0</mcg_detail_width>
+					<mcg_slideshow>0</mcg_slideshow>
+					<mcg_slideshow_order>1</mcg_slideshow_order>
+					<mcg_slideshow_transition>0</mcg_slideshow_transition>
+					<mcg_slideshow_easing>0</mcg_slideshow_easing>
+					<mcg_slideshow_time>1</mcg_slideshow_time>
+					<mcg_slideshow_time_pause>5</mcg_slideshow_time_pause>
+					<mcg_download>0</mcg_download>
+					<mcg_lightbox>0</mcg_lightbox>
+					<mcg_download_sizes>0</mcg_download_sizes>
+					<mcg_start_view>1</mcg_start_view>
+					<mcg_watermark_thumb_image>0</mcg_watermark_thumb_image>
+					<mcg_watermark_thumb_pos>0</mcg_watermark_thumb_pos>
+					<mcg_watermark_detail_image>0</mcg_watermark_detail_image>
+					<mcg_watermark_detail_pos>0</mcg_watermark_detail_pos>
+					<mcg_html_text>1</mcg_html_text>
+					<mcg_nuke_contents>1</mcg_nuke_contents>
+					<mcg_multilanguage>1</mcg_multilanguage>
+					<mcg_name_handle>9176737</mcg_name_handle>
+					<mcg_subtitle_handle>9176739</mcg_subtitle_handle>
+				</gallery>
+				<gallery-items>
+					<int-0>
+						<mcgi_gallery>127191</mcgi_gallery>
+						<mcgi_media>2676347</mcgi_media>
+						<mcgi_name></mcgi_name>
+						<mcgi_text xml="true">
+							<xml>
+								<a href="/de/hotel-adler/">Hotel Adler</a>
+							</xml>
+						</mcgi_text>
+						<mcgi_alt></mcgi_alt>
+						<mcgi_order>1</mcgi_order>
+						<mcgi_show>1</mcgi_show>
+						<media_file_id>2676347</media_file_id>
+						<media_file_folder>79521</media_file_folder>
+						<media_file_customer>3396</media_file_customer>
+						<media_file_name>hotel_adler-223</media_file_name>
+						<media_file_copyright></media_file_copyright>
+						<media_file_description></media_file_description>
+						<media_file_alt>0</media_file_alt>
+						<media_file_type>jpg</media_file_type>
+						<media_file_source>0</media_file_source>
+						<media_file_changed>2023-05-08 06:55:51</media_file_changed>
+						<media_file_mime>image/jpeg</media_file_mime>
+						<media_file_size>410005</media_file_size>
+						<media_file_width>3265</media_file_width>
+						<media_file_height>4898</media_file_height>
+						<media_file_duration>0</media_file_duration>
+						<media_file_fps>0</media_file_fps>
+						<media_file_codec_audio></media_file_codec_audio>
+						<media_file_codec_video></media_file_codec_video>
+						<media_file_bandwidth>0</media_file_bandwidth>
+						<media_file_class>1</media_file_class>
+						<media_file_deleted>0000-00-00 00:00:00</media_file_deleted>
+						<media_file_alt_str></media_file_alt_str>
+						<mcgi_name_handle>9176843</mcgi_name_handle>
+						<mcgi_text_handle>9176845</mcgi_text_handle>
+						<mcgi_alt_handle>9176847</mcgi_alt_handle>
+						<pois></pois>
+					</int-0>
+					<int-1>
+						<mcgi_gallery>127191</mcgi_gallery>
+						<mcgi_media>2676383</mcgi_media>
+						<mcgi_name></mcgi_name>
+						<mcgi_text xml="true">
+							<xml>
+								<a href="/de/zimmer-preise/">Zimmer &amp; Preise</a>
+							</xml>
+						</mcgi_text>
+						<mcgi_alt></mcgi_alt>
+						<mcgi_order>5</mcgi_order>
+						<mcgi_show>1</mcgi_show>
+						<media_file_id>2676383</media_file_id>
+						<media_file_folder>79521</media_file_folder>
+						<media_file_customer>3396</media_file_customer>
+						<media_file_name>img_7405</media_file_name>
+						<media_file_copyright></media_file_copyright>
+						<media_file_description></media_file_description>
+						<media_file_alt>0</media_file_alt>
+						<media_file_type>jpg</media_file_type>
+						<media_file_source>0</media_file_source>
+						<media_file_changed>2023-05-08 06:55:52</media_file_changed>
+						<media_file_mime>image/jpeg</media_file_mime>
+						<media_file_size>1011892</media_file_size>
+						<media_file_width>3880</media_file_width>
+						<media_file_height>2912</media_file_height>
+						<media_file_duration>0</media_file_duration>
+						<media_file_fps>0</media_file_fps>
+						<media_file_codec_audio></media_file_codec_audio>
+						<media_file_codec_video></media_file_codec_video>
+						<media_file_bandwidth>0</media_file_bandwidth>
+						<media_file_class>1</media_file_class>
+						<media_file_deleted>0000-00-00 00:00:00</media_file_deleted>
+						<media_file_alt_str></media_file_alt_str>
+						<mcgi_name_handle>9176849</mcgi_name_handle>
+						<mcgi_text_handle>9176851</mcgi_text_handle>
+						<mcgi_alt_handle>9176853</mcgi_alt_handle>
+						<pois></pois>
+					</int-1>
+					<int-2>
+						<mcgi_gallery>127191</mcgi_gallery>
+						<mcgi_media>2676345</mcgi_media>
+						<mcgi_name></mcgi_name>
+						<mcgi_text xml="true">
+							<xml>
+								<a href="/de/service/">service</a>
+							</xml>
+						</mcgi_text>
+						<mcgi_alt></mcgi_alt>
+						<mcgi_order>9</mcgi_order>
+						<mcgi_show>1</mcgi_show>
+						<media_file_id>2676345</media_file_id>
+						<media_file_folder>79521</media_file_folder>
+						<media_file_customer>3396</media_file_customer>
+						<media_file_name>tradition</media_file_name>
+						<media_file_copyright></media_file_copyright>
+						<media_file_description></media_file_description>
+						<media_file_alt>0</media_file_alt>
+						<media_file_type>jpg</media_file_type>
+						<media_file_source>0</media_file_source>
+						<media_file_changed>2023-05-08 06:55:51</media_file_changed>
+						<media_file_mime>image/jpeg</media_file_mime>
+						<media_file_size>1884099</media_file_size>
+						<media_file_width>4368</media_file_width>
+						<media_file_height>2912</media_file_height>
+						<media_file_duration>0</media_file_duration>
+						<media_file_fps>0</media_file_fps>
+						<media_file_codec_audio></media_file_codec_audio>
+						<media_file_codec_video></media_file_codec_video>
+						<media_file_bandwidth>0</media_file_bandwidth>
+						<media_file_class>1</media_file_class>
+						<media_file_deleted>0000-00-00 00:00:00</media_file_deleted>
+						<media_file_alt_str></media_file_alt_str>
+						<mcgi_name_handle>9176855</mcgi_name_handle>
+						<mcgi_text_handle>9176857</mcgi_text_handle>
+						<mcgi_alt_handle>9176859</mcgi_alt_handle>
+						<pois></pois>
+					</int-2>
+					<int-3>
+						<mcgi_gallery>127191</mcgi_gallery>
+						<mcgi_media>2676379</mcgi_media>
+						<mcgi_name></mcgi_name>
+						<mcgi_text xml="true">
+							<xml>
+								<a href="/de/service/anfrage/">anfrage</a>
+							</xml>
+						</mcgi_text>
+						<mcgi_alt></mcgi_alt>
+						<mcgi_order>13</mcgi_order>
+						<mcgi_show>1</mcgi_show>
+						<media_file_id>2676379</media_file_id>
+						<media_file_folder>79521</media_file_folder>
+						<media_file_customer>3396</media_file_customer>
+						<media_file_name>img_4355</media_file_name>
+						<media_file_copyright></media_file_copyright>
+						<media_file_description></media_file_description>
+						<media_file_alt>0</media_file_alt>
+						<media_file_type>jpg</media_file_type>
+						<media_file_source>0</media_file_source>
+						<media_file_changed>2023-05-08 06:55:52</media_file_changed>
+						<media_file_mime>image/jpeg</media_file_mime>
+						<media_file_size>2903317</media_file_size>
+						<media_file_width>4032</media_file_width>
+						<media_file_height>3024</media_file_height>
+						<media_file_duration>0</media_file_duration>
+						<media_file_fps>0</media_file_fps>
+						<media_file_codec_audio></media_file_codec_audio>
+						<media_file_codec_video></media_file_codec_video>
+						<media_file_bandwidth>0</media_file_bandwidth>
+						<media_file_class>1</media_file_class>
+						<media_file_deleted>0000-00-00 00:00:00</media_file_deleted>
+						<media_file_alt_str></media_file_alt_str>
+						<mcgi_name_handle>9176861</mcgi_name_handle>
+						<mcgi_text_handle>9176863</mcgi_text_handle>
+						<mcgi_alt_handle>9176865</mcgi_alt_handle>
+						<pois></pois>
+					</int-3>
+					<int-4>
+						<mcgi_gallery>127191</mcgi_gallery>
+						<mcgi_media>2676393</mcgi_media>
+						<mcgi_name></mcgi_name>
+						<mcgi_text xml="true">
+							<xml>
+								<a href="/de/wellness-gesundheit/">Wellness &amp; Gesundheit</a>
+							</xml>
+						</mcgi_text>
+						<mcgi_alt></mcgi_alt>
+						<mcgi_order>17</mcgi_order>
+						<mcgi_show>1</mcgi_show>
+						<media_file_id>2676393</media_file_id>
+						<media_file_folder>79521</media_file_folder>
+						<media_file_customer>3396</media_file_customer>
+						<media_file_name>terrasse</media_file_name>
+						<media_file_copyright></media_file_copyright>
+						<media_file_description></media_file_description>
+						<media_file_alt>0</media_file_alt>
+						<media_file_type>jpg</media_file_type>
+						<media_file_source>0</media_file_source>
+						<media_file_changed>2023-05-08 06:55:53</media_file_changed>
+						<media_file_mime>image/jpeg</media_file_mime>
+						<media_file_size>211934</media_file_size>
+						<media_file_width>1920</media_file_width>
+						<media_file_height>1080</media_file_height>
+						<media_file_duration>0</media_file_duration>
+						<media_file_fps>0</media_file_fps>
+						<media_file_codec_audio></media_file_codec_audio>
+						<media_file_codec_video></media_file_codec_video>
+						<media_file_bandwidth>0</media_file_bandwidth>
+						<media_file_class>1</media_file_class>
+						<media_file_deleted>0000-00-00 00:00:00</media_file_deleted>
+						<media_file_alt_str></media_file_alt_str>
+						<mcgi_name_handle>9176867</mcgi_name_handle>
+						<mcgi_text_handle>9176869</mcgi_text_handle>
+						<mcgi_alt_handle>9176871</mcgi_alt_handle>
+						<pois></pois>
+					</int-4>
+				</gallery-items>
+				<options></options>
+				<gallery-strings>
+					<string name="diashow">Diashow</string>
+					<string name="diashow.start">Diashow starten</string>
+					<string name="remember">Merken</string>
+					<string name="nav.back">zur&#x00fc;ck</string>
+					<string name="nav.next">weiter</string>
+					<string name="remember.pictures">Gemerkte Bilder</string>
+					<string name="remember.send">an Freunde versenden</string>
+					<string name="remember.print">drucken</string>
+					<string name="remember.download.all">Alle Bilder herunterladen</string>
+					<string name="remember.delete">löschen</string>
+					<string name="remember.res.low">niedrig</string>
+					<string name="remember.res.high">hoch</string>
+					<string name="remember.original">orginal</string>
+					<string name="remember.noimage">Es sind keine Bilder ausgewählt</string>
+					<string name="download">herunterladen</string>
+					<string name="pictures.recommended">Empfohlene Bilder</string>
+				</gallery-strings>
+			</content:gallery>
+			<content:group id="1527043" page-content-id="1527043" page-content-type="109" page-content-entail="0"
+			               page-content-order="0" page-content-group="0" page-content-changed-date="2023-05-08 09:32:00"
+			               attr-layout="spalten">
+				<members>
+					<content:article1 id="1532569" xml="true" page-content-id="1532569" page-content-type="20"
+					                  page-content-entail="0" page-content-order="0" page-content-group="1527043"
+					                  page-content-changed-date="2023-05-26 11:21:38" attr-layout="spalte-volle-breite"
+					                  cacheable="true">
+						<xml>
+							<h3>Hotel Adler in Oberstaufen</h3>
+							<p>Familie Hollweck
+								<br/>
+								Kirchplatz 6
+								<br/>
+								87534 Oberstaufen
+							</p>
+							<ul>
+								<li class="header-tel">
+									<a href="#">+49 8386 93 210</a>
+								</li>
+								<li class="header-mail">
+									<a href="#">info@adler-oberstaufen.de</a>
+								</li>
+								<li class="header-page">
+									<a href="#">www.adler-oberstaufen.de</a>
+								</li>
+							</ul>
+						</xml>
+					</content:article1>
+					<content:media-display id="1527053" type="" page-content-id="1527053" page-content-type="87"
+					                       page-content-entail="0" page-content-order="20" page-content-group="1527043"
+					                       page-content-changed-date="2023-05-26 09:55:35" attr-layout="footer-logo"
+					                       cacheable="true">
+						<media_display>
+							<media_display_id>76383</media_display_id>
+							<media_display_customer>3396</media_display_customer>
+							<media_display_content>1527053</media_display_content>
+							<media_display_type>0</media_display_type>
+							<media_display_media>2676405</media_display_media>
+							<media_display_media_preview>0</media_display_media_preview>
+							<media_display_width>330</media_display_width>
+							<media_display_height>314</media_display_height>
+							<media_display_class>footer-logo</media_display_class>
+							<media_display_style></media_display_style>
+							<media_display_autoplay>0</media_display_autoplay>
+							<media_display_loop>0</media_display_loop>
+							<media_display_mute>0</media_display_mute>
+							<media_display_controls>0</media_display_controls>
+							<media_display_name></media_display_name>
+							<media_display_description></media_display_description>
+							<media_display_alt></media_display_alt>
+							<media_display_multilanguage>1</media_display_multilanguage>
+							<media_display_name_handle>9176921</media_display_name_handle>
+							<media_display_description_handle>9176923</media_display_description_handle>
+							<media_display_alt_handle>9176925</media_display_alt_handle>
+						</media_display>
+						<media>
+							<media_file_id>2676405</media_file_id>
+							<media_file_folder>79523</media_file_folder>
+							<media_file_customer>3396</media_file_customer>
+							<media_file_name>logo_small</media_file_name>
+							<media_file_copyright></media_file_copyright>
+							<media_file_description></media_file_description>
+							<media_file_alt>0</media_file_alt>
+							<media_file_type>svg</media_file_type>
+							<media_file_source>0</media_file_source>
+							<media_file_changed>2023-05-08 07:23:02</media_file_changed>
+							<media_file_mime>image/svg+xml</media_file_mime>
+							<media_file_size>10578</media_file_size>
+							<media_file_width>0</media_file_width>
+							<media_file_height>0</media_file_height>
+							<media_file_duration>0</media_file_duration>
+							<media_file_fps>0</media_file_fps>
+							<media_file_codec_audio></media_file_codec_audio>
+							<media_file_codec_video></media_file_codec_video>
+							<media_file_bandwidth>0</media_file_bandwidth>
+							<media_file_class>1</media_file_class>
+							<media_file_deleted>0000-00-00 00:00:00</media_file_deleted>
+							<media_file_alt_str></media_file_alt_str>
+						</media>
+						<media_url>/media/79523/logo-small-2676405.svg</media_url>
+					</content:media-display>
+					<content:group id="1527055" page-content-id="1527055" page-content-type="109"
+					               page-content-entail="0" page-content-order="30" page-content-group="1527043"
+					               page-content-changed-date="2023-05-08 09:37:42">
+						<members>
+							<content:article1 id="1527057" xml="true" page-content-id="1527057" page-content-type="20"
+							                  page-content-entail="0" page-content-order="0"
+							                  page-content-group="1527055"
+							                  page-content-changed-date="2023-05-08 09:37:58" cacheable="true">
+								<xml>
+									<h3>Suchen &amp; Social Media</h3>
+								</xml>
+							</content:article1>
+							<content:search_box1 id="1527061" url="/de/service/sucherergebniss/" size="" maxsize=""
+							                     layout="2" page-content-id="1527061" page-content-type="30"
+							                     page-content-entail="0" page-content-order="0"
+							                     page-content-group="1527055"
+							                     page-content-changed-date="2023-05-08 09:38:43"
+							                     cacheable="true"></content:search_box1>
+							<content:social-media layout="layer" icon_set="0" icon_size="0"
+							                      url-param-page-prev="cms_sm_page[5497]=feed-end" id="1527063"
+							                      page-content-id="1527063" page-content-type="102"
+							                      page-content-entail="0" page-content-order="0"
+							                      page-content-group="1527055"
+							                      page-content-changed-date="2023-05-08 09:39:56" cacheable="true">
+								<social-media>
+									<social_media_id>1785</social_media_id>
+									<social_media_page_content>1527063</social_media_page_content>
+									<social_media_display_layout>1</social_media_display_layout>
+									<social_media_display_size>0</social_media_display_size>
+									<social_media_display_icons>0</social_media_display_icons>
+									<social_media_display_icon_size>0</social_media_display_icon_size>
+									<social_media_display_layer_color>0</social_media_display_layer_color>
+									<social_media_display_layer_position_y>0</social_media_display_layer_position_y>
+									<social_media_display_layer_position_x>0</social_media_display_layer_position_x>
+								</social-media>
+								<sources>
+									<content:social-media-source-instagram url-absolute="https://www.instagram.com"
+									                                       url="social-media-source-5497.html"
+									                                       url-ajax="/(cms)/module/pass/102/source/1785/5497/2555/de"
+									                                       url-param-page-prev="cms_sm_page[5497]=feed-end">
+										<settings>
+											<social_media_source_id>5497</social_media_source_id>
+											<social_media_source_social_media>1785</social_media_source_social_media>
+											<social_media_source_type>20</social_media_source_type>
+											<social_media_source_order>0</social_media_source_order>
+											<social_media_source_foreign></social_media_source_foreign>
+											<social_media_source_api_call></social_media_source_api_call>
+											<social_media_source_url>https://www.instagram.com</social_media_source_url>
+											<social_media_source_count>0</social_media_source_count>
+											<social_media_source_title></social_media_source_title>
+											<social_media_source_layout>0</social_media_source_layout>
+											<social_media_source_image>0</social_media_source_image>
+											<social_media_source_option>0</social_media_source_option>
+											<social_media_source_color>0</social_media_source_color>
+											<social_media_source_font>0</social_media_source_font>
+											<social_media_source_width>0</social_media_source_width>
+											<social_media_source_text></social_media_source_text>
+											<social_media_source_displayname>0</social_media_source_displayname>
+											<social_media_source_displayname_text></social_media_source_displayname_text>
+											<social_media_source_secure>0</social_media_source_secure>
+											<social_media_source_send>0</social_media_source_send>
+											<social_media_source_admin></social_media_source_admin>
+											<social_media_source_type_id>20</social_media_source_type_id>
+											<social_media_source_type_name>Instagram</social_media_source_type_name>
+											<social_media_source_type_order>0</social_media_source_type_order>
+											<social_media_source_type_class>instagram</social_media_source_type_class>
+										</settings>
+										<page-head-tags></page-head-tags>
+									</content:social-media-source-instagram>
+									<content:social-media-source-facebook url-absolute="https://www.facebook.com/"
+									                                      url="social-media-source-5499.html"
+									                                      url-ajax="/(cms)/module/pass/102/source/1785/5499/2555/de">
+										<settings>
+											<social_media_source_id>5499</social_media_source_id>
+											<social_media_source_social_media>1785</social_media_source_social_media>
+											<social_media_source_type>2</social_media_source_type>
+											<social_media_source_order>0</social_media_source_order>
+											<social_media_source_foreign></social_media_source_foreign>
+											<social_media_source_api_call></social_media_source_api_call>
+											<social_media_source_url>https://www.facebook.com/</social_media_source_url>
+											<social_media_source_count>0</social_media_source_count>
+											<social_media_source_title></social_media_source_title>
+											<social_media_source_layout>0</social_media_source_layout>
+											<social_media_source_image>0</social_media_source_image>
+											<social_media_source_option>0</social_media_source_option>
+											<social_media_source_color>0</social_media_source_color>
+											<social_media_source_font>0</social_media_source_font>
+											<social_media_source_width>0</social_media_source_width>
+											<social_media_source_text></social_media_source_text>
+											<social_media_source_displayname>0</social_media_source_displayname>
+											<social_media_source_displayname_text></social_media_source_displayname_text>
+											<social_media_source_secure>0</social_media_source_secure>
+											<social_media_source_send>0</social_media_source_send>
+											<social_media_source_admin></social_media_source_admin>
+											<social_media_source_type_id>2</social_media_source_type_id>
+											<social_media_source_type_name>Facebook</social_media_source_type_name>
+											<social_media_source_type_order>0</social_media_source_type_order>
+											<social_media_source_type_class>facebook</social_media_source_type_class>
+										</settings>
+										<page-head-tags></page-head-tags>
+									</content:social-media-source-facebook>
+								</sources>
+							</content:social-media>
+						</members>
+					</content:group>
+				</members>
+			</content:group>
+		</site:content-item>
+		<site:content-item name="partners" id="20139">
+			<content:gallery id="1527067" type="list" page-content-id="1527067" page-content-type="54"
+			                 page-content-entail="0" page-content-order="0" page-content-group="0"
+			                 page-content-changed-date="2023-05-08 09:41:34" cacheable="true">
+				<gallery>
+					<mcg_id>127193</mcg_id>
+					<mcg_content>1527067</mcg_content>
+					<mcg_name></mcg_name>
+					<mcg_subtitle></mcg_subtitle>
+					<mcg_media_folder>0</mcg_media_folder>
+					<mcg_list_cols>0</mcg_list_cols>
+					<mcg_list_rows>0</mcg_list_rows>
+					<mcg_list_height>0</mcg_list_height>
+					<mcg_list_width>0</mcg_list_width>
+					<mcg_detail_height>0</mcg_detail_height>
+					<mcg_detail_width>0</mcg_detail_width>
+					<mcg_slideshow>0</mcg_slideshow>
+					<mcg_slideshow_order>1</mcg_slideshow_order>
+					<mcg_slideshow_transition>0</mcg_slideshow_transition>
+					<mcg_slideshow_easing>0</mcg_slideshow_easing>
+					<mcg_slideshow_time>1</mcg_slideshow_time>
+					<mcg_slideshow_time_pause>5</mcg_slideshow_time_pause>
+					<mcg_download>0</mcg_download>
+					<mcg_lightbox>0</mcg_lightbox>
+					<mcg_download_sizes>0</mcg_download_sizes>
+					<mcg_start_view>1</mcg_start_view>
+					<mcg_watermark_thumb_image>0</mcg_watermark_thumb_image>
+					<mcg_watermark_thumb_pos>0</mcg_watermark_thumb_pos>
+					<mcg_watermark_detail_image>0</mcg_watermark_detail_image>
+					<mcg_watermark_detail_pos>0</mcg_watermark_detail_pos>
+					<mcg_html_text>1</mcg_html_text>
+					<mcg_nuke_contents>1</mcg_nuke_contents>
+					<mcg_multilanguage>1</mcg_multilanguage>
+					<mcg_name_handle>9176927</mcg_name_handle>
+					<mcg_subtitle_handle>9176929</mcg_subtitle_handle>
+				</gallery>
+				<gallery-items>
+					<int-0>
+						<mcgi_gallery>127193</mcgi_gallery>
+						<mcgi_media>2676647</mcgi_media>
+						<mcgi_name></mcgi_name>
+						<mcgi_text xml="true">
+							<xml>
+								<a href="/de/service/">service</a>
+							</xml>
+						</mcgi_text>
+						<mcgi_alt></mcgi_alt>
+						<mcgi_order>1</mcgi_order>
+						<mcgi_show>1</mcgi_show>
+						<media_file_id>2676647</media_file_id>
+						<media_file_folder>79543</media_file_folder>
+						<media_file_customer>3396</media_file_customer>
+						<media_file_name>oberstaufen-schroth-fahne-2022</media_file_name>
+						<media_file_copyright></media_file_copyright>
+						<media_file_description></media_file_description>
+						<media_file_alt>0</media_file_alt>
+						<media_file_type>jpg</media_file_type>
+						<media_file_source>0</media_file_source>
+						<media_file_changed>2023-05-08 08:40:19</media_file_changed>
+						<media_file_mime>image/jpeg</media_file_mime>
+						<media_file_size>215589</media_file_size>
+						<media_file_width>1181</media_file_width>
+						<media_file_height>1417</media_file_height>
+						<media_file_duration>0</media_file_duration>
+						<media_file_fps>0</media_file_fps>
+						<media_file_codec_audio></media_file_codec_audio>
+						<media_file_codec_video></media_file_codec_video>
+						<media_file_bandwidth>0</media_file_bandwidth>
+						<media_file_class>1</media_file_class>
+						<media_file_deleted>0000-00-00 00:00:00</media_file_deleted>
+						<media_file_alt_str></media_file_alt_str>
+						<mcgi_name_handle>9176961</mcgi_name_handle>
+						<mcgi_text_handle>9176963</mcgi_text_handle>
+						<mcgi_alt_handle>9176965</mcgi_alt_handle>
+						<pois></pois>
+					</int-0>
+					<int-1>
+						<mcgi_gallery>127193</mcgi_gallery>
+						<mcgi_media>2676645</mcgi_media>
+						<mcgi_name></mcgi_name>
+						<mcgi_text xml="true">
+							<xml>
+								<a href="/de/service/anfrage/">anfrage</a>
+							</xml>
+						</mcgi_text>
+						<mcgi_alt></mcgi_alt>
+						<mcgi_order>5</mcgi_order>
+						<mcgi_show>1</mcgi_show>
+						<media_file_id>2676645</media_file_id>
+						<media_file_folder>79543</media_file_folder>
+						<media_file_customer>3396</media_file_customer>
+						<media_file_name>oberstaufen-schroth-fahne-2022</media_file_name>
+						<media_file_copyright></media_file_copyright>
+						<media_file_description></media_file_description>
+						<media_file_alt>0</media_file_alt>
+						<media_file_type>png</media_file_type>
+						<media_file_source>0</media_file_source>
+						<media_file_changed>2023-05-08 08:40:19</media_file_changed>
+						<media_file_mime>image/png</media_file_mime>
+						<media_file_size>115096</media_file_size>
+						<media_file_width>1181</media_file_width>
+						<media_file_height>1417</media_file_height>
+						<media_file_duration>0</media_file_duration>
+						<media_file_fps>0</media_file_fps>
+						<media_file_codec_audio></media_file_codec_audio>
+						<media_file_codec_video></media_file_codec_video>
+						<media_file_bandwidth>0</media_file_bandwidth>
+						<media_file_class>1</media_file_class>
+						<media_file_deleted>0000-00-00 00:00:00</media_file_deleted>
+						<media_file_alt_str></media_file_alt_str>
+						<mcgi_name_handle>9176967</mcgi_name_handle>
+						<mcgi_text_handle>9176969</mcgi_text_handle>
+						<mcgi_alt_handle>9176971</mcgi_alt_handle>
+						<pois></pois>
+					</int-1>
+					<int-2>
+						<mcgi_gallery>127193</mcgi_gallery>
+						<mcgi_media>2676641</mcgi_media>
+						<mcgi_name></mcgi_name>
+						<mcgi_text xml="true">
+							<xml>
+							</xml>
+						</mcgi_text>
+						<mcgi_alt></mcgi_alt>
+						<mcgi_order>9</mcgi_order>
+						<mcgi_show>1</mcgi_show>
+						<media_file_id>2676641</media_file_id>
+						<media_file_folder>79543</media_file_folder>
+						<media_file_customer>3396</media_file_customer>
+						<media_file_name>bhg-logo</media_file_name>
+						<media_file_copyright></media_file_copyright>
+						<media_file_description></media_file_description>
+						<media_file_alt>0</media_file_alt>
+						<media_file_type>jpg</media_file_type>
+						<media_file_source>0</media_file_source>
+						<media_file_changed>2023-05-08 08:40:19</media_file_changed>
+						<media_file_mime>image/jpeg</media_file_mime>
+						<media_file_size>59587</media_file_size>
+						<media_file_width>509</media_file_width>
+						<media_file_height>508</media_file_height>
+						<media_file_duration>0</media_file_duration>
+						<media_file_fps>0</media_file_fps>
+						<media_file_codec_audio></media_file_codec_audio>
+						<media_file_codec_video></media_file_codec_video>
+						<media_file_bandwidth>0</media_file_bandwidth>
+						<media_file_class>1</media_file_class>
+						<media_file_deleted>0000-00-00 00:00:00</media_file_deleted>
+						<media_file_alt_str></media_file_alt_str>
+						<mcgi_name_handle>9176973</mcgi_name_handle>
+						<mcgi_text_handle>9176975</mcgi_text_handle>
+						<mcgi_alt_handle>9176977</mcgi_alt_handle>
+						<pois></pois>
+					</int-2>
+					<int-3>
+						<mcgi_gallery>127193</mcgi_gallery>
+						<mcgi_media>2676639</mcgi_media>
+						<mcgi_name></mcgi_name>
+						<mcgi_text xml="true">
+							<xml>
+							</xml>
+						</mcgi_text>
+						<mcgi_alt></mcgi_alt>
+						<mcgi_order>13</mcgi_order>
+						<mcgi_show>1</mcgi_show>
+						<media_file_id>2676639</media_file_id>
+						<media_file_folder>79543</media_file_folder>
+						<media_file_customer>3396</media_file_customer>
+						<media_file_name>oberstaufen-schroth-logo-2022-grau</media_file_name>
+						<media_file_copyright></media_file_copyright>
+						<media_file_description></media_file_description>
+						<media_file_alt>0</media_file_alt>
+						<media_file_type>png</media_file_type>
+						<media_file_source>0</media_file_source>
+						<media_file_changed>2023-05-08 08:40:19</media_file_changed>
+						<media_file_mime>image/png</media_file_mime>
+						<media_file_size>100024</media_file_size>
+						<media_file_width>1654</media_file_width>
+						<media_file_height>1181</media_file_height>
+						<media_file_duration>0</media_file_duration>
+						<media_file_fps>0</media_file_fps>
+						<media_file_codec_audio></media_file_codec_audio>
+						<media_file_codec_video></media_file_codec_video>
+						<media_file_bandwidth>0</media_file_bandwidth>
+						<media_file_class>1</media_file_class>
+						<media_file_deleted>0000-00-00 00:00:00</media_file_deleted>
+						<media_file_alt_str></media_file_alt_str>
+						<mcgi_name_handle>9176979</mcgi_name_handle>
+						<mcgi_text_handle>9176981</mcgi_text_handle>
+						<mcgi_alt_handle>9176983</mcgi_alt_handle>
+						<pois></pois>
+					</int-3>
+					<int-4>
+						<mcgi_gallery>127193</mcgi_gallery>
+						<mcgi_media>2676637</mcgi_media>
+						<mcgi_name></mcgi_name>
+						<mcgi_text xml="true">
+							<xml>
+							</xml>
+						</mcgi_text>
+						<mcgi_alt></mcgi_alt>
+						<mcgi_order>17</mcgi_order>
+						<mcgi_show>1</mcgi_show>
+						<media_file_id>2676637</media_file_id>
+						<media_file_folder>79543</media_file_folder>
+						<media_file_customer>3396</media_file_customer>
+						<media_file_name>oberstaufen-schroth-logo-2022-grau</media_file_name>
+						<media_file_copyright></media_file_copyright>
+						<media_file_description></media_file_description>
+						<media_file_alt>0</media_file_alt>
+						<media_file_type>jpg</media_file_type>
+						<media_file_source>0</media_file_source>
+						<media_file_changed>2023-05-08 08:40:19</media_file_changed>
+						<media_file_mime>image/jpeg</media_file_mime>
+						<media_file_size>224315</media_file_size>
+						<media_file_width>1654</media_file_width>
+						<media_file_height>1181</media_file_height>
+						<media_file_duration>0</media_file_duration>
+						<media_file_fps>0</media_file_fps>
+						<media_file_codec_audio></media_file_codec_audio>
+						<media_file_codec_video></media_file_codec_video>
+						<media_file_bandwidth>0</media_file_bandwidth>
+						<media_file_class>1</media_file_class>
+						<media_file_deleted>0000-00-00 00:00:00</media_file_deleted>
+						<media_file_alt_str></media_file_alt_str>
+						<mcgi_name_handle>9176985</mcgi_name_handle>
+						<mcgi_text_handle>9176987</mcgi_text_handle>
+						<mcgi_alt_handle>9176989</mcgi_alt_handle>
+						<pois></pois>
+					</int-4>
+				</gallery-items>
+				<options></options>
+				<gallery-strings>
+					<string name="diashow">Diashow</string>
+					<string name="diashow.start">Diashow starten</string>
+					<string name="remember">Merken</string>
+					<string name="nav.back">zur&#x00fc;ck</string>
+					<string name="nav.next">weiter</string>
+					<string name="remember.pictures">Gemerkte Bilder</string>
+					<string name="remember.send">an Freunde versenden</string>
+					<string name="remember.print">drucken</string>
+					<string name="remember.download.all">Alle Bilder herunterladen</string>
+					<string name="remember.delete">löschen</string>
+					<string name="remember.res.low">niedrig</string>
+					<string name="remember.res.high">hoch</string>
+					<string name="remember.original">orginal</string>
+					<string name="remember.noimage">Es sind keine Bilder ausgewählt</string>
+					<string name="download">herunterladen</string>
+					<string name="pictures.recommended">Empfohlene Bilder</string>
+				</gallery-strings>
+			</content:gallery>
+			<content:article1 id="1527071" xml="true" page-content-id="1527071" page-content-type="20"
+			                  page-content-entail="0" page-content-order="0" page-content-group="0"
+			                  page-content-changed-date="2023-05-08 09:42:12" cacheable="true">
+				<xml>
+					<ul>
+						<li>
+							<a href="/de/hotel-adler/">Hotel Adler</a>
+						</li>
+						<li>
+							<a href="/de/zimmer-preise/">Zimmer &amp; Preise</a>
+						</li>
+						<li>
+							<a href="/de/golf-aktivurlaub/">Golf &amp; Aktivurlaub</a>
+						</li>
+					</ul>
+				</xml>
+			</content:article1>
+		</site:content-item>
+		<site:content-item name="breadcrumb" id="20133"></site:content-item>
+		<site:content-item name="cookie-hint" id="20141"></site:content-item>
+	</site:content>
+	<site:template template-id="2301">
+		<template-settings>
+			<template-setting id="2440994" name="variant-template" value="A"></template-setting>
+			<template-setting id="2440995" name="variant-header" value="Z"></template-setting>
+			<template-setting id="2440996" name="variant-logo" value="Z"></template-setting>
+			<template-setting id="2440997" name="variant-widget" value="Z"></template-setting>
+			<template-setting id="2440998" name="variant-logo-vioma" value="D"></template-setting>
+			<template-setting id="2440999" name="pagespeed-2021" value="yes"></template-setting>
+			<template-setting id="2441000" name="pagespeed-2021-combinemap" value="no"></template-setting>
+			<template-setting id="2441003" name="font-family-google-url"
+			                  value="'https://fonts-api.viomassl.com/css2?family=Bonheur+Royale&amp;family=Open+Sans:ital,wght@0,400;0,700;1,700&amp;family=Roboto+Slab:wght@300;400;600&amp;display=swap'"></template-setting>
+			<template-setting id="2441010" name="content-main-max-width" value="1400px"></template-setting>
+			<template-setting id="2441014" name="header-gallery-controls" value="never"></template-setting>
+			<template-setting id="2441015" name="nst21-poi-use" value="yes"></template-setting>
+			<template-setting id="2441017" name="nst21-poi-position" value="bottom-right"></template-setting>
+			<template-setting id="2441041" name="footer-anchor-display" value="no"></template-setting>
+			<template-setting id="2441050" name="search-result-highlight" value="yes"></template-setting>
+		</template-settings>
+	</site:template>
+	<site:page page-id="332997" page-struct="187099" page-struct-parent="0" page-name="Startseite" page-keywords=""
+	           page-title="" page-description="" page-language="de" page-language-iso="de" page-language-id="2555"
+	           page-changed-date="2023-05-09 10:38:28" page-root="true" page-robots="1"
+	           page-url-canonical="https://cms-3396-1085.viomassl.com/">
+		<path>
+			<path-item id="332997" struct="187099" url="/de/" keywords="" title="" description="">Startseite</path-item>
+		</path>
+		<languages>
+			<page id="332997" language-id="2555" language="de" language-name="DE" language-website-name=""
+			      website-language-id="2555" state="current" url="/de/" language-alternative="true" keywords="" title=""
+			      description="">Startseite
+			</page>
+			<page id="338781" language-id="2608" language="en" language-name="EN" language-website-name=""
+			      website-language-id="2608" state="alternative" url="/en/" language-alternative="true" keywords=""
+			      title="" description="">en
+			</page>
+		</languages>
+		<content-attributes>
+			<content-attribute id="3337" page-content-id="1526963" name="layout" value="spalten"></content-attribute>
+			<content-attribute id="3523" page-content-id="1526963" name="display"
+			                   value="adler-group"></content-attribute>
+			<content-attribute id="3337" page-content-id="1526969" name="layout" value="mosaic"></content-attribute>
+			<content-attribute id="3337" page-content-id="1527007" name="layout"
+			                   value="golf-kachel"></content-attribute>
+			<content-attribute id="3337" page-content-id="1527009" name="layout" value="parallax"></content-attribute>
+			<content-attribute id="3337" page-content-id="1527011" name="layout" value="spalten"></content-attribute>
+			<content-attribute id="3523" page-content-id="1527011" name="display" value="max1200"></content-attribute>
+			<content-attribute id="3337" page-content-id="1527013" name="layout"
+			                   value="spalte-volle-breite"></content-attribute>
+			<content-attribute id="3523" page-content-id="1527013" name="display" value="center"></content-attribute>
+			<content-attribute id="3337" page-content-id="1527021" name="layout" value=""></content-attribute>
+			<content-attribute id="3339" page-content-id="1527021" name="hintergrund" value="hell"></content-attribute>
+			<content-attribute id="3337" page-content-id="1527023" name="layout"
+			                   value="spalte-volle-breite"></content-attribute>
+			<content-attribute id="3345" page-content-id="1527025" name="notiz" value="Angebote"></content-attribute>
+			<content-attribute id="3337" page-content-id="1527041" name="layout"
+			                   value="spalte-volle-breite"></content-attribute>
+			<content-attribute id="3337" page-content-id="1527043" name="layout" value="spalten"></content-attribute>
+			<content-attribute id="3337" page-content-id="1527053" name="layout"
+			                   value="footer-logo"></content-attribute>
+			<content-attribute id="3523" page-content-id="1527084" name="display" value="max1200"></content-attribute>
+			<content-attribute id="3337" page-content-id="1527085" name="layout"
+			                   value="three-gallery"></content-attribute>
+			<content-attribute id="3523" page-content-id="1527085" name="display" value="max1200"></content-attribute>
+			<content-attribute id="3337" page-content-id="1527091" name="layout"
+			                   value="blockquotes"></content-attribute>
+			<content-attribute id="3345" page-content-id="1527091" name="notiz" value="Zitate"></content-attribute>
+			<content-attribute id="3337" page-content-id="1532569" name="layout"
+			                   value="spalte-volle-breite"></content-attribute>
+		</content-attributes>
+		<page-attributes>
+			<page-attribute id="2072" name="header" struct="187099" value="no-header"></page-attribute>
+		</page-attributes>
+	</site:page>
+	<site:website website-id="1085" website-name="Hotel-Restaurant Adler  Webseite" domain-id="5525"
+	              domain-fqdn="3396.condeon.local.w.og.vioma.de" domain-secure="yes" domain-domshake="yes"
+	              domain-language-default="0" domain-language-only="0" domain-secure-fqdn="cms-3396-1085.viomassl.com"
+	              domain-secure-uri="https://cms-3396-1085.viomassl.com"
+	              domain-standard-fqdn="cms-3396-1085.viomassl.com"
+	              domain-standard-uri="https://cms-3396-1085.viomassl.com"></site:website>
+	<site:customer customer-id="3396"></site:customer>
+	<site:match-space>
+		<head>
+			<head-tags></head-tags>
+			<head-tags-user></head-tags-user>
+			<open-graph-tags></open-graph-tags>
+			<lib-versions></lib-versions>
+			<combined-styles></combined-styles>
+			<combined-styles-user></combined-styles-user>
+			<combined-scripts></combined-scripts>
+			<combined-scripts-user></combined-scripts-user>
+			<tracking>
+				<tao-pixel></tao-pixel>
+			</tracking>
+		</head>
+		<helper>
+			<content-attribute></content-attribute>
+		</helper>
+		<header>
+			<logo></logo>
+			<navigation></navigation>
+			<tools></tools>
+			<gallery></gallery>
+			<widgets></widgets>
+		</header>
+		<main></main>
+		<footer></footer>
+		<scripts></scripts>
+	</site:match-space>
+</site:site>
